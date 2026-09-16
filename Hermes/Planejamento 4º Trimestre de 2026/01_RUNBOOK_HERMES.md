@@ -1,169 +1,101 @@
-# Runbook do Hermes — Social Media ACIRV Q4 2026
+# Runbook do Hermes — Social Media ACIRV Q4 2026 — v2.0
 
 ## Missão
+Executar a versão ativa do planejamento entre 16/09/2026 e 31/12/2026 com rastreabilidade, idempotência e baixa possibilidade de duplicação.
 
-Executar o planejamento de 16/09/2026 a 31/12/2026 com rastreabilidade, idempotência e baixa possibilidade de duplicação. O objetivo não é inventar um novo calendário, mas transformar o plano versionado em cartões, briefings, referências visuais e evidências auditáveis.
+## Versão ativa
+Fonte canônica:
+`01-planejamento/v2/README.md`
 
-## Fontes de verdade
+Estado:
+`02-estado/execution_state_v2.json`
 
-- `calendario/*.json`: plano editorial versionado.
-- `03_EXECUTION_STATE.json`: progresso mutável.
-- `02_TRELLO_CONFIG.json`: IDs externos confirmados.
-- `04_RECONCILIACAO_TRELLO_INICIAL.md`: legado e riscos de duplicação.
-- `moodboard/`: referências visuais, quando adicionadas.
+Arquivos v1 permanecem apenas como histórico e não devem orientar criação de cartões.
 
-O `post_id` é imutável. A `dedupe_key` é a chave editorial de deduplicação.
-
-## Invariantes estratégicos
-
+## Invariantes
 1. Direção: **Conectar para Crescer**.
-2. Todo post tem um pilar principal entre Pertencimento, Resultados, Autoridade, Proximidade e Captação.
-3. Não publicar números, condições comerciais, capacidades, datas, nomes ou promessas sem validação atual.
-4. Prova social exige evidência e autorização quando aplicável.
-5. Evento só entra com data confirmada; evento confirmado gera pacote pré/durante/pós.
-6. Conteúdo de serviço deve explicar problema, utilidade ou benefício; evitar repetição de anúncio.
-7. Não preencher automaticamente dias livres: folga é capacidade para aprovação, contingência e eventos reais.
+2. Plano da Samara = **somente peças estáticas**.
+3. Reels/vídeos ficam fora do escopo e serão definidos pelo usuário em outro planejamento.
+4. Total ativo = **60 posts**.
+5. IDs 001–044 permanecem imutáveis.
+6. IDs 045–060 = **2 slides exatos, capa + CTA**, com profundidade na legenda.
+7. Toda pauta tem legenda sugerida.
+8. Não publicar números, condições comerciais, capacidades, horários, nomes ou promessas sem validação atual.
+9. Prova social exige evidência e autorização quando aplicável.
+10. Um post = um card.
+
+## Inicialização
+1. Ler `00_README.md`.
+2. Ler `01-planejamento/v2/README.md`.
+3. Ler estratégia v2.
+4. Ler os arquivos mensais v2 necessários.
+5. Ler `02-estado/execution_state_v2.json`.
+6. Ler configuração e reconciliação do Trello.
+7. Antes de escrever externamente, validar board/list pelos IDs exatos.
 
 ## Estados
-
 Fluxo principal:
-
 `BRIEFING_CRIADO -> CARTAO_CRIADO -> REFERENCIA_VISUAL_CRIADA -> REVISAO_PENDENTE -> CONCLUIDA`
 
-Estados auxiliares:
-
+Auxiliares:
 - `BLOCKED_TRELLO_ACCESS`
 - `BLOCKED_DUPLICATE_CARD`
 - `BLOCKED_MOODBOARD`
 - `BLOCKED_DATA_VALIDATION`
 - `CANCELADA`
 
-## Inicialização e retomada
+## Reconciliação antes do card
+1. Pesquisar POST ID.
+2. Pesquisar título exato.
+3. Pesquisar conceitos/serviços próximos.
+4. Consultar a reconciliação inicial.
+5. Verificar evidência de publicação quando houver card histórico semelhante.
+6. Classificar como `NO_MATCH`, `REFERENCE_ONLY`, `REUSE_CARD`, `ALREADY_PUBLISHED` ou `DUPLICATE_BLOCKED`.
+7. Só criar quando a classificação permitir.
 
-Ao iniciar ou retomar:
-
-1. Ler este runbook.
-2. Ler `02_TRELLO_CONFIG.json`.
-3. Ler todos os arquivos mensais em `calendario/`.
-4. Ler `03_EXECUTION_STATE.json`.
-5. Reconciliar todos os `post_id`; nunca inferir progresso apenas pelo calendário.
-6. Antes de qualquer escrita externa, validar o destino pelos IDs exatos.
-
-Atualizar `03_EXECUTION_STATE.json` imediatamente após cada mutação externa bem-sucedida. Não esperar o fim de um lote.
-
-## Reconciliação antes de criar card
-
-Para cada `post_id`:
-
-1. Pesquisar no Trello pelo `POST ID`.
-2. Pesquisar pelo título e por conceitos/serviços próximos.
-3. Consultar `04_RECONCILIACAO_TRELLO_INICIAL.md`.
-4. Verificar evidência de publicação quando houver card histórico semelhante. Card aberto não prova que o post está pendente.
-5. Classificar o candidato:
-   - `NO_MATCH`
-   - `REFERENCE_ONLY`
-   - `REUSE_CARD`
-   - `ALREADY_PUBLISHED`
-   - `DUPLICATE_BLOCKED`
-6. Só criar novo cartão quando a classificação permitir.
-
-Se houver dois candidatos plausíveis e não for possível decidir com segurança, bloquear e registrar os IDs; não criar um terceiro.
+Se houver candidatos ambíguos, bloquear; não criar um terceiro card.
 
 ## Criação do cartão
-
-Destino obrigatório:
-
+Destino:
 - Board `622e83218d717e4a16d7856c` — Calendário Editorial.
 - List `69370019555b10bb6ad19e30` — ORDEM DE SERVIÇO - SAMARA.
 
 Título:
-
 `ACIRV — [title] — [DD/MM/AAAA]`
 
-Data de vencimento = `delivery_date` do planejamento, pois o vencimento representa entrega para produção/aprovação.
+Vencimento = `delivery_date`.
 
-Descrição mínima determinística:
+Descrição mínima:
+- POST ID;
+- publicação/entrega/prioridade;
+- objetivo;
+- formato + número de slides;
+- estrutura/conteúdo;
+- CTA;
+- métrica;
+- pilar/campanha/serviço;
+- direção visual;
+- legenda sugerida completa;
+- observações e validações.
 
-```text
-POST ID: [post_id]
-Publicação: [publish_date] | Entrega: [delivery_date] | Prioridade: [priority]
-Objetivo: [rationale]
-Público: empresários, associados e potenciais associados da ACIRV; segmentar quando necessário.
-Formato: [format]
-Mensagem/conteúdo: transformar o racional e a pauta em texto de arte suficiente para a designer produzir sem adivinhar; usar os documentos-base quando o post exigir informação específica.
-CTA: [cta]
-Métrica principal: [metric]
-Pilar: [pillar_primary] | Secundários: [pillars_secondary]
-Serviço/benefício: [service]
-Direção visual: [visual_direction]
-Observação: não inventar informação volátil; validar antes da arte.
-```
+Para IDs 045–060, a instrução de 2 slides é obrigatória.
 
-Um cartão = uma publicação. Nunca agrupar dois `post_id` em um mesmo card.
+## Moodboard
+Enquanto o moodboard não estiver `READY`, não marcar referência visual como criada.
+Quando estiver pronto, versionar e gerar somente referências conceituais para peças estáticas.
 
-Depois de criar ou reutilizar um card, gravar imediatamente `trello_card_id`, `trello_card_url`, classificação da reconciliação e novo status no estado.
+## Persistência
+Depois de cada mutação externa bem-sucedida, salvar imediatamente no estado v2: card ID, URL, reconciliação, referência visual e status.
 
-## Moodboard e referências visuais
-
-Enquanto `moodboard.status != READY`, não marcar qualquer post como `REFERENCIA_VISUAL_CRIADA`.
-
-Quando o usuário adicionar referências em `moodboard/`:
-
-1. Registrar versão, ex. `ACIRV-MOOD-v1`.
-2. Inventariar arquivos.
-3. Extrair paleta, hierarquia, tipografia aparente, tratamento fotográfico, composição, densidade de texto e elementos recorrentes.
-4. Tratar o moodboard como direção, não template rígido.
-
-Para cada post com card reconciliado:
-
-1. Abrir uma nova conversa no ChatGPT.
-2. Anexar moodboard/referências aprovadas.
-3. Enviar briefing + direção visual.
-4. Pedir uma referência conceitual, não necessariamente arte final.
-5. Salvar link/arquivo/evidência da referência.
-6. Vincular inequivocamente ao card e atualizar o estado.
-
-Prompt-base:
-
-> Crie uma referência visual conceitual para uma publicação da ACIRV. Use as referências anexadas como direção de identidade, sem copiá-las literalmente. O objetivo é orientar a designer, não substituir a arte final. Respeite hierarquia, linguagem, cores e estilo fotográfico do moodboard, adaptando a composição ao conteúdo. Evite excesso de texto e não invente informações. Briefing: [briefing].
-
-## Eventos e replanejamento
-
-Se surgir evento/campanha nova:
-
-1. Confirmar data, responsável e aprovador.
-2. Criar pacote pré/durante/pós.
-3. Abrir espaço deslocando primeiro P3/P2.
-4. Nunca apagar ou deslocar P1 silenciosamente.
-5. Registrar motivo, item afetado e nova data no Git e no estado.
-
-## Auditoria por lote
-
+## Auditoria
 Checar:
-
-- `post_id` e `dedupe_key` únicos;
-- 1 publicação = 1 card;
+- 60 IDs e dedupe keys únicos;
+- 0 Reels no escopo;
+- 16 extras de 2 slides;
+- 60 legendas;
+- 1 post = 1 card;
 - board/list corretos;
 - vencimento = entrega;
-- briefing presente;
 - dados voláteis validados;
-- referência visual única quando aplicável;
-- moodboard versionado;
-- nenhum candidato duplicado ignorado;
-- serviços presentes com recorrência adequada;
-- campanhas anuais contempladas ou justificadas.
-
-## Conclusão
-
-Gerar um relatório final contendo:
-
-- total por mês, pilar, formato, campanha e serviço;
-- `post_id -> Trello URL -> referência visual`;
-- posts sem card, briefing ou referência;
-- duplicações e bloqueios;
-- mudanças de data/conteúdo;
-- itens cancelados e justificativas;
-- lacunas de calendário;
-- inconsistências corrigidas.
-
-Só marcar o projeto como concluído quando todos os `post_id` ativos estiverem reconciliados ou explicitamente bloqueados/cancelados com motivo.
+- moodboard e referência quando aplicáveis;
+- nenhum duplicado ignorado.
