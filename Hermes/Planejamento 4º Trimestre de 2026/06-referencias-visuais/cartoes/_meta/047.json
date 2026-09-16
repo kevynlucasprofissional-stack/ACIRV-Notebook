@@ -1,0 +1,25 @@
+{
+  "post_id": "ACIRV-SM-2026-047",
+  "publication_date": "2026-10-02",
+  "delivery_date": "2026-09-30",
+  "prioridade": "",
+  "pilar_estrategico": "",
+  "campanha_frente": "SERVICOS-SEMPRE-PRESENTES",
+  "servico_beneficio": "",
+  "metrica_principal": "",
+  "reconciliacao_trello": "NO_MATCH",
+  "referencias_historicas": [],
+  "observacoes_internas": [
+    "Sem cartão equivalente no quadro. O único candidato encontrado ('Apresentação Canais - Néctar') é de OUTRO cliente e não serve de referência."
+  ],
+  "dados_a_validar": [
+    "Lista de canais oficiais de atendimento e eventuais horários exigem validação atual."
+  ],
+  "dedupe_key": "ACIRV-SM-2026-047|2026-10-02|voce-conhece-todos-os-canais-para-falar-com-a-acirv",
+  "fontes_internas": "2026-10-1.md",
+  "formato": "Carrossel 2 slides",
+  "slides": 2,
+  "requer_2_slides": true,
+  "extra_leve": "sim",
+  "legend_len": 387
+}
