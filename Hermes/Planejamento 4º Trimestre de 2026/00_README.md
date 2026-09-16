@@ -2,40 +2,49 @@
 
 Período operacional: **16/09/2026 a 31/12/2026**.
 
-## Objetivo
+## VERSÃO ATIVA
 
-Executar e auditar o planejamento estratégico de Social Media da ACIRV como desdobramento do planejamento anual **Conectar para Crescer**, com correspondência 1:1 entre publicação planejada, briefing, cartão no Trello e referência visual.
+A versão executável atual é **v2.0**:
 
-## Estado inicial
+`01-planejamento/v2/README.md`
 
-- 44 publicações planejadas.
-- Briefings estruturados para as 44 publicações.
-- Trello de destino confirmado.
-- Moodboard ainda pendente da seleção das referências visuais.
-- Cartões e referências visuais ainda precisam ser criados/reconciliados pelo Hermes.
+Ela contém **60 publicações estáticas para a designer Samara**, **0 Reels no escopo**, 16 novas peças de exatamente 2 slides e legenda sugerida para todas as pautas.
 
-## Fonte de verdade
+**Não executar a v1.** Os antigos arquivos em `calendario/*.json`, `01-planejamento/calendario/` e `03_EXECUTION_STATE.json` permanecem apenas como histórico/compatibilidade.
 
-- **Plano:** arquivos em `calendario/`. Estes arquivos são versionados no Git e só mudam quando há uma decisão editorial deliberada.
-- **Execução:** `03_EXECUTION_STATE.json`. Este arquivo registra progresso, IDs externos, bloqueios e retomada.
-- **Decisões:** `05_DECISOES_ESTRATEGICAS.md` preserva os critérios e o porquê das escolhas.
-- O Hermes não deve confundir mudança de status com mudança de planejamento.
+## Fontes de verdade da v2
+
+- **Plano:** `01-planejamento/v2/README.md` + arquivos mensais v2.
+- **Estratégia:** `01-planejamento/v2/PLANEJAMENTO_ESTRATEGICO.md`.
+- **Execução:** `02-estado/execution_state_v2.json`.
+- **Trello:** `02_TRELLO_CONFIG.json` e `03-integracoes/trello_destination.json`.
+- **Reconciliação:** `04_RECONCILIACAO_TRELLO_INICIAL.md`.
+- **Moodboard:** `moodboard/` / `04-moodboard/`.
 
 ## Ordem de leitura do Hermes
 
 1. `00_README.md`
-2. `01_RUNBOOK_HERMES.md`
-3. `02_TRELLO_CONFIG.json`
-4. `04_RECONCILIACAO_TRELLO_INICIAL.md`
-5. `05_DECISOES_ESTRATEGICAS.md`
-6. arquivos de `calendario/`
-7. `03_EXECUTION_STATE.json`
-8. `moodboard/README.md`
+2. `01-planejamento/v2/README.md`
+3. `01-planejamento/v2/PLANEJAMENTO_ESTRATEGICO.md`
+4. arquivos mensais v2 aplicáveis
+5. `02-estado/execution_state_v2.json`
+6. `02_TRELLO_CONFIG.json`
+7. `04_RECONCILIACAO_TRELLO_INICIAL.md`
+8. moodboard, quando estiver pronto
+
+## Invariantes da v2
+
+- Samara recebe somente peças estáticas.
+- Reels/vídeos serão planejados separadamente pelo usuário.
+- IDs 001–044 são preservados.
+- IDs 045–060 têm exatamente 2 slides: capa + CTA; aprofundamento na legenda.
+- Toda publicação tem legenda sugerida.
+- Um post ativo = um card no Trello.
+- O Hermes deve reconciliar antes de criar e atualizar estado após cada mutação externa.
 
 ## Documentos-base do ACIRV Notebook
 
 Consultar quando houver dúvida:
-
 - `01-Estrategia-e-Marca/Estrategia-ACIRV-2026.md`
 - `01-Estrategia-e-Marca/Pilares-Estrategicos-de-Comunicacao.md`
 - `01-Estrategia-e-Marca/Metas-de-Marketing-2026.md`
@@ -50,7 +59,3 @@ Consultar quando houver dúvida:
 - `05-Metricas-e-Decisao/Diagnostico-de-84-Posts.md`
 - `06-Pessoas-e-Stakeholders/Vivianne-VCOM.md`
 - `08-Agenda-e-Execucao/Agenda-de-90-Dias.md`
-
-## Regra de conclusão
-
-O trimestre só é considerado concluído quando todos os `post_id` ativos estiverem reconciliados, sem duplicações, com cartão correspondente, briefing, referência visual, datas e evidências auditáveis — ou com bloqueio/cancelamento explicitamente documentado.
