@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.inFolder("07-Reunioes-e-Decisoes")
+    - tipo == "reuniao"
+views:
+  - type: table
+    name: Reuniões
+    order:
+      - data_reuniao
+      - file.name
+      - status

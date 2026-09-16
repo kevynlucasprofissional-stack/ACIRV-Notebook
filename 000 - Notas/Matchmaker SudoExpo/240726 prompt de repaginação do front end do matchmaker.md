@@ -1,0 +1,1 @@
+Consegue repaginar o front end do site? Eu gostaria de algo mais parecido com o design que estamos utilizando atualmente nos cards das redes sociais da ACIRV.

@@ -1,0 +1,42 @@
+---
+Modificado:
+  - segunda-feira 103 13/04/2026
+Criado: segunda-feira 103 13/04/2026
+---
+Para virar **relatório de alto nível**, você precisa trocar o eixo do documento: sair de um relatório que **descreve tudo o que aconteceu** e transformá-lo em um relatório que **ajuda a diretoria a decidir o que fazer a seguir**. Em relatórios executivos, o padrão mais forte é: definir claramente o público, ligar os KPIs ao objetivo do negócio, mostrar só os indicadores que respondem à tese central e fechar com implicações práticas e próximos passos. ([Sprout Social](https://sproutsocial.com/insights/social-media-dashboard/ "6 Essential Social Media Dashboard Templates | Sprout Social"))
+
+No seu caso, a boa notícia é que a matéria-prima já existe. O relatório já encontrou achados realmente fortes: que **volume não é igual a rendimento**, que o **pago amplia entrega mais do que aprofunda resposta**, e que o **engajamento está concentrado em poucos posts vencedores**. Isso é excelente material executivo. O problema é que esses achados aparecem diluídos ao longo de muitas páginas, com repetição de “leitura estratégica” e com detalhes operacionais que disputam espaço com a mensagem principal.
+
+A transformação prática é esta: **reduza o documento principal para 8–10 páginas** e jogue o restante para apêndice. O miolo executivo precisa mostrar apenas quatro coisas: **resultado**, **causa**, **risco** e **decisão recomendada**. O detalhamento operacional — como listagem extensa de assessoria, volume bruto por formato, ou inventário completo de ações — continua existindo, mas fora do fluxo principal, como anexo para consulta. Esse desenho é consistente com boas práticas de dashboards e status reports: apresentar uma visão de saúde, destacar avanços, gargalos e próximos passos, sem sobrecarregar a liderança com informação que não muda decisão. ([Asana](https://asana.com/templates/status-report "Free Status Report Template [2026] • Asana"))
+
+A nova arquitetura pode ficar assim.  
+**Página 1: Resumo executivo.**  
+Três blocos: “o que aconteceu”, “por que importa”, “o que decidimos”. A executive summary existe para que alguém leia só essa página e ainda assim consiga agir. Ela deve começar pelo problema ou situação, explicar o valor do que foi encontrado e fechar com próximos passos. ([Asana](https://asana.com/resources/executive-summary-examples "Executive Summary Examples: How to Write + Template [2026] • Asana"))
+
+**Página 2: Scorecard executivo.**  
+Aqui entram só 5 a 7 KPIs, com meta, resultado, variação e status: alcance qualificado, interações qualificadas, crescimento líquido, eficiência de mídia, conversão para ativo mais importante do mês, e talvez um KPI institucional. KPI bom é KPI ligado a objetivo claro; o resto é métrica de apoio. Microsoft e Sprout batem exatamente nessa tecla: alinhar KPI a objetivo, definir meta e evitar overload de indicadores que não apontam para a tese central. ([Microsoft Learn](https://learn.microsoft.com/en-us/dynamics365/business-central/analytics-about-kpis "Using key performance indicators (KPIs) to meet your business goals - Business Central | Microsoft Learn"))
+
+**Página 3: O que moveu o resultado.**  
+Aqui você sobe a tese principal do mês em uma frase grande. No seu relatório, a tese já aparece: março foi forte em escala, mas não em qualidade proporcional. Isso tem cara de página executiva. Mostre 1 gráfico e 3 leituras no máximo. O board não precisa ver cinco gráficos para entender a mesma ideia. Ele precisa ver uma causalidade clara.
+
+**Página 4: Conteúdo que gerou resultado de verdade.**  
+Essa é uma das partes mais valiosas do seu material. Você já mostrou que poucos posts concentram a maior parte do engajamento e que carrosséis lideram a elite de performance. Em alto nível, isso vira decisão: “parar de otimizar a média da operação e começar a replicar padrões vencedores”. Isso conversa com benchmarks recentes, que mostram carrosséis mais resilientes em engajamento e reels importantes para distribuição, mas não como garantia automática de ganho incremental. ([Socialinsider](https://www.socialinsider.io/social-media-benchmarks/instagram "2026 Instagram Organic Engagement Benchmarks"))
+
+**Página 5: Mídia paga como alavanca, não como explicação do mês.**  
+A sua leitura aqui já está madura: janeiro foi mais eficiente, fevereiro mais equilibrado, março mais forte em exposição do que em profundidade. O que falta é formato executivo. Em vez de várias páginas explicando nuances, mostre uma tabela curta: investimento, cliques, CTR, CPC, visualizações totais, interações totais, crescimento líquido, e uma última coluna chamada “leitura”. O topo da página deve responder: “o pago está acelerando o quê?” e “onde ele para de compensar?”. KPI reports fortes servem para revelar tendência, gargalo e implicação estratégica, não só para exibir desempenho da ferramenta. ([Microsoft Learn](https://learn.microsoft.com/en-us/dynamics365/business-central/analytics-about-kpis "Using key performance indicators (KPIs) to meet your business goals - Business Central | Microsoft Learn"))
+
+**Página 6: Conversão do topo de funil em resposta.**  
+Esse talvez seja o salto mais importante para “alto nível”. Hoje o relatório mostra muito bem alcance, não seguidores e interação, mas ainda fala pouco a linguagem de negócio acima de social. O próximo passo é amarrar a leitura a uma cadeia mais executiva: visibilidade → resposta → tráfego → lead → associado/evento/site/ação institucional. Sprout recomenda explicitamente que, para ganhar buy-in, os KPIs precisam mostrar impacto tangível e conexão com funil e ROI, não apenas atividade de canal. ([Sprout Social](https://sproutsocial.com/insights/social-media-kpis/ "Social Media KPIs That Drive Business Growth | Sprout Social"))
+
+**Página 7: Riscos e atenção.**  
+Relatório de alto nível não é só comemoração; ele mostra onde o sistema pode quebrar. No seu caso, eu colocaria três alertas: dependência crescente de mídia para escalar entrega, queda de eficiência por peça com aumento de volume, e conversão fraca de audiência nova em resposta. Isso deixa a diretoria menos presa à empolgação do número bruto e mais orientada para maturidade de operação. Status reports executivos fortes destacam saúde, bloqueios e próximos movimentos. ([Asana](https://asana.com/templates/status-report "Free Status Report Template [2026] • Asana"))
+
+**Página 8: Próximas decisões de abril.**  
+Feche com 3 decisões, e não com mais um bloco analítico. Algo como: “reduzir dependência de volume”, “replicar padrões dos 24 posts que concentram resultado”, “reposicionar stories como relacionamento e feed/carrossel/reels como motores distintos”. Isso fica ainda mais coerente com benchmarks recentes: feed e carrossel operando melhor como alcance/ação em vários cenários, stories mais úteis para retenção e vínculo, e sequências muito longas de stories perdendo eficiência após certo ponto. ([Socialinsider](https://www.socialinsider.io/social-media-benchmarks/instagram-stories-benchmarks "2025 Instagram Stories Benchmarks"))
+
+A regra de ouro por página é simples: **um gráfico, uma headline, uma leitura, uma decisão**. Se a página não muda uma decisão, ela vai para apêndice. Tableau recomenda exatamente isso na prática: começar por propósito e audiência, porque dashboard bom não é o que mostra mais coisa; é o que ajuda a organização a alinhar esforço e acelerar decisão. ([Ajuda Tableau](https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm "Best Practices for Effective Dashboards - Tableau"))
+
+Uma abertura executiva para o seu relatório poderia soar assim:  
+**“Março foi o mês mais forte em escala, mas não em qualidade proporcional. A ACIRV ampliou visualizações, interações e crescimento líquido, porém com dependência maior de mídia paga e queda de eficiência por peça. O diagnóstico do trimestre é claro: o sistema cresce quando conteúdo forte e distribuição andam juntos, mas ainda converte pouco da audiência nova em resposta. Para abril, a prioridade é concentrar esforço nos padrões vencedores, reduzir volume de baixa eficiência e usar mídia como acelerador do que já prova tração.”**
+
+Se você quiser, no próximo passo eu posso **reorganizar o seu relatório de março nessa nova estrutura executiva**, já em texto pronto página por página.

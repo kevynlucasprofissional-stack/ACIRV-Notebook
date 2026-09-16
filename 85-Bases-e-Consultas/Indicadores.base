@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.inFolder("05-Metricas-e-Decisao")
+views:
+  - type: table
+    name: Indicadores e análises
+    order:
+      - file.name
+      - tipo
+      - status
+      - grau_confianca
+      - ultima_revisao
