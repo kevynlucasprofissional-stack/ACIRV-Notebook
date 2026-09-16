@@ -1,12 +1,12 @@
-# Decisões estratégicas — Social Media ACIRV Q4 2026 — v2.0
+# Decisões estratégicas — Social Media ACIRV Q4 2026
 
 ## Norte
 Este calendário executa **Conectar para Crescer**. Cada publicação deve cumprir uma função clara entre Pertencimento, Resultados, Autoridade, Proximidade e Captação.
 
-## Decisão de escopo — designer
+## Escopo — designer
 A Samara é responsável por design estático, não por produção de Reels. Por isso:
-- a v2 possui **0 Reels no escopo**;
-- ideias de Reel da v1 foram convertidas em post de 1 slide ou carrossel;
+- o planejamento possui **0 Reels no escopo**;
+- ideias inicialmente pensadas para vídeo foram convertidas em post de 1 slide ou carrossel;
 - Reels/vídeos serão definidos separadamente pelo usuário.
 
 ## Volume e capacidade
@@ -42,5 +42,5 @@ Card histórico aberto não prova que o conteúdo ainda está pendente. Hermes d
 ## Dados voláteis
 Condições comerciais, preços/descontos, capacidade dos espaços, escopo/gratuidade de consultorias, produtos de Certificado Digital, horários, números institucionais e resultados exigem validação atual antes de virar arte ou legenda final.
 
-## Fonte ativa
-A única versão executável é `01-planejamento/v2/README.md`. Arquivos v1 são históricos.
+## Fonte operacional
+O planejamento executável está em `01-planejamento/v2/README.md`, com estado em `02-estado/execution_state_v2.json`.
