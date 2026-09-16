@@ -21,7 +21,8 @@ Escopo:
 - **Plano editorial:** `01-planejamento/v2/README.md` e arquivos mensais da mesma pasta.
 - **Estratégia:** `01-planejamento/v2/PLANEJAMENTO_ESTRATEGICO.md` e `05_DECISOES_ESTRATEGICAS.md`.
 - **Execução:** `02-estado/execution_state_v2.json`.
-- **Trello:** `03-integracoes/trello_destination.json`.
+- **Destino Trello:** `03-integracoes/trello_destination.json`.
+- **Padrão das descrições Trello:** `03-integracoes/PADRAO_DESCRICAO_CARTOES_TRELLO.md`.
 - **Reconciliação:** `03-integracoes/RECONCILIACAO_TRELLO_INICIAL.md`.
 - **Moodboard:** `04-moodboard/MOODBOARD.md` — versão ativa `ACIRV-MOOD-v1`, status `READY`.
 - **Auditoria:** `05-auditoria/`.
@@ -37,14 +38,16 @@ Escopo:
 7. `05_DECISOES_ESTRATEGICAS.md`
 8. `02-estado/execution_state_v2.json`
 9. `03-integracoes/trello_destination.json`
-10. `03-integracoes/RECONCILIACAO_TRELLO_INICIAL.md`
-11. `04-moodboard/MOODBOARD.md`.
+10. `03-integracoes/PADRAO_DESCRICAO_CARTOES_TRELLO.md`
+11. `03-integracoes/RECONCILIACAO_TRELLO_INICIAL.md`
+12. `04-moodboard/MOODBOARD.md`.
 
 ## Invariantes
 
 - Samara recebe somente peças estáticas.
 - Reels serão planejados separadamente pelo usuário.
 - Todo post ativo deve ter um único card reconciliado no Trello.
+- A descrição do cartão deve ser enxuta e orientada à produção; metadados internos do Hermes ficam no estado/Git.
 - O Hermes deve salvar o estado imediatamente após cada mutação externa.
 - Dados, cases, depoimentos, horários, capacidades, preços e resultados voláteis precisam de validação antes da publicação.
 - Toda referência visual deve usar `ACIRV-MOOD-v1` e respeitar a regra: **peças maiores do moodboard têm peso maior como referência**.
