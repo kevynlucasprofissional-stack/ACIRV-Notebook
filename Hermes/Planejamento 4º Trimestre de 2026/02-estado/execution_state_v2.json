@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "version": "2026-Q4-social-v2.0.0",
+  "active_plan": "../01-planejamento/v2/README.md",
+  "status": "READY_FOR_EXECUTION_WITH_BLOCKERS",
+  "counters": {
+    "planned_total": 60,
+    "briefings_total": 60,
+    "original_posts": 44,
+    "extra_two_slide_posts": 16,
+    "reels_in_scope": 0,
+    "trello_created": 0,
+    "visual_references_created": 0,
+    "completed": 0
+  },
+  "designer_scope": {
+    "designer": "Samara",
+    "static_only": true,
+    "reels_excluded": true,
+    "extra_posts_rule": "ACIRV-SM-2026-045 a 060 têm exatamente 2 slides: capa + CTA; aprofundamento na legenda."
+  },
+  "moodboard": {
+    "status": "PENDENTE",
+    "version": null
+  },
+  "trello": {
+    "board_name": "Calendário Editorial",
+    "board_id": "622e83218d717e4a16d7856c",
+    "list_name": "ORDEM DE SERVIÇO - SAMARA",
+    "list_id": "69370019555b10bb6ad19e30",
+    "preflight_required": true
+  },
+  "default_post_status": "BRIEFING_CRIADO",
+  "resume_rule": "Ao iniciar a execução, materializar o estado individual de cada post a partir da v2 e persistir imediatamente cada mutação externa. Nunca usar a v1 para inferir o plano atual.",
+  "updated_at": "2026-09-16T13:56:00-03:00"
+}
