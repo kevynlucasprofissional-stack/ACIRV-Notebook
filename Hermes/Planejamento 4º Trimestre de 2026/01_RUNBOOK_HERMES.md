@@ -16,6 +16,9 @@ Integração Trello:
 Reconciliação:
 `03-integracoes/RECONCILIACAO_TRELLO_INICIAL.md`
 
+Moodboard:
+`04-moodboard/MOODBOARD.md` — `ACIRV-MOOD-v1`, status `READY`.
+
 ## Invariantes
 1. Direção: **Conectar para Crescer**.
 2. Plano da Samara = **somente peças estáticas**.
@@ -27,6 +30,7 @@ Reconciliação:
 8. Não publicar números, condições comerciais, capacidades, horários, nomes ou promessas sem validação atual.
 9. Prova social exige evidência e autorização quando aplicável.
 10. Um post = um card.
+11. Toda referência visual usa `ACIRV-MOOD-v1` e dá mais peso às peças maiores do moodboard.
 
 ## Inicialização
 1. Ler `00_README.md`.
@@ -36,7 +40,8 @@ Reconciliação:
 5. Ler `05_DECISOES_ESTRATEGICAS.md`.
 6. Ler `02-estado/execution_state_v2.json`.
 7. Ler destino e reconciliação do Trello.
-8. Antes de escrever externamente, validar board/list pelos IDs exatos.
+8. Ler `04-moodboard/MOODBOARD.md`.
+9. Antes de escrever externamente, validar board/list pelos IDs exatos.
 
 ## Estados
 Fluxo principal:
@@ -45,7 +50,6 @@ Fluxo principal:
 Auxiliares:
 - `BLOCKED_TRELLO_ACCESS`
 - `BLOCKED_DUPLICATE_CARD`
-- `BLOCKED_MOODBOARD`
 - `BLOCKED_DATA_VALIDATION`
 - `CANCELADA`
 
@@ -86,8 +90,15 @@ Descrição mínima:
 Para IDs 045–060, a instrução de 2 slides é obrigatória.
 
 ## Moodboard
-Enquanto o moodboard não estiver `READY`, não marcar referência visual como criada.
-Quando estiver pronto, versionar e gerar somente referências conceituais para peças estáticas.
+O moodboard está `READY`.
+
+Antes de gerar referência visual:
+1. ler `04-moodboard/MOODBOARD.md`;
+2. aplicar a ponderação `PESO 4 / PESO 2 / PESO 1` definida no documento;
+3. preservar principalmente os padrões das referências âncora;
+4. não copiar literalmente uma peça existente;
+5. gerar somente referência conceitual para orientar a designer;
+6. registrar a referência no estado do `post_id` e no card correspondente.
 
 ## Persistência
 Depois de cada mutação externa bem-sucedida, salvar imediatamente no estado: card ID, URL, reconciliação, referência visual e status.
@@ -102,5 +113,5 @@ Checar:
 - board/list corretos;
 - vencimento = entrega;
 - dados voláteis validados;
-- moodboard e referência quando aplicáveis;
+- referências visuais coerentes com `ACIRV-MOOD-v1`;
 - nenhum duplicado ignorado.
