@@ -1,21 +1,25 @@
-# Runbook do Hermes — Social Media ACIRV Q4 2026 — v2.0
+# Runbook do Hermes — Social Media ACIRV Q4 2026
 
 ## Missão
-Executar a versão ativa do planejamento entre 16/09/2026 e 31/12/2026 com rastreabilidade, idempotência e baixa possibilidade de duplicação.
+Executar o planejamento vigente entre 16/09/2026 e 31/12/2026 com rastreabilidade, idempotência e baixa possibilidade de duplicação.
 
-## Versão ativa
-Fonte canônica:
+## Fontes operacionais
+Plano editorial:
 `01-planejamento/v2/README.md`
 
 Estado:
 `02-estado/execution_state_v2.json`
 
-Arquivos v1 permanecem apenas como histórico e não devem orientar criação de cartões.
+Integração Trello:
+`03-integracoes/trello_destination.json`
+
+Reconciliação:
+`03-integracoes/RECONCILIACAO_TRELLO_INICIAL.md`
 
 ## Invariantes
 1. Direção: **Conectar para Crescer**.
 2. Plano da Samara = **somente peças estáticas**.
-3. Reels/vídeos ficam fora do escopo e serão definidos pelo usuário em outro planejamento.
+3. Reels/vídeos ficam fora do escopo e serão definidos pelo usuário separadamente.
 4. Total ativo = **60 posts**.
 5. IDs 001–044 permanecem imutáveis.
 6. IDs 045–060 = **2 slides exatos, capa + CTA**, com profundidade na legenda.
@@ -26,12 +30,13 @@ Arquivos v1 permanecem apenas como histórico e não devem orientar criação de
 
 ## Inicialização
 1. Ler `00_README.md`.
-2. Ler `01-planejamento/v2/README.md`.
-3. Ler estratégia v2.
-4. Ler os arquivos mensais v2 necessários.
-5. Ler `02-estado/execution_state_v2.json`.
-6. Ler configuração e reconciliação do Trello.
-7. Antes de escrever externamente, validar board/list pelos IDs exatos.
+2. Ler `00_EXECUTAR_COM_HERMES.md`.
+3. Ler `01-planejamento/v2/README.md`.
+4. Ler a estratégia e os arquivos mensais aplicáveis.
+5. Ler `05_DECISOES_ESTRATEGICAS.md`.
+6. Ler `02-estado/execution_state_v2.json`.
+7. Ler destino e reconciliação do Trello.
+8. Antes de escrever externamente, validar board/list pelos IDs exatos.
 
 ## Estados
 Fluxo principal:
@@ -85,7 +90,7 @@ Enquanto o moodboard não estiver `READY`, não marcar referência visual como c
 Quando estiver pronto, versionar e gerar somente referências conceituais para peças estáticas.
 
 ## Persistência
-Depois de cada mutação externa bem-sucedida, salvar imediatamente no estado v2: card ID, URL, reconciliação, referência visual e status.
+Depois de cada mutação externa bem-sucedida, salvar imediatamente no estado: card ID, URL, reconciliação, referência visual e status.
 
 ## Auditoria
 Checar:
