@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "board": {
     "id": "622e83218d717e4a16d7856c",
     "nodeId": "ari:cloud:trello::board/workspace/6154b28bee5a80330e1c3122/622e83218d717e4a16d7856c",
@@ -13,6 +13,29 @@
   "source_export": "Edq32SNp - calendario-editorial(1).json",
   "verified_from_export": true,
   "preflight_required": true,
+  "custom_fields_observed": {
+    "publication_date": {
+      "id": "622e83228d717e4a16d7896d",
+      "name": "Data de publicação",
+      "type": "date"
+    },
+    "approval": {
+      "id": "622e83228d717e4a16d7896f",
+      "name": "Aprovação",
+      "type": "list",
+      "options": ["Não aprovado", "Aguardando", "Aprovado"]
+    },
+    "value": {
+      "id": "622e83228d717e4a16d78977",
+      "name": "Valor:",
+      "type": "number"
+    }
+  },
+  "date_semantics": {
+    "publication_date": "O campo personalizado 'Data de publicação' representa a data editorial de publicação.",
+    "delivery_date": "A data de entrega para Samara é informação do briefing e, quando possível, deve ser o vencimento nativo do cartão.",
+    "warning": "Não confundir o campo personalizado 'Data de publicação' com o vencimento nativo. Se o vencimento não puder ser gravado com segurança, registrar bloqueio em vez de alterar um campo personalizado por engano."
+  },
   "naming_correction": {
     "ACIRV + VCOM: SCRUM": "same board as ACIRV + AVECON",
     "note": "Not the target board for editorial cards."
