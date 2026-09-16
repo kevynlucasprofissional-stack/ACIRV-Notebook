@@ -18,6 +18,7 @@ Executar e auditar o planejamento estratégico de Social Media da ACIRV como des
 
 - **Plano:** arquivos em `calendario/`. Estes arquivos são versionados no Git e só mudam quando há uma decisão editorial deliberada.
 - **Execução:** `03_EXECUTION_STATE.json`. Este arquivo registra progresso, IDs externos, bloqueios e retomada.
+- **Decisões:** `05_DECISOES_ESTRATEGICAS.md` preserva os critérios e o porquê das escolhas.
 - O Hermes não deve confundir mudança de status com mudança de planejamento.
 
 ## Ordem de leitura do Hermes
@@ -26,9 +27,10 @@ Executar e auditar o planejamento estratégico de Social Media da ACIRV como des
 2. `01_RUNBOOK_HERMES.md`
 3. `02_TRELLO_CONFIG.json`
 4. `04_RECONCILIACAO_TRELLO_INICIAL.md`
-5. arquivos de `calendario/`
-6. `03_EXECUTION_STATE.json`
-7. `moodboard/README.md`
+5. `05_DECISOES_ESTRATEGICAS.md`
+6. arquivos de `calendario/`
+7. `03_EXECUTION_STATE.json`
+8. `moodboard/README.md`
 
 ## Documentos-base do ACIRV Notebook
 
