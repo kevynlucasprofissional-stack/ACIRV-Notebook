@@ -23,7 +23,7 @@ Escopo:
 - **Execução:** `02-estado/execution_state_v2.json`.
 - **Trello:** `03-integracoes/trello_destination.json`.
 - **Reconciliação:** `03-integracoes/RECONCILIACAO_TRELLO_INICIAL.md`.
-- **Moodboard:** `04-moodboard/`.
+- **Moodboard:** `04-moodboard/MOODBOARD.md` — versão ativa `ACIRV-MOOD-v1`, status `READY`.
 - **Auditoria:** `05-auditoria/`.
 
 ## Ordem de leitura do Hermes
@@ -38,7 +38,7 @@ Escopo:
 8. `02-estado/execution_state_v2.json`
 9. `03-integracoes/trello_destination.json`
 10. `03-integracoes/RECONCILIACAO_TRELLO_INICIAL.md`
-11. `04-moodboard/`, quando as referências forem adicionadas.
+11. `04-moodboard/MOODBOARD.md`.
 
 ## Invariantes
 
@@ -47,3 +47,4 @@ Escopo:
 - Todo post ativo deve ter um único card reconciliado no Trello.
 - O Hermes deve salvar o estado imediatamente após cada mutação externa.
 - Dados, cases, depoimentos, horários, capacidades, preços e resultados voláteis precisam de validação antes da publicação.
+- Toda referência visual deve usar `ACIRV-MOOD-v1` e respeitar a regra: **peças maiores do moodboard têm peso maior como referência**.
