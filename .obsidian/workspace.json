@@ -1,0 +1,460 @@
+{
+  "main": {
+    "id": "36a99ad726ea8999",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f3f40cea9ec0185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a220ce26c74a608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/Planejamento de conteúdo da ACIRV - Agosto de 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento de conteúdo da ACIRV - Agosto de 2026"
+            }
+          },
+          {
+            "id": "d8ef10608ba4dc76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/Como criar o relatório diário.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Como criar o relatório diário"
+            }
+          },
+          {
+            "id": "22106795b1118b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/200826.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "200826"
+            }
+          },
+          {
+            "id": "e012d6e7bffb1ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/Contas e Senhas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contas e Senhas"
+            }
+          },
+          {
+            "id": "2de062be8f4abdfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/Como funciona o MatchMaker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Como funciona o MatchMaker"
+            }
+          },
+          {
+            "id": "b0e4c04dc3bba1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/Nova paleta de cores da ACIRV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nova paleta de cores da ACIRV"
+            }
+          },
+          {
+            "id": "fb6b982a4c12f031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/Ideias para dar uso a motinha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideias para dar uso a motinha"
+            }
+          },
+          {
+            "id": "f3c3e9c729bfd1a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Agenda-e-Execucao/Separação de matchs por evento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Separação de matchs por evento"
+            }
+          },
+          {
+            "id": "c98b3ffa798c05e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Agenda-e-Execucao/Pontos de melhoria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pontos de melhoria"
+            }
+          },
+          {
+            "id": "7eb01da9596fc95a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Agenda-e-Execucao/Estratégia de cobertura estande ACIRV - 100926.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estratégia de cobertura estande ACIRV - 100926"
+            }
+          },
+          {
+            "id": "923db208eff2687d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Agenda-e-Execucao/Operacional cobertura estande ACIRV - 100926.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operacional cobertura estande ACIRV - 100926"
+            }
+          },
+          {
+            "id": "d04d99c0dc8f8adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/Conexões Sudoexpo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conexões Sudoexpo"
+            }
+          },
+          {
+            "id": "6e8c658432a7c9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/00_rascunho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_rascunho"
+            }
+          },
+          {
+            "id": "11753bb9a0a11f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/Inteligência do Hermes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inteligência do Hermes"
+            }
+          },
+          {
+            "id": "191911bc764a8155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/150926 A fazer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "150926 A fazer"
+            }
+          },
+          {
+            "id": "b67ef6fcb75101c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/Releaser.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Releaser"
+            }
+          }
+        ],
+        "currentTab": 15
+      },
+      {
+        "id": "2e5278475b69e487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d63b294d2bc0d4ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Notas/0926 Melhorias Hermes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0926 Melhorias Hermes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c3727b5da40ece4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb5036fd239a6e1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6034eea8940cdf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "95fec85fb98176c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c4eb6bd40cd0f986",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da9f8680d2f57ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f02d4c044d3795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81806a185758f904",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08-Agenda-e-Execucao/Planejamento de conteúdo da ACIRV - Agosto de 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Planejamento de conteúdo da ACIRV - Agosto de 2026"
+            }
+          },
+          {
+            "id": "be0e402fb934beea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 - Notas/090726 Release da Assembleia Geral da ACIRV.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 090726 Release da Assembleia Geral da ACIRV"
+            }
+          },
+          {
+            "id": "ba4982ce51e96dea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1d915424fabc2dff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "de6227a6c58fcc06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 - Notas/200826.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "b67ef6fcb75101c1",
+  "lastOpenFiles": [
+    "000 - Notas/Graph View no Admin (estilo Obsidian).md",
+    "000 - Notas/0926 Melhorias Hermes.md",
+    "000 - Notas/150926 A fazer.md",
+    "000 - Notas/Inteligência do Hermes.md",
+    "000 - Notas/00_rascunho.md",
+    "000 - Notas/Pontos de melhoria.md",
+    "000 - Notas/Nova paleta de cores da ACIRV.md",
+    "000 - Notas/Contas e Senhas.md",
+    "000 - Notas/Como funciona o MatchMaker.md",
+    "000 - Notas/Conexões Sudoexpo.md",
+    "000 - Notas/Roteiro Thomas.md",
+    "000 - Notas/Operacional cobertura estande ACIRV - 100926.md",
+    "000 - Notas/Estratégia de cobertura estande ACIRV - 100926.md",
+    "97-Fontes-Brutas/04-Anexos/{5DFD2406-3C72-4C69-8C16-D37454729740}.png",
+    "000 - Notas/Separação de matchs por evento.md",
+    "000 - Notas/Ideias para dar uso a motinha.md",
+    "07-Reunioes-e-Decisoes/SCRUM-15-06-2026.md",
+    "000 - Notas/Dados sobre o novo tom de voz e planejamento de 2026.md",
+    "000 - Notas/200826.md",
+    "000 - Notas/Como criar o relatório diário.md",
+    "000 - Notas/140726 Reunião com equipe de Marketing da ACIRV sobre ações do estande da ACIRV na SudoExpo.md",
+    "000 - Notas/Sobre assessoria de imprensa.md",
+    "000 - Notas/Orçamentos e pedidos para a SudoExpo.md",
+    "04-Conteudo-Canais-e-Imprensa/Servicos-e-Beneficios-da-ACIRV.md",
+    "000 - Notas/100826 Ajustes Outdoors da SudoExpo.md",
+    "000 - Notas/030826 Reunião com equipe de Marketing.md",
+    "000 - Notas/Planejamento de conteúdo da ACIRV - Agosto de 2026.md",
+    "97-Fontes-Brutas/04-Anexos/WhatsApp Image 2026-08-03 at 09.25.26 1.jpeg",
+    "97-Fontes-Brutas/04-Anexos/WhatsApp Image 2026-08-03 at 09.25.26.jpeg",
+    "97-Fontes-Brutas/04-Anexos/Pasted image 20260806085709.png",
+    "97-Fontes-Brutas/04-Anexos/Pasted image 20260806085704.png",
+    "97-Fontes-Brutas/04-Anexos/{AC551884-E8E3-41EE-83C4-4CCF8BD7034E}.png",
+    "97-Fontes-Brutas/04-Anexos/{D786DD65-FF64-4D6A-817B-482954336667}.png",
+    "97-Fontes-Brutas/04-Anexos/{82A3BEDE-C7CE-472E-AAD5-B0656C449B57}.png",
+    "97-Fontes-Brutas/04-Anexos/{2881FDA4-415F-4489-BC5F-8B382040E64E}.png",
+    "97-Fontes-Brutas/04-Anexos/{EC108031-C173-434F-889C-8FC6843E2E4B}.png",
+    "000 - Notas/Matchmaker SudoExpo"
+  ]
+}

@@ -1,0 +1,5277 @@
+---
+Modificado:
+  - quinta-feira 71 12/03/2026
+Criado: quinta-feira 71 12/03/2026
+---
+[
+  {
+    "CPF/CNPJ": "32541503000160",
+    "Razão Social": "WENYA ALVES ALECRIM ",
+    "Nome fantasia": "GOIÁS COMUNICAÇÃO",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "admgoiascomunicacao@gmail.com",
+    "Telefone": "64 81526063",
+    "C020_Descricao": "GRAFICA / EDITORAS                           "
+  },
+  {
+    "CPF/CNPJ": "03006613000124",
+    "Razão Social": "YPIRANGA USINAGEM E INDUSTRIA DE PEÇAS LTDA",
+    "Nome fantasia": "YPIRANGA USINAGEM E INDUSTRIA DE PEÇAS LTDA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Industria",
+    "EMAIL": "atendimento@torneadoraypiranga.com",
+    "Telefone": "64 36203754",
+    "C020_Descricao": "TORNEADORA"
+  },
+  {
+    "CPF/CNPJ": "07812891000120",
+    "Razão Social": "CENTRO DE ENSINO FREIRE E GUERRA LTDA",
+    "Nome fantasia": "CENTRO DE ENSINO DE RIO VERDE GOIAS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeirofisk@hotmail.com",
+    "Telefone": "6436212690",
+    "C020_Descricao": "ESCOLA DE IDIOMAS                            "
+  },
+  {
+    "CPF/CNPJ": "37028230000179",
+    "Razão Social": "ADRIANA REIS DE SOUZA MOREAU - ME",
+    "Nome fantasia": "EROS BOUTIQUE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "eros.boutique@gmail.com",
+    "Telefone": "6436211858",
+    "C020_Descricao": "COM. ROUPAS/INTIMAS                          "
+  },
+  {
+    "CPF/CNPJ": "33579962000104",
+    "Razão Social": "TELE TINTAS E MADEREIRA LTDA",
+    "Nome fantasia": "A CASA DO MARCENEIRO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@ttmmadeiras.com.br",
+    "Telefone": "64036224153",
+    "C020_Descricao": "COMERCIO DE TINTAS                           "
+  },
+  {
+    "CPF/CNPJ": "03640862000177",
+    "Razão Social": "ROBERTO ROCHA CARVALHO EIRELI",
+    "Nome fantasia": "ZEIG MOVEIS E DECORAÇÕES",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@zeigue.com.br",
+    "Telefone": "64 36217414",
+    "C020_Descricao": "MOVEIS PLANEJADOSS                           "
+  },
+  {
+    "CPF/CNPJ": "03806460000108",
+    "Razão Social": "PATOS DE MINAS TECIDOS E CONFECCÕES LTDA",
+    "Nome fantasia": "A IDEAL DOS TECIDOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "aidealtecidos@gmail.com",
+    "Telefone": "64 36213294",
+    "C020_Descricao": "COM. DE TECIDOS/CAMA MESA E BANHO            "
+  },
+  {
+    "CPF/CNPJ": "04601702000181",
+    "Razão Social": "ACQUATEC POÇOS ARTESIANOS LTDA ME",
+    "Nome fantasia": "ACQUATEC POÇOS ARTESIANOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "acquatec.rv2@gmail.com",
+    "Telefone": "6436225050",
+    "C020_Descricao": "PERFURAÇÃO E CONSTRUÇÃO DE POÇOS DE ÁGUA"
+  },
+  {
+    "CPF/CNPJ": "32820353000124",
+    "Razão Social": "MARCIO GONCALVES DO CARMO",
+    "Nome fantasia": "MC CONSULTORIA ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "gcmarcio@gmail.com",
+    "Telefone": "64999361766",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "25007030000150",
+    "Razão Social": "CENTRO EDUCACIONAL QUASAR LTDA",
+    "Nome fantasia": "CENTRO EDUCACIONAL QUASAR LTDA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@colegioquasar.com.br",
+    "Telefone": "6436210617",
+    "C020_Descricao": "ESCOLA INFANTIL/FUNDAMENTAL/MEDIO            "
+  },
+  {
+    "CPF/CNPJ": "02048902000123",
+    "Razão Social": "JN PRESTAÇÃO DE SERVIÇOS DE COMUNICAÇÃO LTDA",
+    "Nome fantasia": "AGF JOÃO BELO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "agfjoaobelo@gmail.com",
+    "Telefone": "64036212803",
+    "C020_Descricao": "COORREIOS / ENTREGAS "
+  },
+  {
+    "CPF/CNPJ": "37758715000118",
+    "Razão Social": "CENTROSUL EMBALAGENS EIRELI",
+    "Nome fantasia": "CENTROSUL EMBALAGENS EIRELI",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "EMBALAGENSCENTROSUL@GMAIL.COM",
+    "Telefone": "64 21421562",
+    "C020_Descricao": "COM PRODUTOS DE LIMPEZA / DESCARTAVEL / EMBALAGENS                 "
+  },
+  {
+    "CPF/CNPJ": "15708672000123",
+    "Razão Social": "MAICO ROMI THOMAS",
+    "Nome fantasia": "MED SHOP",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "shop.med@hotmail.com",
+    "Telefone": "6436215155",
+    "C020_Descricao": "COM. EQUIPAMENTOS  DE EPI'S / HOSPITALARES"
+  },
+  {
+    "CPF/CNPJ": "04712017000122",
+    "Razão Social": "CEREAL OURO AGRICOLA LTDA",
+    "Nome fantasia": "CEREAL OURO SEMENTES",
+    "Classificação": "Empresa de grande porte",
+    "Categoria": "Industria",
+    "EMAIL": "financeiro@cerealouro.com.br",
+    "Telefone": "6421016200",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "01731611000172",
+    "Razão Social": "RADIO MORADA DO SOL DE RIO VERDE LTDA - ME",
+    "Nome fantasia": "RADIO MORADA DO SOL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@moradafm.com.br",
+    "Telefone": "64 36214433",
+    "C020_Descricao": "RADIO / TV / JORNAL                          "
+  },
+  {
+    "CPF/CNPJ": "31703330000177",
+    "Razão Social": "MEGATECH COMERCIO DE PRODUTOS E INFORMATICA ",
+    "Nome fantasia": "MEGATECH",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro2@megatechinfo.com.br",
+    "Telefone": "64036110757",
+    "C020_Descricao": "INFORMATICA/ ASSIST. TECNICA/VENDA EQUIP.    "
+  },
+  {
+    "CPF/CNPJ": "03073146000155",
+    "Razão Social": "MARIA APARECIDA DE OLIVEIRA E CIA LTDA - ME",
+    "Nome fantasia": "CLINICA E PET SHOP CLUBE ANIMAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "clubeanimal.financeiro@gmail.com",
+    "Telefone": "6436210304",
+    "C020_Descricao": "PET SHOP/CLINICA VETERINARIA "
+  },
+  {
+    "CPF/CNPJ": "19806463000173",
+    "Razão Social": "BORBA E THOMAS LTDA - ME",
+    "Nome fantasia": "R & T PRODUTOS MEDICOS E ORTOPEDICO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "mrtromi@gmail.com",
+    "Telefone": "64 36214896",
+    "C020_Descricao": "COM. EQUIPAMENTOS  DE EPI'S / HOSPITALARES"
+  },
+  {
+    "CPF/CNPJ": "05046327000118",
+    "Razão Social": "ASSOCIAÇAO GOIANA DOS INTEGRADOS ",
+    "Nome fantasia": "AGINTERP",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Associado",
+    "EMAIL": "daniela@aginterp.com.br",
+    "Telefone": "64 36231166",
+    "C020_Descricao": "ASSOCIACOES DE CLASSES  / ENTIDADES                   "
+  },
+  {
+    "CPF/CNPJ": "03404245000172",
+    "Razão Social": "BORGES & CARRER LTDA - EPP",
+    "Nome fantasia": "MERCADÃO DA ELETRÔNICA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "pedidosmde@gmail.com",
+    "Telefone": "64 36212700",
+    "C020_Descricao": "INFORMATICA/ ASSIST. TECNICA/VENDA EQUIP.    "
+  },
+  {
+    "CPF/CNPJ": "01815778000111",
+    "Razão Social": "CLINICA RADIOLOGICA DE RIO VERDE LTDA",
+    "Nome fantasia": "CLINICA RADIOLOGICA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "clinicaradiologicarv@uol.com.br",
+    "Telefone": "64 21018950",
+    "C020_Descricao": "CLINICA DE RADIOLOGIA                        "
+  },
+  {
+    "CPF/CNPJ": "01030542000170",
+    "Razão Social": "MARIA IRENE CABRAL DA SILVA E CIA LTDA - ME",
+    "Nome fantasia": "ESCOLA ESCADINHA DO FUTURO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "cabraltda@yahoo.com.br",
+    "Telefone": "64 36212322",
+    "C020_Descricao": "ESCOLA INFANTIL/FUNDAMENTAL/MEDIO            "
+  },
+  {
+    "CPF/CNPJ": "01126861000183",
+    "Razão Social": "CLÍNICA VETERINÁRIA SÃO LÁZARO LTDA - EPP",
+    "Nome fantasia": "CLÍNICA VETERINÁRIA SÃO LÁZARO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "sao_lazaro_clinica@hotmail.com",
+    "Telefone": "64 36212131",
+    "C020_Descricao": "PET SHOP/CLINICA VETERINARIA "
+  },
+  {
+    "CPF/CNPJ": "09471381000161",
+    "Razão Social": "AGRINOVA PRODUTOS AGRICOLAS LTDA - ME",
+    "Nome fantasia": "AGRINOVA PRODUTOS AGRICOLAS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "administrativo@agrinovarv.com.br",
+    "Telefone": "64999752152",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "02607570000170",
+    "Razão Social": "CLUBE CAMPESTRE DE RIO VERDE",
+    "Nome fantasia": "CLUBE CAMPESTRE DE RIO VERDE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@clubecampestrerv.com.br",
+    "Telefone": "64 36110400",
+    "C020_Descricao": "CLUBES/ SALAO DE EVENTOS                     "
+  },
+  {
+    "CPF/CNPJ": "02461922000121",
+    "Razão Social": "AGRIDEIA MECANICA DE PRECISÃO LTDA - ME",
+    "Nome fantasia": "AGRIDEIA MECANICA DE PRECISÃO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "agrideialtda@hotmail.com",
+    "Telefone": "64 36120699",
+    "C020_Descricao": "OFICINA MECANICA / ELETRICA                  "
+  },
+  {
+    "CPF/CNPJ": "00249193140",
+    "Razão Social": "RAPHAEL MORAES VALONGO",
+    "Nome fantasia": "RAPHAEL MORAES VALONGO",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "valongo.digital@gmail.com",
+    "Telefone": "64996259211",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "09329571000149",
+    "Razão Social": "IMOBILIARIA GUERRA LTDA - ME",
+    "Nome fantasia": "REAL IMOVEIS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro.realimoveis@hotmail.com",
+    "Telefone": "64 36214050",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "37623923000100",
+    "Razão Social": "CENTRO EDUCACIONAL DE RIO VERDE LTDA - EPP",
+    "Nome fantasia": "COLÉGIO APICE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rosimar.lima@angloalante.com.br",
+    "Telefone": "64 36210139",
+    "C020_Descricao": "ESCOLA INFANTIL/FUNDAMENTAL/MEDIO            "
+  },
+  {
+    "CPF/CNPJ": "36844256000122",
+    "Razão Social": "MG MOLAS E SERVICOS",
+    "Nome fantasia": "MG AUTO PEÇAS LTDA - EPP",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "mgautopecasboleto@gmail.com",
+    "Telefone": "64 36121555",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "23051617000131",
+    "Razão Social": "ESPACO LUZ ILUMINACAO LTDA - ME",
+    "Nome fantasia": "ESPACO LUZ ILUMINACAO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiroespacoluzrv@outlook.com",
+    "Telefone": "6430501112",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "24322907000135",
+    "Razão Social": "COMBER INDUSTRIA  LTDA",
+    "Nome fantasia": "COMBER",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Industria",
+    "EMAIL": "lucyanna@comber.com.br",
+    "Telefone": "64 30182522",
+    "C020_Descricao": "INSTALAÇAO E MANUTENÇAO ELETRICA INDUSTRIAL"
+  },
+  {
+    "CPF/CNPJ": "27477428000186",
+    "Razão Social": "RICARDO ANTONIO DOS SANTOS ",
+    "Nome fantasia": "RD PRESTAÇÃO DE SERVIÇOS",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ricardocomprasrv@gmail.com",
+    "Telefone": "64 36123625",
+    "C020_Descricao": "ASSIST. TECNICA EM ELETRO/ELETRONICOS        "
+  },
+  {
+    "CPF/CNPJ": "19620691000154",
+    "Razão Social": "LEANDRO GONÇALVES TRINDADE",
+    "Nome fantasia": "MIDIA E CIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@midiaecia.com",
+    "Telefone": "64 36230133",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "26940759000148",
+    "Razão Social": "ESSEG - CORRETORA DE SEGUROS LTDA - EPP",
+    "Nome fantasia": "ESSEG SEGUROS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@essegseguros.com.br",
+    "Telefone": "6436200500",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "02077618000185",
+    "Razão Social": "COOPERATIVA AGRO. DOS PRODUTORES RURAIS DO SUDOESTE GOIANO",
+    "Nome fantasia": "COMIGO",
+    "Classificação": "Empresa de grande porte",
+    "Categoria": "Comercio",
+    "EMAIL": "marianacassia@comigo.com.br",
+    "Telefone": "64 36111500",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "14555697000171",
+    "Razão Social": "MOKA NEGOCIOS EIRELLI",
+    "Nome fantasia": "MOKA21 OFICINA DE NEGOCIOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contato@moka21.com.br",
+    "Telefone": "64981304374",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "37840972000102",
+    "Razão Social": "CONSTRUTORA E INCORPORADORA CUNHA DA CAMARA L",
+    "Nome fantasia": "AGROPECUARIA CUNHA DA CAMRA LTDA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeirorioverde@grupocunhadacamara.com.br",
+    "Telefone": "6436213100",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "03222442000170",
+    "Razão Social": "C.E. COMERCIO E REPRESENTACOES LTDA - EPP",
+    "Nome fantasia": "MONTMAQ IMPLEMENTOS AGRICOLAS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "montmaqfinanceiro@hotmail.com",
+    "Telefone": "64 36215771",
+    "C020_Descricao": "ACESSORIOS E PECAS PARA MAQUINAS AGRICOLAS"
+  },
+  {
+    "CPF/CNPJ": "05623074000106",
+    "Razão Social": "TRUCK CENTER CARAJAS LTDA - EPP",
+    "Nome fantasia": "RECAPAGEM CARAJAS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "grupocarajas05@hotmail.com",
+    "Telefone": "64 36121314",
+    "C020_Descricao": "COMERCIO DE PNEUS                            "
+  },
+  {
+    "CPF/CNPJ": "06319245000162",
+    "Razão Social": "NANDELL DISTRIBUIDORA E CONSULTORIA",
+    "Nome fantasia": "NANDELL DISTRIBUIDORA E CONSULTORIA LTDA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "opopular.nandell@gmail.com",
+    "Telefone": "64 36214422",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "20148293000166",
+    "Razão Social": "G & M MANIPULAÇÃO LTDA  - ME",
+    "Nome fantasia": "FARMACIA ARTESANAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "rioverde@artesanalfranquia.com",
+    "Telefone": "64993271272",
+    "C020_Descricao": "FARMACIA/DROGARIA                            "
+  },
+  {
+    "CPF/CNPJ": "20817674000190",
+    "Razão Social": "MORAES BRINQUEDOS LTDA",
+    "Nome fantasia": "RI HAPPY",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "admrioverde@livrarianobel.com.br",
+    "Telefone": "64 30505255",
+    "C020_Descricao": "UTILIDADES / PRESENTES / BRINQUEDOS          "
+  },
+  {
+    "CPF/CNPJ": "06319202000187",
+    "Razão Social": "RICARDO PNEUS LTDA - ME",
+    "Nome fantasia": "RICARDO PNEUS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "ricardo@ricardopneus.com",
+    "Telefone": "64 36210826",
+    "C020_Descricao": "COMERCIO DE PNEUS                            "
+  },
+  {
+    "CPF/CNPJ": "33532342000292",
+    "Razão Social": "NASA CAMINHÕES LTDA",
+    "Nome fantasia": "NASA CAMINHÕES",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "finanrvd@gruponasa.com.br",
+    "Telefone": "64 36113000",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "02003591000348",
+    "Razão Social": "CENTRO COMERCIAL CONQUISTA LTDA",
+    "Nome fantasia": "CENTRO COMERCIAL CONQUISTA LTDA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@conquistasupermercados.com.br",
+    "Telefone": "64 36201000",
+    "C020_Descricao": "SUPERMERCADOS/MERCADOS/VAREJAO/ARMAZEM/MERCEA"
+  },
+  {
+    "CPF/CNPJ": "26686303000101",
+    "Razão Social": "NECTAR INFORMATICA LTDA - ME",
+    "Nome fantasia": "NECTAR",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@nectarnet.com.br",
+    "Telefone": "64 36020620",
+    "C020_Descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS "
+  },
+  {
+    "CPF/CNPJ": "18814934000122",
+    "Razão Social": "REVISORA GOIANA LTDA",
+    "Nome fantasia": "REVISORA GOIANA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "revisoragoiana@gmail.com",
+    "Telefone": "64 36123696",
+    "C020_Descricao": "Aluguel e Venda de Compressores e Outros "
+  },
+  {
+    "CPF/CNPJ": "04564823000109",
+    "Razão Social": "BUENO E CONCEIÇÃO S/S LTDA - ME",
+    "Nome fantasia": "NÉCTAR CONTABILIDADE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "recepcao@nectarcontabil.com.br",
+    "Telefone": "64 36220117",
+    "C020_Descricao": "ESCRITORIO CONTABIL                          "
+  },
+  {
+    "CPF/CNPJ": "01543069000124",
+    "Razão Social": "MENEZES & COELHO LTDA - EPP",
+    "Nome fantasia": "FELIZ TOK",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "hmcm@uol.com.br",
+    "Telefone": "64 36131442",
+    "C020_Descricao": "PERFUMARIA / COSMETICOS                      "
+  },
+  {
+    "CPF/CNPJ": "01543070000159",
+    "Razão Social": "VALE DA SERRA COMERCIAL DE PRODUTOS DERIVADOS ",
+    "Nome fantasia": "SERTAO PETROLEO ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "recepcao@sertaopetroleo.com.br",
+    "Telefone": "6436213326",
+    "C020_Descricao": "POSTOS DE GASOLINA / COM. DE OLEOS           "
+  },
+  {
+    "CPF/CNPJ": "03284908000162",
+    "Razão Social": "GRAFICA VMS & CCM LTDA - ME",
+    "Nome fantasia": "RIO GRAFICA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "graficariografica@outlook.com",
+    "Telefone": "64 36132172",
+    "C020_Descricao": "GRAFICA / EDITORAS                           "
+  },
+  {
+    "CPF/CNPJ": "01917194000319",
+    "Razão Social": "CONSTRULAR COMERCIAL LTDA",
+    "Nome fantasia": "CONSTRULAR COMERCIAL LTDA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@constrular.com.br",
+    "Telefone": "64 36117100",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "13696506000129",
+    "Razão Social": "NELORE GRILL",
+    "Nome fantasia": "NELORE GRILL CHURRASCARIA LTDA - ME",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "julia.rvgarcia@hotmail.com",
+    "Telefone": "64 36232093",
+    "C020_Descricao": "RESTAURANTE/CHURRASCARIA                     "
+  },
+  {
+    "CPF/CNPJ": "76819283000321",
+    "Razão Social": "CONSTRUTORA FETZ LTDA",
+    "Nome fantasia": "CONSTRUTORA FETZ LTDA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rafael@fetz.com.br",
+    "Telefone": "64 36202900",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "32081865000116",
+    "Razão Social": "RODRIGO RODRIGUES DE GOUVEIA 01331136121",
+    "Nome fantasia": "RIOCOB - RECUPERAÇÃO DE CRÉDITO",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "riocobrioverde@gmail.com",
+    "Telefone": "64999875830",
+    "C020_Descricao": "ESCRITORIO COBRANCA                          "
+  },
+  {
+    "CPF/CNPJ": "08092569000136",
+    "Razão Social": "LIMA E VILELA LTDA - ME",
+    "Nome fantasia": "NEW LEADER ENGLISH COURSE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@newleaderschool.com.br",
+    "Telefone": "64 36135238",
+    "C020_Descricao": "ESCOLA DE IDIOMAS                            "
+  },
+  {
+    "CPF/CNPJ": "03047504000155",
+    "Razão Social": "RIOFER INDUSTRIAL LTDA",
+    "Nome fantasia": "RIOFER INDUSTRIAL",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contasapagar@riofer.com.br",
+    "Telefone": "64 36122004",
+    "C020_Descricao": "INDUSTRIA METALURGICA                        "
+  },
+  {
+    "CPF/CNPJ": "24147703000105",
+    "Razão Social": "RIMAVE RIO VERDE MAQUINAS AGRICOLAS  LTDA ",
+    "Nome fantasia": "RIMAVE",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@rimave.com.br",
+    "Telefone": "64 30514400",
+    "C020_Descricao": "ACESSORIOS E PECAS PARA MAQUINAS AGRICOLAS"
+  },
+  {
+    "CPF/CNPJ": "07458315000126",
+    "Razão Social": "FERRAGISTA CARDOZO LTDA",
+    "Nome fantasia": "FERRAGISTA CARDOZO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "ferragistacardozo@ferragistacardozo.com",
+    "Telefone": "6436133333",
+    "C020_Descricao": "FERRAGISTA                                   "
+  },
+  {
+    "CPF/CNPJ": "05112936000128",
+    "Razão Social": "ALVO AGRICOLA LTDA",
+    "Nome fantasia": "ALVO AGRICOLA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "eliane@alvoagricola.com.br",
+    "Telefone": "64 36221416",
+    "C020_Descricao": "CONCESSIONARIA MAQ. AGRICOLAS                "
+  },
+  {
+    "CPF/CNPJ": "07225264000192",
+    "Razão Social": "RIVEMA RIO VERDE MAQUINAS AGRICOLAS  LTDA - M",
+    "Nome fantasia": "RIVEMA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@rivema.com.br",
+    "Telefone": "64 36124000",
+    "C020_Descricao": "CONCESSIONARIA MAQ. AGRICOLAS                "
+  },
+  {
+    "CPF/CNPJ": "15625459000158",
+    "Razão Social": "RIO VERDE SEGURANCA E ALARMES LTDA - ME",
+    "Nome fantasia": "NEW LINE SISTEMAS DE SEGURANÇA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeirorv@newlineseguranca.com.br",
+    "Telefone": "64 36239373",
+    "C020_Descricao": "SEGURANCA PATRIMONIAL                        "
+  },
+  {
+    "CPF/CNPJ": "06168540000165",
+    "Razão Social": "CLINICA DE MEDICINA DO TRABALHO LTDA - ME",
+    "Nome fantasia": "COT-MEDICINA OCUPACIONAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "adm.cotocupacional@gmail.com",
+    "Telefone": "64 36214038",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "04550475000102",
+    "Razão Social": "COMERCIO DE SACARIA MARTINS LTDA - ME",
+    "Nome fantasia": "SACARIA MARTINS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "sacariamartins@gmail.com",
+    "Telefone": "64 36232972",
+    "C020_Descricao": "RECICLAGEM                                   "
+  },
+  {
+    "CPF/CNPJ": "01449073000128",
+    "Razão Social": "SARICO MATERIAIS PARA CONSTRUCAO LTDA",
+    "Nome fantasia": "SARICO MATERIAIS PARA CONSTRUCAO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "dilaiane@casasarico.net",
+    "Telefone": "64 36117900",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "25135831000100",
+    "Razão Social": "SEARV PRODUTOS AGROPECUARIOS LTDA - EPP",
+    "Nome fantasia": "SEARV",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@searv.com.br",
+    "Telefone": "64 36212824",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "02437226000180",
+    "Razão Social": "SINDICATO DAS EMPRESAS DE SERVIÇOS CONTABEIS ",
+    "Nome fantasia": "SESCON SUDOESTE - GO ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Sindicato",
+    "EMAIL": "sescon@sesconsudoestego.org.br",
+    "Telefone": "6436211730",
+    "C020_Descricao": "ASSOCIACOES DE CLASSES  / ENTIDADES                   "
+  },
+  {
+    "CPF/CNPJ": "03087776000189",
+    "Razão Social": "SF ASSOCIADOS ",
+    "Nome fantasia": "AIBES ADVOGADOS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@aibesadvogados.com.br",
+    "Telefone": "64 36110622",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "03482332000148",
+    "Razão Social": "SEMENTES GOIAS LTDA ",
+    "Nome fantasia": "SEMENTES GOIAS LTDA ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "caroline.firmino@nutrien.com",
+    "Telefone": "64 36114500",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "24795049000146",
+    "Razão Social": "COOP. DE CREDITO DE LIVRE ADMISSAO DO SUDOEST ",
+    "Nome fantasia": "SICOOB CREDI RURAL ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Cooperativa",
+    "EMAIL": "igor.almeida@credirural.coop.br",
+    "Telefone": "6436202500",
+    "C020_Descricao": "BANCOS                                       "
+  },
+  {
+    "CPF/CNPJ": "09033698000116",
+    "Razão Social": "COOP. DE CREDITO DE LIVRE ADM. DE RIO VERDE E  ",
+    "Nome fantasia": "SICOOB EMPRESARIAL ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Cooperativa",
+    "EMAIL": "pagamentos.3343@sicoob.com.br",
+    "Telefone": "6430200120",
+    "C020_Descricao": "BANCOS                                       "
+  },
+  {
+    "CPF/CNPJ": "03047549000120",
+    "Razão Social": "COOPERATIVA DE CREDITO E CAPTACAO SICOOB UNIC",
+    "Nome fantasia": "SICOOB UNICIDADES ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Cooperativa",
+    "EMAIL": "5014.financeiro@sicoob.com.br",
+    "Telefone": "64362350005",
+    "C020_Descricao": "BANCOS                                       "
+  },
+  {
+    "CPF/CNPJ": "06332931000173",
+    "Razão Social": "COOPERATIVA DE CREDITO POUP E INVEST DO CERRADO GOIAS ",
+    "Nome fantasia": "SICREDI SERRADO GO ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Cooperativa",
+    "EMAIL": "coop3950_financeiro@sicredi.com.br",
+    "Telefone": "6439013800",
+    "C020_Descricao": "BANCOS                                       "
+  },
+  {
+    "CPF/CNPJ": "30190475000159",
+    "Razão Social": "SIMPLE AGRO SISTEMAS LTDA",
+    "Nome fantasia": "SIMPLE AGRO ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@simpleagro.com.br",
+    "Telefone": "64 30553781",
+    "C020_Descricao": "ESCRITORIO AGRONOMICO/ AMBIENTAL             "
+  },
+  {
+    "CPF/CNPJ": "05074488000115",
+    "Razão Social": "SÓ CARDAN LTDA ",
+    "Nome fantasia": "SÓ CARDAN ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "socardan@hotmail.com",
+    "Telefone": "64 36122696",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "02676351000223",
+    "Razão Social": "SOAGRO SOCIEDADE AGRO PECUARIA LTDA ",
+    "Nome fantasia": "SOAGRO ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "silvania@soagro.com.br",
+    "Telefone": "64 21014000",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "11906094000189",
+    "Razão Social": "SOMA DISTRIBUIDORA DE PRODUTOS DE LIMPEZA E L ",
+    "Nome fantasia": "SOMA PRODUTOS DE LIMPEZA E LOCAÇÕES ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "gerencia@somaprodutos.com.br",
+    "Telefone": "64 30541800",
+    "C020_Descricao": "COM PRODUTOS DE LIMPEZA / DESCARTAVEL / EMBALAGENS                 "
+  },
+  {
+    "CPF/CNPJ": "26739698000236",
+    "Razão Social": "NUTRISAL IND E COM SUPLEMENTOS P ALIMENTACAO ANIMAL LTDA",
+    "Nome fantasia": "NUTRISAL AGRICOLA & ANIMAL",
+    "Classificação": "Empresa de grande porte",
+    "Categoria": "Comercio",
+    "EMAIL": "contasapagar@gruponutrisal.com.br",
+    "Telefone": "64 36207100",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "00795229000160",
+    "Razão Social": "VENUS COSMETICOS E PERFUMARIA LTDA ",
+    "Nome fantasia": "O BOTICARIO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "contasapagar@grupovenusrv.com.br",
+    "Telefone": "64 36213008",
+    "C020_Descricao": "PERFUMARIA / COSMETICOS                      "
+  },
+  {
+    "CPF/CNPJ": "37609740000130",
+    "Razão Social": "OBJETIVA CORRETORA DE SEGUROS S/S LTDA - EPP",
+    "Nome fantasia": "OBJETIVA CORRETORA DE SEGUROS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "info@objetivaseguros.com.br",
+    "Telefone": "64 36206700",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "01191512000145",
+    "Razão Social": "SONHO ALEGRIA DECORAÇÕES PARA FESTAS LTDA M",
+    "Nome fantasia": "SONHO ALEGRIA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "sonhoealegria@gmail.com",
+    "Telefone": "64 36130934",
+    "C020_Descricao": "DECORACAO DE INTERIORES/ARTESANATO/QUADROS   "
+  },
+  {
+    "CPF/CNPJ": "01195262000111",
+    "Razão Social": "JOAQUIM RAIMUNDO DE BRITO FILHO - ME",
+    "Nome fantasia": "OTICA RIO VERDE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "oticarioverde@gmail.com",
+    "Telefone": "64 36210253",
+    "C020_Descricao": "OTICAS                                       "
+  },
+  {
+    "CPF/CNPJ": "04711892000190",
+    "Razão Social": "PAEZE ALIMENTOS  EIRELI",
+    "Nome fantasia": "PAEZE SUPERMERCADO",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro2@paeze.com.br",
+    "Telefone": "64 36221333",
+    "C020_Descricao": "SUPERMERCADOS/MERCADOS/VAREJAO/ARMAZEM/MERCEA"
+  },
+  {
+    "CPF/CNPJ": "28280267000107",
+    "Razão Social": "LOTEAMENTO PARQUE DO DIAMANTE SPE LTDA",
+    "Nome fantasia": "PARQUE DO DIAMANTE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "bolota2711@yahoo.com",
+    "Telefone": "64999878454",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "01069335000129",
+    "Razão Social": "PASSACAGLIA INSTRUMENTOS E CURSOS MUSICAIS LTDA",
+    "Nome fantasia": "PASSACAGLIA INSTRUMENTOS E CURSOS MUSICAIS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "camargoguarnieri@gmail.com",
+    "Telefone": "64 36212607",
+    "C020_Descricao": "ESCOLA DE MUSICA/ DANCA/TEATRO/ARTES         "
+  },
+  {
+    "CPF/CNPJ": "19779371000141",
+    "Razão Social": "SILVA E PENHA COMERCIO DE ALIMENTOS LTDA ",
+    "Nome fantasia": "SUBWAY ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "solange.subway@hotmail.com",
+    "Telefone": "64 21047444",
+    "C020_Descricao": "LANCHONETE/PASTELARIA                        "
+  },
+  {
+    "CPF/CNPJ": "02606820000157",
+    "Razão Social": "DISTRIBUIDORA SUDOESTE LTDA",
+    "Nome fantasia": "SUDOESTE VEICULOS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "contasapagar@sudoestevw.com.br",
+    "Telefone": "64 21018000",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "72508710806",
+    "Razão Social": "SUELY APARECIDA TURRA MOLERO",
+    "Nome fantasia": "SUELY APARECIDA TURRA",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "suelyturra@gmail.com",
+    "Telefone": "64999572208",
+    "C020_Descricao": "AUTONOMO                                     "
+  },
+  {
+    "CPF/CNPJ": "00243816000146",
+    "Razão Social": "COBRA ENGENHARIA INDUSTRIA E COMERCIO LTDA ",
+    "Nome fantasia": "SUPER TETO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "supertetorv@gmail.com",
+    "Telefone": "64 36211598",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "08378840000102",
+    "Razão Social": "TARANTELLA CHURRASCARIA EIRELI - EPP",
+    "Nome fantasia": "TARANTELLA CHURRASCARIA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "tarantella.adm@hotmail.com",
+    "Telefone": "64 36230815",
+    "C020_Descricao": "RESTAURANTE/CHURRASCARIA                     "
+  },
+  {
+    "CPF/CNPJ": "22036203000170",
+    "Razão Social": "SMARTCELL COMERCIO E SERVICOS LTDA - ME",
+    "Nome fantasia": "TELEFACIL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "adm@telefacil.net",
+    "Telefone": "64 36214533",
+    "C020_Descricao": "TELEFONIA/ASSIS TECNICA/VENDA                "
+  },
+  {
+    "CPF/CNPJ": "73675894000193",
+    "Razão Social": "TERRA PLANEJAMENTO ASSISTENCIA TECNICA ESPECI",
+    "Nome fantasia": "TERRA AGRONEGOCIOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@terra.agr.br",
+    "Telefone": "64 36211551",
+    "C020_Descricao": "ESCRITORIO AGRONOMICO/ AMBIENTAL             "
+  },
+  {
+    "CPF/CNPJ": "08847035000172",
+    "Razão Social": "SOUSA E PEREIRA LTDA  - ME",
+    "Nome fantasia": "FERRAGISTA GOIAS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "marcia@ferragistagoias.com.br",
+    "Telefone": "64 36213621",
+    "C020_Descricao": "FERRAGISTA                                   "
+  },
+  {
+    "CPF/CNPJ": "01760172000126",
+    "Razão Social": "FERTIVERDE COM E REPRES DE PROD AGROPECUARIOS",
+    "Nome fantasia": "FERTIVERDE",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "contasapagar@fertiverde.com.br",
+    "Telefone": "6436242100",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "12638365000125",
+    "Razão Social": "FLORA MUNDI LTDA - ME",
+    "Nome fantasia": "FLORA MUNDI",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "consultoria@floramundi.com.br",
+    "Telefone": "64 30508888",
+    "C020_Descricao": "FLORICULTURA/JARDINAGEM/PLANTAS/HORTA        "
+  },
+  {
+    "CPF/CNPJ": "26231322000135",
+    "Razão Social": "ADELIANA FERREIRA JUNQUEIRA 54724074191",
+    "Nome fantasia": "FLORESCA ORNAMENTOS DE JARDIM",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "florescajardim@gmail.com",
+    "Telefone": "64 99908504",
+    "C020_Descricao": "FLORICULTURA/JARDINAGEM/PLANTAS/HORTA        "
+  },
+  {
+    "CPF/CNPJ": "00717592000248",
+    "Razão Social": "REGIVEL - REGINALDO VEICULOS LTDA",
+    "Nome fantasia": "FORD - REGIVEL",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "jairtesta@regivel.com.br",
+    "Telefone": "64 36215200",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "01224134000159",
+    "Razão Social": "PAX RIO VERDE SERVICOS POSTUMOS LTDA",
+    "Nome fantasia": "PAX RIO VERDE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@grupouniversogo.com.br",
+    "Telefone": "64 36203100",
+    "C020_Descricao": "PRESTACAO DE SERVICOS FUNEBRES               "
+  },
+  {
+    "CPF/CNPJ": "26365995000188",
+    "Razão Social": "GILSON DA SILVA SANTOS 00280978154",
+    "Nome fantasia": "TRANSCART",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "transcart.rv1@hotmail.com",
+    "Telefone": "64 36215387",
+    "C020_Descricao": "COORREIOS / ENTREGAS "
+  },
+  {
+    "CPF/CNPJ": "31522710000105",
+    "Razão Social": "PEDE O MENU GASTRONOMIA MOBILE BRASIL LTDA",
+    "Nome fantasia": "PEDE O MENU",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@pedeomenu.com.br",
+    "Telefone": "64 81113808",
+    "C020_Descricao": "APLICATIVO DE DELIVERY"
+  },
+  {
+    "CPF/CNPJ": "37649092000145",
+    "Razão Social": "FRANCO ENGENHARIA E IMOVEIS LTDA - ME",
+    "Nome fantasia": "FRANCO ENGENHARIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "aluguel@francoimoveis.com",
+    "Telefone": "64 36210208",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "12066991000194",
+    "Razão Social": "PERFIL CONTABIL LTDA - ME",
+    "Nome fantasia": "PERFIL CONTABIL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contato@perfilcontabil.net",
+    "Telefone": "64 36131656",
+    "C020_Descricao": "ESCRITORIO CONTABIL                          "
+  },
+  {
+    "CPF/CNPJ": "00910585000187",
+    "Razão Social": "PET SHOP DA ANDIARA LTDA - ME",
+    "Nome fantasia": "PET SHOP DA ANDIARA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "petshopdaandiara@gmail.com",
+    "Telefone": "64 36210085",
+    "C020_Descricao": "PET SHOP/CLINICA VETERINARIA "
+  },
+  {
+    "CPF/CNPJ": "07284127000129",
+    "Razão Social": "TERRA BRASILIS MARKETING E COMUNICACAO LTDA -",
+    "Nome fantasia": "TERRA BRASILIS MARKETING E COMUNICA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "agencia@agenciaterrabrasilis.com.br",
+    "Telefone": "64 36238881",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "07700183000105",
+    "Razão Social": "PETERLINI & CAMPOS COMERCIO DE TINTAS LTDA",
+    "Nome fantasia": "PETER TINTAS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "jpeterlini@msn.com",
+    "Telefone": "64 36214334",
+    "C020_Descricao": "COMERCIO DE TINTAS                           "
+  },
+  {
+    "CPF/CNPJ": "37602372000106",
+    "Razão Social": "PETRORIO COMERCIO DE COMBUSTIVEIS LTDA",
+    "Nome fantasia": "PETRORIO",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@petrorio.net",
+    "Telefone": "64 36214956",
+    "C020_Descricao": "POSTOS DE GASOLINA / COM. DE OLEOS           "
+  },
+  {
+    "CPF/CNPJ": "18835924000173",
+    "Razão Social": "BESSEGATO E CAMPOS LTDA",
+    "Nome fantasia": "PEZINHO E CIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "pezinhoeciarv@gmail.com",
+    "Telefone": "64 36235610",
+    "C020_Descricao": "COM. CALÇADOS                                "
+  },
+  {
+    "CPF/CNPJ": "19511265000182",
+    "Razão Social": "PIGNATTI E LOBO MARCAS E PATENTES LTDA",
+    "Nome fantasia": "PIGNATTI E LOBO MARCAS E PATENTES",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "atendimento@pignatti.com.br",
+    "Telefone": "64 36225825",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "33365180000164",
+    "Razão Social": "PLANALTO DISTRIBUIDORA DE IMPLEMENTOS LTDA",
+    "Nome fantasia": "PLANALTO DISTRIBUIDORA DE IMPLEMENTOS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeirorv@planaltocase.com.br",
+    "Telefone": "64 36113500",
+    "C020_Descricao": "CONCESSIONARIA MAQ. AGRICOLAS                "
+  },
+  {
+    "CPF/CNPJ": "32933957000187",
+    "Razão Social": "PJR INCORPORAÇÕES LTDA",
+    "Nome fantasia": "PONTO SHOPPING",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@grupopjr.com.br",
+    "Telefone": "64993141546",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "01298382000144",
+    "Razão Social": "GUIMARAES BORGES COMERCIO DE DERIVADOS DE PETROLEO",
+    "Nome fantasia": "POSTO ARAGUAIA JARDIM GOIAS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "guimaraesborges@hotmail.com",
+    "Telefone": "64 36213133",
+    "C020_Descricao": "POSTOS DE GASOLINA / COM. DE OLEOS           "
+  },
+  {
+    "CPF/CNPJ": "01301913000100",
+    "Razão Social": "POSTO BARRINHAS LTDA",
+    "Nome fantasia": "POSTO BARRINHAS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "postobarrinhas@gmail.com",
+    "Telefone": "64 36132870",
+    "C020_Descricao": "POSTOS DE GASOLINA / COM. DE OLEOS           "
+  },
+  {
+    "CPF/CNPJ": "37372802000132",
+    "Razão Social": "RCJ COMBUSTÍVEIS E DERIVADO DE PETRÓLEO LTDA",
+    "Nome fantasia": "POSTO DO TREVO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "rcj_ltda@uol.com.br",
+    "Telefone": "64 36124698",
+    "C020_Descricao": "POSTOS DE GASOLINA / COM. DE OLEOS           "
+  },
+  {
+    "CPF/CNPJ": "00066871000299",
+    "Razão Social": "HAIKAR VEICULOS LTDA",
+    "Nome fantasia": "HAIKAR VEICULOS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "adm.rvd@haikar.com.br",
+    "Telefone": "64 30516100",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "24864654000121",
+    "Razão Social": "AUTO POSTO VISAO LTDA",
+    "Nome fantasia": "POSTO XV",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "postoxvxv@gmail.com",
+    "Telefone": "64 36210317",
+    "C020_Descricao": "POSTOS DE GASOLINA / COM. DE OLEOS           "
+  },
+  {
+    "CPF/CNPJ": "04591349000104",
+    "Razão Social": "PRESERVE AGROFLORESTAL LTDA - EPP",
+    "Nome fantasia": "PRESERVE AGROFLORESTAL",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "preserve_florestal@hotmail.com",
+    "Telefone": "64 36133009",
+    "C020_Descricao": "FLORICULTURA/JARDINAGEM/PLANTAS/HORTA        "
+  },
+  {
+    "CPF/CNPJ": "03155820000140",
+    "Razão Social": "D' FIBRA COMERCIO E INDUSTRIA DE PLASTICO REFORCADO LTDA",
+    "Nome fantasia": "D' FIBRA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Industria",
+    "EMAIL": "dfibrarv@hotmail.com",
+    "Telefone": "64 36134752",
+    "C020_Descricao": "INDUSTRIA DE PLASTICOS/BORRACHA              "
+  },
+  {
+    "CPF/CNPJ": "00307362000120",
+    "Razão Social": "ZALTU & BARROS LTDA",
+    "Nome fantasia": "PRESIDENTE AUTO POSTO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "postoopresidente@hotmail.com",
+    "Telefone": "64 36029192",
+    "C020_Descricao": "POSTOS DE GASOLINA / COM. DE OLEOS           "
+  },
+  {
+    "CPF/CNPJ": "14055864000115",
+    "Razão Social": "DADIVA AMBIENTES LTDA - ME",
+    "Nome fantasia": "DADIVA AMBIENTES LTDA - ME",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeirodadiva@gmail.com",
+    "Telefone": "64 36224093",
+    "C020_Descricao": "COM. MOVEIS/ELETRODOMESTICOS/COLCHOES        "
+  },
+  {
+    "CPF/CNPJ": "20597257000180",
+    "Razão Social": "ORLANDO A. FONSECA SERVICO E COMERCIO",
+    "Nome fantasia": "PREVENT SOLUCOES AMBIENTAIS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rioverde@preventsolucoes.com.br",
+    "Telefone": "64 30506060",
+    "C020_Descricao": "CONTROLE DE PRAGAS/ DETETIZACAO              "
+  },
+  {
+    "CPF/CNPJ": "03994475000139",
+    "Razão Social": "ROOSEVELT MOREIRA SAMPAIO - ME",
+    "Nome fantasia": "AMBIENTE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@ambienteaudioevideo.com.br",
+    "Telefone": "64 36217474",
+    "C020_Descricao": "INFORMATICA/ ASSIST. TECNICA/VENDA EQUIP.    "
+  },
+  {
+    "CPF/CNPJ": "04892578000150",
+    "Razão Social": "PRIME ODONTOLOGIA LTDA  - ME",
+    "Nome fantasia": "PRIME ODONTOLOGIA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "primeodontoposgrad@hotmail.com",
+    "Telefone": "64 36234989",
+    "C020_Descricao": "CLINICA DE ODONTOLOGIA                       "
+  },
+  {
+    "CPF/CNPJ": "07766202000198",
+    "Razão Social": "DANILLO HENRIQUE GUIMARÃES DE FREITAS - ME",
+    "Nome fantasia": "DANILLO HENRIQUE GUIMARÃES DE FREITAS - ME",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@dgimplantes.com.br",
+    "Telefone": "6436210877",
+    "C020_Descricao": "CLINICA DE ODONTOLOGIA                       "
+  },
+  {
+    "CPF/CNPJ": "22784860000104",
+    "Razão Social": "AMPARO DESENVOLVIMENTO PROFISSIONAL E RECURSO",
+    "Nome fantasia": "AMPARO RH",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "fernando@amparorh.com.br",
+    "Telefone": "64 30504334",
+    "C020_Descricao": "EMPRESA RECURSOS HUMANOS                             "
+  },
+  {
+    "CPF/CNPJ": "13470446000121",
+    "Razão Social": "PROTEC MEDICINA DO TRABALHO LTDA - ME",
+    "Nome fantasia": "PROTEC MEDICINA DO TRABALHO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@protecrv.com.br",
+    "Telefone": "64 36231325",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "02260706000118",
+    "Razão Social": "HF ENGENHARIA E EMPREENDIMENTOS LTDA",
+    "Nome fantasia": "HF ENGENHARIA E EMPREENDIMENTOS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rh@construtorariomanso.com.br",
+    "Telefone": "64 36027900",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "00412451000136",
+    "Razão Social": "P L SOUTO & CIA LTDA - ME",
+    "Nome fantasia": "PURIFICA COMERCIO E REPRESENTACOES",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "plpurificacomercio@yahoo.com.br",
+    "Telefone": "64 36213445",
+    "C020_Descricao": "COM. MOVEIS/ELETRODOMESTICOS/COLCHOES        "
+  },
+  {
+    "CPF/CNPJ": "27877605000111",
+    "Razão Social": "DULCENEA BATISTA DE SOUZA & CIA LTDA - ME",
+    "Nome fantasia": "DEBORA BIJOUX",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "lojadeborarv@gmail.com",
+    "Telefone": "64 21047490",
+    "C020_Descricao": "RELOJOARIA/JOALHERIA/SEMIJOIAS/BIJUTERIA     "
+  },
+  {
+    "CPF/CNPJ": "10713208000101",
+    "Razão Social": "QUERENCIA MAQUINAS COMERCIO E REPRESENTACAO EIRELI",
+    "Nome fantasia": "QUERENCIA MAQUINAS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@querenciamaquinas.com.br",
+    "Telefone": "64 36224400",
+    "C020_Descricao": "CONCESSIONARIA MAQ. AGRICOLAS                "
+  },
+  {
+    "CPF/CNPJ": "18820755000106",
+    "Razão Social": "IPANEMA PISCINAS LTDA - ME",
+    "Nome fantasia": "IPANEMA PISCINAS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "ipanema.andreia@gmail.com",
+    "Telefone": "64 36021479",
+    "C020_Descricao": "VENDA DE PISCINA"
+  },
+  {
+    "CPF/CNPJ": "11554553000102",
+    "Razão Social": "MORAIS E BERTA AÇAÍ LTDA",
+    "Nome fantasia": "QUERO AÇAÍ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "nfqueroacai@gmail.com",
+    "Telefone": "64 36230378",
+    "C020_Descricao": "LANCHONETE/PASTELARIA                        "
+  },
+  {
+    "CPF/CNPJ": "10225500000185",
+    "Razão Social": "APLAUSO EQUIPAMENTOS PARA EMPRESAS E EVENTOS",
+    "Nome fantasia": "APLAUSO EQUIPAMENTOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@aplausoequipamentos.com.br",
+    "Telefone": "64 36134444",
+    "C020_Descricao": "LOCAÇÃO EQUIP. SOM/ILUMINAÇÃO E ESTRUTURA "
+  },
+  {
+    "CPF/CNPJ": "03162618000146",
+    "Razão Social": "HOTEL CANADA LTDA - ME",
+    "Nome fantasia": "HOTEL CANADA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contato@canadahotel.com.br",
+    "Telefone": "64999655960",
+    "C020_Descricao": "HOTEL/ POUSADA                               "
+  },
+  {
+    "CPF/CNPJ": "22674223000177",
+    "Razão Social": "QUINELLI COMELLI  E CORRETORA DE SEGUROS LTDA",
+    "Nome fantasia": "QUINELLI SEGUROS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "thayline@quinelliseguros.com.br",
+    "Telefone": "64 36213737",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "37374964000100",
+    "Razão Social": "IMOBILIARIA REI EMPREENDIMENTOS S/S LTDA - EP",
+    "Nome fantasia": "IMOBILIARIA REI",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@gruporei.com.br",
+    "Telefone": "64 21010800",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "53309845001100",
+    "Razão Social": "PRODUTOS ALIMENTICIOS ORLANDIA S A COMERCIO E",
+    "Nome fantasia": "ARMAZEM BREJEIRO",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Industria",
+    "EMAIL": "rvdcaixa@brejeiro.com.br",
+    "Telefone": "64 32118000",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "15150996000199",
+    "Razão Social": "BRDATA TECNOLOGIA LTDA",
+    "Nome fantasia": "BRDATA TECNOLOGIA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@brdata.inf.br",
+    "Telefone": "64 36130600",
+    "C020_Descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS "
+  },
+  {
+    "CPF/CNPJ": "00804088000102",
+    "Razão Social": "J A SARAIVA",
+    "Nome fantasia": "BUFFET MILENIUM",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "buffetmilenium@hotmail.com",
+    "Telefone": "64 99071348",
+    "C020_Descricao": "BUFFET/LOCACAO DE MAT. P/ FESTAS             "
+  },
+  {
+    "CPF/CNPJ": "24836058000138",
+    "Razão Social": "RAQUEL BURALLI BRANDAO SPEROTTO - EPP",
+    "Nome fantasia": "BURALLI BOUTIQUE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "zecosperotto@hotmail.com",
+    "Telefone": "64 30540407",
+    "C020_Descricao": "VESTUARIO/MODA/ACESSORIOS                    "
+  },
+  {
+    "CPF/CNPJ": "17937789000104",
+    "Razão Social": "RIBEIRO E CAMPOS IMOVEIS LTDA - ME",
+    "Nome fantasia": "BURITIS IMOVEIS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@buritisimoveis.com",
+    "Telefone": "64 36212570",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "37630118000103",
+    "Razão Social": "CABRAL E MAIA LTDA",
+    "Nome fantasia": "CAMPEÃO SUPERMERCADOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@campeao.com.br",
+    "Telefone": "64 36110300",
+    "C020_Descricao": "SUPERMERCADOS/MERCADOS/VAREJAO/ARMAZEM/MERCEA"
+  },
+  {
+    "CPF/CNPJ": "02768607000141",
+    "Razão Social": "OTALICIO GOUVEIA DA SILVA EIRELI",
+    "Nome fantasia": "CARLINHOS MÓVEIS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "otaliciogouveia@gmail.com",
+    "Telefone": "64 36120523",
+    "C020_Descricao": "COM. MOVEIS/ELETRODOMESTICOS/COLCHOES        "
+  },
+  {
+    "CPF/CNPJ": "07191239000135",
+    "Razão Social": "PAGOTTO SERVIÇOS ESPECIALIZADOS LTDA",
+    "Nome fantasia": "PAGOTTO SERVIÇOS ESPECIALIZADOS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "cristiane@pagotto.com.br",
+    "Telefone": "64 32136158",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "10765837000185",
+    "Razão Social": "MELO E AQUINO LTDA. - ME",
+    "Nome fantasia": "CASA DA CONSTRUÇÃO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "fiscal@casadaconstrucaorv.com",
+    "Telefone": "64 36127575",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "02783975000169",
+    "Razão Social": "LOPES ASSESSORIA CONTÁBIL LTDA",
+    "Nome fantasia": "LOPES ASSESSORIA CONTÁBIL ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "felipe@lopescontabil.com.br",
+    "Telefone": "64 36114800",
+    "C020_Descricao": "ESCRITORIO CONTABIL                          "
+  },
+  {
+    "CPF/CNPJ": "01187293000120",
+    "Razão Social": "ARMAZENS GERAIS CONQUISTA LTDA - EPP",
+    "Nome fantasia": "ARMAZENS GERAIS CONQUISTA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "miriam@sementesvitoria.com.br",
+    "Telefone": "64 36214242",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "28381190000153",
+    "Razão Social": "BRUNO FREIRE LEMOOS E CIA LTDA",
+    "Nome fantasia": "ARO BIKE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "arobikerv@gmail.com",
+    "Telefone": "64 30508833",
+    "C020_Descricao": "BICICLETARIA                                 "
+  },
+  {
+    "CPF/CNPJ": "02694611000102",
+    "Razão Social": "GIMENA AUTO PECAS LTDA - ME",
+    "Nome fantasia": "AUTO PECAS PILOTO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "autopecaspilotofinaceiro@gmail.com",
+    "Telefone": "64 36026600",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "25126481000107",
+    "Razão Social": "AUTOMASOL ENGENHARIA EIRELI",
+    "Nome fantasia": "AUTOMASOL ENGENHARIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "gustavo.lacerda@automasol.com",
+    "Telefone": "64 30510383",
+    "C020_Descricao": "INSTALAÇÃO E MANUTENÇÃO DE ENERGIA SOLAR"
+  },
+  {
+    "CPF/CNPJ": "00062851000169",
+    "Razão Social": "AUTORIO VEICULOS E EQUIPAMENTOS LTDA",
+    "Nome fantasia": "AUTORIO VEICULOS ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "contasapagar@autorio.com.br",
+    "Telefone": "64 21015100",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "12494416000192",
+    "Razão Social": "BARBOSA E ANDRADE ADVOGADOS S/S",
+    "Nome fantasia": "BARBOSA E ANDRADE ADVOGADOS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "anapaula@barbosaeandrade.com.br",
+    "Telefone": "64 36216018",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "10773870000157",
+    "Razão Social": "BATERAUTO BATERIAS LTDA - ME",
+    "Nome fantasia": "BATERAUTO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "anapaulaichiipaim@hotmail.com",
+    "Telefone": "64 36123041",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "00344893120",
+    "Razão Social": "FRANKLIN WILSON XAVIER",
+    "Nome fantasia": "RIO VERDE CARTORIO DE REGISTRO DE IMOVEIS E ANEXOS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@cartorioxavier.com",
+    "Telefone": "64 36026700",
+    "C020_Descricao": "CARTORIOS E OUTROS                           "
+  },
+  {
+    "CPF/CNPJ": "26675546000136",
+    "Razão Social": "RIO TROPICAL TRANSPORTES LTDA",
+    "Nome fantasia": "RIO TROPICAL ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financas@riotropical.com.br",
+    "Telefone": "64 36210512",
+    "C020_Descricao": "TRANSPORTE COLETIVO                          "
+  },
+  {
+    "CPF/CNPJ": "17085884000127",
+    "Razão Social": "LG MANGUEIRAS E PARAFUSOS LTDA - ME",
+    "Nome fantasia": "BRASIL MANGUEIRAS E PARAFUSOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiropagamento@brasilmangueiras.com.br",
+    "Telefone": "64 36023131",
+    "C020_Descricao": "FERRAGISTA                                   "
+  },
+  {
+    "CPF/CNPJ": "37271590000105",
+    "Razão Social": "J A ALIEVI LTDA - ME",
+    "Nome fantasia": "JACOB IMOVEIS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "andreia@jacobimoveis.com.br",
+    "Telefone": "64 36210141",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "04349867000108",
+    "Razão Social": "J.A. CONTABIL EIRELI - ME",
+    "Nome fantasia": "J.A. CONTABIL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "recepcao@jacontabilrv.com.br",
+    "Telefone": "64 36122009",
+    "C020_Descricao": "ESCRITORIO CONTABIL                          "
+  },
+  {
+    "CPF/CNPJ": "02498705000297",
+    "Razão Social": "IPIRANGA RECICLAGEM DE METAIS LTDA",
+    "Nome fantasia": "IPIRANGA METAIS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "nubia@ipirangametais.com.br",
+    "Telefone": "64 36126600",
+    "C020_Descricao": "SUCATARIA / FERRO VELHO                      "
+  },
+  {
+    "CPF/CNPJ": "21583219000130",
+    "Razão Social": "LARA MARTINS ADVOGADOS",
+    "Nome fantasia": "LARA MARTINS ADVOGADOS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "deptofinanceiro@laramartinsadvogados.com.br",
+    "Telefone": "64 30513858",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "88882268691",
+    "Razão Social": "CELSO MUNIZ ODONTOLOGIA",
+    "Nome fantasia": "CELSO MUNIZ DE FREITAS",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "clinicacelsomuniz@hotmail.com",
+    "Telefone": "64 30504005",
+    "C020_Descricao": "CLINICA DE ODONTOLOGIA                       "
+  },
+  {
+    "CPF/CNPJ": "10758132000130",
+    "Razão Social": "HBM ASSESSORES PROCESSAMENTO DE DADOS LTDA",
+    "Nome fantasia": "HBM ASSESSORES",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "thainna.melo@hbmassessores.com.br",
+    "Telefone": "6430514554",
+    "C020_Descricao": "INFORMATICA/ ASSIST. TECNICA/VENDA EQUIP.    "
+  },
+  {
+    "CPF/CNPJ": "27932545000192",
+    "Razão Social": "BRASIL REGULAMENTAR LTDA",
+    "Nome fantasia": "BRASIL REGULAMENTAR",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@brasilregulamentar.com",
+    "Telefone": "64996444615",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "61160438000806",
+    "Razão Social": "BRASILATA S A EMBALAGENS METALICAS",
+    "Nome fantasia": "BRASILATA ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Industria",
+    "EMAIL": "jessica.rosa@brasilata.com.br",
+    "Telefone": "64 36118000",
+    "C020_Descricao": "INDUSTRIA METALURGICA                        "
+  },
+  {
+    "CPF/CNPJ": "64429400000361",
+    "Razão Social": "DECIO TRANSPORTADORA RETALHISTA DE COMBUSTIVEL",
+    "Nome fantasia": "DECIO TRR",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "nelson.freitas@grupodecio.com.br",
+    "Telefone": "64 36238000",
+    "C020_Descricao": "POSTOS DE GASOLINA / COM. DE OLEOS           "
+  },
+  {
+    "CPF/CNPJ": "13978765000142",
+    "Razão Social": "DELTA RIO PRODUTOS AGRICOLAS LTDA",
+    "Nome fantasia": "DELTA RIO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@deltario.agr.br",
+    "Telefone": "64 36127626",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "30380160000174",
+    "Razão Social": "DANIELLE GOMES DE OLIVEIRA",
+    "Nome fantasia": "DESENVOLVA CONSULTORIA E TREINAMENTO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeirosg@1234voce.com.br",
+    "Telefone": "62981241234",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "08707537000106",
+    "Razão Social": "DISEL DISTRIBUIDORA LTDA - ME",
+    "Nome fantasia": "DISEL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "diseldistribuidora@hotmail.com",
+    "Telefone": "64 36218300",
+    "C020_Descricao": "TELEFONIA/ASSIS TECNICA/VENDA                "
+  },
+  {
+    "CPF/CNPJ": "10989624000137",
+    "Razão Social": "FERREIRA NOGUEIRA LTDA",
+    "Nome fantasia": "DOCE MEL EMBALAGENS E FESTAS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeirodocemel@outlook.com",
+    "Telefone": "64 36211999",
+    "C020_Descricao": "COM PRODUTOS DE LIMPEZA / DESCARTAVEL / EMBALAGENS                 "
+  },
+  {
+    "CPF/CNPJ": "09209154000324",
+    "Razão Social": "DOM GABRIEL OBRAPRIMA ACABAMENTOS E MATERIAIS",
+    "Nome fantasia": "DOM GABRIEL OBRAPRIMA ACABAMENTOS E MATERIAIS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "operacional@dgobraprima.com",
+    "Telefone": "6634986324",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "33786984000137",
+    "Razão Social": "DUARTE'S CAKE LTDA",
+    "Nome fantasia": "DUARTE'S CAKE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@duartescake.com",
+    "Telefone": "64993119593",
+    "C020_Descricao": "PADARIA / CONFEITARIA / DOCERIA / CAFES      "
+  },
+  {
+    "CPF/CNPJ": "37856879000188",
+    "Razão Social": "ALTEMAR SILVEIRA DA SILVA - ME",
+    "Nome fantasia": "DUAS RODAS PECAS E ACESSORIOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "duasrodasrv@gmail.com",
+    "Telefone": "64 36212049",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "26316688000107",
+    "Razão Social": "KADOSH SOLAR LTDA - EPP",
+    "Nome fantasia": "ECO SOLAR ENERGIA RENOVAVEIS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "RAFAELA@ECOSOLARENERGY.COM.BR",
+    "Telefone": "64 30506606",
+    "C020_Descricao": "INSTALAÇÃO E MANUTENÇÃO DE ENERGIA SOLAR"
+  },
+  {
+    "CPF/CNPJ": "07392073850",
+    "Razão Social": "EDILAMAR FAGUNDES",
+    "Nome fantasia": "EDILAMAR FAGUNDES",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "edilampsico@yahoo.com.br",
+    "Telefone": "64992064085",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "22124244000119",
+    "Razão Social": "OPEN CRIATIVA RV LTDA",
+    "Nome fantasia": "OPEN CRIATIVA RV LTDA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ednaldoiam@hotmail.com",
+    "Telefone": "64992027782",
+    "C020_Descricao": "fabricação de painéis, letreiros e placas de qualquer material"
+  },
+  {
+    "CPF/CNPJ": "01073899000135",
+    "Razão Social": "TELEVISAO RIVIERA LTDA",
+    "Nome fantasia": "TV ANHANGUERA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "daniel.goncalves@tvanhanguera.com.br",
+    "Telefone": "62 32501105",
+    "C020_Descricao": "RADIO / TV / JORNAL                          "
+  },
+  {
+    "CPF/CNPJ": "07172382000694",
+    "Razão Social": "UMUARAMA MOTORS COMERCIO E SERVICOS LTDA",
+    "Nome fantasia": "UMUARAMA MOTORS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "contasapagargo@grupoumuarama.com.br",
+    "Telefone": "64 36241500",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "37275625000176",
+    "Razão Social": "UNIMED COOPERATIVA DE TRABALHO MEDICO  LTDA",
+    "Nome fantasia": "UNIMED RIO VERDE",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "nfe@unimedrv.com.br",
+    "Telefone": "64 21014900",
+    "C020_Descricao": "ASSOCIACOES DE CLASSES  / ENTIDADES                   "
+  },
+  {
+    "CPF/CNPJ": "02033677000151",
+    "Razão Social": "UNIODONTO SUD. GO. COOP. DE TRABALHO ODONTOLO",
+    "Nome fantasia": "UNIODONTO",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "gerencia@uniodontosudoeste.com.br",
+    "Telefone": "64 36216063",
+    "C020_Descricao": "CLINICA DE ODONTOLOGIA                       "
+  },
+  {
+    "CPF/CNPJ": "18836447000160",
+    "Razão Social": "UNIVERSAL SERVIÇOS DE FREIOS LTDA",
+    "Nome fantasia": "UNIVERSAL FREIOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "universal_freios@hotmail.com",
+    "Telefone": "6436230486",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "05619434000198",
+    "Razão Social": "B.B.ARAUJO LTDA - ME",
+    "Nome fantasia": "VALLET RODOTEL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "vallet.vallet@yahoo.com.br",
+    "Telefone": "64 36211913",
+    "C020_Descricao": "MOTEL                                        "
+  },
+  {
+    "CPF/CNPJ": "00178950000100",
+    "Razão Social": "VALONGO SERVICOS ADMINISTRATIVOS LTDA",
+    "Nome fantasia": "VALONGO ESCRITORIO RURAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "valongo@grupovalongo.com.br",
+    "Telefone": "64 36213034",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "02270243000256",
+    "Razão Social": "VARELLA VEICULOS PESADOS LTDA",
+    "Nome fantasia": "VARELLA VEICULOS PESADOS LTDA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "contasapagar.rvd@varellapesados.com.br",
+    "Telefone": "64 36115500",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "02549756000381",
+    "Razão Social": "VANDA MARTINS DA SILVA - EPP",
+    "Nome fantasia": "VENUS PRIME MOTEL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "auditoria@venusmotel.com.br",
+    "Telefone": "64 36122300",
+    "C020_Descricao": "MOTEL                                        "
+  },
+  {
+    "CPF/CNPJ": "10912336000184",
+    "Razão Social": "VERC CONSTRUÇÃO E INDUSTRIA LTDA",
+    "Nome fantasia": "VERC CONSTRÇÃO E INDUSTRIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@verc.com.br",
+    "Telefone": "64 36225000",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "03466660000150",
+    "Razão Social": "VERIDICA GESTAO CONTABIL SS LTDA - ME",
+    "Nome fantasia": "VERIDICA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "marysa.araujo@veridica.com.br",
+    "Telefone": "64 36215599",
+    "C020_Descricao": "ESCRITORIO CONTABIL                          "
+  },
+  {
+    "CPF/CNPJ": "07339308000105",
+    "Razão Social": "VIDEG VIDRACARIA E DECORACOES GOIAS LTDA",
+    "Nome fantasia": "VIDEG",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeirovideg@hotmail.com",
+    "Telefone": "64 36238956",
+    "C020_Descricao": "VIDRACARIA / COM. VIDROS TEMPERADOS          "
+  },
+  {
+    "CPF/CNPJ": "79687588000587",
+    "Razão Social": "VIDEPLAST INDUSTRIA DE EMBALAGENS LTDA",
+    "Nome fantasia": "VIDEPLAST",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Industria",
+    "EMAIL": "michelly.campos@videplast.com.br",
+    "Telefone": "64 36204500",
+    "C020_Descricao": "INDUSTRIA DE PLASTICOS/BORRACHA              "
+  },
+  {
+    "CPF/CNPJ": "12903823000106",
+    "Razão Social": "VANYZIA DO CARMO BARBOSA VCB - ME",
+    "Nome fantasia": "VISOTICA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "visotica.rv@gmail.com",
+    "Telefone": "64 36215559",
+    "C020_Descricao": "OTICAS                                       "
+  },
+  {
+    "CPF/CNPJ": "07690488000175",
+    "Razão Social": "GW SISTEMAS DE EQUIPAMENTOS ELETRONICOS LTDA",
+    "Nome fantasia": "WG ALARMES",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro_wgalarme@hotmail.com",
+    "Telefone": "64 36213240",
+    "C020_Descricao": "SEGURANCA PATRIMONIAL                        "
+  },
+  {
+    "CPF/CNPJ": "05434438000100",
+    "Razão Social": "DANTAS & CASTRO LTDA - EPP",
+    "Nome fantasia": "YPIRANGA AGRICOLA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "ypiranga@ypirangarv.com.br",
+    "Telefone": "64 36204000",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "00000000772160",
+    "Razão Social": "BANCO DO BRASIL SA",
+    "Nome fantasia": "EMPRESA RIO VERDE GO",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "montalvao@bb.com.br",
+    "Telefone": "64 39013630",
+    "C020_Descricao": "BANCOS                                       "
+  },
+  {
+    "CPF/CNPJ": "26768488000195",
+    "Razão Social": "EDUCON INST. GLOBAL DE EDUCAÇÃO E CARREIRA LTDA",
+    "Nome fantasia": "EDUCON EDUCAÇÃO E CARREIRA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "kamila.machado@fgv.educon.com.br",
+    "Telefone": "62 39314401",
+    "C020_Descricao": "FACULDADES/ UNIVERSIDADES                    "
+  },
+  {
+    "CPF/CNPJ": "37843208000182",
+    "Razão Social": "EQUIP CAR SOM E ACESSORIOS LTDA - ME",
+    "Nome fantasia": "EQUIP CAR",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "equip-car@bol.com.br",
+    "Telefone": "64 36121505",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "01815216000178",
+    "Razão Social": "UNIRV - UNIVERSIDADE DE RIO VERDE",
+    "Nome fantasia": "FESURV",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "compras.junior@unirv.edu.br",
+    "Telefone": "64 36112200",
+    "C020_Descricao": "FACULDADES/ UNIVERSIDADES                    "
+  },
+  {
+    "CPF/CNPJ": "32190933000185",
+    "Razão Social": "KS PARTNERS CORRETORA DE SEG E SOLUÇÕES FINANCEIRAS LTDA ",
+    "Nome fantasia": "KS PARTNERS CORRETORA DE SEG E SOLUÇÕES FINANCEIRAS LTDA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contato@kazacapital.com.br",
+    "Telefone": "64999066092",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "02233044000197",
+    "Razão Social": "BPS SISTEMAS DE AUTOMACAO LTDA - EPP",
+    "Nome fantasia": "BPS SISTEMAS DE AUTOMACAO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@bpsonline.com.br",
+    "Telefone": "64 36221208",
+    "C020_Descricao": "SISTEMAS DE AUTOMACAO COMERCIAL              "
+  },
+  {
+    "CPF/CNPJ": "06329870000195",
+    "Razão Social": "ELI AMERICO DE PAULA TERRAPLANAGEM ME",
+    "Nome fantasia": "LEE RETROESCAVADEIRA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro.grupolee@gmail.com",
+    "Telefone": "64 36130910",
+    "C020_Descricao": "LOCADORA DE MAQUINAS                         "
+  },
+  {
+    "CPF/CNPJ": "05657610000186",
+    "Razão Social": "LM LOCA TUDO LTDA ME",
+    "Nome fantasia": "LOCA TUDO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "locatudorv@hotmail.com",
+    "Telefone": "64 36214341",
+    "C020_Descricao": "LOCADORA DE MAQUINAS                         "
+  },
+  {
+    "CPF/CNPJ": "73605578000145",
+    "Razão Social": "MARIA MARGARETE PERETTO - ME",
+    "Nome fantasia": "LOJA GAUCHA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "margareteperetto@hotmail.com",
+    "Telefone": "64 36212022",
+    "C020_Descricao": "VESTUARIO/MODA/ACESSORIOS                    "
+  },
+  {
+    "CPF/CNPJ": "03695601000154",
+    "Razão Social": "MARCIANO JOSE CIBULSKI E CIA LTDA - ME",
+    "Nome fantasia": "LOJÃO DO SUL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@sulmagazine.com",
+    "Telefone": "64 36213102",
+    "C020_Descricao": "COM. DE TECIDOS/CAMA MESA E BANHO            "
+  },
+  {
+    "CPF/CNPJ": "78127785172",
+    "Razão Social": "LUIZ EGIDIO GALETTI",
+    "Nome fantasia": "",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "luizegidio@gmail.com",
+    "Telefone": "64 99293955",
+    "C020_Descricao": "BAR/CHOPPERIA                                "
+  },
+  {
+    "CPF/CNPJ": "01926006000157",
+    "Razão Social": "MADEFER FERRAGENS E MDF LTDA - EPP",
+    "Nome fantasia": "MADEFER",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@madeferonline.com.br",
+    "Telefone": "64 36211140",
+    "C020_Descricao": "FERRAGISTA                                   "
+  },
+  {
+    "CPF/CNPJ": "01501325000110",
+    "Razão Social": "ISOLANDER ANTONIO TESSER E CIA LTDA",
+    "Nome fantasia": "MADEIREIRA TAPURAH",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "tapurahrioverde@gmail.com",
+    "Telefone": "64 36132593",
+    "C020_Descricao": "MARCENARIA/ SERRALHERIA / CARPINTARIA        "
+  },
+  {
+    "CPF/CNPJ": "14264951000182",
+    "Razão Social": "MANANCIAL PROJETOS LTDA",
+    "Nome fantasia": "MANANCIAL PROJETOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "julianadantasrv@hotmail.com",
+    "Telefone": "64984244501",
+    "C020_Descricao": "FABRICAÇÃO DE ADESIVOS E SELANTES"
+  },
+  {
+    "CPF/CNPJ": "22929792000116",
+    "Razão Social": "MARA SILVA QUEIROZ DO AMARAL - ME",
+    "Nome fantasia": "MARA AMARAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "maraamaralboutique@gmail.com",
+    "Telefone": "64 36212335",
+    "C020_Descricao": "COM. ROUPAS/INTIMAS                          "
+  },
+  {
+    "CPF/CNPJ": "08987359000106",
+    "Razão Social": "KEZ INSTALAÇÕES ELÉTRICAS LTDA - ME",
+    "Nome fantasia": "SINERGIA INSTALAÇÕES ELÉTRICAS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "comercial@eletrizar.com.br",
+    "Telefone": "64 36222010",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "02705481001219",
+    "Razão Social": "SOMAFERTIL LTDA",
+    "Nome fantasia": "SOMAFERTIL",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "saloa@somafertil.com.br",
+    "Telefone": "64 36113300",
+    "C020_Descricao": "ACESSORIOS E PECAS PARA MAQUINAS AGRICOLAS"
+  },
+  {
+    "CPF/CNPJ": "04423840000118",
+    "Razão Social": "MARCIANO, LEAO E MAFFISSONI E ADVOGADOS ASSO",
+    "Nome fantasia": "MARCIANO E MAFFISSONI",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ricardoleao@mlmadvogados.com.br",
+    "Telefone": "64 36214362",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "10570808000168",
+    "Razão Social": "GERMINAR AGRO ANALISES LTDA",
+    "Nome fantasia": "GERMINAR",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "administrativo@germinargo.com.br",
+    "Telefone": "64 36126102",
+    "C020_Descricao": "ESCRITORIO AGRONOMICO/ AMBIENTAL             "
+  },
+  {
+    "CPF/CNPJ": "70126615934",
+    "Razão Social": "GILSON CESAR RODRIGUES",
+    "Nome fantasia": "GILSON CESAR RODRIGUES",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "administrativo@melottoerodrigues.adv.br",
+    "Telefone": "64981397070",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "16713303000191",
+    "Razão Social": "HIDRO VOLT MATERIAIS ELETRICOS E HIDRAULICOS",
+    "Nome fantasia": "HIDROVOLT",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "expedicao@hidrovoltrv.com.br",
+    "Telefone": "64 36234519",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "20199489000180",
+    "Razão Social": "CLINICA DE ESTETICA MARIMAR AMARAL EIRELI",
+    "Nome fantasia": "MARIMAR AMARAL SOBRANCELHA E ESTETI",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ricardo26amaral@gmail.com",
+    "Telefone": "64996435558",
+    "C020_Descricao": "CLINICA DE ESTETICA                          "
+  },
+  {
+    "CPF/CNPJ": "04126096000190",
+    "Razão Social": "HOTEL BONS TEMPOS LTDA - EPP",
+    "Nome fantasia": "HOTEL BONS TEMPOS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@hotelbonstempos.com.br",
+    "Telefone": "6436113711",
+    "C020_Descricao": "HOTEL/ POUSADA                               "
+  },
+  {
+    "CPF/CNPJ": "01008713003422",
+    "Razão Social": "FUJIOKA ELETRO IMAGEM S.A",
+    "Nome fantasia": "FUJIOKA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "adm034@fujioka.inf.br",
+    "Telefone": "6436242350",
+    "C020_Descricao": "COM. MOVEIS/ELETRODOMESTICOS/COLCHOES        "
+  },
+  {
+    "CPF/CNPJ": "18810532000150",
+    "Razão Social": "FUTURA IMOVEIS LTDA",
+    "Nome fantasia": "FUTURA IMOVEIS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "atendimento@futuraaluguel.com.br",
+    "Telefone": "64360270000",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "24027133000110",
+    "Razão Social": "FUTURA TRANSPORTES E SERVIÇOS LTDA - ME",
+    "Nome fantasia": "FUTURA TRANSPORTES E SERVIÇOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "axesilva@uol.com.br",
+    "Telefone": "6436120861",
+    "C020_Descricao": "TRANSPORTADORA                               "
+  },
+  {
+    "CPF/CNPJ": "06158097000141",
+    "Razão Social": "GRÁFICA FRANCO MARTINS LTDA - ME",
+    "Nome fantasia": "GRÁFICA VISÃO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "graficavisao1@gmail.com",
+    "Telefone": "64 36212154",
+    "C020_Descricao": "GRAFICA / EDITORAS                           "
+  },
+  {
+    "CPF/CNPJ": "24780561000119",
+    "Razão Social": "PADILHA & PADILHA LTDA - ME",
+    "Nome fantasia": "GRIFF'S MODA MASCULINA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "padilhaepadilha@terra.com.br",
+    "Telefone": "6436131451",
+    "C020_Descricao": "VESTUARIO/MODA/ACESSORIOS                    "
+  },
+  {
+    "CPF/CNPJ": "00012377000160",
+    "Razão Social": "CEREAL COMÉRCIO EXPORTAÇÃO E REPRESENTAÇÃO AG",
+    "Nome fantasia": "GRUPO CEREAL",
+    "Classificação": "Empresa de grande porte",
+    "Categoria": "Industria",
+    "EMAIL": "lydia.assuncao@grupocereal.com.br",
+    "Telefone": "64 36118400",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "02437218000133",
+    "Razão Social": "MARSOL MAQUINAS AGRICOLAS LTDA",
+    "Nome fantasia": "MARSOL",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "marsol@marsolpecas.com.br",
+    "Telefone": "64 36120086",
+    "C020_Descricao": "ACESSORIOS E PECAS PARA MAQUINAS AGRICOLAS"
+  },
+  {
+    "CPF/CNPJ": "29890889000101",
+    "Razão Social": "MARTINS RIBEIRO SOCIEDADE INDIVIDUAL DE ADVOC",
+    "Nome fantasia": "MARTINS RIBEIRO SOCIEDADE INDIVIDUAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "luciano_adv2003@yahoo.com.br",
+    "Telefone": "64 36211640",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "33656729002385",
+    "Razão Social": "IGUAÇU MÁQUINAS AGRICOLAS LTDA",
+    "Nome fantasia": "IGUAÇU MÁQUINAS AGRICOLAS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "suprimentos@iguacumaquinas.com.br",
+    "Telefone": "64 36111722",
+    "C020_Descricao": "CONCESSIONARIA MAQ. AGRICOLAS                "
+  },
+  {
+    "CPF/CNPJ": "01715509000183",
+    "Razão Social": "GUIMAQ - GUIMARAES MAQUINAS AGRICOLAS LTDA",
+    "Nome fantasia": "GUIMAQ - GUIMARAES MAQUINAS AGRICOL",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro.rvd@guimaq.com.br",
+    "Telefone": "64 21010020",
+    "C020_Descricao": "ACESSORIOS E PECAS PARA MAQUINAS AGRICOLAS"
+  },
+  {
+    "CPF/CNPJ": "25120551000110",
+    "Razão Social": "NEVES MÁQUINAS AGRÍCOLA LTDA - EPP",
+    "Nome fantasia": "GUIMARÃES AGRÍCOLA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "nevesmaqagri@uol.com.br",
+    "Telefone": "64 36122808",
+    "C020_Descricao": "CONCESSIONARIA MAQ. AGRICOLAS                "
+  },
+  {
+    "CPF/CNPJ": "41867601000183",
+    "Razão Social": "VINICIUS OLIVEIRA DE SIQUEIRA LTDA-ME",
+    "Nome fantasia": "OLIGOFLORA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "nalaura_@hotmail.com",
+    "Telefone": "17981143607",
+    "C020_Descricao": "CLINICA DE ESTETICA                          "
+  },
+  {
+    "CPF/CNPJ": "03883898000181",
+    "Razão Social": "LÓGICA CONSTRUTORA LTDA - ME",
+    "Nome fantasia": "LÓGICA CONSTRUTORA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "cristina@logicaconstrutora.com",
+    "Telefone": "64 30503039",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "39281210000130",
+    "Razão Social": "FINCAPITAL SOLUÇÕES FINANCEIRAS ",
+    "Nome fantasia": "FINCAPITAL ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "diego.souza@fincapital.net.br",
+    "Telefone": "62993033434",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "27083970000154",
+    "Razão Social": "RV VIDROS EIRELLI",
+    "Nome fantasia": "RV ALUMINIUM",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "roberto.rvaluminium@gmail.com",
+    "Telefone": "64999534933",
+    "C020_Descricao": "VIDRACARIA / COM. VIDROS TEMPERADOS          "
+  },
+  {
+    "CPF/CNPJ": "28245433000126",
+    "Razão Social": "MY BROKER RIO VERDE LTDA",
+    "Nome fantasia": "MY BROKER RIO VERDE LTDA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro.rv@mybrokerimoveis.com.br",
+    "Telefone": "64992281415",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "02466305000119",
+    "Razão Social": "ENEDINA SEBASTIANA SILVA & CIA LTDA - ME",
+    "Nome fantasia": "RESTAURANTE COLHER DE PAU",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "fer.barbosa@hotmail.com",
+    "Telefone": "64996998115",
+    "C020_Descricao": "RESTAURANTE/CHURRASCARIA                     "
+  },
+  {
+    "CPF/CNPJ": "03573954000181",
+    "Razão Social": "RODOMANO IMPLEMENTOS RODOVIÁRIOS LTDA ME",
+    "Nome fantasia": "RODOMANO CAMINHÕES E CARRETAS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "poliana@rodomano.com",
+    "Telefone": "64999282610",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "30450978000116",
+    "Razão Social": "CARVALHO E COSSETIN ESCRIT COMPARTILHADOS LTDA",
+    "Nome fantasia": "ESPAÇO CAPITAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "capitalespaco@gmail.com",
+    "Telefone": "64999866816",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "33155314000112",
+    "Razão Social": "PAULA REGINA SILVA SIMOES",
+    "Nome fantasia": "PAULA SIMOES",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "simoespaula@gmail.com",
+    "Telefone": "6499633217",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "35600491000196",
+    "Razão Social": "AMBIFORT LTDA",
+    "Nome fantasia": "AMBIFORT SOLUCOES AMBIENTAIS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@ambifort.com.br",
+    "Telefone": "6421420550",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "07620257000195",
+    "Razão Social": "AFL SERVIÇOS EIRELI - ME",
+    "Nome fantasia": "SOLUÇÃO TECNOLOGIA DA INFORMAÇÃO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@consultoriasolucao.com",
+    "Telefone": "64999649027",
+    "C020_Descricao": "INFORMATICA/ ASSIST. TECNICA/VENDA EQUIP.    "
+  },
+  {
+    "CPF/CNPJ": "41539797000187",
+    "Razão Social": "TREINATEC BRASIL EIRELI",
+    "Nome fantasia": "TREINATEC BRASIL EIRELI",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "lelia@rvtreinatec-brasil.com",
+    "Telefone": "64992183714",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "28239092000186",
+    "Razão Social": "ARLETE CARMONA BELLODI",
+    "Nome fantasia": "ARLETE CARMANA BELLODI",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@ecopestbrasil.com.br",
+    "Telefone": "6436235320",
+    "C020_Descricao": "CONTROLE DE PRAGAS/ DETETIZACAO              "
+  },
+  {
+    "CPF/CNPJ": "37842886000120",
+    "Razão Social": "DEBORA LEITE ASSESSORIA IMOBILIARIA",
+    "Nome fantasia": "DL HOMES ASSESSORIA IMOBILIARIA LTDA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "alugueldlhomes@gmail.com",
+    "Telefone": "64 30500041",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "20519569000175",
+    "Razão Social": "ALLAN PRODUTOS AUTOMOTIVOS E RESIDENCIAIS LTDA",
+    "Nome fantasia": "ALLAN PRODUTOS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "allanprodutos@hotmail.com",
+    "Telefone": "6436236020",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "44017801000135",
+    "Razão Social": "GABRIEL DE LIMA MORAES SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+    "Nome fantasia": "GABRIEL MORAES ADVOCACIA TRIBUTARIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "gabrielmoraes@aibesadvogados.com.br",
+    "Telefone": "6436110622",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "43824851000161",
+    "Razão Social": "ALVVO CONSULTORIA IMOBILIARIA LTDA",
+    "Nome fantasia": "ALVVO CONSULTORIA IMOBILIARIA LTDA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "fernanda@alvvoimob.com.br",
+    "Telefone": "64992312141",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "42955631000104",
+    "Razão Social": "SALUS RECURSOS HUMANOS LTDA",
+    "Nome fantasia": "SALUS RECURSOS HUMANOS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "administrativo@salusrh.com.br",
+    "Telefone": "64996028200",
+    "C020_Descricao": "EMPRESA RECURSOS HUMANOS                             "
+  },
+  {
+    "CPF/CNPJ": "36143548000138",
+    "Razão Social": "RL PANIFICAÇÃO LTDA",
+    "Nome fantasia": "PANDORE PANIFICAÇÃO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@pandore.com.br",
+    "Telefone": "64 30502730",
+    "C020_Descricao": "PADARIA / CONFEITARIA / DOCERIA / CAFES      "
+  },
+  {
+    "CPF/CNPJ": "08413723000396",
+    "Razão Social": "CONCEITO AGRICOLA REPRE. E COM. DE PROD. AGROPECUARIOS LTDA",
+    "Nome fantasia": "CONCEITO AGRICOLA ",
+    "Classificação": "Empresa de grande porte",
+    "Categoria": "Comercio",
+    "EMAIL": "thays.ribeiro@grupoconceito.com",
+    "Telefone": "64 36122010",
+    "C020_Descricao": "ESCRITORIO AGRONOMICO/ AMBIENTAL             "
+  },
+  {
+    "CPF/CNPJ": "44665155000112",
+    "Razão Social": "TRON INFORMATICA RIO VERDE LTDA",
+    "Nome fantasia": "TRON INFORMATICA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "neiryellen@tron.com.br",
+    "Telefone": "6436205700",
+    "C020_Descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS "
+  },
+  {
+    "CPF/CNPJ": "40006584000127",
+    "Razão Social": "IMPÉRIO TINTAS E ACESSÓRIOS LTDA",
+    "Nome fantasia": "IMPÉRIO TINTAS E ACESSÓRIOS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "mauricio.ebeling@imperiotintas.com",
+    "Telefone": "64 21424551",
+    "C020_Descricao": "COMERCIO DE TINTAS                           "
+  },
+  {
+    "CPF/CNPJ": "30566045000199",
+    "Razão Social": "R.A.A. DE MIRANDA DONA CECILIA HOME",
+    "Nome fantasia": "DONA CECILIA HOME",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "donaceciliahomeadm@gmail.com",
+    "Telefone": "6436122187",
+    "C020_Descricao": "PERFUMARIA / COSMETICOS                      "
+  },
+  {
+    "CPF/CNPJ": "04707547000182",
+    "Razão Social": "DELTA IND. DISTRIBUIÇÃO E COMERCIO VIDROS E ALUMINIOS EIRELI",
+    "Nome fantasia": "DELTA ALUMINIO",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "boletos@deltaaluminios.com.br",
+    "Telefone": "6436223187",
+    "C020_Descricao": "VIDRACARIA / COM. VIDROS TEMPERADOS          "
+  },
+  {
+    "CPF/CNPJ": "24680129000156",
+    "Razão Social": "AFINARE CENTRO DE EMAGRECIMENTO E ESTÉTICA ",
+    "Nome fantasia": "AFINARE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "afinare16@gmail.com",
+    "Telefone": "64996256669",
+    "C020_Descricao": "CLINICA DE ESTETICA                          "
+  },
+  {
+    "CPF/CNPJ": "30543018000109",
+    "Razão Social": "ELIANE FRANCISCA BAZZO",
+    "Nome fantasia": "GM EVENTOS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "elianebazzo@hotmail.com",
+    "Telefone": "64993049191",
+    "C020_Descricao": "CERIMONIAL/EVENTOS/DECORACAO                 "
+  },
+  {
+    "CPF/CNPJ": "03766480000194",
+    "Razão Social": "IMOBILIAL IMOVEIS LTDA",
+    "Nome fantasia": "IMOBILIAL IMOVEIS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "imobilialimoveis@hotmail.com",
+    "Telefone": "64 36206666",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "36906357000180",
+    "Razão Social": "MH SERVIÇOS DE ANÁLISES FINANCEIRAS LTDA",
+    "Nome fantasia": "MAIS ASSESSORIA EM CRÉDITO IMOBILIÁRIO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "merycastro0907@gmail.com",
+    "Telefone": "64 21422235",
+    "C020_Descricao": "ESCRITORIO COBRANCA                          "
+  },
+  {
+    "CPF/CNPJ": "08438057000189",
+    "Razão Social": "MARCA CONSTRUTORA",
+    "Nome fantasia": "MARCA CONSTRUTORA E INCORPORADORA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiromarcaconstrutora@gmail.com",
+    "Telefone": "64992077759",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "22721426000177",
+    "Razão Social": "MICHELLE RAMOS SOARES",
+    "Nome fantasia": "JOLINNA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "jolinna2025@gmail.com",
+    "Telefone": "64992020151",
+    "C020_Descricao": "RELOJOARIA/JOALHERIA/SEMIJOIAS/BIJUTERIA     "
+  },
+  {
+    "CPF/CNPJ": "19928970000180",
+    "Razão Social": "ESCOLA BILINGUE GUERRA EIRELI",
+    "Nome fantasia": "ESCOLA BILINGUE GUERRA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@escolacanadenservgo.com.br",
+    "Telefone": "00000000000",
+    "C020_Descricao": "ESCOLA DE IDIOMAS                            "
+  },
+  {
+    "CPF/CNPJ": "29167471000170",
+    "Razão Social": "MARIA FERNANDA PINTO DO VALE ROCHELLE",
+    "Nome fantasia": "ESTETICA E HARMONIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "drafernandapinto@hotmail.com",
+    "Telefone": "64999256986",
+    "C020_Descricao": "CLINICA DE ESTETICA                          "
+  },
+  {
+    "CPF/CNPJ": "01463817000169",
+    "Razão Social": "PAULO CAMPOS ADVOGADOS ASSOCIADOS S/S",
+    "Nome fantasia": "PAULO CAMPOS ADVOGADOS ASSOCIADOS S/S",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "paulocamposadv@controlfbpo.com",
+    "Telefone": "64 36210033",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "08694801000106",
+    "Razão Social": "BRAZVEP MECANICA LTDA ",
+    "Nome fantasia": "BRAZVEP TRUCK CENTER ",
+    "Classificação": "Empresa de grande porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "controledeprocesso@brazvep.com",
+    "Telefone": "64 36231769",
+    "C020_Descricao": "OFICINA MECANICA / ELETRICA                  "
+  },
+  {
+    "CPF/CNPJ": "20802976000195",
+    "Razão Social": "GLOBO ASSESSORIA COMERCIAL LTDA",
+    "Nome fantasia": "GLOBO CEREAIS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "confirmacao@globocereais.com",
+    "Telefone": "64 30508400",
+    "C020_Descricao": "Corretora de contrato de mercadorias"
+  },
+  {
+    "CPF/CNPJ": "16514450000132",
+    "Razão Social": "V DOS SANTOS BRITO ",
+    "Nome fantasia": "NEIA FASHION HAIR",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "neiasantos434@gmail.com",
+    "Telefone": "64 36120738",
+    "C020_Descricao": "SALAO DE BELEZA                              "
+  },
+  {
+    "CPF/CNPJ": "07372569000127",
+    "Razão Social": "INSTITUTO DE CARDIOLOGIA E RADIOLOGIA ",
+    "Nome fantasia": "ICRI - INSTITUTO DE CARDIOLOGIA E RADIOLOGIA INTERVENCION",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "icrirv@icrirv.com.br",
+    "Telefone": "64992646938",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "30726395072",
+    "Razão Social": "FLAVIO FAEDO",
+    "Nome fantasia": "FLAVIO FAEDO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@grupofaedo.com.br",
+    "Telefone": "64981274350",
+    "C020_Descricao": "ESCRITORIO AGRONOMICO/ AMBIENTAL             "
+  },
+  {
+    "CPF/CNPJ": "03817702000150",
+    "Razão Social": "VOLUS INSTITUIÇÃO DE PAGAMENTO LTDA",
+    "Nome fantasia": "VOLUS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@volus.com",
+    "Telefone": "64 30035573",
+    "C020_Descricao": "EMISSÃO DE VALE ALIMENTAÇÃO/TRANSPORTE E SIMILARES "
+  },
+  {
+    "CPF/CNPJ": "44185144000135",
+    "Razão Social": "DIVINO BARBOSA NOBREGA ",
+    "Nome fantasia": "HELO FERRAZ JOIAS EM PRATA",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "heloferrazpratas@gmail.com",
+    "Telefone": "64992650165",
+    "C020_Descricao": "RELOJOARIA/JOALHERIA/SEMIJOIAS/BIJUTERIA     "
+  },
+  {
+    "CPF/CNPJ": "00055698000142",
+    "Razão Social": "ADEGA SALGADOS LTDA ",
+    "Nome fantasia": "ADEGA SALGADOS LTDA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "adegasalgados@gmail.com",
+    "Telefone": "64 36211103",
+    "C020_Descricao": "PADARIA / CONFEITARIA / DOCERIA / CAFES      "
+  },
+  {
+    "CPF/CNPJ": "45820970000171",
+    "Razão Social": "NANOTEM IMPERMEABILIZACOES LTDA",
+    "Nome fantasia": "NANOTEM",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "franquia.go02@techdry.com.br",
+    "Telefone": "62981474415",
+    "C020_Descricao": "CONSERVACAO E LIMPEZA                        "
+  },
+  {
+    "CPF/CNPJ": "44861338000103",
+    "Razão Social": "CRISTIANE BATISTA DE OLIVEIRA",
+    "Nome fantasia": "CRISTIANE BATISTA DE OLIVEIRA",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "cristianebo@icloud.com",
+    "Telefone": "00000000000",
+    "C020_Descricao": "PADARIA / CONFEITARIA / DOCERIA / CAFES      "
+  },
+  {
+    "CPF/CNPJ": "32540127000190",
+    "Razão Social": "TRIXX APP SOLUTIONS LTDA",
+    "Nome fantasia": "TRIXX APP SOLUTIONS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "sandra@trixxapp.com.br",
+    "Telefone": "64 99959902",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "02608706000166",
+    "Razão Social": "CREDIMAIS INSTITUIÇÃO DE CREDITO PRODUTIVO POPULAR ",
+    "Nome fantasia": "CREDIMAIS CERRADO",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "nathalia@credimaisrv.com.br",
+    "Telefone": "64999313516",
+    "C020_Descricao": "BANCOS                                       "
+  },
+  {
+    "CPF/CNPJ": "08950019000100",
+    "Razão Social": "IRANILDA JESUS RIBEIRO SILVA ",
+    "Nome fantasia": "ITALYAN SORVETES & CIA ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "iranildairemar@hotmail.com",
+    "Telefone": "64984222545",
+    "C020_Descricao": "SORVETERIA                                   "
+  },
+  {
+    "CPF/CNPJ": "11703662000144",
+    "Razão Social": "TRAVELEX BANCO DE CAMBIO S.A",
+    "Nome fantasia": "TRAVELEX BANCO DE CAMBIO S.A",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "marketing@travelexbank.com.br",
+    "Telefone": "11992616858",
+    "C020_Descricao": "BANCOS                                       "
+  },
+  {
+    "CPF/CNPJ": "35369136000158",
+    "Razão Social": "HS ENSINO DE IDIOMAS LTDA ",
+    "Nome fantasia": "INFLUX ENGLISH SCHOOL",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "direcaorioverde@influx.com.br",
+    "Telefone": "64 36226500",
+    "C020_Descricao": "ESCOLA DE IDIOMAS                            "
+  },
+  {
+    "CPF/CNPJ": "35323262000171",
+    "Razão Social": "ML BABY EIRELI ",
+    "Nome fantasia": "ML BABY EIRELI ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiromlbaby@gmail.com",
+    "Telefone": "64 36212195",
+    "C020_Descricao": "VESTUARIO/MODA/ACESSORIOS                    "
+  },
+  {
+    "CPF/CNPJ": "40056209000191",
+    "Razão Social": "LAPIDAR DESENVOLVIMENTO HUMANO LTDA",
+    "Nome fantasia": "LAPIDAR DESENVOLVIMENTO HUMANO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "robertonatanael.nr@gmail.com",
+    "Telefone": "64984592636",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "42452978000134",
+    "Razão Social": "BRASIL INVESTIMENTOS RIO VERDE LTDA",
+    "Nome fantasia": "BRASIL INVESTIMENTOS RIO VERDE LTDA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "unidaderioverde@licenciadoademicon.com.br",
+    "Telefone": "64992587386",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "02928356000115",
+    "Razão Social": "RÁDIO 96 FM LTDA ",
+    "Nome fantasia": "RÁDIO 96 FM ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "faturamento@radio96fm.com",
+    "Telefone": "64 36124862",
+    "C020_Descricao": "RADIO / TV / JORNAL                          "
+  },
+  {
+    "CPF/CNPJ": "02280188000102",
+    "Razão Social": "RÁDIO SUDOESTE FM LTDA ",
+    "Nome fantasia": "RÁDIO LÍDER 95",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@lider95fm.com.br",
+    "Telefone": "64 36120002",
+    "C020_Descricao": "RADIO / TV / JORNAL                          "
+  },
+  {
+    "CPF/CNPJ": "22530608000160",
+    "Razão Social": "Ferreira Rodrigues Comércio de Brindes e Uniformes Ltda",
+    "Nome fantasia": "Inove Brindes",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@inovebrindeseuniformes.com.br",
+    "Telefone": "64 36224302",
+    "C020_Descricao": "IND. E COM. DE CONFECCOES /MALHARIA          "
+  },
+  {
+    "CPF/CNPJ": "37626777000176",
+    "Razão Social": "LIVIA GARCIA MARTINS HONORATO EIRELI ME",
+    "Nome fantasia": "HONORATO PLAZA HOTEL ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contasapagar@hotelhonorato.com.br",
+    "Telefone": "64 36117500",
+    "C020_Descricao": "HOTEL/ POUSADA                               "
+  },
+  {
+    "CPF/CNPJ": "30281362000169",
+    "Razão Social": "Hellen Carolina Rodrigues Ferreira Fiumari",
+    "Nome fantasia": "Singular Assessoria de Crédito",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "singular.caixaaqui@outlook.com",
+    "Telefone": "64993075605",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "10592867000137",
+    "Razão Social": "Coop Recicla ",
+    "Nome fantasia": "Cooperativa de Trabalho de catadores de materiais reciclavel",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "coop-recicla@hotmail.com",
+    "Telefone": "64 36239709",
+    "C020_Descricao": "RECICLAGEM                                   "
+  },
+  {
+    "CPF/CNPJ": "13638469000100",
+    "Razão Social": "MMM e G Telecomunicações LTDA",
+    "Nome fantasia": "Dominet",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "mauricioslaviero@gmail.com",
+    "Telefone": "64 36131148",
+    "C020_Descricao": "FORNECIMENTO DE INTERNET                                     "
+  },
+  {
+    "CPF/CNPJ": "35108546000145",
+    "Razão Social": "Elisangela Fornel maringolo LTDA ",
+    "Nome fantasia": "Alfa Manutenção Industrial",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "alfa.financeiro110@gmail.com",
+    "Telefone": "64993107649",
+    "C020_Descricao": "INSTALAÇAO E MANUTENÇAO ELETRICA INDUSTRIAL"
+  },
+  {
+    "CPF/CNPJ": "40906033000110",
+    "Razão Social": "ESPAÇO TERAPÊUTICO LTDA",
+    "Nome fantasia": "ESPAÇO TERAPÊUTICO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "simonepsicop2@gmail.com",
+    "Telefone": "64996763860",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "07553094000337",
+    "Razão Social": "ELETRO CABRAL ",
+    "Nome fantasia": "ELETRO CABRAL ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "lancamento@eletrocabral.com.br",
+    "Telefone": "64 36451491",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "45655728000190",
+    "Razão Social": "AMB AMORIM  COMÉRCIO",
+    "Nome fantasia": "FRIENDS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "friends@friendsservice.com.br",
+    "Telefone": "64999112977",
+    "C020_Descricao": "RESTAURANTE/CHURRASCARIA                     "
+  },
+  {
+    "CPF/CNPJ": "45356157000192",
+    "Razão Social": "CAMILA IZABEL DE ANDRADE ",
+    "Nome fantasia": "CAMILA IZABEL DE ANDRADE ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "camilaizabelandrade@gmail.com",
+    "Telefone": "64993127038",
+    "C020_Descricao": "ESCOLA DE CURSOS PROFISSIONALIZANTES         "
+  },
+  {
+    "CPF/CNPJ": "48353926000197",
+    "Razão Social": "INSTITUTO PREPARO LTDA",
+    "Nome fantasia": "INSTITUTO PREPARO ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "institutopreparo.rioverde@gmail.com",
+    "Telefone": "64 36021693",
+    "C020_Descricao": "ESCOLA DE CURSOS PROFISSIONALIZANTES         "
+  },
+  {
+    "CPF/CNPJ": "45281503000110",
+    "Razão Social": "ANAPE CAPITAL SECURITIZADORA S/A",
+    "Nome fantasia": "ANAPE CAPITAL",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "processos@anapecapital.com",
+    "Telefone": "64992442929",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "37552373000185",
+    "Razão Social": "ALERGFIT PRODUTOS ESPECIAIS COMÉRCIO E SERVIÇOS LTDA ",
+    "Nome fantasia": "ALERGFIT",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "adm@alergfit.com",
+    "Telefone": "64992232778",
+    "C020_Descricao": "RESTAURANTE/CHURRASCARIA                     "
+  },
+  {
+    "CPF/CNPJ": "02649941000186",
+    "Razão Social": "ELETROMAR MATERIAIS ELETRICOS E HIDRAULICOS LTDA",
+    "Nome fantasia": "ELETROMAR MATERIAIS ELETRICOS E HIDRAULICOS LTDA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "eletromarrv.nfe@hotmail.com",
+    "Telefone": "64 36209200",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "42910912000140",
+    "Razão Social": "LALIA FRANCIELE MARQUES DE JESUS",
+    "Nome fantasia": "LALIA FRANCIELE",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "lalia.fran8@gmail.com",
+    "Telefone": "64996766859",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "76899721104",
+    "Razão Social": "PATRICIA KOMPIER ",
+    "Nome fantasia": "PATRICIA KOMPIER ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@kompier.com.br",
+    "Telefone": "64 36212947",
+    "C020_Descricao": "COM. ROUPAS/INTIMAS                          "
+  },
+  {
+    "CPF/CNPJ": "05445752000856",
+    "Razão Social": "EMPLOYER TRABALHO TEMPORARIO S/A ",
+    "Nome fantasia": "EMPLOYER",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "enissonsabino@employer.com.br",
+    "Telefone": "64996432211",
+    "C020_Descricao": "EMPRESA RECURSOS HUMANOS                             "
+  },
+  {
+    "CPF/CNPJ": "31956487000104",
+    "Razão Social": "INVESTT CORRETORA DE SEGUROS E PREVIDENCIA EIRELLI ",
+    "Nome fantasia": "INVESTT CORRETORA DE SEGUROS E PREVIDENCIA EIRELLI ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "anagodinho@investtcorretora.com",
+    "Telefone": "62981513151",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "45727712000145",
+    "Razão Social": "LARA DUTRA MARKETING DIGITAL ",
+    "Nome fantasia": "LARA DUTRA MARKETING DIGITAL ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "laradutramkt@gmail.com",
+    "Telefone": "64993383273",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "39855029000190",
+    "Razão Social": "L.G. TREINAMENTOS E CONSULTORIA LTDA ",
+    "Nome fantasia": "L.G. TREINAMENTOS E CONSULTORIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contato@lazarogabriel.com",
+    "Telefone": "64999459891",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "19686257000177",
+    "Razão Social": "CONTROL F SERVIÇOS DE GESTÃO LTDA",
+    "Nome fantasia": "CONTROL F GESTÃO FINANCEIRA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "assistente@controlfbpo.com",
+    "Telefone": "64992116541",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "05815742000199",
+    "Razão Social": "LEÃO E PROTO LTDA",
+    "Nome fantasia": "LION IMOBILIARIA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "danileaop@hotmail.com",
+    "Telefone": "64999118501",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "49826972000129",
+    "Razão Social": "SKA TECNOLOGIA AGRICOLA LTDA ",
+    "Nome fantasia": "AMPLITUDE TECNOLOGIA AGRICOLA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "adm.amplitudeagro@outlook.com",
+    "Telefone": "64999871982",
+    "C020_Descricao": "ESCRITORIO AGRONOMICO/ AMBIENTAL             "
+  },
+  {
+    "CPF/CNPJ": "22455858000183",
+    "Razão Social": "AMARAL E MELO ADVOGADOS",
+    "Nome fantasia": "AMARAL E MELO ADVOGADOS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@amaralemelo.adv.br",
+    "Telefone": "64992281366",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "45479376000169",
+    "Razão Social": "RAFAEL MENDES NUNES ",
+    "Nome fantasia": "RAFAEL MENDES NUNES ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "oratoriadomendes@gmail.com",
+    "Telefone": "62982563285",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "49334049000170",
+    "Razão Social": "REILI DA SILVA ATAIDES ",
+    "Nome fantasia": "MAANAIM CENTRO DE NEGOCIOS IMOBILIARIOS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "dr.reili@hotmail.com",
+    "Telefone": "64981169998",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "42477452000109",
+    "Razão Social": "MAFER MÓVEIS PARA ESCRITÓRIO LTDA",
+    "Nome fantasia": "MAFER MÓVEIS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "mafer_moveis@hotmail.com",
+    "Telefone": "64993303003",
+    "C020_Descricao": "COM. MOVEIS/ELETRODOMESTICOS/COLCHOES        "
+  },
+  {
+    "CPF/CNPJ": "34430610000147",
+    "Razão Social": "LAURA REPRESENTAÇÕES LTDA",
+    "Nome fantasia": "LAURA REPRESENTAÇÕES ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "moraes@laurarep.net",
+    "Telefone": "64 35149125",
+    "C020_Descricao": "REPRESENTACAO COMERCIAL E INDUSTRIAL         "
+  },
+  {
+    "CPF/CNPJ": "39698102000168",
+    "Razão Social": "JANUARIO LIMA JUNIOR ",
+    "Nome fantasia": "ONIX CONSULTORIA EMPRESARIAL",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "onix_consultoria@hotmail.com",
+    "Telefone": "64993022301",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "07416448000130",
+    "Razão Social": "QUALIVIDA CENTRO ESPECIALIZADO EM COND. FISICO LTDA",
+    "Nome fantasia": "QUALIVIDA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "miucha@qualividarv.com",
+    "Telefone": "64981374999",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "20542073000112",
+    "Razão Social": "BEATRIZ DOS SANTOS ROCHA CARVALHO ",
+    "Nome fantasia": "INSTITUTO TRANSFORMAR DESENVOLVIMENTO HUMANO ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "beatrizrochacoach@gmail.com",
+    "Telefone": "64999747374",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "10822503000104",
+    "Razão Social": "TEC COMERCIO E MIDIA VISUAL LTDA",
+    "Nome fantasia": "CRIATEC MIDIA VISUAL ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "vendascriatec@hotmail.com",
+    "Telefone": "64 36221571",
+    "C020_Descricao": "fabricação de painéis, letreiros e placas de qualquer material"
+  },
+  {
+    "CPF/CNPJ": "00660291126",
+    "Razão Social": "GEOVANA SILVA COELHO ",
+    "Nome fantasia": "",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "coelhosgeovana@outlook.com",
+    "Telefone": "64992586484",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "30122054000190",
+    "Razão Social": "LACERDA FILHO SOCIEDADE INDIVIDUAL DE ADVOCACIA ",
+    "Nome fantasia": "LACERDA FILHO ADVOGADOS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "lacerdafilhoadv@gmail.com",
+    "Telefone": "64992078660",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "48219796000102",
+    "Razão Social": "KATIUSCIA DA SILVA ROMANO ",
+    "Nome fantasia": "KATIUSCIA DA SILVA ROMANO ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "katiusciaromano@hotmail.com",
+    "Telefone": "64999422683",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "02771657000188",
+    "Razão Social": "POLI TINTAS COMERCIO DE TINTAS LTDA ",
+    "Nome fantasia": "POLI TINTAS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro.politintas@gmail.com",
+    "Telefone": "64999849866",
+    "C020_Descricao": "COMERCIO DE TINTAS                           "
+  },
+  {
+    "CPF/CNPJ": "31307202000104",
+    "Razão Social": "MASTERGEO ENGENHARIA E PLANEJAMENTO RIO VERDE LTDA",
+    "Nome fantasia": "MASTERGEO ENGENHARIA E PLANEJAMENTO ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "jamille.mesquita@mastergeoengenharia.com.br",
+    "Telefone": "64999542741",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "36525477000138",
+    "Razão Social": "LUCIANA MENDONÇA GUIMARÃES LTDA ",
+    "Nome fantasia": "DELÍCIA DO DIA ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro2@deliciadodia.com.br",
+    "Telefone": "62982654444",
+    "C020_Descricao": "PADARIA / CONFEITARIA / DOCERIA / CAFES      "
+  },
+  {
+    "CPF/CNPJ": "47306405000116",
+    "Razão Social": "BIOHIGIX LTDA",
+    "Nome fantasia": "BIOHIGIX",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "biohigix@gmail.com",
+    "Telefone": "64992147717",
+    "C020_Descricao": "COM PRODUTOS DE LIMPEZA / DESCARTAVEL / EMBALAGENS                 "
+  },
+  {
+    "CPF/CNPJ": "49936505000151",
+    "Razão Social": "MATHEUS FERREIRA BARROS ",
+    "Nome fantasia": "CENTRAL PISCINAS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "mblf8090@gmail.com",
+    "Telefone": "64992248475",
+    "C020_Descricao": "VENDA DE PISCINA"
+  },
+  {
+    "CPF/CNPJ": "26923915000162",
+    "Razão Social": "LIMA E ROSA ADVOGADOS ASSOCIADOS ",
+    "Nome fantasia": "LILIANE LIMA ADVOGADOS ASSOCIADOS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "lilianelimaadvogados@hotmail.com",
+    "Telefone": "64 36211803",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "50181354000158",
+    "Razão Social": "CASA NOBRE NEGOCIOS IMOBILIARIOS ",
+    "Nome fantasia": "CASA NOBRE NEGOCIOS IMOBILIARIOS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "imobcasanobrego@gmail.com",
+    "Telefone": "64992499465",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "20195706000163",
+    "Razão Social": "MARAVALHA RIO VERDE LTDA",
+    "Nome fantasia": "MARAVALHA RIO VERDE LTDA",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Industria",
+    "EMAIL": "financeiro@maravalharioverde.com.br",
+    "Telefone": "64996755250",
+    "C020_Descricao": "MARCENARIA/ SERRALHERIA / CARPINTARIA        "
+  },
+  {
+    "CPF/CNPJ": "86794344000135",
+    "Razão Social": "GOLÇALVES SILVA PNEUS LTDA",
+    "Nome fantasia": "PNEU CENTRAL ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@pneuscentral.com.br",
+    "Telefone": "64 36230111",
+    "C020_Descricao": "COMERCIO DE PNEUS                            "
+  },
+  {
+    "CPF/CNPJ": "08619724000120",
+    "Razão Social": "AFA DO BRASIL LTDA",
+    "Nome fantasia": "AFA DO BRASIL INDUSTRIA DE TINTAS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Industria",
+    "EMAIL": "rivercrill@gmail.com",
+    "Telefone": "64 21423907",
+    "C020_Descricao": "COMERCIO DE TINTAS                           "
+  },
+  {
+    "CPF/CNPJ": "49606450000111",
+    "Razão Social": "LUCIANA CONSULTORA DE RH",
+    "Nome fantasia": "LUCIANA COSTA MELO",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "lucianamelo.consultoraderh@gmail.com",
+    "Telefone": "64999287769",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "26946716000170",
+    "Razão Social": "JUNEIR GOMES NETO",
+    "Nome fantasia": "KABOTIÁ DESING CRIATIVO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@kabotiadesign.com",
+    "Telefone": "64992252102",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "48176772000105",
+    "Razão Social": "BARROS E SOARES SISTEMA DE GERAÇÃO LTDA",
+    "Nome fantasia": "SAFRA SOLAR",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "safrasolar@gmail.com",
+    "Telefone": "64993229254",
+    "C020_Descricao": "INSTALAÇAO E MANUTENÇAO ELETRICA INDUSTRIAL"
+  },
+  {
+    "CPF/CNPJ": "15292837000129",
+    "Razão Social": "GOBAH! SOLUÇÕES EM TI LTDA",
+    "Nome fantasia": "GOBAH! SOLUÇÕES EM TI",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "OI@GOBAH.COM.BR",
+    "Telefone": "64996088290",
+    "C020_Descricao": "INFORMATICA/ ASSIST. TECNICA/VENDA EQUIP.    "
+  },
+  {
+    "CPF/CNPJ": "41089487000108",
+    "Razão Social": "CMO AUTOMAÇÃO LTDA",
+    "Nome fantasia": "CMO AUTOMAÇÃO ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@cmoautomacao.com.br",
+    "Telefone": "64992254967",
+    "C020_Descricao": "LOCADORA DE MAQUINAS                         "
+  },
+  {
+    "CPF/CNPJ": "50579548000106",
+    "Razão Social": "REGINALDO COSTA SILVA",
+    "Nome fantasia": "ESPETINHO DO REGIS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "reginaldocostasilva1965@gmail.com",
+    "Telefone": "64999253485",
+    "C020_Descricao": "RESTAURANTE/CHURRASCARIA                     "
+  },
+  {
+    "CPF/CNPJ": "26699591000120",
+    "Razão Social": "MJ GESTÃO CONTABIL ",
+    "Nome fantasia": "MARIZETE LOPES GOMES",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "MJGESTAOCONTABIL@TERRA.COM.BR",
+    "Telefone": "64999254253",
+    "C020_Descricao": "ESCRITORIO CONTABIL                          "
+  },
+  {
+    "CPF/CNPJ": "31417477000109",
+    "Razão Social": "VG CONSULTORIA E ASSESSORIA EM GESTÃO DE PE. E PRO. LTDA ",
+    "Nome fantasia": "VG CONSULTORIA E ASSESSORIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "VINICIUSGDO@OUTLOOK.COM.BR",
+    "Telefone": "64992163078",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "08889857000116",
+    "Razão Social": "ESPAÇO RURAL REPRESENTAÇÕES E COMERCIO LTDA",
+    "Nome fantasia": "ESPAÇO RURAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "wiliansilveirag123@gmail.com",
+    "Telefone": "64992527941",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "35822820000143",
+    "Razão Social": "MARCELO MARQUES DA SILVA",
+    "Nome fantasia": "KOMBOHEMIOS",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "mmsmarcelo@bol.com.br",
+    "Telefone": "64992032119",
+    "C020_Descricao": "BAR/CHOPPERIA                                "
+  },
+  {
+    "CPF/CNPJ": "44981525000120",
+    "Razão Social": "SEGMENTAAGRO GRAOS E SEMENTES LTDA",
+    "Nome fantasia": "SEGMENTAAGRO GRAOS E SEMENTES",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "Financeiro@segmentaagro.com.br",
+    "Telefone": "64996430466",
+    "C020_Descricao": "ESCRITORIO AGRONOMICO/ AMBIENTAL             "
+  },
+  {
+    "CPF/CNPJ": "28791441000178",
+    "Razão Social": "NÚCLEO DE OPERAÇÕES DE SONHOS - NOS LTDA",
+    "Nome fantasia": "NOS - NÚCLEO DE OPERAÇÕES DE SONHOS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@nosoficial.com.br",
+    "Telefone": "64992984422",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "51785713000149",
+    "Razão Social": "LETICIA LEMES DE OLIVEIRA",
+    "Nome fantasia": "LEMERA DESING E PERSONALIZADOS",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "lemeradesign@gmail.com",
+    "Telefone": "64999250488",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "32673088000107",
+    "Razão Social": "LORRAINE CASTRO BUENO",
+    "Nome fantasia": "LDM SOLUÇÕES EM GESTÃO",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ldmgestao@hotmail.com",
+    "Telefone": "64992922633",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "50450142000129",
+    "Razão Social": "LEANDRO TRANSPORTES LTDA",
+    "Nome fantasia": "LEANDRO TRANSPORTES",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "leandrotransportesrv@gmail.com",
+    "Telefone": "64992338359",
+    "C020_Descricao": "TRANSPORTADORA                               "
+  },
+  {
+    "CPF/CNPJ": "26832236000188",
+    "Razão Social": "POLYANNA SERAFIM DA COSTA",
+    "Nome fantasia": "BURGUER DELLA'S",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "polysfunny@gmail.com",
+    "Telefone": "64999673045",
+    "C020_Descricao": "LANCHONETE/PASTELARIA                        "
+  },
+  {
+    "CPF/CNPJ": "48118604000163",
+    "Razão Social": "STARK MAQUINAS AGRICOLAS LTDA",
+    "Nome fantasia": "STARK MAQUINAS AGRICOLAS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "starkmaquinasagricolas@gmail.com",
+    "Telefone": "64992817211",
+    "C020_Descricao": "OFICINA MECANICA / ELETRICA                  "
+  },
+  {
+    "CPF/CNPJ": "51267901000185",
+    "Razão Social": "RC COMMODITIES TRADING LTDA",
+    "Nome fantasia": "RC COMMODITIES ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rccommodities@outlook.com",
+    "Telefone": "64993031729",
+    "C020_Descricao": "Corretora de contrato de mercadorias"
+  },
+  {
+    "CPF/CNPJ": "12274010000102",
+    "Razão Social": "ALDO JOSÉ GIANOTTI NETO",
+    "Nome fantasia": "ESCOLA DE TÊNIS GIANOTTI",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "aldogianotti2@gmail.com",
+    "Telefone": "64981397337",
+    "C020_Descricao": "AUTONOMO                                     "
+  },
+  {
+    "CPF/CNPJ": "24720752861",
+    "Razão Social": "ANTONIO RIZZI JUNIOR ",
+    "Nome fantasia": "AGROPECUARIA RIZZI",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "vitoria.cintra@agrorizzi.com",
+    "Telefone": "64999737318",
+    "C020_Descricao": "AGROPECUARIA                                 "
+  },
+  {
+    "CPF/CNPJ": "33068374000106",
+    "Razão Social": "REINTEGRA CONSULTORIA LTDA",
+    "Nome fantasia": "REINTEGRA CONSULTORIA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "reintegra.rst@gmail.com",
+    "Telefone": "64999299479",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "47075363001636",
+    "Razão Social": "COMAZI TRATORES E MAQUINAS LTDA",
+    "Nome fantasia": "COMAZI TRATORES E MAQUINAS LTDA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@comazimaquinas.com.br",
+    "Telefone": "62982644155",
+    "C020_Descricao": "CONCESSIONARIA MAQ. AGRICOLAS                "
+  },
+  {
+    "CPF/CNPJ": "25234603000189",
+    "Razão Social": "VCOM MARKETING E INTELIGENCIA DIGITAL LTDA",
+    "Nome fantasia": "VCOM MARKETING E INTELUGENCIA DIGITAL ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeirovcomunica@gmail.com",
+    "Telefone": "62981749881",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "49848671000104",
+    "Razão Social": "SAMAR COMERCIO DE OTICA LTDA",
+    "Nome fantasia": "OTICA SANTA LUZIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "oticasantaluziarv@gmail.com",
+    "Telefone": "64999332080",
+    "C020_Descricao": "OTICAS                                       "
+  },
+  {
+    "CPF/CNPJ": "01647296001171",
+    "Razão Social": "INSTITUTO EUVALDO LODI - GOIAS ",
+    "Nome fantasia": "IEL RIO VERDE",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "nathalliasilva.iel@fieg.com.br",
+    "Telefone": "64999802416",
+    "C020_Descricao": "ESCOLA DE CURSOS PROFISSIONALIZANTES         "
+  },
+  {
+    "CPF/CNPJ": "11149690000161",
+    "Razão Social": "BONZAY TECNOLOGIA LTDA",
+    "Nome fantasia": "BONZAY TECNOLOGIA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@bonzay.com.br",
+    "Telefone": "64 21018800",
+    "C020_Descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS "
+  },
+  {
+    "CPF/CNPJ": "50363350000190",
+    "Razão Social": "AVM CONSTRUTORA E INCORPORADORA LTDA ",
+    "Nome fantasia": "AVM CONSTRUTORA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "administrativo@avmassessoria.com.br",
+    "Telefone": "64999320848",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "27784450000179",
+    "Razão Social": "KSL APOIO ADMINISTRATIVO LTDA",
+    "Nome fantasia": "KSL APOIO ADMINISTRATIVO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "keniasouzaleite@gmail.com",
+    "Telefone": "64992463182",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "28446913000155",
+    "Razão Social": "TVS COMUNICACAO LTDA",
+    "Nome fantasia": "TV SUCESSO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "dir.financeirotvs@hotmail.com",
+    "Telefone": "64 32135814",
+    "C020_Descricao": "RADIO / TV / JORNAL                          "
+  },
+  {
+    "CPF/CNPJ": "37078788000169",
+    "Razão Social": "RIO JARDIM FLORES LTDA",
+    "Nome fantasia": "RIO JARDIM",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "riojardimcaixa@gmail.com",
+    "Telefone": "6436212745",
+    "C020_Descricao": "FLORICULTURA/JARDINAGEM/PLANTAS/HORTA        "
+  },
+  {
+    "CPF/CNPJ": "50228093000184",
+    "Razão Social": "GIOVANNA FRASNELI ROCHA RESENDE",
+    "Nome fantasia": "DIAMOND ACESSORIOS",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "gifrasneli@hotmail.com",
+    "Telefone": "64992616868",
+    "C020_Descricao": "RELOJOARIA/JOALHERIA/SEMIJOIAS/BIJUTERIA     "
+  },
+  {
+    "CPF/CNPJ": "32245922000155",
+    "Razão Social": "ELEVE TECNOLOGIA LTDA",
+    "Nome fantasia": "ELEVE TECNOLOGIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@eleve.tec.br",
+    "Telefone": "64 36123838",
+    "C020_Descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS "
+  },
+  {
+    "CPF/CNPJ": "41972236000177",
+    "Razão Social": "Thalita Alves Lopes",
+    "Nome fantasia": "Performace Gente e  Gestão",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "performancegestao.financeiro@gmail.com",
+    "Telefone": "64992478523",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "32572557000193",
+    "Razão Social": "BRUNO MATEUS DE SOUZA",
+    "Nome fantasia": "NEXUS SISTEMAS",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "bruno.mateus@nexusis.com.br",
+    "Telefone": "64992244536",
+    "C020_Descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS "
+  },
+  {
+    "CPF/CNPJ": "44050253000145",
+    "Razão Social": "PHD Agro Gestão Ltda",
+    "Nome fantasia": "PHD Agro Gestão",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@phdsistemas.com.br",
+    "Telefone": "64 30502222",
+    "C020_Descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS "
+  },
+  {
+    "CPF/CNPJ": "31736678000241",
+    "Razão Social": "NUTRI MASTER REFEIÇÕES LTDA",
+    "Nome fantasia": "NUTRI MASTER ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "luciano@grupoe.net.br",
+    "Telefone": "62994708448",
+    "C020_Descricao": "RESTAURANTE/CHURRASCARIA                     "
+  },
+  {
+    "CPF/CNPJ": "23030523000267",
+    "Razão Social": "Romak Automação Ltda",
+    "Nome fantasia": "Romak",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@romak.com.br",
+    "Telefone": "62 32956022",
+    "C020_Descricao": "ACESSORIOS E PECAS PARA MAQUINAS AGRICOLAS"
+  },
+  {
+    "CPF/CNPJ": "53638041000174",
+    "Razão Social": "IVANA BOSA COLIN LTDA",
+    "Nome fantasia": "IVANA BOSA COLIN CONSULTORIA FINANCEIRA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ivanabosacolin@gmail.com",
+    "Telefone": "64981223010",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "47058711000180",
+    "Razão Social": "Instituto Fernando Antonio Ltda",
+    "Nome fantasia": "Instituto Seja Hard",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@institutofernandoantonio.com",
+    "Telefone": "64981145772",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "14373051000173",
+    "Razão Social": "AUDSAUDE AUDITORIA E CONSULTORA DE SAÚDE",
+    "Nome fantasia": "BIO-SAÚDE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "audsaude@audsaude.med.br",
+    "Telefone": "64 99279135",
+    "C020_Descricao": "AUDITORIA E CONSULTORIA EM SAÚDE "
+  },
+  {
+    "CPF/CNPJ": "08862565000190",
+    "Razão Social": "LG Consultoria em tecnologia e Administração Ltda",
+    "Nome fantasia": "GDC TECNOLOGIA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "diogo.castro@gdc.net.br",
+    "Telefone": "64993135103",
+    "C020_Descricao": "INFORMATICA/ ASSIST. TECNICA/VENDA EQUIP.    "
+  },
+  {
+    "CPF/CNPJ": "27275553000103",
+    "Razão Social": "UP Soluções  em Investimentos",
+    "Nome fantasia": "UP Soluções",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contatoupinvestimentos@gmail.com",
+    "Telefone": "64 30509987",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "55497532000178",
+    "Razão Social": "Vânia Gomes Machado Domingos",
+    "Nome fantasia": "Vânia Gomes Machado Domingos",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "vaniamachadopsi@hotmail.com",
+    "Telefone": "64992536639",
+    "C020_Descricao": "Sex shop"
+  },
+  {
+    "CPF/CNPJ": "32863596000140",
+    "Razão Social": "VIA PETRA MARMORES E GRANITOS LTDA",
+    "Nome fantasia": "VIA PETRA MARMORES E GRANITOS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@viapetra.com.br",
+    "Telefone": "64 30183080",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "24913178000191",
+    "Razão Social": "PRINT COMUNICACAO VISUAL LTDA",
+    "Nome fantasia": "PRINT COMUNICAÇÃO VISUAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "print@printpersonalizados.com",
+    "Telefone": "64 21414679",
+    "C020_Descricao": "UTILIDADES / PRESENTES / BRINQUEDOS          "
+  },
+  {
+    "CPF/CNPJ": "13287553000119",
+    "Razão Social": "PLAY PUBLICIDADE E EVENTOS LTDA",
+    "Nome fantasia": "PLAY PUBLICIDADE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "atendimento@playpublicidade.com",
+    "Telefone": "64 36239702",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "53428887000180",
+    "Razão Social": "LEIDI CORTEZ IMPLEMENTAÇÃO EMPESARIAL",
+    "Nome fantasia": "LEIDI CORTEZ IMPLEMENTAÇÃO EMPESARIAL",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "leidianecorteze@gestaomaster.net",
+    "Telefone": "64999217050",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "34196431000197",
+    "Razão Social": "Prisma Inteligência Agronômica LTDA",
+    "Nome fantasia": "Prisma Inteligência Agronômica",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@iaprisma.com.br",
+    "Telefone": "64 32137310",
+    "C020_Descricao": "ESCRITORIO AGRONOMICO/ AMBIENTAL             "
+  },
+  {
+    "CPF/CNPJ": "47031469000151",
+    "Razão Social": "RENATO CANEVARI DUTRA DA SILVA",
+    "Nome fantasia": "ORGANZZA",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "organzza.rv@gmail.com",
+    "Telefone": "64992388846",
+    "C020_Descricao": "VESTUARIO/MODA/ACESSORIOS                    "
+  },
+  {
+    "CPF/CNPJ": "48634611000118",
+    "Razão Social": "André Queiros Marques Ltda",
+    "Nome fantasia": "Supermercado Império",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "samara@supermercadoimperiorv.com.br",
+    "Telefone": "64992345939",
+    "C020_Descricao": "SUPERMERCADOS/MERCADOS/VAREJAO/ARMAZEM/MERCEA"
+  },
+  {
+    "CPF/CNPJ": "05145367000117",
+    "Razão Social": "NÍTIDO MÍDIA EXTERIOR LTDA ",
+    "Nome fantasia": "NÍTIDO PAINÉIS ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "atendimento@nitidopaineis.com.br",
+    "Telefone": "64 36215300",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "52279761000128",
+    "Razão Social": "A e M CORRETORA DE SEGUROS LTDA",
+    "Nome fantasia": "ARAUJO E MARQUEZ WEALTH MANAGEMENT",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "anninhaavm@hotmail.com",
+    "Telefone": "64981526063",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "51060136000128",
+    "Razão Social": "M e U  Treinamentos e Capacitação Ltda",
+    "Nome fantasia": "VOX2YOU RIO VERDE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "urley.oliveira@vox2you.com.br",
+    "Telefone": "64993134805",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "31917477000160",
+    "Razão Social": "IMOBILIARIA REMAX FRONTEIRA LTDA",
+    "Nome fantasia": "IMOBILIARIA REMAX FRONTEIRA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeirofronteira@remax.com.br",
+    "Telefone": "6421428293",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "26875412000169",
+    "Razão Social": "JOSE MATOS DA SILVA NETO ",
+    "Nome fantasia": "ESTEFANIA LIMA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "estefanialimarv10@gmail.com",
+    "Telefone": "64984286586",
+    "C020_Descricao": "PADARIA / CONFEITARIA / DOCERIA / CAFES      "
+  },
+  {
+    "CPF/CNPJ": "21342559000170",
+    "Razão Social": "GIULIANNA BARBOSA DA SILVA CONTE ",
+    "Nome fantasia": "GIULIANNA CONTE FOTOGRAFIA ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "giuliannacfotografia@gmail.com",
+    "Telefone": "64981166009",
+    "C020_Descricao": "FOTOGRAFIA "
+  },
+  {
+    "CPF/CNPJ": "18995560000199",
+    "Razão Social": "LÍDER RV ASSESSORIA E SERVIÇOS LTDA",
+    "Nome fantasia": "LÍDER ASSESSORIA EM TELECOMUNICAÇÕES",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@futurarv.com.br",
+    "Telefone": "64 30548030",
+    "C020_Descricao": "CONSULTORIA EM SERVIÇOS E NEGÓCIOS EM GERAL"
+  },
+  {
+    "CPF/CNPJ": "35502414000101",
+    "Razão Social": "Lazuli Cosmeticos Ltda",
+    "Nome fantasia": "Lazuli",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "gerencial.lazuli@gmail.com",
+    "Telefone": "64981324943",
+    "C020_Descricao": "PERFUMARIA / COSMETICOS                      "
+  },
+  {
+    "CPF/CNPJ": "35471060000177",
+    "Razão Social": "LIMPÉRIO SERVIÇOS LTDA",
+    "Nome fantasia": "LIMPÉRIO SERVIÇOS LTDA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "elibaneoatreis@gmail.com",
+    "Telefone": "64992598548",
+    "C020_Descricao": "LIMPEZA EM PREDIOS E EM DOMICILIOS           "
+  },
+  {
+    "CPF/CNPJ": "36712589000106",
+    "Razão Social": "Aline Martins Silva Souza",
+    "Nome fantasia": "Aline Martins Silva Souza",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "aeconsultoria08@gmail.com",
+    "Telefone": "64999970679",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "40345222000160",
+    "Razão Social": "Ronaldo Cleverson Huther Júnior",
+    "Nome fantasia": "Ronaldo Huther Fotografia",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "producaorchj@gmail.com",
+    "Telefone": "64999918266",
+    "C020_Descricao": "FOTOGRAFIA "
+  },
+  {
+    "CPF/CNPJ": "55292757000198",
+    "Razão Social": "S e R Engenharia de Segurança  Ltda",
+    "Nome fantasia": "S E R  Engenharia de Segurança do Trabalho",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "Sandriane@serengenhariadeseguranca.com",
+    "Telefone": "64992615633",
+    "C020_Descricao": "CONSULTORIA  EMPRESARIAL                                 "
+  },
+  {
+    "CPF/CNPJ": "46716076000119",
+    "Razão Social": "Antônio Osvaldo Santos Carvalho",
+    "Nome fantasia": "Jornal Rio Verde Notícias",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rvnoticias.05@gmail.com",
+    "Telefone": "64993333350",
+    "C020_Descricao": "RADIO / TV / JORNAL                          "
+  },
+  {
+    "CPF/CNPJ": "49276460000136",
+    "Razão Social": "Hinayanna Campos Treinamento e Desenvolvimento Humano LTDA",
+    "Nome fantasia": "Hinayanna Campos Treinamento e Desenvolvimento Humano",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "HINAYANNACAMPOS@GMAIL.COM",
+    "Telefone": "64993426525",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "27901968000145",
+    "Razão Social": "AMPÉRE ENERGIAS E CONSULTORIA ELÉTRICA LTDA",
+    "Nome fantasia": "AMPÈRE ENERGIAS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@ampereenergias.com.br",
+    "Telefone": "34 37007001",
+    "C020_Descricao": "INSTALAÇÃO E MANUTENÇÃO DE ENERGIA SOLAR"
+  },
+  {
+    "CPF/CNPJ": "38169201000190",
+    "Razão Social": "MODULE CONSTRUÇÃO MODULAR ",
+    "Nome fantasia": "MODULE ENGENHARIA E CONSTRUÇÃO INDUSTRIALIZADA S.A",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Industria",
+    "EMAIL": "financeiro@module.com.br",
+    "Telefone": "62 40140669",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "17769276000131",
+    "Razão Social": "DIAGNOS ASSISTENCIA SCANIA PEÇAS E SERVIÇOS LTDA",
+    "Nome fantasia": "DIAGNOS ASSISTENCIA SCANIA PEÇAS E SERVIÇOS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "diagnosassistencia@gmail.com",
+    "Telefone": "64 36138026",
+    "C020_Descricao": "OFICINA MECANICA / ELETRICA                  "
+  },
+  {
+    "CPF/CNPJ": "51668282000130",
+    "Razão Social": "PB GESTÃO E DESENVOLVIMENTO DE PESSOAS LTDA",
+    "Nome fantasia": "PB GESTÃO E DESENVOLVIMENTO DE PESSOAS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "pollyanabrasil.gestao@gmail.com",
+    "Telefone": "64993204702",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "16010886000194",
+    "Razão Social": "A e B COMERCIO E VAREJO DE AUTOMÓVEIS LTDA",
+    "Nome fantasia": "REI MOTORS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "reimotors.rv@gmail.com",
+    "Telefone": "6430183020",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "03716882000184",
+    "Razão Social": "CASAFERTIL LTDA",
+    "Nome fantasia": "CASAFERTIL",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "patricia.fabro@casafertil.com.br",
+    "Telefone": "64 36022000",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "20919300000186",
+    "Razão Social": "INTENSIVA FISIOTERAPIA E MEDICINA LTDA",
+    "Nome fantasia": "INTENSIVA FISIOTERAPIA E MEDICINA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "intensivafisiomedrv@gmail.com",
+    "Telefone": "64 30510123",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "21146020000145",
+    "Razão Social": "CENTER GLASS INDUSTRIA E COMERCIO LTDA",
+    "Nome fantasia": "CENTER GLASS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Industria",
+    "EMAIL": "pagamentos@centerglass.com.br",
+    "Telefone": "64 36224123",
+    "C020_Descricao": "VIDRACARIA / COM. VIDROS TEMPERADOS          "
+  },
+  {
+    "CPF/CNPJ": "11859240000162",
+    "Razão Social": " NELMA DE SOUZA ARAUJO LTDA",
+    "Nome fantasia": "GRUPO DN",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "nelma@chamaanelma.com.br",
+    "Telefone": "64999212220",
+    "C020_Descricao": "CONSERVACAO E LIMPEZA                        "
+  },
+  {
+    "CPF/CNPJ": "58841053000115",
+    "Razão Social": "LORENA COLCHÕES LTDA",
+    "Nome fantasia": "LORENA COLCHÕES",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "lorenacolchoesrv@gmail.com",
+    "Telefone": "64 30502110",
+    "C020_Descricao": "COM. DE TECIDOS/CAMA MESA E BANHO            "
+  },
+  {
+    "CPF/CNPJ": "16651524000182",
+    "Razão Social": "JOÃO PAULO DA SILVA OLIVEIRA LTDA",
+    "Nome fantasia": "JP ACESSORIA CONTÁBIL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "jp_silva2@hotmail.com",
+    "Telefone": "64 36236997",
+    "C020_Descricao": "ESCRITORIO CONTABIL                          "
+  },
+  {
+    "CPF/CNPJ": "23811671000138",
+    "Razão Social": "MAIS MOLD ENGENHARIA E PRÉ-MOLDADOS LTDA",
+    "Nome fantasia": "MAIS MOLD ENGENHARIA E PRÉ-MOLDADOS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "maismoldengenharia@gmail.com",
+    "Telefone": "64981457541",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "37187352000108",
+    "Razão Social": "APORTE RURAL PROJETOS, CONSULTORIA E PERICIAS AGRO. LTDS",
+    "Nome fantasia": "APORTE RURAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rural.aporte@gmail.com",
+    "Telefone": "64 21428864",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "58583676000135",
+    "Razão Social": "SONHAGRO RIO VERDE LTDA",
+    "Nome fantasia": "SONHAGRO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "guilherme.foleis@sonhagro.com.br",
+    "Telefone": "64981132000",
+    "C020_Descricao": "CONSULTORIA EM SERVIÇOS E NEGÓCIOS EM GERAL"
+  },
+  {
+    "CPF/CNPJ": "58618501000116",
+    "Razão Social": "ELIANE SANTOS DA SILVA ARRUDA ",
+    "Nome fantasia": "SANTOS E CIA",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "elianearruda654@gmail.com",
+    "Telefone": "64981792850",
+    "C020_Descricao": "PADARIA / CONFEITARIA / DOCERIA / CAFES      "
+  },
+  {
+    "CPF/CNPJ": "24414094000103",
+    "Razão Social": "RESIDENCIAL RECANTO DAS EMAS 01 EMPREENDIMENTO SPE LTDA",
+    "Nome fantasia": "BURITI REALIZANDO SONHOS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro.rioverde@btsa.com.br",
+    "Telefone": "64999361032",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "43771164000125",
+    "Razão Social": "ADEGA PASINI LTDA",
+    "Nome fantasia": "ADEGA PASINI",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "elianepasini.rv@gmail.com",
+    "Telefone": "64992034910",
+    "C020_Descricao": "BAR/CHOPPERIA                                "
+  },
+  {
+    "CPF/CNPJ": "47775900000174",
+    "Razão Social": "FUTURA IMÓVEIS RIO VERDE LTDA",
+    "Nome fantasia": "FUTURA ALUGUEL",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@futuraaluguel.com.br",
+    "Telefone": "64 30548454",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "98537890197",
+    "Razão Social": "ANA PAULA FRANCO",
+    "Nome fantasia": "ANA PAULA FRANCO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "phallinaodonto@gmail.com",
+    "Telefone": "64993144017",
+    "C020_Descricao": "CLINICA DE ODONTOLOGIA                       "
+  },
+  {
+    "CPF/CNPJ": "32964604000144",
+    "Razão Social": "ARMAZÉM DAS RAÍZES LTDA",
+    "Nome fantasia": "ARMAZÉM DAS RAÍZES",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiroarmazemdasraizes@gmail.com",
+    "Telefone": "64 30505992",
+    "C020_Descricao": "SUPERMERCADOS/MERCADOS/VAREJAO/ARMAZEM/MERCEA"
+  },
+  {
+    "CPF/CNPJ": "55533968000175",
+    "Razão Social": "MENDONÇA CONSTRUTORA LTDA",
+    "Nome fantasia": "MENDONÇA CONSTRUTORA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "mendoncaconstrutorarv@gmail.com",
+    "Telefone": "64992379494",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "34117287000156",
+    "Razão Social": "LORENA SOARES OLIVEIRA",
+    "Nome fantasia": "LORENA SOARES OLIVEIRA",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "lorelorens20@icloud.com",
+    "Telefone": "64981678832",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "57162312000119",
+    "Razão Social": "SPECIALE ESQUADRIAS EM PVC LTDA",
+    "Nome fantasia": "SPECIALE ESQUADRIAS EM PVC",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "specialeesquadrias@gmail.com",
+    "Telefone": "64996131820",
+    "C020_Descricao": "COM. DIST. FORRO GESSO/PVC/DIVISORIAS"
+  },
+  {
+    "CPF/CNPJ": "24389625187",
+    "Razão Social": "LUCIA MARIA DA SILVA MICHALZYK",
+    "Nome fantasia": "LUCIA MARIA DA SILVA MICHALZYK",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "luciamichalczyk@hotmail.com",
+    "Telefone": "64984147376",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "53797513000131",
+    "Razão Social": "RECH E RECH CORRETORA DE SEGUROS LTDA",
+    "Nome fantasia": "RECH E RECH CORRETORA DE SEGUROS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rechcorretoradeseguros@gmail.com",
+    "Telefone": "64999178895",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "60900135000135",
+    "Razão Social": "LUIZ HENRIQUE SANTO ALBUQUERQUE LTDA",
+    "Nome fantasia": "I9 AGENCY MARKETING",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "comercial@i9agencymarketing.com",
+    "Telefone": "64996083918",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "47067785000183",
+    "Razão Social": "PSICOLOGIA RIO VERDE LTDA",
+    "Nome fantasia": "CLÍNICA DE PSICOLOGIA RIO VERDE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "wilson@duopsicologia.com.br",
+    "Telefone": "64993419212",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "53091913000127",
+    "Razão Social": "AMANDA TEIXEIRA",
+    "Nome fantasia": "EXATA CRED",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "Amandateixeira134@icloud.com",
+    "Telefone": "64992446593",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "51666746000170",
+    "Razão Social": "IOF ASSESSORIA LTDA ",
+    "Nome fantasia": "EQUIPE COMANDANTE URSO ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "iof.assessoria2025@gmail.com",
+    "Telefone": "64984034727",
+    "C020_Descricao": "SEGURANCA PATRIMONIAL                        "
+  },
+  {
+    "CPF/CNPJ": "57682904000161",
+    "Razão Social": "BRENDA MACHADO DE SOUSA ",
+    "Nome fantasia": "BRENDA MACHADO DE SOUSA ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "brendamachado811@gmail.com",
+    "Telefone": "64999480606",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "49141973000130",
+    "Razão Social": "TALENTO ASSESSORIA DE RH LTDA",
+    "Nome fantasia": "TALENTO RH",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contasapagar@hbmassessores.com.br",
+    "Telefone": "64 30515660",
+    "C020_Descricao": "EMPRESA RECURSOS HUMANOS                             "
+  },
+  {
+    "CPF/CNPJ": "47543208000110",
+    "Razão Social": "PERFOR + GESTÃO ESTRATÉGICA LTDA",
+    "Nome fantasia": "PERFOR + GESTÃO ESTRATÉGICA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "performais.consultoria@gmail.com",
+    "Telefone": "64992839502",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "37842317000185",
+    "Razão Social": "BARBOSA MATERIAIS E SERVIÇOS LTDA ",
+    "Nome fantasia": "ELETROSAM",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "eletrosam.materiais@gmail.com",
+    "Telefone": "64 36221536",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "38245382000196",
+    "Razão Social": "JEOMAQ TELAS LTDA",
+    "Nome fantasia": "TELAS PRADO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Industria",
+    "EMAIL": "jeomaqrv@gmail.com",
+    "Telefone": "64992637170",
+    "C020_Descricao": "IND. E COM. DE CONFECCOES /MALHARIA          "
+  },
+  {
+    "CPF/CNPJ": "32542244000192",
+    "Razão Social": "GREEN RIO CORRETORA DE SEGUROS LTDA",
+    "Nome fantasia": "SEGURALTA RIO VERDE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rioverde.seguralta@gmail.com",
+    "Telefone": "64 36213470",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "22036349000116",
+    "Razão Social": "FERREIRA INSTALAÇÕES EIRELI ",
+    "Nome fantasia": "FERREIRA INSTALAÇÕES ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ferreirainstalacoes7@gmail.com",
+    "Telefone": "64992314762",
+    "C020_Descricao": "INSTALAÇAO E MANUTENÇAO ELETRICA INDUSTRIAL"
+  },
+  {
+    "CPF/CNPJ": "21642671000126",
+    "Razão Social": "SIMONE DE SOUSA MORAES ",
+    "Nome fantasia": "EXCELENT GLOBAL IDIOMAS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "smnmoraes@hotmail.com.br",
+    "Telefone": "64981658013",
+    "C020_Descricao": "ESCOLA DE IDIOMAS                            "
+  },
+  {
+    "CPF/CNPJ": "11944383000172",
+    "Razão Social": "CODEPA CONSTRUÇÃO, DESEN. E PROJETOS PARA ARMAZENAGEM LTDA",
+    "Nome fantasia": "CODEPA ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "jackelliny@grupocodepa.com.br",
+    "Telefone": "64 36122600",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "39967851000143",
+    "Razão Social": "CENTRO DE FORMAÇÃO EDUCACIONAL COLÉGIO EXODO LTDA",
+    "Nome fantasia": "COLÉGIO EXODO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "altemironeto22@gmail.com",
+    "Telefone": "64 21426967",
+    "C020_Descricao": "ESCOLA DE CURSOS PROFISSIONALIZANTES         "
+  },
+  {
+    "CPF/CNPJ": "58042245000161",
+    "Razão Social": "WESLEY FERREIRA CRUZ",
+    "Nome fantasia": "WESLEY DRINKS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "wesleyfcruz@yahoo.com.br",
+    "Telefone": "64993385570",
+    "C020_Descricao": "DEPOSITO DE BEBIDAS/ ADEGAS                  "
+  },
+  {
+    "CPF/CNPJ": "32126979000135",
+    "Razão Social": "CATIELI SOUZA CRUZ PEREIRA LTDA",
+    "Nome fantasia": "FC INSTALAÇÕES ELÉTRICAS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "eletricafcinstalacao@gmail.com",
+    "Telefone": "64992745118",
+    "C020_Descricao": "INSTALAÇAO E MANUTENÇAO ELETRICA INDUSTRIAL"
+  },
+  {
+    "CPF/CNPJ": "19734840000106",
+    "Razão Social": "POINT PASTEL LTDA",
+    "Nome fantasia": "POINT PASTEL ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "pointdosorvete.rv@hotmail.com",
+    "Telefone": "64 30514767",
+    "C020_Descricao": "LANCHONETE/PASTELARIA                        "
+  },
+  {
+    "CPF/CNPJ": "05775750000159",
+    "Razão Social": "CENTRAL SEMENTES BRASIL",
+    "Nome fantasia": "CENTRAL SEMENTES BRASIL",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro@centralsementesbrasil.com.br",
+    "Telefone": "64992868639",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "51892872000142",
+    "Razão Social": "ADELAR DA SILVA ALOVISI",
+    "Nome fantasia": "ALOVISI TAPETES ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "aalovisi@gmail.com",
+    "Telefone": "64999192323",
+    "C020_Descricao": "COM. DE TECIDOS/CAMA MESA E BANHO            "
+  },
+  {
+    "CPF/CNPJ": "55382405000123",
+    "Razão Social": "FURQUIM E BRITO SOLUÇÕES EM PRODUTOS DE LIMPEZA LTDA",
+    "Nome fantasia": "ECOVILLE RIO VERDE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "ecovillerioverdecentro@gmail.com",
+    "Telefone": "64 21416696",
+    "C020_Descricao": "COM PRODUTOS DE LIMPEZA / DESCARTAVEL / EMBALAGENS                 "
+  },
+  {
+    "CPF/CNPJ": "53433771000139",
+    "Razão Social": "POUPP ENERGIA LTDA",
+    "Nome fantasia": "POUPP ENERGIA ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ana@esbengenharia.com",
+    "Telefone": "49 34330744",
+    "C020_Descricao": "INSTALAÇÃO E MANUTENÇÃO DE ENERGIA SOLAR"
+  },
+  {
+    "CPF/CNPJ": "24872672000155",
+    "Razão Social": "C e A PINTURAS LTDA",
+    "Nome fantasia": "SOLUÇÕES PINTURAS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "suelinascimento71@gmail.com",
+    "Telefone": "64993348410",
+    "C020_Descricao": "COMERCIO DE TINTAS                           "
+  },
+  {
+    "CPF/CNPJ": "12500687000103",
+    "Razão Social": "NAURA FERREIRA MARTINS LTDA",
+    "Nome fantasia": "ZERO GRAU BEER",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "adrianomvilela@gmail.com",
+    "Telefone": "64 36211521",
+    "C020_Descricao": "BAR/CHOPPERIA                                "
+  },
+  {
+    "CPF/CNPJ": "56706536000181",
+    "Razão Social": "ELVIS ANTÔNIO RIBEIRO ",
+    "Nome fantasia": "RIOVERTECH ENGENHARIA ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "riovertechengenharia@gmail.com",
+    "Telefone": "64981066647",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "34011303000806",
+    "Razão Social": "TREVISAN AGRONEGOCIOS  IMPOR. E EXPOR. DE PROD. AGRICOL LTDA",
+    "Nome fantasia": "TREVISAN AGRONEGÓCIOS ",
+    "Classificação": "Empresa de grande porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeiro2@trevisanagronegocios.com",
+    "Telefone": "19 32718060",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "33025098000190",
+    "Razão Social": "RENOVÁVEIS SERVIÇOS LTDA",
+    "Nome fantasia": "RENOVÁVEIS SERVIÇOS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "renovaveisfinanceiro@gmail.com",
+    "Telefone": "34 32598162",
+    "C020_Descricao": "REFRIGERACAO/ COM. AR CONDICIONADO / AQUEC.  "
+  },
+  {
+    "CPF/CNPJ": "39248918000190",
+    "Razão Social": "OESTE LUZ PROJETOS E MONTAGENS ELÉTRICAS ",
+    "Nome fantasia": "OESTE LUZ ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "brunoeletrica@yahoo.com.br",
+    "Telefone": "64 36130363",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "24128082000112",
+    "Razão Social": "LEILA ANICETO FERREIRA ",
+    "Nome fantasia": "MEDEIROS E ANICETO ASSESSORIA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "medeiroseaniceto@gmail.com",
+    "Telefone": "64 30501534",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "03373661000150",
+    "Razão Social": "BATERIAS LUXFOR LTDA",
+    "Nome fantasia": "BATERIAS LUXFOR ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "luxforbaterias@gmail.com",
+    "Telefone": "64 36121022",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "43190763000155",
+    "Razão Social": "BOOST DIGITAL LTDA",
+    "Nome fantasia": "BOOST DIGITAL ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "boostdigitalrv@gmail.com",
+    "Telefone": "64999569574",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "49243858000176",
+    "Razão Social": "EDUARDO ANTONIO MARQUES NETO ",
+    "Nome fantasia": "FOGO E BRASA BUFFET ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "eduardoantonioneto@gmail.com",
+    "Telefone": "64 96109029",
+    "C020_Descricao": "BUFFET/LOCACAO DE MAT. P/ FESTAS             "
+  },
+  {
+    "CPF/CNPJ": "05923936000108",
+    "Razão Social": "CONSULTING, BUILD, DEVOPS & SOURCING LTDA",
+    "Nome fantasia": "CBDS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@cbds.com.br",
+    "Telefone": "11 31923756",
+    "C020_Descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS "
+  },
+  {
+    "CPF/CNPJ": "61024596000154",
+    "Razão Social": "MULT SEG AGRO TERCEIRIZAÇÃO E SERVIÇOS GERAIS LTDA",
+    "Nome fantasia": "MULT SEG AGRO TERCEIRIZAÇÃO E SERVIÇOS GERAIS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "multsegagrogestaorv@gmail.com",
+    "Telefone": "64996536879",
+    "C020_Descricao": "LIMPEZA EM PREDIOS E EM DOMICILIOS           "
+  },
+  {
+    "CPF/CNPJ": "61765100000101",
+    "Razão Social": "MACTO ENGENHARIA GESTÃO E SOLUÇÕES CONSTRUTIVAS LTDA",
+    "Nome fantasia": "MACTO ENGENHARIA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "mactoengenharia@gmail.com",
+    "Telefone": "64992660575",
+    "C020_Descricao": "CONSTRUTORA E ENGENHARIA CIVIL               "
+  },
+  {
+    "CPF/CNPJ": "31105594000129",
+    "Razão Social": "CLÍNICA FAZENDO TERAPIA LTDA",
+    "Nome fantasia": "CLÍNICA FAZENDO TERAPIA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "fazendo.terapia@hotmail.com",
+    "Telefone": "64992981570",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "53266873000107",
+    "Razão Social": "ROBERTI E SAMPAIO COMÉRCIO E REPRESENTAÇÃO LTDA",
+    "Nome fantasia": "VALE SAFE EPI'S RIO VERDE",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "valesafe.rioverde@valesafe.com.br",
+    "Telefone": "64 21410907",
+    "C020_Descricao": "COM. EQUIPAMENTOS  DE EPI'S / HOSPITALARES"
+  },
+  {
+    "CPF/CNPJ": "40890818000141",
+    "Razão Social": "HC PISCINAS LTDA",
+    "Nome fantasia": "SOLÁRIO PISCINAS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "solariorioverde@gmail.com",
+    "Telefone": "64 21424948",
+    "C020_Descricao": "VENDA DE PISCINA"
+  },
+  {
+    "CPF/CNPJ": "21607311000193",
+    "Razão Social": "SMART PURIFICADORES E ELETRODOMESTICOS LTDA ",
+    "Nome fantasia": "MY SHOP RIO VERDE ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "myshoprioverde@gmail.com",
+    "Telefone": "64 34042373",
+    "C020_Descricao": "COM. MOVEIS/ELETRODOMESTICOS/COLCHOES        "
+  },
+  {
+    "CPF/CNPJ": "36851005000175",
+    "Razão Social": "CEZAR AUGUSTO ENGENHARIA LTDA",
+    "Nome fantasia": "CA ENGENHARIA ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "cezarfilhoirp@gmail.com",
+    "Telefone": "64 36212070",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "04018839000108",
+    "Razão Social": "ALENCASTRO FRUTAS E PESCADOS LTDA ",
+    "Nome fantasia": "FRUTBRAS PESCADOS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "silviadaveiga2@hotmail.com",
+    "Telefone": "64 30511056",
+    "C020_Descricao": "SUPERMERCADOS/MERCADOS/VAREJAO/ARMAZEM/MERCEA"
+  },
+  {
+    "CPF/CNPJ": "30561333000150",
+    "Razão Social": "DISPOR COLETA E GESTÃO DE RESÍDUOS LTDA",
+    "Nome fantasia": "DISPOR",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "j.adm@disporcoleta.com.br",
+    "Telefone": "64 21429306",
+    "C020_Descricao": "RECICLAGEM                                   "
+  },
+  {
+    "CPF/CNPJ": "55658281000166",
+    "Razão Social": "IDTAGG LTDA",
+    "Nome fantasia": "IDTAGG",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "contatoidtagg@gmail.com",
+    "Telefone": "64993166098",
+    "C020_Descricao": "TELEFONIA/ASSIS TECNICA/VENDA                "
+  },
+  {
+    "CPF/CNPJ": "03377695000113",
+    "Razão Social": "WILSON ANTONIO PREGO LTDA",
+    "Nome fantasia": "HOTEL JARDIM GOIÁS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "hoteljardimgoias@gmail.com",
+    "Telefone": "64 36120331",
+    "C020_Descricao": "HOTEL/ POUSADA                               "
+  },
+  {
+    "CPF/CNPJ": "12185433000148",
+    "Razão Social": "CORRESPONDENTE FACILITA LTDA",
+    "Nome fantasia": "FACILITA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "luterciojunior@hotmail.com",
+    "Telefone": "64981565712",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "91440009104",
+    "Razão Social": "EMILIANE DE CARVALHI BASTOS FARIA ",
+    "Nome fantasia": "GRÃO E PROSA CAFÉ ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "emiliane551@gmail.com",
+    "Telefone": "64992991122",
+    "C020_Descricao": "PADARIA / CONFEITARIA / DOCERIA / CAFES      "
+  },
+  {
+    "CPF/CNPJ": "50306253000166",
+    "Razão Social": "AD GESTÃO DE PESSOAS LTDA",
+    "Nome fantasia": "AG GESTÃO DE PESSOAS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "angelica@adgestaodepessoas.com.br",
+    "Telefone": "64981235300",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "56005813000129",
+    "Razão Social": "CM VEÍCULOS LTDA",
+    "Nome fantasia": "CM VEÍCULOS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "marcelobdefreitas_@hotmail.com",
+    "Telefone": "64 21414589",
+    "C020_Descricao": "ACESSORIOS E PECAS P/ VEICULOS               "
+  },
+  {
+    "CPF/CNPJ": "04274036189",
+    "Razão Social": "CAMILA SANTOS ASSESSORIAS ",
+    "Nome fantasia": "CAMILA TEIXEIRA DOS SANTOS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "camilateixeirasantosadm@gmail.com",
+    "Telefone": "64981159772",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "28623420000143",
+    "Razão Social": "JARDEL FRANCILINO VIEIRA ",
+    "Nome fantasia": "JM EXCURSÕES E TURISMO ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "jfrancilino@hotmail.com",
+    "Telefone": "64981689584",
+    "C020_Descricao": "AGENCIA DE TURISMO                           "
+  },
+  {
+    "CPF/CNPJ": "17830168000127",
+    "Razão Social": "PLANTA E VIDA ALIMENTOS NATURAIS LTDA",
+    "Nome fantasia": "PLANTA E VIDA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "plantaevida@gmail.com",
+    "Telefone": "64 36134792",
+    "C020_Descricao": "VAREJISTA DE PRODUTOS NATURAIS COM MANIPULAÇÃO FITOTERÁPICOS"
+  },
+  {
+    "CPF/CNPJ": "49582197000103",
+    "Razão Social": "VIDROESTE VIDROS ESQUADRIAS LTDA ",
+    "Nome fantasia": "VIDROESTE VIDROS ESQUADRIAS",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "vidroestevidracaria@gmail.com",
+    "Telefone": "64 36216836",
+    "C020_Descricao": "VIDRACARIA / COM. VIDROS TEMPERADOS          "
+  },
+  {
+    "CPF/CNPJ": "50092561000136",
+    "Razão Social": "PLUGAR EQUIPAMENTOS PARA EVENTOS LTDA ",
+    "Nome fantasia": "PLUGAR EQUIPAMENTOS PARA EVENTOS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "plugarfinanceiro@gmail.com",
+    "Telefone": "64992973767",
+    "C020_Descricao": "LOCAÇÃO EQUIP. SOM/ILUMINAÇÃO E ESTRUTURA "
+  },
+  {
+    "CPF/CNPJ": "57435405000170",
+    "Razão Social": "JM SOLUÇÕES EM ENERGIA LTDA ",
+    "Nome fantasia": "JM SOLUÇÕES EM ENERGIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "jmsolucoesemenergia@gmail.com",
+    "Telefone": "64996156756",
+    "C020_Descricao": "COM. DE MAT. ELETRICOS E CONSTRUCAO          "
+  },
+  {
+    "CPF/CNPJ": "34276232000199",
+    "Razão Social": "JM VEÍCULOS ",
+    "Nome fantasia": "JM VEÍCULOS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "jmveiculosrv@hotmail.com",
+    "Telefone": "64 30180530",
+    "C020_Descricao": "CONCESSIONARIA / COM. VEICULOS SEMINOVOS          "
+  },
+  {
+    "CPF/CNPJ": "54656339000170",
+    "Razão Social": "MATHEUS ADRIANO DE OLIVEIRA E CIA LTDA",
+    "Nome fantasia": "MACRO CENTER PEÇAS E REFRIGERAÇÃO ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "macro.center12@gmail.com",
+    "Telefone": "64992677582",
+    "C020_Descricao": "REFRIGERACAO/ COM. AR CONDICIONADO / AQUEC.  "
+  },
+  {
+    "CPF/CNPJ": "53667793000163",
+    "Razão Social": "LF FARIA LTDA ",
+    "Nome fantasia": "O MEU SAPATO ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "danilloadm123@gmail.com",
+    "Telefone": "64992416108",
+    "C020_Descricao": "COM. CALÇADOS                                "
+  },
+  {
+    "CPF/CNPJ": "49391544000110",
+    "Razão Social": "PRA MARTINS III LTDA ",
+    "Nome fantasia": "MARTINS BUSINESS",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "pauloroberto@martinsbusinessbroker.com",
+    "Telefone": "64992087541",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "37632518000158",
+    "Razão Social": "JULIANA MORAES SOUSA CUNHA ",
+    "Nome fantasia": "LIMPLACSOL LIMPEZA SOLAR ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "limplacsolgoias@gmail.com",
+    "Telefone": "64993470296",
+    "C020_Descricao": "CONSERVACAO E LIMPEZA                        "
+  },
+  {
+    "CPF/CNPJ": "43073579000125",
+    "Razão Social": "PREMIER AR CONDICIONADO LTDA ",
+    "Nome fantasia": "PREMIER AR CONDICIONADO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "premier.admrv@gmail.com",
+    "Telefone": "64 30500090",
+    "C020_Descricao": "REFRIGERACAO/ COM. AR CONDICIONADO / AQUEC.  "
+  },
+  {
+    "CPF/CNPJ": "56606594000133",
+    "Razão Social": "SAMUEL FONSECA SOUZA ",
+    "Nome fantasia": "MINDFLUX ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "samuelpromessa8@gmail.com",
+    "Telefone": "64984264435",
+    "C020_Descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS "
+  },
+  {
+    "CPF/CNPJ": "05754658000102",
+    "Razão Social": "LUCIMAR CAMPOS FERREIRA ",
+    "Nome fantasia": "REVISTA SOCIETY ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "revistasociety2017@gmail.com",
+    "Telefone": "64984055855",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "54759148000133",
+    "Razão Social": "3J LOGÍSTICA LTDA",
+    "Nome fantasia": "3J LOGÍSTCIA ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "administrativorv@3jlogistica.com",
+    "Telefone": "64992223492",
+    "C020_Descricao": "TRANSPORTADORA                               "
+  },
+  {
+    "CPF/CNPJ": "08883440000146",
+    "Razão Social": "TV RIO VERDE CANAL 3 LTDA",
+    "Nome fantasia": "ARMAZEM COMUNICAÇÃO E MARKETING",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "suene@armazemcomunicacao.com.br",
+    "Telefone": "64 36213010",
+    "C020_Descricao": "RADIO / TV / JORNAL                          "
+  },
+  {
+    "CPF/CNPJ": "58381502000190",
+    "Razão Social": "ELIANE FERREIRA ",
+    "Nome fantasia": "ELIANE FERREIRA ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "elianef932@gmail.com",
+    "Telefone": "64999839437",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "62421202000164",
+    "Razão Social": "NELLYS NELSON SILVA ",
+    "Nome fantasia": "CHOPP ASTURIA ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "nellysnsilva@gmail.com",
+    "Telefone": "64999450472",
+    "C020_Descricao": "DEPOSITO DE BEBIDAS/ ADEGAS                  "
+  },
+  {
+    "CPF/CNPJ": "41247857000198",
+    "Razão Social": "ANDREÁ TARTUCE SOCIEDADE INDIVIDUAL DE ADVOCACIA ",
+    "Nome fantasia": "ANDREÁ TARTUCE ADVOCACIA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "andreatartuceadv@gmail.com",
+    "Telefone": "64 36215308",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "26562802000189",
+    "Razão Social": "PRECISÃO COMÉRCIO DE TINTAS LTDA",
+    "Nome fantasia": "PRECISÃO TINTAS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "precisaotintasrv@gmail.com",
+    "Telefone": "64 30500063",
+    "C020_Descricao": "COMERCIO DE TINTAS                           "
+  },
+  {
+    "CPF/CNPJ": "19559480000153",
+    "Razão Social": "INSTITUTO PROVER HOSPITAL DIA LTDA",
+    "Nome fantasia": "PROVER HOSPITAL DIA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "hospitalprover@gmail.com",
+    "Telefone": "64 30518484",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "08575154974",
+    "Razão Social": "NYCOLE EDUARDA ROSA CASTILLHO ",
+    "Nome fantasia": "CIPRIAN VINHOS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "Ciprianivinhos@gmail.com",
+    "Telefone": "64996171864",
+    "C020_Descricao": "DEPOSITO DE BEBIDAS/ ADEGAS                  "
+  },
+  {
+    "CPF/CNPJ": "42576692000160",
+    "Razão Social": "LORIS COMÉRCIO DE SIMIJÓIAS ",
+    "Nome fantasia": "LORIS ACESSÓRIOS ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "loris.acessorios@gmail.com",
+    "Telefone": "64999114191",
+    "C020_Descricao": "RELOJOARIA/JOALHERIA/SEMIJOIAS/BIJUTERIA     "
+  },
+  {
+    "CPF/CNPJ": "61439315000124",
+    "Razão Social": "DRIVEN MARKETING E ASSESSORIA LTDA ",
+    "Nome fantasia": "DRIVEN MARKETING ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "jhoffler01@gmail.com",
+    "Telefone": "64996445777",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "46151976000166",
+    "Razão Social": "LUCAS BARROS ALVES DE CARVALHO ",
+    "Nome fantasia": "LUCAS E CECILIA ÓLEOS ESSENCIAIS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "lucasrvd@outlook.com",
+    "Telefone": "64992725029",
+    "C020_Descricao": "PERFUMARIA / COSMETICOS                      "
+  },
+  {
+    "CPF/CNPJ": "36638921000121",
+    "Razão Social": "GESSE CABRAL GUIMARÃES FILHO ",
+    "Nome fantasia": "ASSIM SEJA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "sejafilmsfinanceiro@gmail.com",
+    "Telefone": "64996749382",
+    "C020_Descricao": "FOTOGRAFIA "
+  },
+  {
+    "CPF/CNPJ": "60467617000143",
+    "Razão Social": "ISMAILEY FERREIRA SANTOS ",
+    "Nome fantasia": "GRUPO DYNAMO",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ismaileyferreira@hotmail.com",
+    "Telefone": "64981528970",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "58195248000135",
+    "Razão Social": "PAGOTTO FILMES LTDA ",
+    "Nome fantasia": "PAGOTTO FILMES ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "thomasmdgp@gmail.com",
+    "Telefone": "64992116088",
+    "C020_Descricao": "AG. PUBLICIDADE/MARKETING/COM. VISUAL"
+  },
+  {
+    "CPF/CNPJ": "17113512000167",
+    "Razão Social": "GAZARINI E SANTA CRUZ ARQUITETURA E INTERIORES LTDA",
+    "Nome fantasia": "GAZARINI E SANTA CRUZ ARQUITETURA E INTERIORES",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "julianastacruz@yahoo.com.br",
+    "Telefone": "64999587178",
+    "C020_Descricao": "DECORACAO DE INTERIORES/ARTESANATO/QUADROS   "
+  },
+  {
+    "CPF/CNPJ": "42838275000149",
+    "Razão Social": "THATIANE INTENSE ESTÉTICA FACIAL E CORPORAL ",
+    "Nome fantasia": "CLÍNICA INTENSE ESTÉTICA FACIAL E CORPORAL ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "thiago.hwbrasil@gmail.com",
+    "Telefone": "64996001408",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "48564995000140",
+    "Razão Social": "LEÃO E BUENO ASSESSORIA CONTABIL LTDA",
+    "Nome fantasia": "LEÃO E BUENO ASSESSORIA CONTABIL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "adm@lbassessoriacontabil.com.br",
+    "Telefone": "64 21414629",
+    "C020_Descricao": "ESCRITORIO CONTABIL                          "
+  },
+  {
+    "CPF/CNPJ": "44142740000138",
+    "Razão Social": "COMPRAS  DO MEU JEITO LTDA",
+    "Nome fantasia": "SHOP MY WAY",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contato@comprasdomeujeito.com",
+    "Telefone": "62996544487",
+    "C020_Descricao": "CONSULTORIA EM SERVIÇOS E NEGÓCIOS EM GERAL"
+  },
+  {
+    "CPF/CNPJ": "55527470000108",
+    "Razão Social": "ROBERTA DE MELO ALMEIDA DOS SANTOS ",
+    "Nome fantasia": "CR COMPRA E VENDA DE CAMA DE FRANGO E GRÃOS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "carlosfaria996@gmail.com",
+    "Telefone": "64992065168",
+    "C020_Descricao": "INDUSTRIA E COM. PROD. AGRICOLAS/CEREAIS/SEMENTES/RACAO"
+  },
+  {
+    "CPF/CNPJ": "36559036000157",
+    "Razão Social": "GYLIARD VIEIRA MARTINS ",
+    "Nome fantasia": "FRIOMAR ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "friomar_shego@hotmail.com",
+    "Telefone": "64992017018",
+    "C020_Descricao": "REFRIGERACAO/ COM. AR CONDICIONADO / AQUEC.  "
+  },
+  {
+    "CPF/CNPJ": "19214044000142",
+    "Razão Social": "UNICORES COMÉRCIO DE TINTAS ",
+    "Nome fantasia": "UNICORES",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "premiumtintas1@gmail.com",
+    "Telefone": "64 36222909",
+    "C020_Descricao": "COMERCIO DE TINTAS                           "
+  },
+  {
+    "CPF/CNPJ": "12975887000112",
+    "Razão Social": "COOPERATIVA DOS COMERCIANTES DE CARNE DE GOIÁS ",
+    "Nome fantasia": "COOPERCARNE ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Cooperativa",
+    "EMAIL": "contabil@coopercarne.com.br",
+    "Telefone": "64992185231",
+    "C020_Descricao": "AÇOUGUE DE CARNES "
+  },
+  {
+    "CPF/CNPJ": "02916813000151",
+    "Razão Social": "AEROTEX AVIAÇÃO AGRICOLA LTDA",
+    "Nome fantasia": "AEROTEX AVIAÇÃO AGRICOLA LTDA",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "compras@aerotex.com.br",
+    "Telefone": "64 36123431",
+    "C020_Descricao": "ESCRITORIO AGRONOMICO/ AMBIENTAL             "
+  },
+  {
+    "CPF/CNPJ": "01387764314",
+    "Razão Social": "LEYLA KALINA SOBRINHO SANTOS ",
+    "Nome fantasia": "",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "leylaksobrinho@gmail.com",
+    "Telefone": "64984594886",
+    "C020_Descricao": "IMOBILIARIA/ADM. DE BENS/CORRETAGEM DE IMOVEIS/LOTEAMENTO"
+  },
+  {
+    "CPF/CNPJ": "41890496000101",
+    "Razão Social": "ZERO 1 ENGENHARIA E GESTÃO LTDA",
+    "Nome fantasia": "ZERO 1 ASSISTÊNCIA TÉCNICA E GESTÃO DA MANUTENÇÃO",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "manutencao.zero1@gmail.com",
+    "Telefone": "64999317728",
+    "C020_Descricao": "CONSULTORIA EM SERVIÇOS E NEGÓCIOS EM GERAL"
+  },
+  {
+    "CPF/CNPJ": "41351315000160",
+    "Razão Social": "ASSOCIAÇÃO PROTEGECLUB - CLUBE BENEFÍCIOS ",
+    "Nome fantasia": "PROTEGECLUB",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "financeiro@protegeclub.com",
+    "Telefone": "64 35131702",
+    "C020_Descricao": "CORRETORES DE SEGUROS  /  CONSORCIO                       "
+  },
+  {
+    "CPF/CNPJ": "18921030000104",
+    "Razão Social": "RIO AR REFRIGERAÇÃO E DISTRIBUIDORA LTDA",
+    "Nome fantasia": "RIO AR REFRIGERAÇÃO",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "marcelo_arrudarv@hotmail.com",
+    "Telefone": "64992777774",
+    "C020_Descricao": "REFRIGERACAO/ COM. AR CONDICIONADO / AQUEC.  "
+  },
+  {
+    "CPF/CNPJ": "63514709000125",
+    "Razão Social": "ALINE OLIVEIRA QUIRINO ",
+    "Nome fantasia": "ALINE OLIVEIRA QUIRINO ADVOGADA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "advalinequirino@gmail.com",
+    "Telefone": "64992805898",
+    "C020_Descricao": ""
+  },
+  {
+    "CPF/CNPJ": "57015900000120",
+    "Razão Social": "RG COMPRESSORES LTDA",
+    "Nome fantasia": "RG COMPRESSORES",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "revisoragoiana@gmail.com",
+    "Telefone": "64 36123696",
+    "C020_Descricao": "Aluguel e Venda de Compressores e Outros "
+  },
+  {
+    "CPF/CNPJ": "86802569191",
+    "Razão Social": "SARA LÚCIA ARAÚJO MOREIRA BASTOS ",
+    "Nome fantasia": "POLTRÔNICA - ALUGUEIS DE POLTRONAS ELETRÔNICAS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "sarabastosmb@gmail.com",
+    "Telefone": "64992316917",
+    "C020_Descricao": "COM. MOVEIS/ELETRODOMESTICOS/COLCHOES        "
+  },
+  {
+    "CPF/CNPJ": "31385132000102",
+    "Razão Social": "WELITON TELES - ADVOGADOS ASSOCIADOS",
+    "Nome fantasia": "WELITON TELES - ADVOGADOS ASSOCIADOS",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "wstelesadv@gmail.com",
+    "Telefone": "64 36212032",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "31978525000120",
+    "Razão Social": "IK EDUCAÇÃO AUTODIDATA LTDA",
+    "Nome fantasia": "KUMON JK",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "ikeducacao.financeiro@outlook.com",
+    "Telefone": "64 36224037",
+    "C020_Descricao": "ESCOLA DE CURSOS PROFISSIONALIZANTES         "
+  },
+  {
+    "CPF/CNPJ": "63383414000167",
+    "Razão Social": "PEDRO ANTONIO BARROS DE SOUSA",
+    "Nome fantasia": "PREMIA PÃO RIO VERDE",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Comercio",
+    "EMAIL": "pedroatwork398@gmail.com",
+    "Telefone": "63999134864",
+    "C020_Descricao": "PAPELARIA / LIVRARIA                         "
+  },
+  {
+    "CPF/CNPJ": "31827304000150",
+    "Razão Social": "CENTRO EMPRESARIAL PROSPERAR LTDA",
+    "Nome fantasia": "INSTITUTO PROSPERAR",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "institutoprosperar10@gmail.com",
+    "Telefone": "64 30185605",
+    "C020_Descricao": "CURSOS / TREINAMENTOS  / PALESTRAS                    "
+  },
+  {
+    "CPF/CNPJ": "00570267935",
+    "Razão Social": "MERCIE APARECIDA BERNO BELLEI",
+    "Nome fantasia": "CONSULTÓRIO DE PSICOLOGIA ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "merciebellei55@gmail.com",
+    "Telefone": "64998182630",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "06643118140",
+    "Razão Social": "OTAMIRA SANTOS FISIOTERAPEUTA VESTIBULAR ",
+    "Nome fantasia": "OTAMIRA SANTOS FISIOTERAPEUTA VESTIBULAR ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "otamiraferreira@gmail.com",
+    "Telefone": "64999363841",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "47152821000107",
+    "Razão Social": "JULLYANA BORGES FERREIRA ",
+    "Nome fantasia": "JUBELLE JOIAS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "jullyanaborgesferreira@hotmail.com",
+    "Telefone": "64992308466",
+    "C020_Descricao": "RELOJOARIA/JOALHERIA/SEMIJOIAS/BIJUTERIA     "
+  },
+  {
+    "CPF/CNPJ": "04490531001213",
+    "Razão Social": "COOP. DE CREDITO E INV. COM INTERAÇÃO SOLID DE GO -CRESOL GO",
+    "Nome fantasia": "PAC RIO VERDE",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "grp.financeirogoias@cresol.com.br",
+    "Telefone": "64999851892",
+    "C020_Descricao": "ASSOCIACOES DE CLASSES  / ENTIDADES                   "
+  },
+  {
+    "CPF/CNPJ": "04443009108",
+    "Razão Social": "karoline ferreira dantas ",
+    "Nome fantasia": "HUMANOUS ",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "karoline.f.dantas@gmail.com",
+    "Telefone": "64999043196",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "02726560000153",
+    "Razão Social": "TRANSPORTADORA BRASIL CENTRAL ",
+    "Nome fantasia": "TRANSPORTADORA BRASIL CENTRAL ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "contasapagar@brasilcentral.com.br",
+    "Telefone": "64 21025000",
+    "C020_Descricao": "TRANSPORTADORA                               "
+  },
+  {
+    "CPF/CNPJ": "50849778000148",
+    "Razão Social": "TERAPIAS INTEGRATIVAS ",
+    "Nome fantasia": "LIDIA DA SILVA SOARES",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "lidia.guindani@hotmail.com",
+    "Telefone": "64992057053",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "02089984112",
+    "Razão Social": "LAIS MARTINS ",
+    "Nome fantasia": "UNICA ODONTOLOGIA INTEGRADA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "laaisp1@gmail.com",
+    "Telefone": "64992362000",
+    "C020_Descricao": "CLINICA DE ODONTOLOGIA                       "
+  },
+  {
+    "CPF/CNPJ": "28014059000158",
+    "Razão Social": "SIRLEY PEREIRA BARBOSA ",
+    "Nome fantasia": "SIRLEY PEREIRA BARBOSA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Comercio",
+    "EMAIL": "sirleypereirago@gmail.com",
+    "Telefone": "64 98124532",
+    "C020_Descricao": "FRUTARIA/DISTRIBUIDORA DE HORTIFRUTI         "
+  },
+  {
+    "CPF/CNPJ": "57298799000161",
+    "Razão Social": "LARA COSTA INSTITUTO DE FONOAUDIOLOGIA LTDA",
+    "Nome fantasia": "LARA COSTA INSTITUTO DE FONOAUDIOLOGIA ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "laracostafonoaudiologia@outlook.com",
+    "Telefone": "64992124395",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "63526929000179",
+    "Razão Social": "SMIRNA MORAES SAÚDE E ESTÉTICA LTDA",
+    "Nome fantasia": "SMIRNA MORAES SAÚDE E ESTÉTICA",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "smclinicadeestetica@gmail.com",
+    "Telefone": "64992152229",
+    "C020_Descricao": "CLINICA DE ESTETICA                          "
+  },
+  {
+    "CPF/CNPJ": "55641772000102",
+    "Razão Social": "RC CONSULTORIA FINANCEIRA EMPRESARIAL LTDA ",
+    "Nome fantasia": "RC CONSULTORIA FINANCEIRA EMPRESARIAL",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "rosaniacandidafinancas@gmail.com",
+    "Telefone": "64984537473",
+    "C020_Descricao": "CONSULTORIA APOIO ADMINISTRATIVO A INSTITUICOES  FINANCEIRO"
+  },
+  {
+    "CPF/CNPJ": "57643927000167",
+    "Razão Social": "DANIEL LOPES BORGES LTDA",
+    "Nome fantasia": "EXCLUSIVE CRISTAIS ",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Comercio",
+    "EMAIL": "exclusivecristaisrv@gmail.com",
+    "Telefone": "64984421794",
+    "C020_Descricao": "COMERCIO DE TINTAS                           "
+  },
+  {
+    "CPF/CNPJ": "57899200000145",
+    "Razão Social": "ROTA MAQ SOLUÇÕES MÁQ., EQUI. E GERADORES LTDA",
+    "Nome fantasia": "ROTA MAQ",
+    "Classificação": "Microempresa - ME",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "administrativo@rotamaq.com",
+    "Telefone": "64992140074",
+    "C020_Descricao": "INSTALAÇAO E MANUTENÇAO ELETRICA INDUSTRIAL"
+  },
+  {
+    "CPF/CNPJ": "98995502053",
+    "Razão Social": "Denise Paloschi ",
+    "Nome fantasia": "",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "denisevr248@gmail.com",
+    "Telefone": "64992504141",
+    "C020_Descricao": "CONSULTORIA EM SERVIÇOS E NEGÓCIOS EM GERAL"
+  },
+  {
+    "CPF/CNPJ": "10204914000128",
+    "Razão Social": "COPERCANA DISTRIBUIDORA DE COMBUSTIVÉIS LTDA ",
+    "Nome fantasia": "COPERCANA ",
+    "Classificação": "Empresa de medio porte",
+    "Categoria": "Comercio",
+    "EMAIL": "financeirodistr@copercana.com.br",
+    "Telefone": "64999584395",
+    "C020_Descricao": "USINA SUCOALCOOLEIRO                         "
+  },
+  {
+    "CPF/CNPJ": "51406183000180",
+    "Razão Social": "L.S.C. ESPAÇO TERAPÊUTICO GIRASSOL",
+    "Nome fantasia": "ESPAÇO TERAPÊUTICO GIRASSOL",
+    "Classificação": "Empresa de pequeno porte - EPP",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "psilucianacerqueira@gmail.com",
+    "Telefone": "64996477674",
+    "C020_Descricao": "CLINICA MEDICA                               "
+  },
+  {
+    "CPF/CNPJ": "03172268195",
+    "Razão Social": "REGIS REZENDE RIBEIRO ",
+    "Nome fantasia": "",
+    "Classificação": "Microempreendedor individual - MEI",
+    "Categoria": "Prestaçao de Serviço",
+    "EMAIL": "regisrr3@gmail.com",
+    "Telefone": "64999737557",
+    "C020_Descricao": "ESCRITORIO DE ADVOCACIA                      "
+  },
+  {
+    "CPF/CNPJ": "02971865000120",
+    "Razão Social": "LATICÍNIOS SAN MARINO LTDA",
+    "Nome fantasia": "LATICÍNIOS SAN MARINO ",
+    "Classificação": "Empresa de grande porte",
+    "Categoria": "Industria",
+    "EMAIL": "fiscalsanmarino@ipanemaqueijos.com.br",
+    "Telefone": "64 36210032",
+    "C020_Descricao": "FABRICAÇÃO DE LATICÍNIOS "
+  },
+  {
+    "CPF/CNPJ": "",
+    "Razão Social": "",
+    "Nome fantasia": "",
+    "Classificação": "",
+    "Categoria": "",
+    "EMAIL": "",
+    "Telefone": "",
+    "C020_Descricao": ""
+  }
+]

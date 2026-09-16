@@ -1,0 +1,1 @@
+processos repetitivos que hoje existem como POP (Procedimento Operacional Padrão), checklist ou conhecimento informal podem ser classificados pela pergunta: **“isso deveria continuar sendo apenas documentação ou deveria virar uma skill executável por um agente?”**

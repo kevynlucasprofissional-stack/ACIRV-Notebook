@@ -1,0 +1,69 @@
+---
+Modificado:
+  - segunda-feira 75 16/03/2026
+  - quarta-feira 21 21/01/2026
+  - quinta-feira 338 04/12/2025
+  - quarta-feira 337 03/12/2025
+  - segunda-feira 335 01/12/2025
+  - quinta-feira 331 27/11/2025
+  - segunda-feira 328 24/11/2025
+  - sexta-feira 325 21/11/2025
+  - quarta-feira 323 19/11/2025
+  - segunda-feira 321 17/11/2025
+  - sexta-feira 318 14/11/2025
+  - terça-feira 315 11/11/2025
+Criado: terça-feira 315 11/11/2025
+---
+- [ ] Explorar o Drive da comunicação, ver se tem algum material que não foi postado para postar. ⏬ 
+- [ ] Verificar diariamente emails, forms e mensagens. Fazer uma automação via n8n para nos ajudar com isso. 🔁 every day 
+- [ ] Planejar e sistematizar uma linha editorial semanal com base no que a Viviane já planejou: [Planejamento Semanal](https://docs.google.com/document/d/1WV1EJ53YTv6KfdmtOHn32zoZ-bm0UScMibZLUI0xBvs/edit?tab=t.0) 🔽 
+
+Tenho algumas tarefas urgentes, vou incluir o que foi alinhado na reunião com o Raphael e a Vivi.
+- [ ] Fazer um resumo da semana passada, levantando os números de quantas reuniões cobrimos, do tanto de material que geramos. do engajamento, enfim. Um levantamento rápido (30m) 🔽 
+- [x] Fazer edição do material que a Vivi me mandou no privado hoje cedo. ✅ 2025-11-17
+	- [x] Postar ✅ 2025-11-17
+	- [x] Postar no feed os vídeos do sorriso verdadeiro. 📅 2025-11-18 ✅ 2025-11-27
+- [x] Fazer um resumo do fórum de IA para o Jornal e mandar para o Jesus! 🔽 ✅ 2025-12-03
+- [ ] Editar o vídeo do Fórum de IA ⏫ 
+- [ ] Criar e executar planejamento completo do Sorriso Verdadeiro. O evento é 14/12. Falta só a etapa 4 📅 2025-12-12 🔺
+	- [x] Fazer um resumo e a arte do projeto e mandar no grupo da imprensa. 🔺 ✅ 2025-11-27
+- [x] Executar o planejamento do [[GESTÃO DA ATENÇÃO - Café entre amigos 01]] 🔺 ✅ 2025-11-27
+- [ ] Ter idéias de 8 conteúdos frios (Excluindo datas comemorativas e eventos).  
+	- [x] Você pode se inspirar nas idéias presentes na pasta de novembro e nos comentários na pasta de outubro. Para os comentários a headline pode ser **O que as pessoas dizem sobre a ACIRV?** 🔺 ✅ 2025-12-03
+	- [ ] Conteúdo de prova social.
+	- [ ] Conteúdo da [[Pasta de Idéias da VIVI]]
+- [ ] Preciso organizar meus arquivos. Pegar todos os arquivos da pasta de download e mover para as pastas corretas, organizar a pasta de livros, talvez por gênero. Colocar tudo que tem para transcrever em uma pasta e transcrever tudo. 🔼 
+- [ ] Fazer downloads do curso do Insider enquanto ainda há tempo. ⏫ 
+- [x] Minuto ACIRV na terça feira (18/11). Deixar sugestão de texto pronta. 🔺 ✅ 2025-11-19
+- [x] Subir na CAM para conversar, perguntar como que funciona. ⏫ ✅ 2025-11-27
+- [x] Organizar carrossel para o dia da consciência negra (20/11) 🔺 ✅ 2025-11-27
+- [x] Criar o cerimonial do café entre amigos com base nos cerimoniais antigos. 🔺 ✅ 2025-11-27
+	- [x] Ver com a Raki se alguém da Pax vai falar. Como eles são patrocinadores eles tem um espaço de fala. 🔺 ✅ 2025-11-27
+	- [x] O Danilo da Rei Motos vai falar, incluir no cerimonial o espaço. Mandar mensagem confirmando. 🔺 ✅ 2025-11-27
+- [x] Criar o roteiro do Minuto ACIRV sobre o projeto Sorriso Verdadeiro. 🔺 ✅ 2025-11-19
+- [x] Mandar criar um carrossel de dia da consciência negra. 🔺 📅 2025-11-18 ✅ 2025-11-18
+- [ ] Pegar todas as notícias que o José Carlos manda no grupo da diretoria e transformar no quadro "Notícias pelo mundo".
+- [ ] Pegar a gravação que fiz de depoimentos no dia 18/11 e transformar em um vídeo de prova social.
+- [ ] Postar fotos em carrossel das reuniões. Postar todas as fotos. ⏫ 
+- [x] Postar fotos da reunião de hoje 19/11 e criar legenda. 🔺 ✅ 2025-11-27
+- [x] Fazer o que a Janaine te pediu hoje 19/11 🔺 📅 2025-11-19 ✅ 2025-11-27
+- [ ] Precisamos de um vídeo do José Carlos, um CTA pro Conecta. 📅 2025-11-25 
+- [x] Fazer uma campanha de email marketing para a Conecta Saúde. 🔺 📅 2025-11-23 ✅ 2025-11-27
+- [ ] Postagem no linkedin para a Conecta Saúde. Enviar essa mesma nos grupos. 🔺 
+- [ ] Dia do Conecta entrega em tempo real (Edits, integra do Discurso Inicial, vídeos dos patrocinados, depoimento de primeira viagem e outros, e um vídeo geral para loop no final), e de depois um vídeo geral mais elaborado. 🔺
+- [ ] Vídeo com imagens do último conecta. 🔺 
+- [x] Enviar Release do Sorriso Verdadeiro para a Imprensa. 🔺 📅 2025-11-23 ✅ 2025-11-27
+- [x] Ver qual fica melhor para editar o audio gravado ou do vídeo, da tarefa que o Rafael te passou na sexta (21/11) para 🔺 📅 2025-11-23 ✅ 2025-11-27
+- [x] Fazer sequência de stories para a oficina de vitrines na 🔺 📅 2025-11-23 ✅ 2025-11-27
+- [x] Fazer pedido das artes da etapa 3 do planejamento do Sorriso Verdadeiro 🔺 📅 2025-12-01 ✅ 2025-12-01
+- [x] Gravar Minuto ACIRV com Murilo. Qualquer coisa falar com a Adria, deixar texto pronto. A pauta será sobre o Conecta Saúde. 🔺 📅 2025-11-25 ✅ 2025-11-27
+- [x] Postar vídeos do Conecta Saúde 🔺 📅 2025-11-22 ✅ 2025-11-26
+- [x] Fazer follow-up dos releases enviados 🔺 📅 2025-11-23 ✅ 2025-12-01
+- [ ] Criar um padrão para "Notícias pelo mundo", para postar no feed da ACIRV as notícias que o José Carlos envia no grupo.
+- [ ] Fazer pedido das artes da etapa 4 do planejamento do Sorriso Verdadeiro 📅 2025-12-12 🔺 
+- [ ] Postar o criativo de urgência nos stories com o texto "falta 5 dias" para acabar o sorriso verdadeiro. 📅 2025-12-07
+- [ ] Postar o criativo de urgência nos stories com o texto "falta 4 dias" para acabar o sorriso verdadeiro. 📅 2025-12-08
+- [ ] Postar o criativo de urgência nos stories com o texto "falta 3 dias" para acabar o sorriso verdadeiro. 📅 2025-12-09
+- [ ] Postar o criativo de urgência nos stories com o texto "falta 2 dias" para acabar o sorriso verdadeiro. 📅 2025-12-10
+- [ ] Postar o criativo de urgência nos stories com o texto "falta 1 dias" para acabar o sorriso verdadeiro. 📅 2025-12-11
+- [ ] Postar o criativo de urgência nos stories com o texto "Hoje é o último dia!" para acabar o sorriso verdadeiro. 📅 2025-12-12

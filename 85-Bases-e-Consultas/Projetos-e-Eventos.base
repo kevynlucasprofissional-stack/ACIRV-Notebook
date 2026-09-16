@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.inFolder("03-Projetos-Campanhas-e-Eventos")
+views:
+  - type: table
+    name: Projetos e eventos
+    order:
+      - file.name
+      - tipo
+      - status
+      - grau_confianca
+      - ultima_revisao

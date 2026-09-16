@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.inFolder("06-Pessoas-e-Stakeholders")
+views:
+  - type: table
+    name: Stakeholders
+    order:
+      - file.name
+      - tipo
+      - grau_confianca
+      - ultima_revisao
