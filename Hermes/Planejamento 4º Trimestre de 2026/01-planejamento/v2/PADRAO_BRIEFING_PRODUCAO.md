@@ -1,6 +1,6 @@
 # Padrão canônico de briefing de produção — ACIRV Social Media
 
-**Versão:** 2.1  
+**Versão:** 2.2  
 **Status:** ATIVO  
 **Aplicação:** todas as peças destinadas à designer Samara.
 
@@ -9,6 +9,37 @@
 O planejamento editorial define **o que comunicar e por quê**. O briefing de produção precisa ir além: deve entregar à designer **o texto exato que entra na arte e a direção visual de cada slide**.
 
 A designer não deve receber apenas temas como `rede + representação + consultorias` ou instruções genéricas como `uma situação por card`. Esse nível é apenas um rascunho editorial. Antes de uma pauta chegar ao Trello, ela deve estar expandida para um briefing executável.
+
+## Separação de responsabilidades
+
+### Autoria editorial
+
+A copy, a estrutura slide a slide, a direção visual, a legenda, os assets e as restrições são definidos **nos arquivos canônicos do planejamento no GitHub**.
+
+Quando um post estiver marcado como `PRODUÇÃO_PRONTA` ou `PRODUÇÃO_PRONTA_COM_ASSET_PENDENTE`, o bloco `DESCRIÇÃO CANÔNICA PARA O TRELLO` passa a ser a fonte editorial final daquela pauta.
+
+### Papel do Hermes
+
+Para briefings já fechados no planejamento, o Hermes é **executor de transferência**, não autor editorial.
+
+O Hermes deve:
+- localizar o card correto no Trello;
+- copiar integralmente a descrição canônica do planejamento;
+- preservar formatação e conteúdo;
+- salvar;
+- verificar persistência;
+- registrar o estado externo.
+
+O Hermes **não deve**:
+- reescrever a copy;
+- resumir o briefing;
+- criar títulos, subtítulos ou CTAs alternativos;
+- trocar palavras para “melhorar” o texto;
+- transformar direção visual específica em orientação genérica;
+- preencher lacunas editoriais por conta própria;
+- alterar o número de slides.
+
+Se o planejamento ainda estiver em estado de pauta editorial e não possuir briefing canônico fechado, o Hermes deve **parar aquele item e registrar `BLOCKED_EDITORIAL_BRIEFING`**, em vez de escrever o briefing sozinho.
 
 ## Definição de PRODUÇÃO_PRONTA
 
@@ -39,7 +70,7 @@ A designer pode ajustar:
 
 A designer **não deve precisar reescrever, completar ou inventar a mensagem**.
 
-Se o texto precisar mudar por motivo editorial, a alteração deve ser feita no briefing/fonte e depois refletida no Trello.
+Se o texto precisar mudar por motivo editorial, a alteração deve ser feita primeiro no briefing canônico do GitHub e depois refletida no Trello.
 
 ## Template canônico
 
@@ -122,38 +153,15 @@ Em peças estratégicas, priorizar a qualidade da capa sobre elementos decorativ
 
 ## Assets
 
-Quando o briefing depender de:
-
-- foto real;
-- logo de parceiro;
-- QR Code;
-- print;
-- números;
-- depoimento;
-- nome de pessoa;
-- material de evento;
-
-informar explicitamente o asset necessário e, quando conhecido, sua fonte/localização.
+Quando o briefing depender de foto real, logo de parceiro, QR Code, print, números, depoimento, nome de pessoa ou material de evento, informar explicitamente o asset necessário e, quando conhecido, sua fonte/localização.
 
 Não pedir à Samara para `procurar alguma foto`, `pesquisar um dado` ou decidir qual informação institucional é verdadeira.
 
 ## Dados a validar
 
-Dados voláteis não devem virar copy definitiva sem validação. Exemplos:
+Dados voláteis não devem virar copy definitiva sem validação. Exemplos: preço, desconto, capacidade de sala, horários, números de evento, estatísticas, produtos/condições comerciais, depoimentos, nomes e autorizações de imagem.
 
-- preço;
-- desconto;
-- capacidade de sala;
-- horários;
-- números de evento;
-- estatísticas;
-- produtos/condições comerciais;
-- depoimentos;
-- nomes e autorizações de imagem.
-
-Quando um dado pendente afetar apenas um detalhe, usar placeholder editorial inequívoco, por exemplo:
-
-`[INSERIR TELEFONE VALIDADO]`
+Quando um dado pendente afetar apenas um detalhe, usar placeholder editorial inequívoco ou registrar a pendência de asset sem bloquear a copy.
 
 Quando o dado mudar a mensagem central, marcar a pauta como `BLOCKED_DATA_VALIDATION` e não enviá-la para produção ainda.
 
@@ -186,24 +194,25 @@ Regra de ponderação já estabelecida:
 
 O briefing pode indicar qual linguagem do moodboard faz mais sentido para a peça, mas não deve pedir cópia literal de uma referência.
 
-## Quality Gate antes do Trello
+## Quality Gate editorial
 
-Antes de criar ou atualizar um card da Samara, o Hermes deve responder internamente `SIM` para todas as perguntas:
+O gate é aplicado **no planejamento**, antes de liberar o briefing para execução.
 
-- Existe texto exato para todos os slides?
-- A quantidade de slides do texto bate com o formato?
-- Existe direção visual por slide?
-- A capa tem hierarquia clara?
-- O CTA está escrito exatamente?
-- A legenda está pronta para copiar ou explicitamente bloqueada?
-- Assets críticos estão identificados?
-- Dados voláteis estão validados ou claramente bloqueados?
-- A designer consegue produzir a peça sem precisar escrever a copy?
+Um briefing só recebe `PRODUÇÃO_PRONTA` quando:
+- existe texto exato para todos os slides;
+- a quantidade de slides bate com o entregável;
+- existe direção visual por slide;
+- a capa tem hierarquia clara;
+- o CTA está escrito exatamente;
+- a legenda está pronta para copiar ou explicitamente bloqueada;
+- assets críticos estão identificados;
+- dados voláteis estão validados ou claramente marcados;
+- a designer consegue produzir a peça sem precisar escrever a copy.
 
-Se qualquer resposta essencial for `NÃO`, o card não está `PRODUÇÃO_PRONTA`.
+O Hermes não refaz esse julgamento editorial quando o status já está fechado; ele apenas verifica se está usando o arquivo/versão correta.
 
 ## Regra de migração
 
 Briefings já criados no Trello com descrições genéricas devem ser atualizados **no card existente**, sem recriação.
 
-Preservar ID, URL, histórico, comentários e anexos. Substituir apenas a descrição/briefing, salvar e verificar persistência.
+Preservar ID, URL, histórico, comentários e anexos. Substituir apenas a descrição pelo bloco canônico correspondente, salvar e verificar persistência.
