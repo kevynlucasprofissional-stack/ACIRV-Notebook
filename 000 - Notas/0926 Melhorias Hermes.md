@@ -1,3 +1,7 @@
-O Kanban ainda não está como eu quero, quero dois tipos de quadros pré-definidos: Híbrido e Agêntico.
-O Vault também ainda não está legal, vou precisar pegar uns arquivos Open Source e me inspirar neles para criar o vault.
-Preciso também dar uma olhada nos projetos open source
+1. O Kanban ainda não está como eu quero, quero dois tipos de quadros pré-definidos: Híbrido e Agêntico.
+2. O Vault também ainda não está legal, vou precisar pegar uns arquivos Open Source e me inspirar neles para criar o vault.
+3. Preciso também dar uma olhada nos projetos open source que lá no começo defini como prioridades para basear o browser do Hermes e criar um doc no Hermes falando sobre como usar cada um para criar o Browser do Hermes.
+4. Suporte a instalar sites como PWA e criar ponte entre a inteligência Artificial e o site instalado, acho que assim será os "Conectores" do Hermes
+5. Um jeito de gravar ações em sites e treinar a IA com as ações gravadas, preciso que a gravação seja híbrida, tanto gravação das ações na página quando da tela do browser e possibilidade de comentar marcando horário sobre o que estava sendo feito a cada momento para maximizar capacidade de treinamento, e a IA conseguir relacionar botões clicados com comentários baseados em minutagem do vídeo sem precisar usar visão (Que gasta mais tokens).
+6. Implementar todas as alternativas gratuitas disponíveis de tokens, como por exemplo: Free Claude Code, Nvidian Nim, Omniroute, etc...
+7. Acho que talvez não seja saudável o Browser_console ter caído para 0, o browser_console na verdade é uma ferramente útil do Hermes Work como qualquer outra, concordo que essa é uma ferramenta cara, mas eu não entendo direito, então vou precisar acompanhar o uso dessa ferramenta e verificar se está sendo usado ou se os últimos ajustes cortaram o uso dela.

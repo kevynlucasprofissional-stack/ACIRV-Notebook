@@ -1,0 +1,32 @@
+{
+  "post_id": "ACIRV-SM-2026-045",
+  "publication_date": "2026-09-17",
+  "delivery_date": "2026-09-16",
+  "prioridade": "",
+  "pilar_estrategico": "Resultados",
+  "campanha_frente": "SUDOEXPO-POS",
+  "servico_beneficio": "",
+  "metrica_principal": "",
+  "reconciliacao_trello": "REFERENCE_ONLY",
+  "referencias_historicas": [
+    {
+      "nome": "[ACIRV] Criativos de agradecimento",
+      "url": "https://trello.com/c/Kit1KpSE/4535-acirv-criativos-de-agradecimento"
+    }
+  ],
+  "observacoes_internas": [
+    "RISCO DE REDUNDÂNCIA — confirmar com o editorial antes de produzir.",
+    "'[ACIRV] Criativos de agradecimento' (EM PRODUÇÃO) já trata o encerramento da SudoExpo; a reconciliação inicial pede coordenar os posts pós-evento para não repetir fechamentos.",
+    "Esta pauta é pós-evento com ângulo próprio (continuidade das conexões), mas a sobreposição de intenção precisa de decisão humana."
+  ],
+  "dados_a_validar": [
+    "Definir se esta peça substitui, complementa ou convive com o fechamento existente."
+  ],
+  "dedupe_key": "ACIRV-SM-2026-045|2026-09-17|sudoexpo-acabou--e-agora--3-formas-de-continuar-as-conexoes",
+  "fontes_internas": "2026-09.md",
+  "formato": "Carrossel 2 slides — 2 slide(s)",
+  "slides": 2,
+  "requer_2_slides": true,
+  "extra_leve": "sim",
+  "legend_len": 400
+}

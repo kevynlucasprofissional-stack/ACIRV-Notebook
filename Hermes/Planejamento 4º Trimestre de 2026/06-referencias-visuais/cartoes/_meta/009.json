@@ -1,0 +1,26 @@
+{
+  "post_id": "ACIRV-SM-2026-009",
+  "publication_date": "2026-10-05",
+  "delivery_date": "2026-09-28",
+  "prioridade": "",
+  "pilar_estrategico": "",
+  "campanha_frente": "DATAS-ESTRATEGICAS",
+  "servico_beneficio": "",
+  "metrica_principal": "",
+  "reconciliacao_trello": "NO_MATCH",
+  "referencias_historicas": [],
+  "observacoes_internas": [
+    "Sem cartão equivalente no quadro; conteúdo novo.",
+    "Data comemorativa: aplicar o critério do plano (função clara, conexão com público empresarial) em vez de homenagem protocolar."
+  ],
+  "dados_a_validar": [
+    "Não usar números ou estatísticas sobre micro e pequenas empresas sem validação atual."
+  ],
+  "dedupe_key": "ACIRV-SM-2026-009|2026-10-05|pequenos-negocios-fazem-uma-cidade-grande--dia-da-micro-e-pequena-empresa",
+  "fontes_internas": "2026-10-1.md",
+  "formato": "Carrossel",
+  "slides": 5,
+  "requer_2_slides": false,
+  "extra_leve": "não",
+  "legend_len": 382
+}
