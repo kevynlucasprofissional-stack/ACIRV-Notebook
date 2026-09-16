@@ -1,17 +1,17 @@
-# EXECUTAR COM HERMES — Social Media ACIRV Q4 2026 v2.0
+# EXECUTAR COM HERMES — Social Media ACIRV Q4 2026
 
 ## Missão
 Executar **60 publicações estáticas** entre 16/09 e 31/12/2026 para a designer **Samara**, com rastreabilidade, retomada segura e sem duplicação.
 
 ## Fonte canônica obrigatória
-A versão ativa é:
-
+Plano editorial:
 `01-planejamento/v2/README.md`
-
-Use somente os arquivos v2 listados ali. **Não use os calendários ou estados da v1 para criar cartões.**
 
 Estado operacional ativo:
 `02-estado/execution_state_v2.json`
+
+Moodboard ativo:
+`04-moodboard/MOODBOARD.md` — `ACIRV-MOOD-v1`, status `READY`.
 
 ## Escopo imutável
 - Não criar, solicitar ou atribuir Reels/vídeos à Samara.
@@ -64,8 +64,18 @@ Um post = um card.
 Não expandir para mais de 2 slides sem decisão editorial registrada no Git. A legenda é o aprofundamento.
 
 ## Moodboard e referência visual
-Enquanto o moodboard estiver pendente, cards podem ser criados, mas a referência visual permanece `PENDENTE_MOODBOARD`.
-Quando o moodboard estiver pronto, gerar apenas referências para peças estáticas.
+O moodboard está liberado para execução.
+
+Versão obrigatória:
+`ACIRV-MOOD-v1`
+
+Regras:
+- ler `04-moodboard/MOODBOARD.md` antes de gerar qualquer referência;
+- respeitar a ponderação definida pelo usuário: **peças maiores do moodboard têm peso maior como referência**;
+- usar as peças âncora como principal fonte de hierarquia, contraste, composição e tratamento fotográfico;
+- adaptar a linguagem ao briefing sem copiar literalmente uma composição existente;
+- gerar referências apenas para peças estáticas;
+- registrar cada referência no estado do respectivo `post_id` e vinculá-la ao card correspondente quando possível.
 
 ## Estado e retomada
 Após cada mutação externa bem-sucedida:
@@ -82,5 +92,5 @@ Confirmar:
 - 1 card por post ativo;
 - datas corretas;
 - briefings completos;
-- referências visuais quando o moodboard liberar;
+- referências visuais usando `ACIRV-MOOD-v1`;
 - nenhuma duplicação silenciosa.
