@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "verified_from": "Export do quadro Trello fornecido pelo usuário em 2026-09-16",
+  "target": {
+    "board": {
+      "name": "Calendário Editorial",
+      "id": "622e83218d717e4a16d7856c",
+      "node_id": "ari:cloud:trello::board/workspace/6154b28bee5a80330e1c3122/622e83218d717e4a16d7856c",
+      "url": "https://trello.com/b/Edq32SNp/calend%C3%A1rio-editorial",
+      "short_link": "Edq32SNp"
+    },
+    "create_cards_in": {
+      "name": "ORDEM DE SERVIÇO - SAMARA",
+      "id": "69370019555b10bb6ad19e30"
+    }
+  },
+  "designer_workflow_observed": {
+    "order_service": {"name": "ORDEM DE SERVIÇO - SAMARA", "id": "69370019555b10bb6ad19e30"},
+    "production": {"name": "EM PRODUÇÃO - SAMARA", "id": "69370056da86efdd9e69c720"},
+    "approval": {"name": "PARA APROVAÇÃO - SAMARA", "id": "695ca2e5c18619d2bff54b2c"},
+    "changes": {"name": "ALTERAÇÕES SAMARA", "id": "69d3fa124a38d78fada955e6"}
+  },
+  "naming_note": {
+    "internal_scrum_board": "ACIRV + VCOM: SCRUM é o mesmo quadro que o usuário chama de ACIRV + AVECON.",
+    "important": "Esse quadro interno não é o destino dos cartões de design. O destino é Calendário Editorial."
+  },
+  "safety_rules": [
+    "Criar cartões exclusivamente no board_id e list_id definidos neste arquivo.",
+    "Se o Hermes não conseguir acessar esses IDs, bloquear a etapa; não escolher outro quadro por aproximação.",
+    "Pesquisar por POST ID e candidatos semanticamente próximos antes de criar.",
+    "Card aberto/antigo no Trello não prova que o conteúdo não foi publicado.",
+    "Não versionar o export bruto do Trello: ele contém dados de outros clientes e membros."
+  ]
+}
