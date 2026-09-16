@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "board": {
+    "id": "622e83218d717e4a16d7856c",
+    "nodeId": "ari:cloud:trello::board/workspace/6154b28bee5a80330e1c3122/622e83218d717e4a16d7856c",
+    "name": "Calendário Editorial",
+    "url": "https://trello.com/b/Edq32SNp/calend%C3%A1rio-editorial"
+  },
+  "list": {
+    "id": "69370019555b10bb6ad19e30",
+    "name": "ORDEM DE SERVIÇO - SAMARA"
+  },
+  "source_export": "Edq32SNp - calendario-editorial(1).json",
+  "verified_from_export": true,
+  "preflight_required": true,
+  "naming_correction": {
+    "ACIRV + VCOM: SCRUM": "same board as ACIRV + AVECON",
+    "note": "Not the target board for editorial cards."
+  }
+}
