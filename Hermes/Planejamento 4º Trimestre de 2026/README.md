@@ -5,28 +5,31 @@ Este diretório é o workspace operacional do Hermes para executar o Social Medi
 ## Ordem de leitura
 1. `00_EXECUTAR_COM_HERMES.md`
 2. `01-planejamento/PLANEJAMENTO_ESTRATEGICO.md`
-3. `01-planejamento/CALENDARIO_EDITORIAL.csv`
+3. `01-planejamento/calendario/CALENDARIO_CANONICO.json`
 4. `02-estado/execution_state.json`
 5. `03-integracoes/trello_destination.json`
-6. `04-moodboard/README.md`
-7. `05-auditoria/README.md`
+6. `03-integracoes/RECONCILIACAO_TRELLO_INICIAL.md`
+7. `04-moodboard/README.md`
+8. `05-auditoria/README.md`
 
 ## Fonte canônica
-Para automação, a fonte canônica é:
-- plano editorial: `01-planejamento/CALENDARIO_EDITORIAL.csv`;
+Para automação:
+- plano editorial: `01-planejamento/calendario/CALENDARIO_CANONICO.json`;
 - estado mutável: `02-estado/execution_state.json`.
 
-O XLSX existe como visão humana/gerencial no pacote entregue ao usuário, mas o Hermes deve preferir CSV + JSON para execução.
+A versão completa com todos os briefings, planilha XLSX, CSV e arquivos auxiliares também foi entregue ao usuário no pacote corrigido. O JSON no repositório funciona como índice canônico e idempotente das 44 publicações; o Hermes deve cruzá-lo com o planejamento estratégico e as fontes do Notebook antes de escrever no Trello.
 
 ## Trello
-Destino:
+Destino confirmado:
 - `Calendário Editorial` — `622e83218d717e4a16d7856c`
 - `ORDEM DE SERVIÇO - SAMARA` — `69370019555b10bb6ad19e30`
+
+Antes da primeira escrita, fazer preflight dos IDs. Não substituir automaticamente por outro quadro/lista.
 
 ## Regra de separação
 - **Planejamento** = intenção aprovada, muda apenas por replanejamento explícito.
 - **Estado** = progresso da execução, muda a cada ação.
-- **Integrações** = IDs e contratos externos.
+- **Integrações** = IDs, contratos externos e reconciliação com legado.
 - **Moodboard** = referências visuais versionadas.
 - **Auditoria** = evidência e reconciliação.
 
