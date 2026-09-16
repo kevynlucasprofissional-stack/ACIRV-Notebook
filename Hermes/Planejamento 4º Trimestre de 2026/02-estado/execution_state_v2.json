@@ -1,15 +1,15 @@
 {
-  "schema_version": "2.0",
+  "schema_version": "2.1",
   "version": "2026-Q4-social-v2.0.0",
   "active_plan": "../01-planejamento/v2/README.md",
-  "status": "READY_FOR_EXECUTION_WITH_BLOCKERS",
+  "status": "EXECUTION_IN_PROGRESS",
   "counters": {
     "planned_total": 60,
     "briefings_total": 60,
     "original_posts": 44,
     "extra_two_slide_posts": 16,
     "reels_in_scope": 0,
-    "trello_created": 0,
+    "trello_created": 1,
     "visual_references_created": 0,
     "completed": 0
   },
@@ -32,9 +32,69 @@
     "board_id": "622e83218d717e4a16d7856c",
     "list_name": "ORDEM DE SERVIÇO - SAMARA",
     "list_id": "69370019555b10bb6ad19e30",
-    "preflight_required": true
+    "preflight_required": true,
+    "description_standard": "../03-integracoes/PADRAO_DESCRICAO_CARTOES_TRELLO.md"
+  },
+  "pilot_batch": {
+    "publication_window": {
+      "start": "2026-09-16",
+      "end": "2026-10-05"
+    },
+    "planned_posts": 12,
+    "post_ids": [
+      "ACIRV-SM-2026-001",
+      "ACIRV-SM-2026-045",
+      "ACIRV-SM-2026-002",
+      "ACIRV-SM-2026-003",
+      "ACIRV-SM-2026-004",
+      "ACIRV-SM-2026-046",
+      "ACIRV-SM-2026-005",
+      "ACIRV-SM-2026-006",
+      "ACIRV-SM-2026-007",
+      "ACIRV-SM-2026-008",
+      "ACIRV-SM-2026-047",
+      "ACIRV-SM-2026-009"
+    ],
+    "reconciliation_summary": "As 12 pautas foram analisadas no lote piloto; nenhuma foi classificada como REUSE_CARD ou ALREADY_PUBLISHED. Os casos ficaram entre NO_MATCH e REFERENCE_ONLY.",
+    "remaining_cards_to_create": 11
+  },
+  "posts": {
+    "ACIRV-SM-2026-001": {
+      "status": "CARTAO_CRIADO",
+      "trello": {
+        "card_object_id": "6aaadd7ab17c112faab2ffad",
+        "card_url": "https://trello.com/c/SUXu5o63",
+        "list_id": "69370019555b10bb6ad19e30",
+        "description_saved": true,
+        "description_standard": "LEGACY_VERBOSE_NEEDS_MIGRATION",
+        "native_due": null,
+        "publication_date_custom_field": {
+          "id": "622e83228d717e4a16d7896d",
+          "value": "2026-09-16T15:00:00.000Z"
+        }
+      },
+      "reconciliation": "REFERENCE_ONLY",
+      "next_actions": [
+        "Atualizar a descrição do cartão existente para o padrão canônico enxuto, sem recriar o card.",
+        "Clicar explicitamente em Salvar e verificar persistência.",
+        "Não confundir o campo personalizado Data de publicação com o vencimento nativo; se o due não puder ser gravado com segurança, registrar a pendência."
+      ]
+    }
+  },
+  "visual_reference_checkpoint": {
+    "accepted_count": 0,
+    "legacy_generations_to_redo": [
+      "ACIRV-SM-2026-001",
+      "ACIRV-SM-2026-045"
+    ],
+    "reason": "As duas referências foram geradas antes da regra vigente de uma única geração contendo todos os slides da peça e não contam como referências concluídas."
+  },
+  "local_work_checkpoint": {
+    "note": "Na sessão de execução foram criados localmente scripts/extract_pilot_batch.py, scripts/build_cards.py, 06-referencias-visuais/PROMPTS_CHATGPT.md e payloads em 06-referencias-visuais/cartoes/. Antes de sincronizar o Git, preservar alterações locais e reconciliar com o remoto; não resetar nem sobrescrever trabalho não commitado.",
+    "payloads_generated_for_pilot": 12
   },
   "default_post_status": "BRIEFING_CRIADO",
-  "resume_rule": "Ao iniciar a execução, materializar o estado individual de cada post a partir da v2 e persistir imediatamente cada mutação externa. Usar ACIRV-MOOD-v1 para todas as referências visuais, respeitando o peso maior das peças maiores do moodboard.",
-  "updated_at": "2026-09-16T13:56:00-03:00"
+  "resume_rule": "Ao retomar, verificar o estado real do Trello antes de qualquer criação. O card ACIRV-SM-2026-001 já existe e deve ser migrado para o novo padrão de descrição, não recriado. Em seguida, criar os 11 cards restantes do lote piloto com o padrão canônico, persistindo cada mutação imediatamente. Usar ACIRV-MOOD-v1 para as referências visuais e refazer 001/045 no formato vigente.",
+  "checkpoint_source": "Export da conversa de execução fornecido pelo usuário em 2026-09-16; fatos externos devem ser revalidados ao vivo antes de nova mutação.",
+  "updated_at": "2026-09-16T14:56:00-03:00"
 }
