@@ -939,6 +939,210 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 827 | falta de experiência | decisão com ação | Comunicação e marketing | `280526 Dossiê Reunião e Treinamento sobre PAM, gestão de incidentes e resposta a emergências.md` | 28/05/2026 | 165 | ação explícita em lista | `não_reconciliado` |
 | 828 | Falta de comando definido | decisão com ação | Comunicação e marketing | `280526 Dossiê Reunião e Treinamento sobre PAM, gestão de incidentes e resposta a emergências.md` | 28/05/2026 | 219 | ação explícita em tabela | `não_reconciliado` |
 | 829 | Falta de preparação para eventos raros | decisão com ação | Comunicação e marketing | `280526 Dossiê Reunião e Treinamento sobre PAM, gestão de incidentes e resposta a emergências.md` | 28/05/2026 | 225 | ação explícita em tabela | `não_reconciliado` |
+| 830 | Vamos fazer planejamento do mês, | decisão com ação | Comunicação e marketing | `300326 - Notas reunião com VCOM.md` | 30/03/2026 | 8 | ação explícita em linha | `não_reconciliado` |
+| 831 | Finalizar o planejamento mensal do próximo mês até o dia 1º | plano | Comunicação e marketing | `300326 - Notas reunião com VCOM.md` | 30/03/2026 | 23 | ação explícita em linha | `não_reconciliado` |
+| 832 | Incluir pelo menos 1 conteúdo frio por semana para a ACIRV | tarefa | Comunicação e marketing | `300326 - Notas reunião com VCOM.md` | 30/03/2026 | 27 | ação explícita em linha | `não_reconciliado` |
+| 833 | Criar uma logomarca para o app, o nome final é "Vitrine ACIRV" | tarefa | Comunicação e marketing | `300626 às 16h30 - Reunião sobre os sites da ACIRV.md` | 30/06/2026 | 8 | ação explícita em linha | `não_reconciliado` |
+| 834 | Verificar se o projeto Supabase associado ainda esta ativo | investigação | Comunicação e marketing | `ACIRV Meet.md` |  | 42 | ação explícita em lista | `não_reconciliado` |
+| 835 | Corrigir o que está quebrado e deixar o fluxo  | melhoria | Processos e operação | `Histórico do Chat Lovable - ACIRV Meet - 0404260330.md` |  | 316 | ação explícita em linha | `não_reconciliado` |
+| 836 | Garanta que a renderização do Grid (seleção de horários) não quebre em telas de smartphones | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 94 | ação explícita em lista | `não_reconciliado` |
+| 837 | Vamos dividir em duas fases | decisão com ação | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 2348 | ação explícita em linha | `não_reconciliado` |
+| 838 | Corrigir o que está quebrado e deixar o fluxo atual confiável | melhoria | Processos e operação | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3153 | ação explícita em lista | `não_reconciliado` |
+| 839 | Revisar navegação frágil, estados de erro e fallback no fluxo público | melhoria | Processos e operação | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3160 | ação explícita em lista | `não_reconciliado` |
+| 840 | Garantir que reunião fechada bloqueie corretamente novos envios/edições | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3161 | ação explícita em lista | `não_reconciliado` |
+| 841 | Corrigir inconsistências de ambiente, scripts e build se houver qualquer problema de instalação, lockfile ou tipagem gerada | melhoria | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3162 | ação explícita em lista | `não_reconciliado` |
+| 842 | Faça mudanças mínimas, cirúrgicas e seguras | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3172 | ação explícita em lista | `não_reconciliado` |
+| 843 | Corrigir os bugs | melhoria | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3187 | ação explícita em lista | `não_reconciliado` |
+| 844 | Fazer migração aditiva | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3231 | ação explícita em lista | `não_reconciliado` |
+| 845 | Criar nova estrutura de banco de forma aditiva | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3249 | ação explícita em lista | `não_reconciliado` |
+| 846 | Criar migrations novas | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3250 | ação explícita em lista | `não_reconciliado` |
+| 847 | Adaptar types do Supabase | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3251 | ação explícita em lista | `não_reconciliado` |
+| 848 | substituir o modelo atual por seleção direta em calendário | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3259 | ação explícita em lista | `não_reconciliado` |
+| 849 | adicionar tabela(s) necessária(s) para representar slots/opções da reunião | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3263 | ação explícita em lista | `não_reconciliado` |
+| 850 | confirmar horário final a partir das opções compatíveis | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3270 | ação explícita em lista | `não_reconciliado` |
+| 851 | Confirmar horário final continua funcionando | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3295 | ação explícita em lista | `não_reconciliado` |
+| 852 | criar camadas como | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3341 | ação explícita em lista | `não_reconciliado` |
+| 853 | separar componentes de tela em componentes menores quando fizer sentido | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3353 | ação explícita em lista | `não_reconciliado` |
+| 854 | implementar lazy loading de rotas/páginas | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3356 | ação explícita em lista | `não_reconciliado` |
+| 855 | remover código morto e componentes não usados | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3360 | ação explícita em lista | `não_reconciliado` |
+| 856 | Fazer refatoração incremental e segura | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3366 | ação explícita em lista | `não_reconciliado` |
+| 857 | adicionar testes mínimos úteis para o core do produto | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3406 | ação explícita em lista | `não_reconciliado` |
+| 858 | remova com segurança | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 3420 | ação explícita em lista | `não_reconciliado` |
+| 859 | Adicione validação clara de mínimo e máximo aceitáveis | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 6285 | ação explícita em lista | `não_reconciliado` |
+| 860 | remover da interface o campo “Granularidade dos slots” | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 6288 | ação explícita em lista | `não_reconciliado` |
+| 861 | remover da interface o campo “Início do dia” | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 6289 | ação explícita em lista | `não_reconciliado` |
+| 862 | remover da interface o campo “Fim do dia” | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 6290 | ação explícita em lista | `não_reconciliado` |
+| 863 | adicionar uma ou mais faixas de horário manuais no mesmo dia | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 6313 | ação explícita em lista | `não_reconciliado` |
+| 864 | editar/remover faixas | tarefa | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 6314 | ação explícita em lista | `não_reconciliado` |
+| 865 | Validar corretamente | investigação | Comunicação e marketing | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` |  | 6319 | ação explícita em lista | `não_reconciliado` |
+| 866 | grave final_start_time | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 603 | ação explícita em lista | `não_reconciliado` |
+| 867 | grave final_end_time | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 605 | ação explícita em lista | `não_reconciliado` |
+| 868 | Criar conta | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 646 | ação explícita em lista | `não_reconciliado` |
+| 869 | criar profile automaticamente | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 662 | ação explícita em lista | `não_reconciliado` |
+| 870 | criar nova reunião | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 692 | ação explícita em lista | `não_reconciliado` |
+| 871 | Confirmar este Horário | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 771 | ação explícita em lista | `não_reconciliado` |
+| 872 | deve parecer um painel real, não mockup | decisão com ação | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 780 | ação explícita em lista | `não_reconciliado` |
+| 873 | Salvar Disponibilidade | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 881 | ação explícita em lista | `não_reconciliado` |
+| 874 | criar tabelas | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 1031 | ação explícita em lista | `não_reconciliado` |
+| 875 | criar índices | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 1033 | ação explícita em lista | `não_reconciliado` |
+| 876 | criar trigger do profile | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 1035 | ação explícita em lista | `não_reconciliado` |
+| 877 | criar RLS | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 1037 | ação explícita em lista | `não_reconciliado` |
+| 878 | criar RPCs públicas | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 1039 | ação explícita em lista | `não_reconciliado` |
+| 879 | confirmar horário final | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 1087 | ação explícita em lista | `não_reconciliado` |
+| 880 | implemente o projeto real | tarefa | Comunicação e marketing | `Prompt ponta-pé.md` | 03/04/2026 | 1109 | ação explícita em lista | `não_reconciliado` |
+| 881 | Falta um sistema editorial, governança de prioridade e uma esteira de | decisão com ação | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 34 | ação explícita em linha | `não_reconciliado` |
+| 882 | Lançar “Conectar para Crescer” como norte do ano | tarefa | Conecta ACIRV | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 185 | ação explícita em linha | `não_reconciliado` |
+| 883 | Separar melhor criação profunda, operação e urgência para não | melhoria | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 283 | ação explícita em linha | `não_reconciliado` |
+| 884 | Transformar eventos em tese, prova de valor e consequência para | tarefa | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 346 | ação explícita em linha | `não_reconciliado` |
+| 885 | Definir 5 pilares editoriais | tarefa | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 456 | ação explícita em linha | `não_reconciliado` |
+| 886 | Criar taxonomia simples | tarefa | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 458 | ação explícita em linha | `não_reconciliado` |
+| 887 | Montar dashboard mensal | tarefa | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 459 | ação explícita em linha | `não_reconciliado` |
+| 888 | Testar cadência com blocos de foco | investigação | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 462 | ação explícita em linha | `não_reconciliado` |
+| 889 | Transformar Sudoexpo em narrativa de | tarefa | SudoExpo | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 463 | ação explícita em linha | `não_reconciliado` |
+| 890 | Padronizar reunião de pauta e decisão | tarefa | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 466 | ação explícita em linha | `não_reconciliado` |
+| 891 | Revisar métricas por formato e tema | melhoria | Métricas e relatórios | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 469 | ação explícita em linha | `não_reconciliado` |
+| 892 | Consolidar playbook editorial | tarefa | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 471 | ação explícita em linha | `não_reconciliado` |
+| 893 | Apresentar ganho de eficiência + qualidade | tarefa | Comunicação e marketing | `ACIRV_stakeholders_apresentacao_copiavel.md` |  | 472 | ação explícita em linha | `não_reconciliado` |
+| 894 | Migrar para gerenciador de senhas dedicado | tarefa | Comunicação e marketing | `Acessos site.md` |  | 43 | ação explícita em lista | `não_reconciliado` |
+| 895 | Verificar se as contas listadas ainda estao ativas | investigação | Comunicação e marketing | `Acessos site.md` |  | 44 | ação explícita em lista | `não_reconciliado` |
+| 896 | Sinalização: O usuário sabe onde clicar em menos de 2 segundos? (Hierarquia visual clara aprovada) | tarefa | Comunicação e marketing | `Agent UX UI.md` |  | 82 | checkbox explícito | `não_reconciliado` |
+| 897 | Ordenação: As fontes e espaçamentos seguem padrões matemáticos? (Regra do 8pt, linha de 1.4-1.6x aprovados) | tarefa | Comunicação e marketing | `Agent UX UI.md` |  | 83 | checkbox explícito | `não_reconciliado` |
+| 898 | Mobile: A experiência seria frustrante para alguém em um celular pequeno? (Se sim, aumente os botões para 44px e simplifique) | tarefa | Comunicação e marketing | `Agent UX UI.md` |  | 84 | checkbox explícito | `não_reconciliado` |
+| 899 | Atenção: Há informações ou elementos inúteis poluindo a tela? (Se não ajuda a vender, instruir ou informar, delete e deixe espaço em branco) | tarefa | Comunicação e marketing | `Agent UX UI.md` |  | 85 | checkbox explícito | `não_reconciliado` |
+| 900 | Preciso ter uma conversa séria com você sobre como o trabalho na ACIRV vem sendo conduzido. Vou ser direta porque já conversamos sobre isso outras vezes e o padrão não mudou | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 16 | ação explícita em linha | `não_reconciliado` |
+| 901 | falta de protocolo formal | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 360 | ação explícita em lista | `não_reconciliado` |
+| 902 | Fazer você sentir o peso que cai nela | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 1075 | ação explícita em tabela | `não_reconciliado` |
+| 903 | falta de protocolo documentado | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 1708 | ação explícita em lista | `não_reconciliado` |
+| 904 | Resolver rápido | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 2067 | ação explícita em tabela | `não_reconciliado` |
+| 905 | Fazer o simples sem burocracia | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 2070 | ação explícita em tabela | `não_reconciliado` |
+| 906 | fazer a coisa sair do papel | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 2402 | ação explícita em lista | `não_reconciliado` |
+| 907 | peça com diretoria | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 2473 | ação explícita em lista | `não_reconciliado` |
+| 908 | Fazer rápido não significa fazer politicamente certo | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 2873 | ação explícita em linha | `não_reconciliado` |
+| 909 | Vamos iniciar a análise 360º | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3048 | ação explícita em linha | `não_reconciliado` |
+| 910 | Vamos fazer a primeira triagem 360º | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3094 | ação explícita em linha | `não_reconciliado` |
+| 911 | falta de contrato | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3431 | ação explícita em lista | `não_reconciliado` |
+| 912 | falta de organograma | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3432 | ação explícita em lista | `não_reconciliado` |
+| 913 | falta de briefing | decisão com ação | Processos e operação | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3439 | ação explícita em lista | `não_reconciliado` |
+| 914 | falta de protocolo | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3532 | ação explícita em lista | `não_reconciliado` |
+| 915 | Precisamos saber | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3559 | ação explícita em linha | `não_reconciliado` |
+| 916 | Precisamos listar | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3575 | ação explícita em linha | `não_reconciliado` |
+| 917 | Precisamos separar | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3601 | ação explícita em linha | `não_reconciliado` |
+| 918 | Precisamos montar uma cronologia | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3614 | ação explícita em linha | `não_reconciliado` |
+| 919 | continuar na ACIRV com novo acordo? | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3631 | ação explícita em lista | `não_reconciliado` |
+| 920 | pedir mais autonomia? | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3635 | ação explícita em lista | `não_reconciliado` |
+| 921 | pedir menos demanda? | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3636 | ação explícita em lista | `não_reconciliado` |
+| 922 | pedir ferramenta? | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3637 | ação explícita em lista | `não_reconciliado` |
+| 923 | pedir reconhecimento? | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3638 | ação explícita em lista | `não_reconciliado` |
+| 924 | pedir rotina de feedback? | pedido | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3639 | ação explícita em lista | `não_reconciliado` |
+| 925 | falta de contrato formal | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3815 | ação explícita em lista | `não_reconciliado` |
+| 926 | falta de escopo formal | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3816 | ação explícita em lista | `não_reconciliado` |
+| 927 | Separar social media de demandas extras | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3949 | ação explícita em lista | `não_reconciliado` |
+| 928 | Criar faixas de autonomia | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3950 | ação explícita em lista | `não_reconciliado` |
+| 929 | Definir protocolo de aprovação | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3951 | ação explícita em lista | `não_reconciliado` |
+| 930 | Pedir aumento com base na função real, não só na função original | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3953 | ação explícita em lista | `não_reconciliado` |
+| 931 | Criar um fluxo mais inteligente entre VCOM e ACIRV | tarefa | Processos e operação | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 3954 | ação explícita em lista | `não_reconciliado` |
+| 932 | Deve ser apresentado como | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 4235 | ação explícita em linha | `não_reconciliado` |
+| 933 | acompanhar a rotina da ACIRV | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 4416 | ação explícita em lista | `não_reconciliado` |
+| 934 | acompanhar demandas de comunicação | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 4417 | ação explícita em lista | `não_reconciliado` |
+| 935 | fazer interface com diretoria e departamentos | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 4418 | ação explícita em lista | `não_reconciliado` |
+| 936 | garantir cobertura de comunicação | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 4420 | ação explícita em lista | `não_reconciliado` |
+| 937 | Continuar com renegociação? Sair com elegância? Formalizar contrato? Pedir aumento? Reduzir escopo? Definir autonomia? | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 4681 | ação explícita em linha | `não_reconciliado` |
+| 938 | Vamos analisar o combinado inicial entre Kevyn e Viviane | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5240 | ação explícita em linha | `não_reconciliado` |
+| 939 | acompanhar rotina da ACIRV | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5375 | ação explícita em lista | `não_reconciliado` |
+| 940 | produzir e revisar textos institucionais e informativos | melhoria | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5377 | ação explícita em lista | `não_reconciliado` |
+| 941 | escrever posts, releases, notas e roteiros | tarefa | Imprensa | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5378 | ação explícita em lista | `não_reconciliado` |
+| 942 | organizar pautas | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5379 | ação explícita em lista | `não_reconciliado` |
+| 943 | planejar e agendar conteúdos | plano | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5380 | ação explícita em lista | `não_reconciliado` |
+| 944 | briefar designers | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5381 | ação explícita em lista | `não_reconciliado` |
+| 945 | fazer interface com diretoria e departamentos da ACIRV | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5382 | ação explícita em lista | `não_reconciliado` |
+| 946 | acompanhar eventos | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5383 | ação explícita em lista | `não_reconciliado` |
+| 947 | garantir cobertura nas redes sociais | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5385 | ação explícita em lista | `não_reconciliado` |
+| 948 | acompanhar entregas e postagens | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5388 | ação explícita em lista | `não_reconciliado` |
+| 949 | Produzir textos, posts, releases, notas, roteiros, legendas e conteúdos institucionais | tarefa | Imprensa | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5403 | ação explícita em linha | `não_reconciliado` |
+| 950 | Planejar, agendar, postar e cobrir eventos nas redes | plano | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5407 | ação explícita em linha | `não_reconciliado` |
+| 951 | Organizar pautas, cronogramas, entregas e postagens | plano | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5415 | ação explícita em linha | `não_reconciliado` |
+| 952 | Briefar designers e alinhar tudo com Vivi e equipe da VCOM | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5423 | ação explícita em linha | `não_reconciliado` |
+| 953 | Coletar dados e resultados para relatórios mensais | investigação | Métricas e relatórios | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5427 | ação explícita em linha | `não_reconciliado` |
+| 954 | acompanhar o dia a dia | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5539 | ação explícita em lista | `não_reconciliado` |
+| 955 | garantir presença ativa da VCOM na ACIRV | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5546 | ação explícita em lista | `não_reconciliado` |
+| 956 | resolver demandas novas do WhatsApp | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5870 | ação explícita em lista | `não_reconciliado` |
+| 957 | salvar materiais em Drive/HD | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5871 | ação explícita em lista | `não_reconciliado` |
+| 958 | organizar portfólio | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5872 | ação explícita em lista | `não_reconciliado` |
+| 959 | revisar caderneta e subir pendências | melhoria | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5873 | ação explícita em lista | `não_reconciliado` |
+| 960 | verificar privados com Rafael | investigação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5874 | ação explícita em lista | `não_reconciliado` |
+| 961 | resolver conta/senha/gerenciador | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5875 | ação explícita em lista | `não_reconciliado` |
+| 962 | organizar arquivos | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5877 | ação explícita em lista | `não_reconciliado` |
+| 963 | adaptar materiais | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5878 | ação explícita em lista | `não_reconciliado` |
+| 964 | fazer follow-up de criativos e releases | tarefa | Imprensa | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5879 | ação explícita em lista | `não_reconciliado` |
+| 965 | Criar sites, continuar projetos no Lovable, automação em n8n, conexão entre Facebook/Instagram, conta banida e gerenciador Meta passam do social media/comunicação para suporte técnico/produto digital. SCRUM ACIRV.md | tarefa | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5898 | ação explícita em linha | `não_reconciliado` |
+| 966 | Criar cerimonial e organizar posse/eventos é comunicação, mas também é protocolo institucional. Tem risco alto e exige aprovação formal. SCRUM ACIRV.md | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 5906 | ação explícita em linha | `não_reconciliado` |
+| 967 | Deve ser | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6013 | ação explícita em linha | `não_reconciliado` |
+| 968 | postar stories, feed, carrosséis e fotos | tarefa | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6135 | ação explícita em lista | `não_reconciliado` |
+| 969 | acompanhar reuniões | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6136 | ação explícita em lista | `não_reconciliado` |
+| 970 | cobrir eventos | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6137 | ação explícita em lista | `não_reconciliado` |
+| 971 | salvar materiais no Drive/HD | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6138 | ação explícita em lista | `não_reconciliado` |
+| 972 | acompanhar demandas no WhatsApp | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6141 | ação explícita em lista | `não_reconciliado` |
+| 973 | verificar mensagens privadas | investigação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6142 | ação explícita em lista | `não_reconciliado` |
+| 974 | alimentar site | tarefa | Sites e presença digital | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6143 | ação explícita em lista | `não_reconciliado` |
+| 975 | resolver pendências simples | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6144 | ação explícita em lista | `não_reconciliado` |
+| 976 | postar conteúdos prontos | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6145 | ação explícita em lista | `não_reconciliado` |
+| 977 | criar vídeos de depoimento | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6162 | ação explícita em lista | `não_reconciliado` |
+| 978 | produzir vídeos do Café com o Presidente | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6163 | ação explícita em lista | `não_reconciliado` |
+| 979 | desenvolver vídeos sugeridos pela Mônica | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6164 | ação explícita em lista | `não_reconciliado` |
+| 980 | criar stories para campanhas | tarefa | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6165 | ação explícita em lista | `não_reconciliado` |
+| 981 | criar prova social | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6167 | ação explícita em lista | `não_reconciliado` |
+| 982 | criar padrão visual/editorial | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6168 | ação explícita em lista | `não_reconciliado` |
+| 983 | transformar notícias em conteúdo | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6169 | ação explícita em lista | `não_reconciliado` |
+| 984 | escrever releases | tarefa | Imprensa | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6170 | ação explícita em lista | `não_reconciliado` |
+| 985 | estruturar roteiros | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6171 | ação explícita em lista | `não_reconciliado` |
+| 986 | editar vídeos | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6172 | ação explícita em lista | `não_reconciliado` |
+| 987 | produzir cortes | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6173 | ação explícita em lista | `não_reconciliado` |
+| 988 | criar sites solicitados pelo Raphael | tarefa | Sites e presença digital | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6219 | ação explícita em lista | `não_reconciliado` |
+| 989 | finalizar edições pendentes no site | tarefa | Sites e presença digital | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6220 | ação explícita em lista | `não_reconciliado` |
+| 990 | alimentar site com notícias | tarefa | Sites e presença digital | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6221 | ação explícita em lista | `não_reconciliado` |
+| 991 | resolver conexão entre Facebook e Instagram | tarefa | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6222 | ação explícita em lista | `não_reconciliado` |
+| 992 | criar automação em n8n | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6224 | ação explícita em lista | `não_reconciliado` |
+| 993 | organizar dashboard/planilha | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6227 | ação explícita em lista | `não_reconciliado` |
+| 994 | transformar pedido confuso em tarefa | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6278 | ação explícita em lista | `não_reconciliado` |
+| 995 | procurar material no Drive | investigação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6287 | ação explícita em lista | `não_reconciliado` |
+| 996 | Criar SLA específico: evento terminou → stories no mesmo dia; vídeo curto em X horas; vídeo editado em X dias | tarefa | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6523 | ação explícita em tabela | `não_reconciliado` |
+| 997 | Separar quadro por: rotina, projeto, urgência, ideia, delegado, aguardando aprovação | ideia | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6524 | ação explícita em tabela | `não_reconciliado` |
+| 998 | Criar matriz verde/amarela/vermelha | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6538 | ação explícita em tabela | `não_reconciliado` |
+| 999 | Transformar problema sistêmico em culpa individual | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6544 | ação explícita em tabela | `não_reconciliado` |
+| 1000 | Separar base, extra, projeto, delegado e recusado | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6554 | ação explícita em tabela | `não_reconciliado` |
+| 1001 | Criar RACI por tipo de entrega. RACI existe justamente para clarificar responsável, aprovador, consultado e informado. ([Atlassian](https://www.atlassian.com/work-management/project-management/raci-chart?utm_source=chatgpt.com)) | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6555 | ação explícita em tabela | `não_reconciliado` |
+| 1002 | Criar quatro filas: rotina, projeto, urgência, backlog/ideias | ideia | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6557 | ação explícita em tabela | `não_reconciliado` |
+| 1003 | Falta de definição do que é conteúdo quente | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6560 | ação explícita em tabela | `não_reconciliado` |
+| 1004 | Falta de reconhecimento | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6578 | ação explícita em tabela | `não_reconciliado` |
+| 1005 | Falta de câmera/ferramentas/estrutura | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6579 | ação explícita em tabela | `não_reconciliado` |
+| 1006 | Pedir textos no Drive | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6900 | ação explícita em tabela | `não_reconciliado` |
+| 1007 | Corrigir postura em evento | melhoria | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 6906 | ação explícita em tabela | `não_reconciliado` |
+| 1008 | Falta de fluxo para designer | decisão com ação | Processos e operação | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7079 | ação explícita em tabela | `não_reconciliado` |
+| 1009 | Gravar depoimento no campo | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7204 | ação explícita em tabela | `não_reconciliado` |
+| 1010 | Resolver conexão/técnico | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7205 | ação explícita em tabela | `não_reconciliado` |
+| 1011 | Resolver rápido pode estar certo tecnicamente e errado politicamente | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7402 | ação explícita em tabela | `não_reconciliado` |
+| 1012 | Separar esforço técnico de risco político | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7403 | ação explícita em tabela | `não_reconciliado` |
+| 1013 | Pedir faixas de autonomia, não liberdade total | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7404 | ação explícita em tabela | `não_reconciliado` |
+| 1014 | Pedir rotina de feedback, não validação emocional genérica | pedido | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7408 | ação explícita em tabela | `não_reconciliado` |
+| 1015 | Pedir rotina, não elogio emocional | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7423 | ação explícita em tabela | `não_reconciliado` |
+| 1016 | Pedir direto para Kevyn bagunça a cadeia de aprovação | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7434 | ação explícita em tabela | `não_reconciliado` |
+| 1017 | Criar regra de demanda direta | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7434 | ação explícita em tabela | `não_reconciliado` |
+| 1018 | Postar story, criar site e fazer relatório não têm o mesmo peso | tarefa | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7435 | ação explícita em tabela | `não_reconciliado` |
+| 1019 | Criar briefing mínimo | tarefa | Processos e operação | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7437 | ação explícita em tabela | `não_reconciliado` |
+| 1020 | Falta definir quem executa, aprova, consulta e informa | decisão com ação | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7449 | ação explícita em tabela | `não_reconciliado` |
+| 1021 | Separar registro de decisão | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7450 | ação explícita em tabela | `não_reconciliado` |
+| 1022 | Criar regra de “novo pedido = impacto em prazo ou custo” | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7451 | ação explícita em tabela | `não_reconciliado` |
+| 1023 | Criar SLA de aprovação | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7452 | ação explícita em tabela | `não_reconciliado` |
+| 1024 | Pedir aumento, escopo, contrato e autonomia pode gerar resposta dura | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7551 | ação explícita em linha | `não_reconciliado` |
+| 1025 | Teste de 30 dias | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7691 | ação explícita em tabela | `não_reconciliado` |
+| 1026 | Definir o que entra na semana e o que fica fora | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7695 | ação explícita em tabela | `não_reconciliado` |
+| 1027 | continuar usando feedback que te reduz | tarefa | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 7847 | ação explícita em lista | `não_reconciliado` |
+| 1028 | Separar autoridade de operação | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 8166 | ação explícita em linha | `não_reconciliado` |
+| 1029 | Transformar “simples” em categoria | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 8258 | ação explícita em linha | `não_reconciliado` |
+| 1030 | Separar remuneração de modelo de trabalho | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 8314 | ação explícita em linha | `não_reconciliado` |
+| 1031 | pedir conversa | pedido | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 8416 | ação explícita em lista | `não_reconciliado` |
+| 1032 | Pedir conversa com pauta: escopo, autonomia, extras, contrato, feedback e remuneração | pedido | Social Media | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 8595 | ação explícita em tabela | `não_reconciliado` |
+| 1033 | Apresentar remuneração como consequência do escopo real, não como reclamação salarial | tarefa | Comunicação e marketing | `Analise da Advertencia Profissional - Kevyn e Viviane.md` |  | 8599 | ação explícita em tabela | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
