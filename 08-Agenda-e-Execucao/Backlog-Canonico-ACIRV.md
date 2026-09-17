@@ -2259,6 +2259,38 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 2147 | Extração: Copiar a lista de números filtrados | tarefa | Comunicação e marketing | `Sistema de comunicação ativa e segmentada para a ACIRV.md` | 25/03/2026 | 57 | checkbox explícito | `não_reconciliado` |
 | 2148 | Disparo: Colar os números na extensão (Wapook/Booksender), redigir a mensagem e iniciar o envio | tarefa | Comunicação e marketing | `Sistema de comunicação ativa e segmentada para a ACIRV.md` | 25/03/2026 | 58 | checkbox explícito | `não_reconciliado` |
 | 2149 | Procurar por mais veículos, no instagram, no chat da Wenya | investigação | Social Media | `Sobre assessoria de imprensa.md` | 21/11/2025 | 40 | checkbox explícito | `não_reconciliado` |
+| 2150 | Revisar quando houver mudança de valores, contatos ou responsáveis | melhoria | Comunicação e marketing | `Todos os Serviços ACIRV.md` |  | 133 | ação explícita em lista | `não_reconciliado` |
+| 2151 | Minha resposta aciona algum gatilho automático ("clique, zum") ou estou apenas listando fatos frios? | tarefa | Comunicação e marketing | `Tom de voz 2026 da ACIRV - V3.md` | 25/03/2026 | 146 | checkbox explícito | `não_reconciliado` |
+| 2152 | Antes de fazer a recomendação principal, eu ofereci algum valor ou elogio para ativar a Reciprocidade? | tarefa | Comunicação e marketing | `Tom de voz 2026 da ACIRV - V3.md` | 25/03/2026 | 147 | checkbox explícito | `não_reconciliado` |
+| 2153 | Estou usando o Contraste (mostrando um cenário pior antes de dar a solução real)? | tarefa | Comunicação e marketing | `Tom de voz 2026 da ACIRV - V3.md` | 25/03/2026 | 148 | checkbox explícito | `não_reconciliado` |
+| 2154 | Eu evitei dar "ordens" e, em vez disso, mostrei que pessoas semelhantes fazem isso (Aprovação Social)? | tarefa | Comunicação e marketing | `Tom de voz 2026 da ACIRV - V3.md` | 25/03/2026 | 149 | checkbox explícito | `não_reconciliado` |
+| 2155 | O tom da resposta constrói afinidade e empatia com o usuário (Afeição)? | tarefa | Comunicação e marketing | `Tom de voz 2026 da ACIRV - V3.md` | 25/03/2026 | 150 | checkbox explícito | `não_reconciliado` |
+| 2156 | Citei fontes, dados ou adotei o tom de um especialista no assunto (Autoridade)? | tarefa | Métricas e relatórios | `Tom de voz 2026 da ACIRV - V3.md` | 25/03/2026 | 151 | checkbox explícito | `não_reconciliado` |
+| 2157 | Demonstrei um pequeno defeito ou limitação da minha ideia para parecer mais honesto? | ideia | Comunicação e marketing | `Tom de voz 2026 da ACIRV - V3.md` | 25/03/2026 | 152 | checkbox explícito | `não_reconciliado` |
+| 2158 | Deixei claro o que o usuário irá *perder* se não seguir o conselho, em vez de focar apenas no que ele vai ganhar (Escassez)? | tarefa | Comunicação e marketing | `Tom de voz 2026 da ACIRV - V3.md` | 25/03/2026 | 153 | checkbox explícito | `não_reconciliado` |
+| 2159 | escreva com firmeza, mas sem dureza | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 153 | ação explícita em lista | `não_reconciliado` |
+| 2160 | escreva com proximidade, mas sem excesso de intimidade | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 154 | ação explícita em lista | `não_reconciliado` |
+| 2161 | substitua descrição solta por utilidade concreta | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 171 | ação explícita em lista | `não_reconciliado` |
+| 2162 | faça o leitor imaginar o problema, a oportunidade ou o resultado | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 196 | ação explícita em lista | `não_reconciliado` |
+| 2163 | valide uma realidade do mercado | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 230 | ação explícita em lista | `não_reconciliado` |
+| 2164 | apresente um princípio que soe óbvio para quem empreende | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 231 | ação explícita em lista | `não_reconciliado` |
+| 2165 | criar leitura imediata | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 308 | ação explícita em lista | `não_reconciliado` |
+| 2166 | falta de imagem mental | decisão com ação | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 435 | ação explícita em lista | `não_reconciliado` |
+| 2167 | O início gera atenção madura nos primeiros segundos? | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 445 | checkbox explícito | `não_reconciliado` |
+| 2168 | O texto cria confiança antes de tentar convencer? | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 446 | checkbox explícito | `não_reconciliado` |
+| 2169 | Existe uma ideia central nítida? | ideia | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 447 | checkbox explícito | `não_reconciliado` |
+| 2170 | Há pelo menos uma imagem, cena, dado ou consequência que o leitor consiga visualizar? | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 448 | checkbox explícito | `não_reconciliado` |
+| 2171 | O texto faz o leitor se reconhecer naquela realidade? | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 449 | checkbox explícito | `não_reconciliado` |
+| 2172 | O valor da proposta ficou prático e claro? | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 450 | checkbox explícito | `não_reconciliado` |
+| 2173 | Usei no máximo três alavancas de persuasão? | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 451 | checkbox explícito | `não_reconciliado` |
+| 2174 | O lema #ConectarParaCrescer entrou como método, e não como adorno? | tarefa | Conecta ACIRV | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 452 | checkbox explícito | `não_reconciliado` |
+| 2175 | O texto continua fiel ao tom Sábio + Conector? | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 453 | checkbox explícito | `não_reconciliado` |
+| 2176 | A assinatura final da ACIRV foi preservada? | tarefa | Comunicação e marketing | `Tom de voz ACIRV - V4.md` | 26/03/2026 | 454 | checkbox explícito | `não_reconciliado` |
+| 2177 | Temos que unir mais, né? Então isso aí vocês podem contar comigo. Eu trabalho em todas as áreas. Todas | tarefa | Comunicação e marketing | `Transcrição na integra do discurso do Senador Vanderlan no dia 080526.md` | 11/05/2026 | 338 | ação explícita em linha | `não_reconciliado` |
+| 2178 | Resolver conexão Facebook → Instagram | tarefa | Social Media | `cronograma otimizado para o dia 110326.md` | 22/03/2026 | 63 | ação explícita em lista | `não_reconciliado` |
+| 2179 | Resolver coisas que chegaram no WhatsApp | tarefa | Comunicação e marketing | `cronograma otimizado para o dia 110326.md` | 22/03/2026 | 65 | ação explícita em lista | `não_reconciliado` |
+| 2180 | Finalizar | tarefa | Comunicação e marketing | `cronograma otimizado para o dia 110326.md` | 22/03/2026 | 99 | ação explícita em linha | `não_reconciliado` |
+| 2181 | Criar adesivos da porta do banheiro | tarefa | Comunicação e marketing | `cronograma otimizado para o dia 110326.md` | 22/03/2026 | 101 | ação explícita em lista | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
