@@ -1333,7 +1333,7 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1221 | Levantar os números que a Vivi pediu | investigação | Comunicação e marketing | `01 - segunda-feira.md` | 01/12/2025 | 16 | checkbox explícito | `não_reconciliado` |
 | 1222 | Preciso agora | decisão com ação | Comunicação e marketing | `03 - quarta-feira.md` | 03/12/2025 | 18 | ação explícita em linha | `não_reconciliado` |
 | 1223 | Pedir ajuste dos outdoors que virão em janeiro. ✅ 2025-12-03 | melhoria | Comunicação e marketing | `03 - quarta-feira.md` | 03/12/2025 | 19 | checkbox explícito | `não_reconciliado` |
-| 1224 | Transformar em marketing a notícia sobre o setor de energia que o Pres. José Carlos mandou no grupo da diretoria no dia 04/12 às 17:29 📅 2025-12-05 🔺 | tarefa | Comunicação e marketing | `04 - quinta-feira.md` | 04/12/2025 | 16 | checkbox explícito | `não_reconciliado` |
+| 1224 | Transformar em marketing a notícia sobre o setor de energia que o Pres. José Carlos mandou no grupo da diretoria no dia 04/12 às 17:29 �� 2025-12-05 �� | tarefa | Comunicação e marketing | `04 - quinta-feira.md` | 04/12/2025 | 16 | checkbox explícito | `não_reconciliado` |
 | 1225 | Criar Release do pós Conecta, enviar para a Imprensa e postar no site | tarefa | Conecta ACIRV | `05 - sexta-feira.md` | 05/12/2025 | 18 | checkbox explícito | `não_reconciliado` |
 | 1226 | Criar Release da inauguração do Batalhão, enviar para a Imprensa e postar no site | tarefa | Sites e presença digital | `05 - sexta-feira.md` | 05/12/2025 | 19 | checkbox explícito | `não_reconciliado` |
 | 1227 | Mandar o criativo de "última semana" nos grupos. ✅ 2025-12-08 | tarefa | Comunicação e marketing | `05 - sexta-feira.md` | 05/12/2025 | 20 | checkbox explícito | `não_reconciliado` |
