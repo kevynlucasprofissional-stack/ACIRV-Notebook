@@ -1,0 +1,6 @@
+# Arquivos locais com credenciais — nunca devem ser sincronizados novamente.
+# IMPORTANTE: como estes arquivos já foram versionados anteriormente, este
+# .gitignore só passa a protegê-los depois que forem removidos do índice Git
+# local com `git rm --cached`, sem apagar os arquivos do disco.
+/000-Arquivos-originais/Contas e Senhas.md
+/000-Arquivos-originais/Minha Chave API Antropic.md
