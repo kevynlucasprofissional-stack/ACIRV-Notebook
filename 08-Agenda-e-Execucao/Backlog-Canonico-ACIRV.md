@@ -1371,6 +1371,31 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1259 | Preciso terminar agora pelo menos o planejamento dos criativos de janeiro | decisão com ação | Comunicação e marketing | `29 - segunda-feira.md` | 29/12/2025 | 14 | ação explícita em linha | `não_reconciliado` |
 | 1260 | Preciso me lembrar de | decisão com ação | Comunicação e marketing | `07 - quarta-feira.md` | 07/01/2026 | 14 | ação explícita em linha | `não_reconciliado` |
 | 1261 | Pedir os outdoors e os telões de reuniões na nova ID Visual (Raphael) ✅ 2026-01-07 | pedido | Comunicação e marketing | `07 - quarta-feira.md` | 07/01/2026 | 15 | checkbox explícito | `não_reconciliado` |
+| 1262 | Preciso conversar com o Raphael | decisão com ação | Comunicação e marketing | `08 - quinta-feira.md` | 08/01/2026 | 14 | ação explícita em linha | `não_reconciliado` |
+| 1263 | Sobre a conta do instagram da SudoExpo que foi banida | tarefa | SudoExpo | `08 - quinta-feira.md` | 08/01/2026 | 15 | checkbox explícito | `não_reconciliado` |
+| 1264 | Sobre uma sugestão de associado para eu entrar em contato e capturarmos uma prova social | ideia | Comunicação e marketing | `08 - quinta-feira.md` | 08/01/2026 | 16 | checkbox explícito | `não_reconciliado` |
+| 1265 | Sobre a conta e senha do Facebook da SudoExpo e do gerenciador de anúncios da Metta da SudoExpo | tarefa | SudoExpo | `08 - quinta-feira.md` | 08/01/2026 | 17 | checkbox explícito | `não_reconciliado` |
+| 1266 | Relatório de Dezembro | tarefa | Métricas e relatórios | `13 - terça-feira.md` | 13/01/2026 | 15 | checkbox explícito | `não_reconciliado` |
+| 1267 | Postagem da foto da reunião ✅ 2026-01-13 | tarefa | Comunicação e marketing | `13 - terça-feira.md` | 13/01/2026 | 16 | checkbox explícito | `não_reconciliado` |
+| 1268 | Criativo de "vende-se mesa " | tarefa | Comunicação e marketing | `13 - terça-feira.md` | 13/01/2026 | 17 | checkbox explícito | `não_reconciliado` |
+| 1269 | Reunião com a moça das turmas ✅ 2026-01-13 | tarefa | Comunicação e marketing | `13 - terça-feira.md` | 13/01/2026 | 18 | checkbox explícito | `não_reconciliado` |
+| 1270 | Fazer uma publicação "Essa postagem pode não aparecer mais para você" | tarefa | Comunicação e marketing | `03 - terça-feira.md` | 03/02/2026 | 26 | ação explícita em linha | `não_reconciliado` |
+| 1271 | Procurar assessoria de imprensa para a campanha | investigação | Imprensa | `03 - terça-feira.md` | 03/02/2026 | 31 | ação explícita em linha | `não_reconciliado` |
+| 1272 | Corrigir bugs | melhoria | Comunicação e marketing | `03 - terça-feira.md` | 03/02/2026 | 42 | ação explícita em linha | `não_reconciliado` |
+| 1273 | Adicionar logo da FACIEG | tarefa | Comunicação e marketing | `03 - terça-feira.md` | 03/02/2026 | 43 | ação explícita em linha | `não_reconciliado` |
+| 1274 | Planejar idéias para tráfego pago e tudo mais | plano | Comunicação e marketing | `03 - terça-feira.md` | 03/02/2026 | 44 | ação explícita em linha | `não_reconciliado` |
+| 1275 | Precisamos ficar com mais atenção da Rádio Líder | decisão com ação | Comunicação e marketing | `05 - quinta-feira.md` | 05/03/2026 | 24 | ação explícita em linha | `não_reconciliado` |
+| 1276 | Fazer conteudo forte para os tres niveis de funil | tarefa | Comunicação e marketing | `05 - quinta-feira.md` | 05/03/2026 | 25 | ação explícita em linha | `não_reconciliado` |
+| 1277 | Fazer cartela para ao cafe entre amigos sobre todos os servico da ACIRV | tarefa | Comunicação e marketing | `05 - quinta-feira.md` | 05/03/2026 | 27 | ação explícita em linha | `não_reconciliado` |
+| 1278 | Preciso organizar o relatorio da campanha Indique Ganhe e o ganhador desse mes | decisão com ação | Métricas e relatórios | `05 - quinta-feira.md` | 05/03/2026 | 29 | ação explícita em linha | `não_reconciliado` |
+| 1279 | Produzir para todas as fases do funil, para topo, meio e fundo | tarefa | Comunicação e marketing | `05 - quinta-feira.md` | 05/03/2026 | 44 | ação explícita em linha | `não_reconciliado` |
+| 1280 | A apresentação oficinal com métricas, relatório de ações e planejamento. ✅ 2026-05-07 | plano | Métricas e relatórios | `07 - quinta-feira.md` | 07/05/2026 | 23 | checkbox explícito | `não_reconciliado` |
+| 1281 | Falar sobre os dois sites: Site baseado na pasta de Briefing e o pedido do Raphael ✅ 2026-05-07 | pedido | Sites e presença digital | `07 - quinta-feira.md` | 07/05/2026 | 24 | checkbox explícito | `não_reconciliado` |
+| 1282 | Adesivo "Aluga-se" para a Sala Comercial ✅ 2026-05-07 | tarefa | Comunicação e marketing | `07 - quinta-feira.md` | 07/05/2026 | 25 | checkbox explícito | `não_reconciliado` |
+| 1283 | Logo do Happy Hour ✅ 2026-05-07 | tarefa | Comunicação e marketing | `07 - quinta-feira.md` | 07/05/2026 | 40 | checkbox explícito | `não_reconciliado` |
+| 1284 | Cenas da cantora cantando ✅ 2026-05-07 | tarefa | Comunicação e marketing | `07 - quinta-feira.md` | 07/05/2026 | 41 | checkbox explícito | `não_reconciliado` |
+| 1285 | Pessoas conversando ✅ 2026-05-07 | tarefa | Comunicação e marketing | `07 - quinta-feira.md` | 07/05/2026 | 42 | checkbox explícito | `não_reconciliado` |
+| 1286 | Logo da ACIRV no final. ✅ 2026-05-07 | tarefa | Comunicação e marketing | `07 - quinta-feira.md` | 07/05/2026 | 43 | checkbox explícito | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
