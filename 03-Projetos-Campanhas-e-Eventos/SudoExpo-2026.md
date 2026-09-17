@@ -94,8 +94,8 @@ subtipo: evento
 
 > Fonte: `000-Arquivos-originais/130726 Reunião com a organização da SudoExpo.md` — blob `f862a6b6`
 
-> [!warning] Pendência humana
-> A "situação financeira complicada" da SudoExpo foi mencionada informalmente em 03/08/2026. Sem evidência adicional. Não promovido como fato — registrado como risco pending_validation (claim `sudoexpo.2026.situacao_financeira.alerta`).
+> [!note] Validação Humana — Situação Financeira (2026-09-17)
+> O registro "situação financeira complicada" em 03/08/2026 foi confirmado pelo operador humano como a **impressão operacional qualitativa pós-reunião de diretoria** sobre os números da feira, e não um parecer contábil auditado ou deficit formal.
 
 ## Cobertura de imprensa (julho)
 
@@ -110,8 +110,9 @@ O corpus indica múltiplas frentes: estande, cursos para expositores, mídia kit
 ## Riscos
 
 - Mudanças tardias de agenda e demanda distribuída entre grupos e reuniões
-- Situação financeira da SudoExpo reportada como "complicada" em 03/08 (pending_validation)
+- Impressão operacional pós-reunião de diretoria sobre os números da feira ("complicada" — validado em 17/09/2026)
 - Cronograma passou por múltiplas revisões até 31/08
+
 
 ## Relações justificadas
 

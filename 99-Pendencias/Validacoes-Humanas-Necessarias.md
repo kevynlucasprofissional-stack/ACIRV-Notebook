@@ -61,7 +61,25 @@ Aprovar dicionário, tabela canônica e tratamento das divergências. Valores p�
 
 ## Marca
 
-Confirmar V5 como manual vigente e política de submarcas.
+Resoluções validadas em 2026-09-17:
+- **Manuais de Tom de Voz vigentes**: As versões **V4.5** e **V5** são utilizadas simultaneamente no cotidiano operacional da equipe.
+- **Versão V6**: Constitui uma visão/planejamento de evolução futura da marca.
+
+Promovido para `[[Manual-Operacional-de-Tom-de-Voz]]`.
+
+## Serviços e Consultorias
+
+Resolução validada em 2026-09-17:
+- **Gratuidade**: Todas as consultorias oferecidas pela ACIRV (Jurídica, Contábil, Engenharia Ambiental, Tecnologia & Inovação, Atração de Investimentos, Infraestrutura Rodoviária e Comunicação) são **100% gratuitas para associados**.
+
+Promovido para `[[Servicos-e-Beneficios-da-ACIRV]]`.
+
+## SudoExpo — Situação Financeira
+
+Resolução validada em 2026-09-17:
+- O termo "complicada" anotado em 03/08/2026 refere-se à **impressão operacional qualitativa pós-reunião de diretoria** sobre os números do evento, e não a déficit contábil formal.
+
+Promovido para `[[SudoExpo-2026]]`.
 
 ## Segurança
 

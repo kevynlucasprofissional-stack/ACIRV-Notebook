@@ -33,7 +33,10 @@ subtipo: catalogo
 
 ## Categorias observadas
 
-Consultorias, certificado digital, eventos, networking, representação, espaços, capacitações, conselhos, parcerias e informação.
+Consultorias (100% gratuitas para associados), certificado digital, eventos, networking, representação, espaços (locação de auditório e salas), capacitações, conselhos, parcerias e informação.
+
+> [!note] Validação Humana (2026-09-17)
+> Confirmado que todas as consultorias oferecidas pela ACIRV (Jurídica, Contábil, Engenharia Ambiental, Tecnologia & Inovação, Atração de Investimentos, Infraestrutura Rodoviária e Comunicação) são **gratuitas para os associados**, mediante agendamento prévio pelo telefone/WhatsApp institucional.
 
 ## Ficha por serviço
 
@@ -45,7 +48,7 @@ FAQ, Minuto ACIRV, caso, passo a passo, calendário e comparativo.
 
 ## Governança
 
-Serviço volátil precisa de data de revisão e responsável. Não publicar condição comercial sem confirmação.
+Serviço volátil precisa de data de revisão e responsável. Condição comercial de consultoria gratuita para associados confirmada em 2026-09-17.
 
 ## Métrica
 

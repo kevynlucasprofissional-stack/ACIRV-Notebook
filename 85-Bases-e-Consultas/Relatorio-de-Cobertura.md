@@ -9,7 +9,7 @@ confidencialidade: interno
 
 # Relatório de Cobertura — ACIRV Notebook
 
-> Gerado em: `2026-09-17T17:10:49.115456+00:00`
+> Gerado em: `2026-09-17T17:25:26.854995+00:00`
 
 ## Fontes (000-Arquivos-originais/)
 
@@ -53,19 +53,18 @@ confidencialidade: interno
 
 | Métrica | Valor |
 |---|---:|
-| Total de claims | 11 |
-| Pending validation | 11 |
+| Total de claims | 12 |
+| Pending validation | 9 |
 | Contradições | 0 |
 | Contradições silenciosas (**erro**) | 0 |
-| Promovidos | 10 |
-| Promovidos com proveniência completa | 10 |
+| Promovidos | 12 |
+| Promovidos com proveniência completa | 12 |
 
 ### Por disposition
 
 | Disposition | Claims |
 |---|---:|
-| `pending_validation` | 1 |
-| `promoted` | 10 |
+| `promoted` | 12 |
 
 ## Métricas de Cobertura
 
@@ -76,7 +75,7 @@ confidencialidade: interno
 |---|---:|---|
 | `source_accounting_coverage` | 100.0% | blobs atuais no Git |
 | `processable_source_coverage` | 0.0% | fontes processáveis (não sensíveis/unsupported) |
-| `material_claim_disposition_coverage` | 90.9% | claims com disposition definida |
+| `material_claim_disposition_coverage` | 100.0% | claims com disposition definida |
 | `provenance_coverage` | 100.0% | claims promovidos com blob_sha + destino |
 
 ## Critério de Paridade
@@ -85,7 +84,7 @@ confidencialidade: interno
 - ❌ FAIL  `100pct_processaveis_processados_ou_classificados`: 0/389 processáveis processados (0.0%)
 - ✅ PASS  `0_contradicoes_silenciosas`: 0 contradição(ões) silenciosamente validada(s)
 - ✅ PASS  `0_secrets_lidos`: safety gate ativo — secrets classificados sem abertura
-- ✅ PASS  `claims_promovidos_com_proveniencia`: 10/10 claims promovidos com proveniência completa
+- ✅ PASS  `claims_promovidos_com_proveniencia`: 12/12 claims promovidos com proveniência completa
 
 > [!warning]
 > Paridade incompleta. Critérios não satisfeitos: `100pct_processaveis_processados_ou_classificados`

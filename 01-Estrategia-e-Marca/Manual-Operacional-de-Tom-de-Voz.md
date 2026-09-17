@@ -54,7 +54,9 @@ Leia o texto e responda: está claro para alguém fora da equipe? há uma inform
 
 ## Versão vigente
 
-O V5 é a referência operacional. Versões V3, V4 e V4.5 são históricas e não devem ser copiadas sem comparação explícita.
+As versões **V4.5** e **V5** são as referências operacionais vigentes em uso pela equipe. A versão **V6** é uma visão/planejamento de evolução futura da marca. Versões anteriores (V3 e V4) são históricas.
+
+> **Validação Humana (2026-09-17):** Confirmado pelo operador humano que V4.5 e V5 são os manuais em uso simultâneo no dia a dia, e V6 constitui projeto futuro.
 
 ## Relações justificadas
 
