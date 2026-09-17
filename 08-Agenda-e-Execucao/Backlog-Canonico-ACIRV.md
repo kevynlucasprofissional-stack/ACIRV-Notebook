@@ -1741,6 +1741,47 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1629 | Produza um documento que possa ser usado como memória oficial do evento | tarefa | Comunicação e marketing | `Prompt para criar dossiê.md` |  | 564 | ação explícita em lista | `não_reconciliado` |
 | 1630 | apresentar uma chamada para ação | tarefa | Comunicação e marketing | `Prompt seja Vivi.md` |  | 215 | ação explícita em lista | `não_reconciliado` |
 | 1631 | apresente o benefício ou significado principal | tarefa | Comunicação e marketing | `Prompt seja Vivi.md` |  | 333 | ação explícita em lista | `não_reconciliado` |
+| 1632 | Lista de Presença: Confirmar na entrada | tarefa | Comunicação e marketing | `Rascunho do cerimonial do dia 260826.md` |  | 2 | checkbox explícito | `não_reconciliado` |
+| 1633 | Apresentação/Vídeo Diogo Paiva: Confirmar se o material do *Projeto Criança Feliz (6ª Edição)* está no ponto | tarefa | Comunicação e marketing | `Rascunho do cerimonial do dia 260826.md` |  | 3 | checkbox explícito | `não_reconciliado` |
+| 1634 | SudoExpo Match: Confirmar se o QR Code de acesso à plataforma (para /participar) está nos telões e mesas | tarefa | SudoExpo | `Rascunho do cerimonial do dia 260826.md` |  | 4 | checkbox explícito | `não_reconciliado` |
+| 1635 | Pesquisa de Satisfação: Confirmar se o QR Code final está pronto para o telão | tarefa | Comunicação e marketing | `Rascunho do cerimonial do dia 260826.md` |  | 5 | checkbox explícito | `não_reconciliado` |
+| 1636 | Sorteio: Preparar um sistema onde apenas associados poderão se inscrever para participar do sorteio de pitch, o sistema deve ter um sistema de peso onde novos associados tem uma chance maior de serem sorteados. Colocar o QR desse sistema no telão e nas mesas | decisão com ação | Comunicação e marketing | `Rascunho do cerimonial do dia 260826.md` |  | 6 | checkbox explícito | `não_reconciliado` |
+| 1637 | Alinhamento com Paula (Cel: 64 99910-7577): Confirmar com ela a presença do Diogo Paiva que irá falar sobre o *Projeto Criança Feliz (6ª Edição)* | tarefa | Comunicação e marketing | `Rascunho do cerimonial do dia 260826.md` |  | 7 | checkbox explícito | `não_reconciliado` |
+| 1638 | Presença do presidente: Confirmar se o Sr. José Carlos Cintra está presente e informado para falar um pouco sobre a SudoExpo nos avisos iniciais | tarefa | SudoExpo | `Rascunho do cerimonial do dia 260826.md` |  | 8 | checkbox explícito | `não_reconciliado` |
+| 1639 | Corrija repetições, vícios de linguagem, interrupções e problemas naturais da fala | tarefa | Comunicação e marketing | `00_Prompt RD.md` | 15/06/2026 | 23 | ação explícita em lista | `não_reconciliado` |
+| 1640 | Organize as tarefas por importância e impacto, e não necessariamente pela ordem em que aparecem no áudio | tarefa | Comunicação e marketing | `00_Prompt RD.md` | 15/06/2026 | 39 | ação explícita em lista | `não_reconciliado` |
+| 1641 | Acompanhar a execução e a finalização do ajuste do criativo da CAM ACIRV | melhoria | Comunicação e marketing | `150626 Relatório Diário.md` | 15/06/2026 | 114 | ação explícita em lista | `não_reconciliado` |
+| 1642 | Estruturar no Media Kit “Seja Patrocinador” as possibilidades de patrocínio dos diferentes eventos da ACIRV | tarefa | Comunicação e marketing | `150626 Relatório Diário.md` | 15/06/2026 | 118 | ação explícita em lista | `não_reconciliado` |
+| 1643 | Acompanhar a finalização | tarefa | Comunicação e marketing | `150626 Relatório Diário.md` | 15/06/2026 | 129 | ação explícita em tabela | `não_reconciliado` |
+| 1644 | Finalizar a cobertura da oficina do SEBRAE, incluindo story, fotos e carrossel no feed | tarefa | Social Media | `160626 Relatório Diário.md` | 16/06/2026 | 124 | ação explícita em lista | `não_reconciliado` |
+| 1645 | Definir uma nova data para os itens pendentes do cartão do Trello “Conecta Saúde 2º edição” | tarefa | Conecta Saúde | `160626 Relatório Diário.md` | 16/06/2026 | 128 | ação explícita em lista | `não_reconciliado` |
+| 1646 | Produzir o vídeo de José Carlos fazendo chamada para Conecta Saúde 2º edição | tarefa | Conecta Saúde | `160626 Relatório Diário.md` | 16/06/2026 | 130 | ação explícita em lista | `não_reconciliado` |
+| 1647 | Verificar e definir o valor destinado ao tráfego pago do Conecta Saúde | investigação | Conecta Saúde | `160626 Relatório Diário.md` | 16/06/2026 | 132 | ação explícita em lista | `não_reconciliado` |
+| 1648 | Verificar se a programação de postagem deu certo | investigação | Comunicação e marketing | `160626 Relatório Diário.md` | 16/06/2026 | 175 | ação explícita em tabela | `não_reconciliado` |
+| 1649 | Acompanhar a entrega da peça | tarefa | Comunicação e marketing | `160626 Relatório Diário.md` | 16/06/2026 | 178 | ação explícita em tabela | `não_reconciliado` |
+| 1650 | Publicar story, fotos e carrossel | tarefa | Social Media | `160626 Relatório Diário.md` | 16/06/2026 | 182 | ação explícita em tabela | `não_reconciliado` |
+| 1651 | Publicar os vídeos do Minuto ACIRV no YouTube | tarefa | Comunicação e marketing | `170626 Relatório Diário.md` | 17/06/2026 | 131 | ação explícita em lista | `não_reconciliado` |
+| 1652 | Organizar os materiais que ainda não foram publicados | tarefa | Comunicação e marketing | `170626 Relatório Diário.md` | 17/06/2026 | 137 | ação explícita em lista | `não_reconciliado` |
+| 1653 | Editar a capa e vídeo dos depoimentos do Café com o Presidente | tarefa | Comunicação e marketing | `170626 Relatório Diário.md` | 17/06/2026 | 139 | ação explícita em lista | `não_reconciliado` |
+| 1654 | Acompanhar a continuidade do vídeo encaminhado ao editor | tarefa | Comunicação e marketing | `170626 Relatório Diário.md` | 17/06/2026 | 143 | ação explícita em lista | `não_reconciliado` |
+| 1655 | Publicar no YouTube e no Instagram | tarefa | Social Media | `170626 Relatório Diário.md` | 17/06/2026 | 174 | ação explícita em tabela | `não_reconciliado` |
+| 1656 | Acompanhar a continuidade da edição e pedir audio da vivi | pedido | Comunicação e marketing | `170626 Relatório Diário.md` | 17/06/2026 | 178 | ação explícita em tabela | `não_reconciliado` |
+| 1657 | Realizar as gravações | tarefa | Comunicação e marketing | `170626 Relatório Diário.md` | 17/06/2026 | 179 | ação explícita em tabela | `não_reconciliado` |
+| 1658 | Organizar os materiais pendentes | tarefa | Comunicação e marketing | `170626 Relatório Diário.md` | 17/06/2026 | 180 | ação explícita em tabela | `não_reconciliado` |
+| 1659 | Editar capas e publicar os depoimentos | tarefa | Comunicação e marketing | `170626 Relatório Diário.md` | 17/06/2026 | 181 | ação explícita em tabela | `não_reconciliado` |
+| 1660 | Organizar o material que ainda não foi postado (TBT) | tarefa | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 296 | ação explícita em lista | `não_reconciliado` |
+| 1661 | Revisar os destaques da ACIRV | melhoria | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 306 | ação explícita em lista | `não_reconciliado` |
+| 1662 | Editar o segundo vídeo das ACIRVETES | tarefa | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 316 | ação explícita em lista | `não_reconciliado` |
+| 1663 | Fazer assessoria de imprensa para o Conecta Saúde 2ª edição | tarefa | Conecta Saúde | `18 e 190626 Relatório Diário.md` |  | 318 | ação explícita em lista | `não_reconciliado` |
+| 1664 | Editar o segundo vídeo captado | tarefa | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 364 | ação explícita em tabela | `não_reconciliado` |
+| 1665 | Coletar feedbacks da equipe | investigação | Social Media | `18 e 190626 Relatório Diário.md` |  | 366 | ação explícita em tabela | `não_reconciliado` |
+| 1666 | Organizar material que ainda não foi postado | tarefa | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 373 | ação explícita em tabela | `não_reconciliado` |
+| 1667 | Definir novo momento para execução | tarefa | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 374 | ação explícita em tabela | `não_reconciliado` |
+| 1668 | Revisar destaques da ACIRV | melhoria | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 378 | ação explícita em tabela | `não_reconciliado` |
+| 1669 | Salvar fotos do Samsung no HD externo da ACIRV | tarefa | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 381 | ação explícita em tabela | `não_reconciliado` |
+| 1670 | Editar vídeo 02 das ACIRVETES | tarefa | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 382 | ação explícita em tabela | `não_reconciliado` |
+| 1671 | Editar o segundo vídeo | tarefa | Comunicação e marketing | `18 e 190626 Relatório Diário.md` |  | 382 | ação explícita em tabela | `não_reconciliado` |
+| 1672 | Revisar os destaques da Asserve também, uma tarefa que era de semana passada, eu joguei para essa semana. Encaminhar o briefing de Media Kit, seja patrocinador. Também era da semana passada, eu joguei para essa semana | melhoria | Processos e operação | `18 e 190626 Transcrição.md` |  | 29 | ação explícita em linha | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
