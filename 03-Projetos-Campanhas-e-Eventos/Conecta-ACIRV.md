@@ -6,10 +6,10 @@ tipo: projeto
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-17'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -61,13 +61,13 @@ Fortalecer o ecossistema empresarial de Rio Verde e região por meio de eventos 
 - Média de 49 participantes por evento
 - Prioridade para associados da ACIRV
 - Participação limitada para melhor aproveitamento
-- Geração total de R$ 4 milhões em conexões/negócios (meta anual)
+- A referência de **R$ 4 milhões** corresponde a negócios movimentados de forma acumulada ao longo de várias edições do Conecta; **não é uma meta anual de 2026**.
 
 Inscritos, presentes, associados/não associados, conexões declaradas, oportunidades, negócios comprovados, satisfação, conversão e entrega de patrocínio.
 
 ## Patrocínios
 
-Plano anual com cotas Diamante (MASTER), Ouro e Prata. Plano individual por evento com cotas Ouro, Prata e Bronze. Mídia kit específico por evento.
+Plano anual com cotas Diamante (MASTER), Ouro e Prata. Para fins canônicos, o valor oficial da **Cota Diamante é R$ 18.000**. Plano individual por evento com cotas Ouro, Prata e Bronze. Mídia kit específico por evento.
 
 ## Investimento estimado
 
@@ -77,9 +77,9 @@ R$ 15 mil por evento (estrutura, divulgação, brindes, experiências).
 
 Instagram ACIRV, e-mail marketing, grupos de WhatsApp (associados), TV e rádios locais, comunicados internos.
 
-## Risco de evidência
+## Evidência do volume histórico
 
-A cifra de R$ 4 milhões aparece no corpus, mas precisa de método e fonte antes de uso público como resultado consolidado.
+A cifra de **R$ 4 milhões** deve ser tratada como referência histórica acumulada de negócios movimentados ao longo de várias edições do Conecta. A validação humana de 2026-09-17 resolveu a ambiguidade entre “resultado histórico” e “meta anual”. Caso o número seja usado publicamente em peça institucional, ainda é recomendável informar o período ou conjunto de edições quando essa informação estiver disponível.
 
 ## Relações justificadas
 
@@ -92,6 +92,7 @@ A cifra de R$ 4 milhões aparece no corpus, mas precisa de método e fonte antes
 
 - [[Fonte - Notas Operacionais]]
 - [[Fonte - Planejamento Estrategico 2026]]
+- validação humana de 2026-09-17: Cota Diamante oficial de R$ 18.000; R$ 4 milhões como volume histórico acumulado de negócios movimentados em várias edições.
 
 ## Limitações e revisão
 
