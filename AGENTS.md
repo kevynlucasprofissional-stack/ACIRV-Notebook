@@ -1,5 +1,7 @@
 # AGENTS.md
 
+> **Convenção canônica do repositório:** `000-Arquivos-originais/` é a **fonte primária imutável**. As pastas `00-*` a `99-*` formam a **camada canônica** de conhecimento. Todo agente, automação ou processo de síntese deve preservar essa separação.
+
 ## Arquitetura do repositório
 
 Este repositório opera em três camadas principais:
