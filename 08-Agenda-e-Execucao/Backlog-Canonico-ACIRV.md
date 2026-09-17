@@ -1237,7 +1237,7 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1125 | Conteúdo "Cheque em branco" sobre certificado digital, baseado no vídeo de 27 de Janeiro - B. ✅ 2025-12-18 | tarefa | Comunicação e marketing | `Conteúdos que precisam se repetir em 2026.md` | 17/12/2025 | 15 | checkbox explícito | `não_reconciliado` |
 | 1126 | Criativo de Janeiro Branco ✅ 2025-12-18 | tarefa | Comunicação e marketing | `Conteúdos que precisam se repetir em 2026.md` | 17/12/2025 | 16 | checkbox explícito | `não_reconciliado` |
 | 1127 | Dia nacional do "Graças a Deus é segunda feira" [Dia Nacional Graças a Deus É Segunda-Feira: inverta o jogo e declare o seu amor pelas segundas - Calendarr](https://www.calendarr.com/brasil/dia-nacional-gracas-a-deus-e-segunda-feira/) | tarefa | Comunicação e marketing | `Conteúdos que precisam se repetir em 2026.md` | 17/12/2025 | 17 | checkbox explícito | `não_reconciliado` |
-| 1128 | Dia da gratidão: [Dia da Gratidão \\| 6 de Janeiro - Calendarr](https://www.calendarr.com/brasil/dia-da-gratidao/) ✅ 2026-01-07 | tarefa | Comunicação e marketing | `Conteúdos que precisam se repetir em 2026.md` | 17/12/2025 | 18 | checkbox explícito | `não_reconciliado` |
+| 1128 | Dia da Gratidão — 6 de janeiro (referência Calendarr) | tarefa | Comunicação e marketing | `Conteúdos que precisam se repetir em 2026.md` | 17/12/2025 | 18 | checkbox explícito | `não_reconciliado` |
 | 1129 | Promover ações voltadas ao autodesenvolvimento dos profissionais que integram o Fórum de RH, estimulando | tarefa | Comunicação e marketing | `DOSSIÊ INSTITUCIONAL — FÓRUM DE RH.md` | 12/06/2026 | 67 | ação explícita em linha | `não_reconciliado` |
 | 1130 | Criar pontes entre profissionais de RH, empresas, empresários, instituições e comunidade | tarefa | Comunicação e marketing | `DOSSIÊ INSTITUCIONAL — FÓRUM DE RH.md` | 12/06/2026 | 90 | ação explícita em linha | `não_reconciliado` |
 | 1131 | Estruturar ações coordenadas, estratégicas e inovadoras que envolvam | tarefa | Comunicação e marketing | `DOSSIÊ INSTITUCIONAL — FÓRUM DE RH.md` | 12/06/2026 | 94 | ação explícita em linha | `não_reconciliado` |
@@ -2294,7 +2294,7 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 ### Resumo da Passagem 2
 
 - **Fontes Markdown examinadas nesta passagem:** 382
-- **Fontes com pelo menos uma nova ação explícita:** 150
+- **Fontes com pelo menos uma nova ação explícita:** 149
 - **Novos itens adicionados nesta passagem:** 1776
 - **Total acumulado do Backlog Canônico:** 2181
 - **Critério:** somente formulações explicitamente acionáveis (checkboxes, listas, tabelas ou linhas diretas); sem mineração semântica profunda.
@@ -2304,7 +2304,7 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 
 | Área / projeto | Novos itens |
 |---|---:|
-| Comunicação e marketing | 1409 |
+| Comunicação e marketing | 1410 |
 | Social Media | 109 |
 | Processos e operação | 105 |
 | Métricas e relatórios | 39 |
@@ -2313,20 +2313,18 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | Conecta Saúde | 23 |
 | SudoExpo | 22 |
 | Imprensa | 18 |
-| tarefa | 1 |
 
 #### Principais tipos de ação
 
 | Tipo | Novos itens |
 |---|---:|
-| tarefa | 1279 |
+| tarefa | 1280 |
 | melhoria | 154 |
 | decisão com ação | 146 |
 | investigação | 68 |
 | pedido | 57 |
 | plano | 38 |
 | ideia | 33 |
-| 6 de Janeiro - Calendarr](https://www.calendarr.com/brasil/dia-da-gratidao/) ✅ 2026-01-07 | 1 |
 
 #### Fontes mais densas em ações explícitas nesta passagem
 
