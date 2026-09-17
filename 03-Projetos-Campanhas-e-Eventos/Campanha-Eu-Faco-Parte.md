@@ -6,10 +6,10 @@ tipo: projeto
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-17'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -30,17 +30,22 @@ subtipo: campanha
 # Campanha-Eu-Faco-Parte
 
 > [!summary] Síntese
-> Campanha de pertencimento da ACIRV (Maio/2026) sob o conceito **"Eu Faço Parte do Movimento"**, com o objetivo de transformar a relação do associado com a entidade em uma experiência emocional, pública e compartilhável.
+> Campanha de pertencimento da ACIRV sob o conceito **"Eu Faço Parte do Movimento"**. Foi planejada para começar em **abril de 2026**, mas sua execução foi iniciada em **maio de 2026**. O objetivo é transformar a relação do associado com a entidade em uma experiência emocional, pública e compartilhável.
 
 ## Identificação
 
 - **Nome estratégico**: Campanha de Pertencimento ACIRV
 - **Conceito**: Eu Faço Parte do Movimento
-- **Período principal**: Maio de 2026
+- **Início originalmente planejado**: Abril de 2026
+- **Início efetivo da execução**: Maio de 2026
 - **Eixo emocional**: Orgulho de pertencer
 - **Eixo institucional**: ACIRV como rede, entidade representativa e movimento empresarial de Rio Verde
 - **Eixo de conversão**: Prova social para engajar associados atuais e atrair novos
 - **Assinaturas**: `#OrgulhoEmSerACIRV` / `#EuFaçoParteDoMovimento` / `#ConectarParaCrescer`
+
+## Cronologia validada
+
+O planejamento anual previa o início da campanha em abril. A execução, porém, começou em maio. Portanto, referências a abril devem ser interpretadas como **planejamento**, enquanto maio representa o **início efetivamente realizado**.
 
 ## Objetivo estratégico
 
@@ -102,6 +107,7 @@ Uso de imagem sem autorização, prova social genérica, foco excessivo em esté
 
 - [[Fonte - Planejamento Estrategico 2026]]
 - [[Fonte - Notas Operacionais]]
+- validação humana de 2026-09-17: planejamento em abril; início efetivo em maio.
 
 ## Limitações e revisão
 
