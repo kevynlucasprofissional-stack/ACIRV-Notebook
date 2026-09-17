@@ -1475,6 +1475,88 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1363 | Acompanhar campanha, conteúdos e sorteio | tarefa | Comunicação e marketing | `Ideias para dar uso a motinha.md` |  | 41 | ação explícita em linha | `não_reconciliado` |
 | 1364 | Faça as modificações diretamente no arquivo e apresente um resumo das contribuições e melhorias adicionadas | melhoria | Comunicação e marketing | `Inteligência do Hermes.md` |  | 23 | ação explícita em lista | `não_reconciliado` |
 | 1365 | Preciso desenvolver para a ACIRV uma plataforma de links semelhante ao Linktree, com um painel administrativo e uma página pública personalizada | decisão com ação | Sites e presença digital | `LinkTree ACIRV.md` |  | 1 | ação explícita em linha | `não_reconciliado` |
+| 1366 | Falta de visibilidade e conexão entre associados, que faz com que demandas internas não encontrem ofertas dentro do próprio ecossistema da ACIRV, gerando perda de oportunidades de negócio | decisão com ação | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 9 | ação explícita em linha | `não_reconciliado` |
+| 1367 | publicar demanda | tarefa | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 121 | ação explícita em lista | `não_reconciliado` |
+| 1368 | Publicar Demanda (Botão flutuante ou destaque na barra superior) | tarefa | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 652 | ação explícita em lista | `não_reconciliado` |
+| 1369 | Explorar Empresas | ideia | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 654 | ação explícita em lista | `não_reconciliado` |
+| 1370 | Publicar Agora | tarefa | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 716 | ação explícita em lista | `não_reconciliado` |
+| 1371 | Botões: Mínimo 44px de altura para touch mobile | tarefa | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 740 | checkbox explícito | `não_reconciliado` |
+| 1372 | WhatsApp: Use o ícone oficial da marca para gerar confiança imediata | tarefa | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 741 | checkbox explícito | `não_reconciliado` |
+| 1373 | Vazio: Se uma busca não trouxer resultados, exiba um botão "Publicar Demanda" para incentivar a proatividade | tarefa | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 742 | checkbox explícito | `não_reconciliado` |
+| 1374 | Contraste: Garanta que as tags de segmento (ex: "Indústria") tenham fundo claro e texto escuro para legibilidade | tarefa | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 743 | checkbox explícito | `não_reconciliado` |
+| 1375 | Publicar, editar e encerrar suas próprias demandas | tarefa | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 759 | ação explícita em lista | `não_reconciliado` |
+| 1376 | Editar seu próprio perfil de usuário (nome, cargo, senha) | tarefa | Comunicação e marketing | `MVP SaaS ACIRV.md` | 31/03/2026 | 761 | ação explícita em lista | `não_reconciliado` |
+| 1377 | consolidar a imagem da ACIRV como ponte | tarefa | Comunicação e marketing | `Manual de Carrosséis da ACIRV.md` | 14/04/2026 | 424 | ação explícita em lista | `não_reconciliado` |
+| 1378 | Fazer slide 1 com cara de flyer | tarefa | Comunicação e marketing | `Manual de Carrosséis da ACIRV.md` | 14/04/2026 | 454 | ação explícita em lista | `não_reconciliado` |
+| 1379 | Transformar Sudoexpo em repetição comercial fria | tarefa | SudoExpo | `Manual de Carrosséis da ACIRV.md` | 14/04/2026 | 460 | ação explícita em lista | `não_reconciliado` |
+| 1380 | Fazer carrossel longo sem progressão real | tarefa | Comunicação e marketing | `Manual de Carrosséis da ACIRV.md` | 14/04/2026 | 464 | ação explícita em lista | `não_reconciliado` |
+| 1381 | Publicar muito conteúdo de mesmo tema em janela curta sem variar o ângulo | tarefa | Comunicação e marketing | `Manual de Carrosséis da ACIRV.md` | 14/04/2026 | 468 | ação explícita em lista | `não_reconciliado` |
+| 1382 | Teste versões diferentes | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 211 | ação explícita em lista | `não_reconciliado` |
+| 1383 | Criar continuidade | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 258 | ação explícita em lista | `não_reconciliado` |
+| 1384 | Escreva em segunda pessoa: “você”, “sua empresa”, “seu time” | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 317 | ação explícita em lista | `não_reconciliado` |
+| 1385 | Apresentar um case | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 524 | ação explícita em lista | `não_reconciliado` |
+| 1386 | Criar memória | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 528 | ação explícita em lista | `não_reconciliado` |
+| 1387 | Fazer o leitor se ver na situação | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 530 | ação explícita em lista | `não_reconciliado` |
+| 1388 | Remover contatos inválidos | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 700 | ação explícita em lista | `não_reconciliado` |
+| 1389 | Incluir descadastro visível | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 702 | ação explícita em lista | `não_reconciliado` |
+| 1390 | Teste o e-mail no celular antes do envio | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 752 | ação explícita em lista | `não_reconciliado` |
+| 1391 | Adicione texto alternativo em imagens relevantes | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 773 | ação explícita em lista | `não_reconciliado` |
+| 1392 | Teste modo claro e escuro quando possível | tarefa | Comunicação e marketing | `Manual de Email Marketing.md` |  | 783 | ação explícita em lista | `não_reconciliado` |
+| 1393 | Deve informar sem ficar fria | decisão com ação | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 56 | ação explícita em linha | `não_reconciliado` |
+| 1394 | Deve mobilizar sem usar exageros comerciais | decisão com ação | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 58 | ação explícita em linha | `não_reconciliado` |
+| 1395 | organizar | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 155 | ação explícita em lista | `não_reconciliado` |
+| 1396 | desenvolver | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 156 | ação explícita em lista | `não_reconciliado` |
+| 1397 | transformar | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 157 | ação explícita em lista | `não_reconciliado` |
+| 1398 | criar pontes | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 159 | ação explícita em lista | `não_reconciliado` |
+| 1399 | organizar decisões financeiras | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 778 | ação explícita em lista | `não_reconciliado` |
+| 1400 | acompanhar os canais oficiais | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 815 | ação explícita em lista | `não_reconciliado` |
+| 1401 | procurar a equipe da ACIRV | investigação | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 817 | ação explícita em lista | `não_reconciliado` |
+| 1402 | salvar a data | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 818 | ação explícita em lista | `não_reconciliado` |
+| 1403 | transformar todo texto em defesa do lema | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1425 | ação explícita em lista | `não_reconciliado` |
+| 1404 | transformar conhecimento em prática | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1444 | ação explícita em lista | `não_reconciliado` |
+| 1405 | Identifiquei o tipo de conteúdo? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1549 | checkbox explícito | `não_reconciliado` |
+| 1406 | Entendi a intenção principal? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1550 | checkbox explícito | `não_reconciliado` |
+| 1407 | Sei quem é o público? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1551 | checkbox explícito | `não_reconciliado` |
+| 1408 | Defini a informação mais importante? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1552 | checkbox explícito | `não_reconciliado` |
+| 1409 | A primeira frase é forte, clara e útil? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1556 | checkbox explícito | `não_reconciliado` |
+| 1410 | O texto evita começar com data, nome do evento ou convite genérico? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1557 | checkbox explícito | `não_reconciliado` |
+| 1411 | O leitor entende o assunto nos primeiros segundos? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1558 | checkbox explícito | `não_reconciliado` |
+| 1412 | O gancho entrega valor, dado, dor, cena ou orientação? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1559 | checkbox explícito | `não_reconciliado` |
+| 1413 | O texto mostra por que o tema importa? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1563 | checkbox explícito | `não_reconciliado` |
+| 1414 | Há valor prático para o leitor? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1564 | checkbox explícito | `não_reconciliado` |
+| 1415 | Os parágrafos estão curtos? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1565 | checkbox explícito | `não_reconciliado` |
+| 1416 | Cada bloco tem uma ideia? | ideia | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1566 | checkbox explícito | `não_reconciliado` |
+| 1417 | Há bullets quando existe lista? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1567 | checkbox explícito | `não_reconciliado` |
+| 1418 | Os bullets são objetivos? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1568 | checkbox explícito | `não_reconciliado` |
+| 1419 | O negrito foi usado com moderação? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1569 | checkbox explícito | `não_reconciliado` |
+| 1420 | O texto funciona em mobile? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1570 | checkbox explícito | `não_reconciliado` |
+| 1421 | O texto preserva o tom Sábio + Conector? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1574 | checkbox explícito | `não_reconciliado` |
+| 1422 | O texto é institucional sem ser frio? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1575 | checkbox explícito | `não_reconciliado` |
+| 1423 | O texto é próximo sem ser informal demais? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1576 | checkbox explícito | `não_reconciliado` |
+| 1424 | O texto evita clichês comerciais? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1577 | checkbox explícito | `não_reconciliado` |
+| 1425 | O texto evita promessas exageradas? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1578 | checkbox explícito | `não_reconciliado` |
+| 1426 | #ConectarParaCrescer entrou com função clara? | tarefa | Conecta ACIRV | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1582 | checkbox explícito | `não_reconciliado` |
+| 1427 | A função do lema combina com o texto? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1583 | checkbox explícito | `não_reconciliado` |
+| 1428 | O lema não parece colado? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1584 | checkbox explícito | `não_reconciliado` |
+| 1429 | A opção "#ConectarParaCrescer com a ACIRV" foi considerada quando o texto pede convite? | tarefa | Conecta ACIRV | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1585 | checkbox explícito | `não_reconciliado` |
+| 1430 | A fórmula "não é só lema, é método" só foi usada se fizer sentido? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1586 | checkbox explícito | `não_reconciliado` |
+| 1431 | O emoji tem função clara? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1590 | checkbox explícito | `não_reconciliado` |
+| 1432 | O texto continua compreensível sem o emoji? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1591 | checkbox explícito | `não_reconciliado` |
+| 1433 | Há no máximo 3 emojis? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1592 | checkbox explícito | `não_reconciliado` |
+| 1434 | Não há sequência de emojis? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1593 | checkbox explícito | `não_reconciliado` |
+| 1435 | Nenhuma palavra essencial foi substituída por emoji? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1594 | checkbox explícito | `não_reconciliado` |
+| 1436 | O emoji não deixou o texto informal demais? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1595 | checkbox explícito | `não_reconciliado` |
+| 1437 | Hashtags e menções estão integradas à frase? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1599 | checkbox explícito | `não_reconciliado` |
+| 1438 | Não há bloco de hashtags no final? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1600 | checkbox explícito | `não_reconciliado` |
+| 1439 | Foram usadas 5 hashtags em texto de rede social, quando adequado? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1601 | checkbox explícito | `não_reconciliado` |
+| 1440 | Hashtags compostas usam iniciais maiúsculas? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1602 | checkbox explícito | `não_reconciliado` |
+| 1441 | As hashtags não prejudicam a naturalidade? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1603 | checkbox explícito | `não_reconciliado` |
+| 1442 | O fechamento sintetiza valor? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1607 | checkbox explícito | `não_reconciliado` |
+| 1443 | Há pertencimento quando o tema permite? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1608 | checkbox explícito | `não_reconciliado` |
+| 1444 | O CTA é claro quando necessário? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1609 | checkbox explícito | `não_reconciliado` |
+| 1445 | A assinatura emocional foi usada quando faz sentido? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1610 | checkbox explícito | `não_reconciliado` |
+| 1446 | O texto termina com clareza e coerência institucional? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1611 | checkbox explícito | `não_reconciliado` |
+| 1447 | Preciso desenvolver uma solução de matchmaking profissional, semelhante à lógica de um aplicativo como o Tinder. Para orientar o projeto, vou anexar a transcrição da reunião e as anotações feitas durante a discussão | decisão com ação | Comunicação e marketing | `230726 Prompt do matchmaker da SudoExpo.md` | 23/07/2026 | 1 | ação explícita em linha | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
