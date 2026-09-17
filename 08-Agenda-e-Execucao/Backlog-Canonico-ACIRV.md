@@ -2294,7 +2294,7 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 ### Resumo da Passagem 2
 
 - **Fontes Markdown examinadas nesta passagem:** 382
-- **Fontes com pelo menos uma nova ação explícita:** 149
+- **Fontes com pelo menos uma nova ação explícita:** 150
 - **Novos itens adicionados nesta passagem:** 1776
 - **Total acumulado do Backlog Canônico:** 2181
 - **Critério:** somente formulações explicitamente acionáveis (checkboxes, listas, tabelas ou linhas diretas); sem mineração semântica profunda.
@@ -2313,7 +2313,7 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | Conecta Saúde | 23 |
 | SudoExpo | 22 |
 | Imprensa | 18 |
-| tarefa | Comunicação e marketing | 1 |
+| tarefa | 1 |
 
 #### Principais tipos de ação
 
@@ -2344,7 +2344,6 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | `Planejamento de Junho — ACIRV + VCOM.md` | 42 |
 | `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` | 30 |
 | `1º Fórum de IA da ACIRV - Planejamento Social Media.md` | 29 |
-
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
