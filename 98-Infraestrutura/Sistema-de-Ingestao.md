@@ -5,8 +5,8 @@ aliases: [ingestao, ledger, claims]
 tipo: infraestrutura
 status: ativo
 profundidade: avancada
-versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_schema: '2.0'
+versao_conteudo: '2.0'
 idioma: pt-BR
 data_criacao: '2026-09-17'
 ultima_revisao: '2026-09-17'
@@ -20,10 +20,11 @@ tags:
 fontes_documentais:
 - '[[Politica-de-Fontes-e-Evidencia]]'
 - '[[Manifesto-de-Preservacao-de-Fontes]]'
+- '[[Decisao-Arquitetural-Ingestao-Narrativa]]'
 notas_relacionadas:
 - '[[Metodologia]]'
 - '[[Ontologia-do-Vault]]'
-- '[[Schema-de-Propriedades]]'
+- '[[Contrato-de-Nota-Canonica-Narrativa]]'
 confidencialidade: interno
 subtipo: documentacao
 ---
@@ -31,156 +32,76 @@ subtipo: documentacao
 # Sistema de Ingestão e Paridade — ACIRV Notebook
 
 > [!summary] Síntese
-> Documentação operacional do sistema determinístico de ingestão, proveniência e paridade entre fontes humanas (`000-Arquivos-originais/`) e conhecimento canônico (`00-*` a `99-*`). Implementado em setembro de 2026.
+> Documentação da infraestrutura determinística de apoio à ingestão semântica e paridade entre fontes humanas (`000-Arquivos-originais/`) e conhecimento canônico (`00-*` a `99-*`).
 
-## Arquitetura
+## Arquitetura da Solução
 
-```
-000-Arquivos-originais/
-    ↓ (git ls-files --format)
+```text
+fontes humanas imutáveis (000-Arquivos-originais/)
+        ↓ (git ls-files --format)
 inventariar_fontes.py
-    → Ledger-de-Ingestao.jsonl (identidade: source_path + blob_sha)
-    ↓ (safety gate primeiro)
+        → Ledger-de-Ingestao.jsonl (identidade: source_path + blob_sha)
+        ↓ (safety gate pré-leitura)
 safety_gate.py
-    → classificação de sensibilidade SEM abertura de conteúdo
-    ↓ (leitura somente se read_status = unread)
-[processamento manual ou Hermes]
-    → Claims-Canonicos.jsonl (unit: source → versão → claim → disposition)
-    ↓ (promoção quando evidence suficiente)
-notas canônicas (00-* a 99-*)
-    ↓ (auditoria)
-validar_invariantes.py + relatorio_cobertura.py
+        → classificação de sensibilidade SEM abertura de conteúdo
+        ↓
+ChatGPT Agendado (Camada Cognitiva & Editorial)
+        → lê deltas elegíveis, compreende contexto e evolução temporal
+        → escreve/atualiza NOTAS CANÔNICAS NARRATIVAS (00-* a 99-*)
+        → registra claims de evidência atômicos em Claims-Canonicos.jsonl
+        ↓
+scripts Python de garantia
+        → claims.py (sintaxe, IDs ASCII, integridade referencial, anchors)
+        → validar_invariantes.py (segurança, imutabilidade runtime, idempotência)
+        → relatorio_cobertura.py (métricas de cobertura real)
+        ↓
+PR auditável no GitHub (sem auto-merge)
 ```
 
 ## Scripts (em `98-Infraestrutura/ingestao/`)
 
 | Script | Função |
 |---|---|
-| `safety_gate.py` | Classifica sensibilidade por nome/caminho — nunca abre o arquivo |
-| `inventariar_fontes.py` | Popula/atualiza `Ledger-de-Ingestao.jsonl` com blob SHAs do Git |
-| `claims.py` | Schema, validação e persistência de claims canônicos |
-| `validar_invariantes.py` | Verifica todos os invariantes do sistema |
-| `relatorio_cobertura.py` | Gera relatório reproduzível de cobertura |
-| `test_invariantes.py` | Suite de testes unitários (28 testes) |
+| `safety_gate.py` | Classifica sensibilidade por nome/caminho — bloqueia credenciais sem abrir conteúdo |
+| `inventariar_fontes.py` | Popula/atualiza `Ledger-de-Ingestao.jsonl` por `blob_sha` (idempotência absoluta) |
+| `claims.py` | Valida schema estrito, IDs ASCII, integridade referencial e âncoras de evidência |
+| `validar_invariantes.py` | Verifica invariantes do vault, incluindo snapshot runtime de imutabilidade |
+| `relatorio_cobertura.py` | Gera relatório de cobertura de accounting Git, revisão e evidências |
+| `test_invariantes.py` | Suíte de testes unitários e de integração (28+ testes com repo Git temporário) |
 
 ## Arquivos de dados (em `85-Bases-e-Consultas/`)
 
 | Arquivo | Conteúdo |
 |---|---|
-| `Ledger-de-Ingestao.jsonl` | Uma entrada por (source_path, blob_sha) — identidade de versão |
-| `Claims-Canonicos.jsonl` | Claims materiais com disposition e rastreabilidade |
-| `Relatorio-de-Cobertura.md` | Relatório gerado pelo `relatorio_cobertura.py` |
+| `Ledger-de-Ingestao.jsonl` | Registro por `(source_path, blob_sha)` com `review_status` editorial |
+| `Claims-Canonicos.jsonl` | Âncoras de evidência atômicas (KPIs, datas, decisões, valores) |
+| `Relatorio-de-Cobertura.md` | Relatório gerado reproduzível de cobertura real do vault |
 
-## Identidade de versão
+## Conceito do Ledger: `review_status`
 
-A identidade mínima de uma fonte é:
+Separamos categoricamente a inventariação determinística da revisão editorial semântica. Uma fonte possui um dos seguintes estados de revisão em `Ledger-de-Ingestao.jsonl`:
 
-```
-source_path + blob_sha (Git object SHA)
-```
+- `unreviewed`: Inventariada, aguarda leitura pelo ChatGPT Agendado.
+- `reviewed`: Revisada pelo ChatGPT com alterações/sínteses promovidas para o canônico.
+- `reviewed_no_material_change`: Revisada pelo ChatGPT, mas sem novidade material (redundante, rascunho histórico, ou já coberta integralmente pelo canônico).
+- `partially_reviewed`: Análise em andamento ou parcial.
+- `sensitive_do_not_read`: Bloqueada pelo safety gate (credenciais/segredos).
+- `unsupported`: Formato binário não suportado para extração direta de texto.
+- `error`: Erro durante o processamento.
 
-**Não use timestamp de filesystem** — o Git blob SHA é determinístico e imutável por conteúdo.
+*Regra:* Uma fonte pode ficar em `reviewed_no_material_change` com **0 claims novos**. Isso é um estado perfeitamente válido e esperado.
 
-## Safety gate
+## Claims como Âncoras de Evidência
 
-O safety gate opera **antes** de qualquer leitura:
+Claims não tentam reconstruir a nota canônica nem representar 100% do texto. Eles atuam como âncoras para afirmações materiais que exigem auditabilidade estrita.
 
-```python
-result = classify(path)
-if result.read_status == "sensitive_do_not_read":
-    # NÃO ABRIR
-```
+Exemplos de propriedades que geram claims:
+- Data / cronograma formal;
+- Valor financeiro / remanejamento de verba;
+- KPI / métrica observada;
+- Decisão formal de diretoria;
+- Regra ou alteração de política institucional.
 
-Caminhos confirmados sensíveis:
-- `000-Arquivos-originais/Contas e Senhas.md` → `confirmed_secret`
-- `000-Arquivos-originais/Minha Chave API Antropic.md` → `confirmed_secret`
+## Imutabilidade Runtime
 
-Qualquer arquivo com padrão suspeito no nome (senha, token, apikey, chave, etc.) é classificado como `secret_suspected` e não é aberto.
-
-## Estados do ledger
-
-| Campo | Valores possíveis |
-|---|---|
-| `sensitivity` | `normal`, `personal_data`, `confidential_process`, `secret_suspected`, `confirmed_secret`, `technical_quarantine` |
-| `read_status` | `unread`, `processed`, `sensitive_do_not_read`, `unsupported`, `error` |
-| `processing_status` | `unprocessed`, `processed`, `error` |
-| `source_status` | `active`, `deleted_by_human` |
-
-## Dispositions de claims
-
-| Disposition | Semântica |
-|---|---|
-| `promoted` | Promovido para nota canônica com destino explícito |
-| `duplicate` | Duplicata de claim já registrado |
-| `superseded` | Substituído por fonte ou claim mais recente |
-| `contradiction` | Contradição registrada — aguarda resolução |
-| `pending_validation` | Aguarda validação humana |
-| `not_material` | Não material — não promovido |
-| `sensitive_skip` | Pulado por conteúdo sensível |
-| `unsupported` | Formato não suportado |
-| `error` | Erro durante processamento |
-
-## Idempotência
-
-Se `(source_path, blob_sha)` já está no ledger com `processing_status != unprocessed/error`, o script pula sem reprocessar.
-
-Se o arquivo foi modificado (novo blob_sha), a nova entrada é criada com `is_version_update=true` e `supersedes_sha` apontando para a versão anterior.
-
-## Triagem diária (rotina incremental)
-
-```bash
-# 1. Inventariar novas fontes e detectar mudanças
-python inventariar_fontes.py <vault_root>
-
-# 2. Validar invariantes
-python validar_invariantes.py <vault_root>
-
-# 3. Gerar relatório de cobertura
-python relatorio_cobertura.py <vault_root>
-```
-
-A rotina processa apenas o delta — fontes sem mudança de blob_sha são puladas (`unchanged_skip`).
-
-## Testes
-
-```bash
-# Executar suite completa (28 testes)
-cd 98-Infraestrutura/ingestao
-python -m pytest test_invariantes.py -v
-```
-
-Cobre: imutabilidade de fontes, safety gate, idempotência, versionamento, remoção, claims, proveniência, contradições, divergência de validação, schema.
-
-## Invariantes verificados automaticamente
-
-1. `000-Arquivos-originais/` nunca é modificado por scripts
-2. Os dois caminhos sensíveis confirmados são bloqueados sem abertura
-3. Ledger não contém duplicatas `(source_path, blob_sha)`
-4. Claims promovidos têm `source_blob_sha` e `canonical_destination`
-5. Contradições não aparecem como `validated`
-6. `pending_validation` não aparece como `validated` em campos diferentes
-
-## Decisão arquitetural: JSONL vs SQLite vs Markdown
-
-**JSONL** foi escolhido por:
-- Diff Git legível linha a linha
-- Sem dependência de banco de dados
-- Consumível pelo Hermes e por qualquer ferramenta que leia JSON
-- Sem conflitos de merge em inserções ao final do arquivo
-- Append-only natural para o ledger
-
-**SQLite** foi descartado por requerer ferramenta adicional para diff e por ser um formato binário.
-
-**Markdown puro** foi descartado por ser difícil de parsear deterministicamente para claims granulares.
-
-## Limitações atuais
-
-- Processing de conteúdo textual (extração de claims) é manual nesta versão
-- PDFs e outros formatos binários precisam de processamento externo antes da extração de claims
-- Ledger de ingestão cobre apenas `000-Arquivos-originais/` — não inclui `97-Fontes-Brutas/`
-
-## Relações justificadas
-
-- [[Politica-de-Fontes-e-Evidencia]] — orienta regras de promoção
-- [[Manifesto-de-Preservacao-de-Fontes]] — protege a camada original
-- [[Metodologia]] — contexto do processo geral
+O validador `validar_invariantes.py` realiza snapshots dos hashes dos arquivos em `000-Arquivos-originais/` antes e depois da execução dos scripts para garantir que a própria automação nunca modifique a camada de origem.
