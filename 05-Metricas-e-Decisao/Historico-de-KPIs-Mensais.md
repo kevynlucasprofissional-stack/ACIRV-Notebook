@@ -47,10 +47,13 @@ subtipo: serie_indicador
 | mar/2026 | 8.885 | 217 | 257.518 | 40 | 325 | 6 | 3.039 |
 | abr/2026 | 9.039 | 218 | 1.466.852 | 41 | 230 | 4 | 3.600 |
 | mai/2026 | 9.168 | 128 | 1.421.535 | 34 | 166 | 16 | 3.995 |
+| ago/2026 ¹ | — | 473 | 3.340.052 | 52 | 92 | 4 | 6.103 |
+
+¹ Dados de agosto/2026 extraídos de `000-Arquivos-originais/Relatório de Agosto.md` (blob `f029d200`). Total de seguidores absoluto não disponível na fonte — apenas ganhos do período. 9 vídeos produzidos. Julho/2026 não contém dados agregados de Instagram na fonte `Relatório de Julho de 2026.md` (blob `d90fb835`) — contém apenas registros de imprensa, reuniões e eventos.
 
 ## Leitura
 
-Entre junho de 2025 e maio de 2026, a base registrada cresce de 6.811 para 9.168 seguidores. O salto de visualizações em abril e maio muda a escala da série e deve ser investigado antes de comparação direta.
+Entre junho de 2025 e maio de 2026, a base registrada cresce de 6.811 para 9.168 seguidores. O salto de visualizações em abril e maio muda a escala da série e deve ser investigado antes de comparação direta. Em agosto de 2026 as visualizações chegaram a 3,34 milhões — contexto da SudoExpo pode explicar o pico.
 
 ## Limitações
 
