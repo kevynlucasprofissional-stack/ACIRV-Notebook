@@ -1265,6 +1265,54 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1153 | Enviar também no privado dos associados | tarefa | Comunicação e marketing | `Dados sobre o Conecta Saúde 2º ed..md` | 25/05/2026 | 596 | ação explícita em linha | `não_reconciliado` |
 | 1154 | Faltam apenas 3 dias para vivermos juntos uma noite estratégica para a saúde de Rio Verde! | decisão com ação | Comunicação e marketing | `Dados sobre o Conecta Saúde.md` | 21/11/2025 | 239 | ação explícita em linha | `não_reconciliado` |
 | 1155 | Faltam poucas horas para aproveitar o valor atual! | decisão com ação | Comunicação e marketing | `Dados sobre o Fórum.md` | 21/11/2025 | 54 | ação explícita em linha | `não_reconciliado` |
+| 1156 | Transformar isso em guia de marca resumido | tarefa | Comunicação e marketing | `Dados sobre o novo tom de voz e planejamento de 2026.md` | 29/12/2025 | 672 | ação explícita em lista | `não_reconciliado` |
+| 1157 | Criar vídeo com logos dos patrocinadores do Happy Hour dos associados para passar na TV | tarefa | Comunicação e marketing | `Demandas emergentes - Semana 270426 até 010526.md` | 04/05/2026 | 25 | ação explícita em lista | `não_reconciliado` |
+| 1158 | Continuar, mas transformar em vitrine de prova social e cases reais de associados | tarefa | Comunicação e marketing | `Destaques da ACIRV - Proposta de revisão.md` |  | 23 | ação explícita em tabela | `não_reconciliado` |
+| 1159 | Deve virar um destaque forte de conversão. Não pode ter só fachada e “bom dia” | decisão com ação | Comunicação e marketing | `Destaques da ACIRV - Proposta de revisão.md` |  | 28 | ação explícita em tabela | `não_reconciliado` |
+| 1160 | Organizar produtos e serviços | tarefa | Comunicação e marketing | `Destaques da ACIRV - Proposta de revisão.md` |  | 38 | ação explícita em tabela | `não_reconciliado` |
+| 1161 | Deve mostrar oportunidades, formatos e contato comercial | decisão com ação | Comunicação e marketing | `Destaques da ACIRV - Proposta de revisão.md` |  | 42 | ação explícita em tabela | `não_reconciliado` |
+| 1162 | Preciso fazer valer a pena, e colocar o tempo a meu lado | decisão com ação | Comunicação e marketing | `11 - terça-feira.md` | 11/11/2025 | 15 | ação explícita em linha | `não_reconciliado` |
+| 1163 | Preciso focar em anotar tudo, ter todos os dados, indicar dados, indicar decisões baseadas em dados. Na primeira reunião que tive com o José Carlos (Presidente) ele deu ênfase a três pontos | decisão com ação | Métricas e relatórios | `13 - quinta-feira.md` | 13/11/2025 | 21 | ação explícita em linha | `não_reconciliado` |
+| 1164 | Faça uma faculdade. Isso define quem você é (Boring, opinião defasada de boomer. Ainda sim, uma faculdade pode ser interessante, mas você saberá a hora certa e qual fazer) | tarefa | Comunicação e marketing | `13 - quinta-feira.md` | 13/11/2025 | 22 | ação explícita em lista | `não_reconciliado` |
+| 1165 | Arte do último palestrante de ontem. ✅ 2025-11-13 | tarefa | Comunicação e marketing | `13 - quinta-feira.md` | 13/11/2025 | 27 | checkbox explícito | `não_reconciliado` |
+| 1166 | Animar a Confra da Reunião ✅ 2025-11-14 | tarefa | Comunicação e marketing | `13 - quinta-feira.md` | 13/11/2025 | 28 | checkbox explícito | `não_reconciliado` |
+| 1167 | Restante do cronograma do Fórum de IA | plano | Comunicação e marketing | `13 - quinta-feira.md` | 13/11/2025 | 29 | checkbox explícito | `não_reconciliado` |
+| 1168 | Devemos pensar: "O que eu, se fosse associado, gostaria de encontra nos outros associados?" | decisão com ação | Comunicação e marketing | `13 - quinta-feira.md` | 13/11/2025 | 37 | ação explícita em linha | `não_reconciliado` |
+| 1169 | Preciso urgentemente criar uma automação no WhatsApp da ACIRV. Criar um JARVIS. Que me atualize de todos os dados que recebemos pelo WhatsApp, todos os dias pela manhã | decisão com ação | Métricas e relatórios | `18 - terça-feira.md` | 18/11/2025 | 7 | ação explícita em linha | `não_reconciliado` |
+| 1170 | Preciso me manter organizado, de me organizar. Está tudo desorganizado. Meu CRM pessoal, as campanhas. Não tem sistema para ACIRV. Preciso fazer isto ser insanamente ótimo, e para ser ótimo tem que dar ROI. Quais são os KPI's? O Raphael forneceu | decisão com ação | Comunicação e marketing | `18 - terça-feira.md` | 18/11/2025 | 9 | ação explícita em linha | `não_reconciliado` |
+| 1171 | Preciso fazer o dobro na metade do tempo hoje | decisão com ação | Comunicação e marketing | `21 - sexta-feira.md` | 21/11/2025 | 14 | ação explícita em linha | `não_reconciliado` |
+| 1172 | Vamos focar no que é mais urgente | decisão com ação | Comunicação e marketing | `21 - sexta-feira.md` | 21/11/2025 | 15 | ação explícita em linha | `não_reconciliado` |
+| 1173 | Já solicitar as outras artes do Café entre amigos. ✅ 2025-11-21 | pedido | Comunicação e marketing | `21 - sexta-feira.md` | 21/11/2025 | 16 | checkbox explícito | `não_reconciliado` |
+| 1174 | Finalizar planejamento do Sorriso Verdeiro ✅ 2025-11-21 | plano | Comunicação e marketing | `21 - sexta-feira.md` | 21/11/2025 | 17 | checkbox explícito | `não_reconciliado` |
+| 1175 | Enviar o Release para a imprensa do Fórum de IA e da reunião com a Equatorial | tarefa | Imprensa | `21 - sexta-feira.md` | 21/11/2025 | 18 | checkbox explícito | `não_reconciliado` |
+| 1176 | Mandar p/ o Trello o material frio em lote | tarefa | Processos e operação | `21 - sexta-feira.md` | 21/11/2025 | 19 | checkbox explícito | `não_reconciliado` |
+| 1177 | Agendar vídeos da Lara ✅ 2025-11-27 | tarefa | Comunicação e marketing | `21 - sexta-feira.md` | 21/11/2025 | 20 | checkbox explícito | `não_reconciliado` |
+| 1178 | Criar os depoimentos e postar junto com as fotos. ✅ 2025-11-27 | tarefa | Comunicação e marketing | `21 - sexta-feira.md` | 21/11/2025 | 21 | checkbox explícito | `não_reconciliado` |
+| 1179 | Pedir para incluir uma nota nas artes do café entre amigos falando para trazerem um brinquedo novo ou em bom estado para o projeto "Sorriso Verdadeiro" em todos os criativos que saírem de agora em diante | pedido | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 17 | ação explícita em linha | `não_reconciliado` |
+| 1180 | Vamos jogar aqui umas tarefas mais importantes | decisão com ação | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 19 | ação explícita em linha | `não_reconciliado` |
+| 1181 | Cobrar o vídeo pro Rafael ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 20 | checkbox explícito | `não_reconciliado` |
+| 1182 | Mandar o release do Conecta Saúde para o pessoal que faltou | tarefa | Conecta Saúde | `24 - segunda-feira.md` | 24/11/2025 | 21 | checkbox explícito | `não_reconciliado` |
+| 1183 | Tihaná Hirata ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 22 | checkbox explícito | `não_reconciliado` |
+| 1184 | Rogério Cabral - Rio Verde FM 96 ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 23 | checkbox explícito | `não_reconciliado` |
+| 1185 | Notícias Rio Verde Goiás ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 24 | checkbox explícito | `não_reconciliado` |
+| 1186 | Antonio Osvaldo Jornal Rio Verde Notícias ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 25 | checkbox explícito | `não_reconciliado` |
+| 1187 | Batista Borges - Rádio Cidade ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 26 | checkbox explícito | `não_reconciliado` |
+| 1188 | Outros que a Vivi exigir. ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 27 | checkbox explícito | `não_reconciliado` |
+| 1189 | Fazer o follow up ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 28 | checkbox explícito | `não_reconciliado` |
+| 1190 | Criar o release do Sorriso Verdadeiro ✅ 2025-11-24 | tarefa | Imprensa | `24 - segunda-feira.md` | 24/11/2025 | 29 | checkbox explícito | `não_reconciliado` |
+| 1191 | Encaminhar para a impensa. ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 30 | checkbox explícito | `não_reconciliado` |
+| 1192 | Postar fotos no feed | tarefa | Social Media | `24 - segunda-feira.md` | 24/11/2025 | 31 | checkbox explícito | `não_reconciliado` |
+| 1193 | Postar depoimentos que gravei dos associados | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 32 | checkbox explícito | `não_reconciliado` |
+| 1194 | Postar vídeo editado do Fórum de IA | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 33 | checkbox explícito | `não_reconciliado` |
+| 1195 | Postar o vídeo do Rafael. ✅ 2025-12-01 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 34 | checkbox explícito | `não_reconciliado` |
+| 1196 | CERIMONIAL GESTÃO DE ATENÇÃO ✅ 2025-12-01 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 37 | checkbox explícito | `não_reconciliado` |
+| 1197 | No cerimonial do dia 27 (GESTÃO DE ATENÇÃO), depois da fala de quem vai representar o presidente vai ter uma fala de 20 minutos da AMT. ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 38 | checkbox explícito | `não_reconciliado` |
+| 1198 | Espaço de fala para o representante ACIRV ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 39 | checkbox explícito | `não_reconciliado` |
+| 1199 | Espaço de fala para o representante PAX ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 40 | checkbox explícito | `não_reconciliado` |
+| 1200 | Espaço de fala para o Danilo da Rei Motors. ✅ 2025-11-24 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 41 | checkbox explícito | `não_reconciliado` |
+| 1201 | Precisamos falar do Conecta da Saúde e sobre a parceria com o Sorriso Verdadeiro. ✅ 2025-11-24 | decisão com ação | Conecta ACIRV | `24 - segunda-feira.md` | 24/11/2025 | 42 | checkbox explícito | `não_reconciliado` |
+| 1202 | Colocar aviso sobre o próximo evento das 10h, o do marcos do compras do meu jeito. ✅ 2025-12-01 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 43 | checkbox explícito | `não_reconciliado` |
+| 1203 | Preparar uma tela com o QRcode para doação. ✅ 2025-12-01 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 44 | checkbox explícito | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
