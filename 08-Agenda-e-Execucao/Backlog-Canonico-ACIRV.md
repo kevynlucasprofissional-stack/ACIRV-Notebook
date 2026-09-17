@@ -1470,6 +1470,11 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1358 | Postar aviso da Lara na Rio Verde FM | tarefa | Comunicação e marketing | `Gestão de tempo.md` | 10/03/2026 | 89 | ação explícita em tabela | `não_reconciliado` |
 | 1359 | Criar card da oficina do Sebrae, briefar designer sobre o criativo do Café entre Amigos | pedido | Processos e operação | `Gestão de tempo.md` | 10/03/2026 | 90 | ação explícita em tabela | `não_reconciliado` |
 | 1360 | Organizar resultado da campanha indicou ganhou | tarefa | Comunicação e marketing | `Gestão de tempo.md` | 10/03/2026 | 102 | ação explícita em tabela | `não_reconciliado` |
+| 1361 | Produzir conteúdo + UGC + gerar reposts + apresentar empresários + fortalecer networking | tarefa | Comunicação e marketing | `Ideias para dar uso a motinha.md` |  | 8 | ação explícita em tabela | `não_reconciliado` |
+| 1362 | Apresentar a proposta de valor da ACIRV e conduzir pessoas ao estande | tarefa | Comunicação e marketing | `Ideias para dar uso a motinha.md` |  | 15 | ação explícita em tabela | `não_reconciliado` |
+| 1363 | Acompanhar campanha, conteúdos e sorteio | tarefa | Comunicação e marketing | `Ideias para dar uso a motinha.md` |  | 41 | ação explícita em linha | `não_reconciliado` |
+| 1364 | Faça as modificações diretamente no arquivo e apresente um resumo das contribuições e melhorias adicionadas | melhoria | Comunicação e marketing | `Inteligência do Hermes.md` |  | 23 | ação explícita em lista | `não_reconciliado` |
+| 1365 | Preciso desenvolver para a ACIRV uma plataforma de links semelhante ao Linktree, com um painel administrativo e uma página pública personalizada | decisão com ação | Sites e presença digital | `LinkTree ACIRV.md` |  | 1 | ação explícita em linha | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
