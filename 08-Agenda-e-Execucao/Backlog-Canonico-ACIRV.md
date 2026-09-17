@@ -1313,6 +1313,64 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1201 | Precisamos falar do Conecta da Saúde e sobre a parceria com o Sorriso Verdadeiro. ✅ 2025-11-24 | decisão com ação | Conecta ACIRV | `24 - segunda-feira.md` | 24/11/2025 | 42 | checkbox explícito | `não_reconciliado` |
 | 1202 | Colocar aviso sobre o próximo evento das 10h, o do marcos do compras do meu jeito. ✅ 2025-12-01 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 43 | checkbox explícito | `não_reconciliado` |
 | 1203 | Preparar uma tela com o QRcode para doação. ✅ 2025-12-01 | tarefa | Comunicação e marketing | `24 - segunda-feira.md` | 24/11/2025 | 44 | checkbox explícito | `não_reconciliado` |
+| 1204 | Postar fotos das reuniões no feed | tarefa | Social Media | `25 - terça-feira.md` | 25/11/2025 | 27 | checkbox explícito | `não_reconciliado` |
+| 1205 | Postar o vídeo do Rafael. ✅ 2025-11-25 | tarefa | Comunicação e marketing | `25 - terça-feira.md` | 25/11/2025 | 30 | checkbox explícito | `não_reconciliado` |
+| 1206 | CERIMONIAL GESTÃO DE ATENÇÃO ✅ 2025-11-26 | tarefa | Comunicação e marketing | `25 - terça-feira.md` | 25/11/2025 | 33 | checkbox explícito | `não_reconciliado` |
+| 1207 | Colocar aviso sobre o próximo evento das 10h, o do marcos do compras do meu jeito. ✅ 2025-11-26 | tarefa | Comunicação e marketing | `25 - terça-feira.md` | 25/11/2025 | 39 | checkbox explícito | `não_reconciliado` |
+| 1208 | Preparar uma tela com o QRcode para doação. ✅ 2025-11-26 | tarefa | Comunicação e marketing | `25 - terça-feira.md` | 25/11/2025 | 40 | checkbox explícito | `não_reconciliado` |
+| 1209 | Verificar os contatos que a Wenya indicou | investigação | Comunicação e marketing | `25 - terça-feira.md` | 25/11/2025 | 41 | checkbox explícito | `não_reconciliado` |
+| 1210 | Organizar para que na próxima terça nós gravemos vários Minutos ACIRV de uma vez | tarefa | Comunicação e marketing | `25 - terça-feira.md` | 25/11/2025 | 42 | checkbox explícito | `não_reconciliado` |
+| 1211 | Pedido Janaine: E outro vídeo, algo relacionado a final de ano, uma frase | pedido | Comunicação e marketing | `25 - terça-feira.md` | 25/11/2025 | 43 | checkbox explícito | `não_reconciliado` |
+| 1212 | Pedido Janaine: Rodar amanhã na TV o video loop padrão com um slide da marca da Pax Rio Verde e uma mensagem do sorriso verdadeiro adicionados. ✅ 2025-11-27 | pedido | Comunicação e marketing | `25 - terça-feira.md` | 25/11/2025 | 44 | checkbox explícito | `não_reconciliado` |
+| 1213 | Alimentar o site com as últimas notícias | tarefa | Sites e presença digital | `25 - terça-feira.md` | 25/11/2025 | 45 | checkbox explícito | `não_reconciliado` |
+| 1214 | Verificar o privado com o Rafael, e o privado comigo mesmo (Comunicação, Kevyn e Comunicação X Kevyn) | investigação | Comunicação e marketing | `25 - terça-feira.md` | 25/11/2025 | 46 | checkbox explícito | `não_reconciliado` |
+| 1215 | Release Oficina Vitrines | tarefa | Imprensa | `25 - terça-feira.md` | 25/11/2025 | 47 | checkbox explícito | `não_reconciliado` |
+| 1216 | Fazer assim que chegar na ACIRV | tarefa | Comunicação e marketing | `27 - quinta-feira.md` | 27/11/2025 | 14 | checkbox explícito | `não_reconciliado` |
+| 1217 | Enviar criativos da TV para o Raphael ✅ 2025-11-27 | tarefa | Comunicação e marketing | `27 - quinta-feira.md` | 27/11/2025 | 15 | checkbox explícito | `não_reconciliado` |
+| 1218 | Postar a foto da reunião com a equatorial ✅ 2025-11-27 | tarefa | Comunicação e marketing | `27 - quinta-feira.md` | 27/11/2025 | 16 | checkbox explícito | `não_reconciliado` |
+| 1219 | Executar toda a checklista da reunião com a Vivi | tarefa | Comunicação e marketing | `27 - quinta-feira.md` | 27/11/2025 | 17 | checkbox explícito | `não_reconciliado` |
+| 1220 | Preciso resolver o negócio dos outdoors | decisão com ação | Comunicação e marketing | `01 - segunda-feira.md` | 01/12/2025 | 15 | checkbox explícito | `não_reconciliado` |
+| 1221 | Levantar os números que a Vivi pediu | investigação | Comunicação e marketing | `01 - segunda-feira.md` | 01/12/2025 | 16 | checkbox explícito | `não_reconciliado` |
+| 1222 | Preciso agora | decisão com ação | Comunicação e marketing | `03 - quarta-feira.md` | 03/12/2025 | 18 | ação explícita em linha | `não_reconciliado` |
+| 1223 | Pedir ajuste dos outdoors que virão em janeiro. ✅ 2025-12-03 | melhoria | Comunicação e marketing | `03 - quarta-feira.md` | 03/12/2025 | 19 | checkbox explícito | `não_reconciliado` |
+| 1224 | Transformar em marketing a notícia sobre o setor de energia que o Pres. José Carlos mandou no grupo da diretoria no dia 04/12 às 17:29 📅 2025-12-05 🔺 | tarefa | Comunicação e marketing | `04 - quinta-feira.md` | 04/12/2025 | 16 | checkbox explícito | `não_reconciliado` |
+| 1225 | Criar Release do pós Conecta, enviar para a Imprensa e postar no site | tarefa | Conecta ACIRV | `05 - sexta-feira.md` | 05/12/2025 | 18 | checkbox explícito | `não_reconciliado` |
+| 1226 | Criar Release da inauguração do Batalhão, enviar para a Imprensa e postar no site | tarefa | Sites e presença digital | `05 - sexta-feira.md` | 05/12/2025 | 19 | checkbox explícito | `não_reconciliado` |
+| 1227 | Mandar o criativo de "última semana" nos grupos. ✅ 2025-12-08 | tarefa | Comunicação e marketing | `05 - sexta-feira.md` | 05/12/2025 | 20 | checkbox explícito | `não_reconciliado` |
+| 1228 | Criar o Briefing da retrospectiva ✅ 2025-12-08 | tarefa | Processos e operação | `05 - sexta-feira.md` | 05/12/2025 | 21 | checkbox explícito | `não_reconciliado` |
+| 1229 | Postar o rells que a Lara encaminhou ✅ 2025-12-08 | tarefa | Comunicação e marketing | `05 - sexta-feira.md` | 05/12/2025 | 22 | checkbox explícito | `não_reconciliado` |
+| 1230 | Postar as melhores fotos do Conecta | melhoria | Conecta ACIRV | `05 - sexta-feira.md` | 05/12/2025 | 23 | checkbox explícito | `não_reconciliado` |
+| 1231 | Preciso enviar os releases para a imprensa, a Vivi está vigiando seu output | decisão com ação | Imprensa | `09 - terça-feira.md` | 09/12/2025 | 15 | ação explícita em linha | `não_reconciliado` |
+| 1232 | Preciso focar agora | decisão com ação | Comunicação e marketing | `10 - quarta-feira.md` | 10/12/2025 | 19 | ação explícita em linha | `não_reconciliado` |
+| 1233 | Briefing para a designer dos materiais de Dezembro | tarefa | Processos e operação | `10 - quarta-feira.md` | 10/12/2025 | 20 | checkbox explícito | `não_reconciliado` |
+| 1234 | Briefing sobre aplicações da ID Visual | tarefa | Processos e operação | `10 - quarta-feira.md` | 10/12/2025 | 21 | checkbox explícito | `não_reconciliado` |
+| 1235 | Revisar tudo da caderneta que não foi subido para o trello, de baixo para cima, e ir subindo | melhoria | Processos e operação | `10 - quarta-feira.md` | 10/12/2025 | 23 | checkbox explícito | `não_reconciliado` |
+| 1236 | Enviar os release | tarefa | Imprensa | `10 - quarta-feira.md` | 10/12/2025 | 24 | checkbox explícito | `não_reconciliado` |
+| 1237 | Postar o negócio do Gustavo Lacerda ✅ 2025-12-10 | tarefa | Comunicação e marketing | `10 - quarta-feira.md` | 10/12/2025 | 25 | checkbox explícito | `não_reconciliado` |
+| 1238 | Colocar no relatório da aparição do "Nosso bairro nossa cidade RV" ✅ 2026-01-21 | tarefa | Métricas e relatórios | `10 - quarta-feira.md` | 10/12/2025 | 26 | checkbox explícito | `não_reconciliado` |
+| 1239 | Tomar notas sobre o que o Presidente te alertou | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 18 | checkbox explícito | `não_reconciliado` |
+| 1240 | Postar fotos do evento de ontem a noite (Lançamento do livro) | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 19 | checkbox explícito | `não_reconciliado` |
+| 1241 | Fazer pedido para os designers da sugestão da Vivi de hoje | ideia | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 20 | checkbox explícito | `não_reconciliado` |
+| 1242 | Revisar o bloco de notas para garantir que tudo foi feito | melhoria | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 21 | checkbox explícito | `não_reconciliado` |
+| 1243 | Mandar o release da inauguração do batalhão de segurança rural | tarefa | Imprensa | `12 - sexta-feira.md` | 12/12/2025 | 22 | checkbox explícito | `não_reconciliado` |
+| 1244 | Assessorar a imprensa sobre o sorriso verdadeiro no próximo domingo | tarefa | Imprensa | `12 - sexta-feira.md` | 12/12/2025 | 23 | checkbox explícito | `não_reconciliado` |
+| 1245 | Criar o arquivo de apresentação dos dados de dezembro | tarefa | Métricas e relatórios | `12 - sexta-feira.md` | 12/12/2025 | 25 | checkbox explícito | `não_reconciliado` |
+| 1246 | Postagem de parabenização do penta Resenhas FC ✅ 2025-12-15 | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 26 | checkbox explícito | `não_reconciliado` |
+| 1247 | Cards de natal e ano novo ✅ 2025-12-16 | tarefa | Processos e operação | `12 - sexta-feira.md` | 12/12/2025 | 27 | checkbox explícito | `não_reconciliado` |
+| 1248 | Segunda retrospectiva 2025 | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 28 | checkbox explícito | `não_reconciliado` |
+| 1249 | Criar planejamento 2026 | plano | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 29 | checkbox explícito | `não_reconciliado` |
+| 1250 | Criar uma matéria jornalística para o site sobre a vinda do Vanderlan | tarefa | Sites e presença digital | `12 - sexta-feira.md` | 12/12/2025 | 30 | checkbox explícito | `não_reconciliado` |
+| 1251 | Postar Carrossel do sorriso verdadeiro (evento) | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 31 | checkbox explícito | `não_reconciliado` |
+| 1252 | Briefar criativo do PIB ✅ 2025-12-22 | pedido | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 32 | checkbox explícito | `não_reconciliado` |
+| 1253 | Postar o criativo do PIB ✅ 2026-01-21 | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 33 | checkbox explícito | `não_reconciliado` |
+| 1254 | Editar o vídeo de "feliz natal" da ACIRV ✅ 2026-01-21 | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 34 | checkbox explícito | `não_reconciliado` |
+| 1255 | [Pessoal] Mandar o criativo do Rick ✅ 2025-12-22 | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 35 | checkbox explícito | `não_reconciliado` |
+| 1256 | [Pessoal] Mandar os vídeos pro Iago | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 36 | checkbox explícito | `não_reconciliado` |
+| 1257 | [Pessoal] Mandar os vídeos pro Rick | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 37 | checkbox explícito | `não_reconciliado` |
+| 1258 | [Pessoal] Mandar o feliz natal da dona vitoria. ✅ 2025-12-22 | tarefa | Comunicação e marketing | `12 - sexta-feira.md` | 12/12/2025 | 38 | checkbox explícito | `não_reconciliado` |
+| 1259 | Preciso terminar agora pelo menos o planejamento dos criativos de janeiro | decisão com ação | Comunicação e marketing | `29 - segunda-feira.md` | 29/12/2025 | 14 | ação explícita em linha | `não_reconciliado` |
+| 1260 | Preciso me lembrar de | decisão com ação | Comunicação e marketing | `07 - quarta-feira.md` | 07/01/2026 | 14 | ação explícita em linha | `não_reconciliado` |
+| 1261 | Pedir os outdoors e os telões de reuniões na nova ID Visual (Raphael) ✅ 2026-01-07 | pedido | Comunicação e marketing | `07 - quarta-feira.md` | 07/01/2026 | 15 | checkbox explícito | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
