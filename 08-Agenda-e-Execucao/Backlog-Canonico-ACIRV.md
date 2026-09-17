@@ -2045,6 +2045,68 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1933 | Definir claramente | tarefa | Comunicação e marketing | `Roadmap - Da ideia até o primeiro prompt lovable.md` |  | 65 | ação explícita em linha | `não_reconciliado` |
 | 1934 | Definir | tarefa | Comunicação e marketing | `Roadmap - Da ideia até o primeiro prompt lovable.md` |  | 367 | ação explícita em linha | `não_reconciliado` |
 | 1935 | Criar tabelas básicas (SQL Inicial) antes de rodar o prompt | tarefa | Comunicação e marketing | `Roadmap - Da ideia até o primeiro prompt lovable.md` |  | 403 | ação explícita em linha | `não_reconciliado` |
+| 1936 | Transformar qualquer material inicial — documento, áudio, transcrição, briefing, ideia solta ou anotações — em blocos claros de informação de acordo com o tipo de apresentação definido no prompt anterior | ideia | Processos e operação | `Roadmap de apresentações com o ChatGPT.md` | 13/05/2026 | 130 | ação explícita em linha | `não_reconciliado` |
+| 1937 | Transformar a narrativa em uma sequência de slides, ainda sem escrever o texto final completo | tarefa | Comunicação e marketing | `Roadmap de apresentações com o ChatGPT.md` | 13/05/2026 | 207 | ação explícita em linha | `não_reconciliado` |
+| 1938 | Criar o texto que realmente vai entrar nos slides e também a sugestão de fala para apresentar cada um | ideia | Comunicação e marketing | `Roadmap de apresentações com o ChatGPT.md` | 13/05/2026 | 437 | ação explícita em linha | `não_reconciliado` |
+| 1939 | Presenças VIP: Confirmar se o Presidente (José Carlos Cintra) e a representante da ACIRV Mulher (Viviane Oliveira) já estão no auditório | tarefa | Comunicação e marketing | `Roteiro de Cerimonial Café Entre Amigos – Especial Mês da Mulher - 260326.md` | 25/03/2026 | 19 | checkbox explícito | `não_reconciliado` |
+| 1940 | Gravou a fala da Presidente na íntegra? (Para acervo/Youtube depois) | tarefa | Comunicação e marketing | `Roteiro do Social Media - Cerimônia de Posse ACIRV Mulher - V2.md` | 24/02/2026 | 116 | checkbox explícito | `não_reconciliado` |
+| 1941 | Pegou close nos logotipos dos patrocinadores? | tarefa | Comunicação e marketing | `Roteiro do Social Media - Cerimônia de Posse ACIRV Mulher - V2.md` | 24/02/2026 | 117 | checkbox explícito | `não_reconciliado` |
+| 1942 | Pegou a foto oficial de todas as conselheiras juntas? | tarefa | Comunicação e marketing | `Roteiro do Social Media - Cerimônia de Posse ACIRV Mulher - V2.md` | 24/02/2026 | 118 | checkbox explícito | `não_reconciliado` |
+| 1943 | Checkboxes abertos brutos encontrados: 56 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 74 | checkbox explícito | `não_reconciliado` |
+| 1944 | Tarefas únicas após remover duplicatas literais e linhas vazias: 51 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 75 | checkbox explícito | `não_reconciliado` |
+| 1945 | Tarefas repetidas em mais de um dia: 5 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 76 | checkbox explícito | `não_reconciliado` |
+| 1946 | Itens genéricos ou pessoais separados à parte: 3 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 77 | checkbox explícito | `não_reconciliado` |
+| 1947 | Avaliar se o quadro “Empresário Inspirador” pode ser adaptado para uma versão voltada a mulheres | ideia | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 134 | checkbox explícito | `não_reconciliado` |
+| 1948 | Planejar e executar campanha para ganhar seguidores, conforme o pedido do José Carlos. _(origem: A fazer)_ | plano | Social Media | `SCRUM ACIRV.md` | 13/04/2026 | 139 | checkbox explícito | `não_reconciliado` |
+| 1949 | Tarefas sobre o estande da ACIRV na SudoExpo | tarefa | SudoExpo | `SCRUM ACIRV.md` | 13/04/2026 | 140 | checkbox explícito | `não_reconciliado` |
+| 1950 | Pedido de ajuste do Mídia Kit Conecta Saúde 2ª Edição | melhoria | Conecta Saúde | `SCRUM ACIRV.md` | 13/04/2026 | 147 | checkbox explícito | `não_reconciliado` |
+| 1951 | Iniciar estruturação da apresentação da reunião de métricas do marketing | tarefa | Métricas e relatórios | `SCRUM ACIRV.md` | 13/04/2026 | 148 | checkbox explícito | `não_reconciliado` |
+| 1952 | Planejamento e Briefing | plano | Processos e operação | `SCRUM ACIRV.md` | 13/04/2026 | 149 | checkbox explícito | `não_reconciliado` |
+| 1953 | Postar criativo "Palestrante confirmado" Fórum da Indústria | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 150 | checkbox explícito | `não_reconciliado` |
+| 1954 | Produção de vídeo sobre o Happy Hour dos Associados | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 153 | checkbox explícito | `não_reconciliado` |
+| 1955 | - [x] Continuar planejamento e Briefing do Fórum da Indústria da ACIRV. _(origem: A fazer)_ ✅ 2026-05-04 | plano | Processos e operação | `SCRUM ACIRV.md` | 13/04/2026 | 154 | checkbox explícito | `não_reconciliado` |
+| 1956 | Atualizar as telas da televisão interna. _(origem: A fazer)_ ✅ 2026-05-04 | melhoria | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 155 | checkbox explícito | `não_reconciliado` |
+| 1957 | Criado Trello do atual Sprint (27/04 até 01/05) | tarefa | Processos e operação | `SCRUM ACIRV.md` | 13/04/2026 | 156 | checkbox explícito | `não_reconciliado` |
+| 1958 | Reunião de SCRUM das 08h30 até as 9h30 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 157 | checkbox explícito | `não_reconciliado` |
+| 1959 | Sugestão Raphael e Janaine | ideia | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 158 | checkbox explícito | `não_reconciliado` |
+| 1960 | Fazer ajuste no Manual de Tom de Voz para a estrutura do texto ser predominantemente escaneável e incluir emojis em sua estrutura | melhoria | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 164 | ação explícita em linha | `não_reconciliado` |
+| 1961 | Minuto ACIRV | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 165 | checkbox explícito | `não_reconciliado` |
+| 1962 | Postar card da próxima oficina do SEBRAE | tarefa | Processos e operação | `SCRUM ACIRV.md` | 13/04/2026 | 169 | checkbox explícito | `não_reconciliado` |
+| 1963 | Criar e postar card de encerramento | tarefa | Processos e operação | `SCRUM ACIRV.md` | 13/04/2026 | 171 | ação explícita em linha | `não_reconciliado` |
+| 1964 | Demandas emergentes - Semana 270426 até 010526 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 172 | checkbox explícito | `não_reconciliado` |
+| 1965 | - [x] Fotos da reunião na FACIEG ✅ 2026-05-04 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 173 | checkbox explícito | `não_reconciliado` |
+| 1966 | Briefar criativos para a Samara (Designer) | pedido | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 174 | checkbox explícito | `não_reconciliado` |
+| 1967 | Realizar o restante do planejamento e Briefing do Fórum da Indústria da ACIRV. _(origem: A fazer)_ ✅ 2026-04-27 | plano | Processos e operação | `SCRUM ACIRV.md` | 13/04/2026 | 177 | checkbox explícito | `não_reconciliado` |
+| 1968 | Palestrante Sesi/Senai confirmado ✅ 2026-04-22 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 178 | checkbox explícito | `não_reconciliado` |
+| 1969 | Criar o Cerimonial para o próximo café entre amigos | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 179 | checkbox explícito | `não_reconciliado` |
+| 1970 | Janaine pediu um design para anunciar a sala comercial que está para locação | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 184 | checkbox explícito | `não_reconciliado` |
+| 1971 | Atividades fora do escopo do SCRUM que foram realizadas | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 185 | checkbox explícito | `não_reconciliado` |
+| 1972 | Idéia da Wenya: Gerar cortes a partir do podcast Agroconexão | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 193 | checkbox explícito | `não_reconciliado` |
+| 1973 | Briefar os vários criativos para a Samara | pedido | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 203 | checkbox explícito | `não_reconciliado` |
+| 1974 | Definir o próximo criativo, por exemplo: locação de sala comercial, certificado digital. _(origem: A fazer)_ ✅ 2026-04-14 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 205 | checkbox explícito | `não_reconciliado` |
+| 1975 | Realizar o planejamento e Briefing do Fórum da Indústria da ACIRV. _(origem: A fazer)_ ✅ 2026-04-17 | plano | Processos e operação | `SCRUM ACIRV.md` | 13/04/2026 | 207 | checkbox explícito | `não_reconciliado` |
+| 1976 | Ajustes do portfólio de locação de auditório. _(origem: A fazer)_ ✅ 2026-04-20 | melhoria | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 212 | checkbox explícito | `não_reconciliado` |
+| 1977 | Café entre amigos do dia 23 ✅ 2026-04-17 | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 214 | checkbox explícito | `não_reconciliado` |
+| 1978 | Criar relatório para a reunião da diretoria, incluindo | tarefa | Métricas e relatórios | `SCRUM ACIRV.md` | 13/04/2026 | 219 | checkbox explícito | `não_reconciliado` |
+| 1979 | Demandas extras | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 222 | checkbox explícito | `não_reconciliado` |
+| 1980 | Briefar comunicação visual do segundo andar | pedido | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 232 | checkbox explícito | `não_reconciliado` |
+| 1981 | Briefar pedido de carrossel sobre as consultorias da ACIRV | pedido | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 233 | checkbox explícito | `não_reconciliado` |
+| 1982 | Executar o que foi combinado em 300326 - Notas reunião com VCOM | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 234 | checkbox explícito | `não_reconciliado` |
+| 1983 | Postar material que ainda não foi postado | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 239 | checkbox explícito | `não_reconciliado` |
+| 1984 | da tecnoshow (Não por IF) | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 241 | checkbox explícito | `não_reconciliado` |
+| 1985 | do café com o presidente | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 242 | checkbox explícito | `não_reconciliado` |
+| 1986 | Briefar card do Café entre amigos do dia 210526 | pedido | Processos e operação | `SCRUM ACIRV.md` | 13/04/2026 | 246 | checkbox explícito | `não_reconciliado` |
+| 1987 | Continuar a produção dos projetos da ACIRV no Lovable. _(origem: A fazer)_ | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 253 | checkbox explícito | `não_reconciliado` |
+| 1988 | Criar o criativo da próxima oficina do SEBRAE | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 274 | checkbox explícito | `não_reconciliado` |
+| 1989 | Transformar as notícias que o José Carlos env ia no grupo da diretoria no quadro "Notícias pelo Mundo". _(origem: GALPÃO DE TAREFAS)_ | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 280 | checkbox explícito | `não_reconciliado` |
+| 1990 | - [ ] criativo explicando que o Indica Fortalece só vale quando a indicação vem pelo link. _(origem: A fazer)_ | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 358 | checkbox explícito | `não_reconciliado` |
+| 1991 | Aplicar as Sugestões da vivi para acelerar campanha indicou ganhou | ideia | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 359 | checkbox explícito | `não_reconciliado` |
+| 1992 | Editar capa dos vídeos depoimentos do café com o presidente e postar os depoimentos que já estão prontos | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 362 | checkbox explícito | `não_reconciliado` |
+| 1993 | Pensar em uma ação ou peça para o Dia Internacional da Mulher | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 363 | checkbox explícito | `não_reconciliado` |
+| 1994 | Montar o planejamento de abril para o conteúdo frio da ACIRV | plano | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 364 | checkbox explícito | `não_reconciliado` |
+| 1995 | Produzir o vídeo mostrando a brincadeira | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 365 | checkbox explícito | `não_reconciliado` |
+| 1996 | Planejar a ação de Páscoa | plano | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 366 | checkbox explícito | `não_reconciliado` |
+| 1997 | Publicar separadamente os depoimentos | tarefa | Comunicação e marketing | `SCRUM ACIRV.md` | 13/04/2026 | 367 | checkbox explícito | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
