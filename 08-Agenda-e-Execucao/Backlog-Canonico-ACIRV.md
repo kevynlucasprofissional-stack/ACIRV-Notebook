@@ -2642,6 +2642,8 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 2471 | �� Estar presente pode ser o diferencial que você precisa para criar novas oportunidades | decisão com ação | Comunicação e marketing | `Dados sobre o Conecta Saúde 2º ed..md` | 25/05/2026 | mai-jun/2026 | 401 | trecho narrativo com intenção operacional | `não_reconciliado` |
 | 2472 | _ É por isso que no Conecta Saúde, vamos aprender a transformar uma boa ideia em uma apresentação inesquecível | ideia | Conecta Saúde | `Dados sobre o Conecta Saúde.md` | 21/11/2025 | residual/outro ano | 183 | trecho narrativo com intenção operacional | `não_reconciliado` |
 | 2473 | Mas você precisa se garantir, precisa garantir seu passe, precisa garantir | decisão com ação | Comunicação e marketing | `Dicas do José Carlos.md` | 12/12/2025 | residual/outro ano | 8 | trecho narrativo com intenção operacional | `não_reconciliado` |
+| 2474 | Hoje aparecemos no Nosso Bairro Nossa Cidade RV, precisamos enviar os releases para ele também | decisão com ação | Imprensa | `10 - quarta-feira.md` | 10/12/2025 | residual/outro ano | 17 | trecho narrativo com intenção operacional | `não_reconciliado` |
+| 2475 | Hoje teve reunião de métricas, precisamos melhorar os números que apresentaremos em janeiro | melhoria | Métricas e relatórios | `10 - quarta-feira.md` | 10/12/2025 | residual/outro ano | 17 | trecho narrativo com intenção operacional | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
