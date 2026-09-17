@@ -2355,4 +2355,4 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 
 ## Próxima etapa prevista
 
-Varredura de tarefas e ações explicitamente formuladas nos demais arquivos originais, ainda sem usar o Trello, acrescentando somente itens novos e preservando rastreabilidade.
+Mineração semântica cronológica dos arquivos originais, preservando os itens explícitos já capturados.
