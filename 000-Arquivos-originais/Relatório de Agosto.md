@@ -2,10 +2,10 @@
 
 **Dados Instagram:**
 
-| Feed          | 52        |
-| ------------- | --------- |
-| Reels         | 4         |
-| Visualizações | 3,340,052 |
-| Interações    | 6,103     |
-| Stories       | 92        |
-|               |           |
+| Feed              | 52        |
+| ----------------- | --------- |
+| Stories           | 92        |
+| Reels             | 4         |
+| Vídeos produzidos | 9         |
+| Visualizações     | 3,340,052 |
+| Interações        | 6,103     |
