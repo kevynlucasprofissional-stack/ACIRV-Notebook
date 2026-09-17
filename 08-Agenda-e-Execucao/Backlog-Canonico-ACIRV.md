@@ -3,7 +3,7 @@ id: backlog-canonico-acirv
 titulo: Backlog Canônico ACIRV
 tipo: operacao
 status: em_construcao
-versao_conteudo: '0.1'
+versao_conteudo: '0.2'
 idioma: pt-BR
 data_criacao: '2026-09-17'
 ultima_revisao: '2026-09-17'
@@ -507,6 +507,247 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 404 | Resolver a situação da conta banida do Instagram da SudoExpo. _(origem: 08 - quinta-feira)_ | melhoria | SudoExpo | `backlog_tarefas_de_verdade.md` |  | 13/04/2026 |  |  | Seção: 3. Tarefas reais, mas provavelmente históricas ou já vencidas. Origem declarada pela fonte: 08 - quinta-feira. | `não_reconciliado` | Checkbox aberto na fonte; estado atual não inferido. |
 | 405 | Resolver acessos e credenciais do Facebook/SudoExpo/gerenciador Meta | melhoria | SudoExpo | `backlog_tarefas_de_verdade.md` |  | 13/04/2026 |  |  | Seção: 2) Tarefas operacionais únicas encontradas nos diários. | `não_reconciliado` | Checkbox aberto na fonte; estado atual não inferido. |
 
+
+<!-- PASSAGEM-2-START -->
+## Passagem 2 — Ações explícitas adicionais
+
+> Busca dirigida nos demais arquivos originais; todos os itens permanecem `não_reconciliado`.
+
+| # | Descrição normalizada | Tipo | Área / projeto | Fonte original | Data da fonte | Linha | Evidência / contexto | Status de reconciliação |
+|---:|---|---|---|---|---|---:|---|---|
+| 406 | Vem aí ✅ 2026-03-16 | tarefa | Comunicação e marketing | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 34 | checkbox explícito | `não_reconciliado` |
+| 407 | Inscrições liberadas ✅ 2026-03-16 | tarefa | Comunicação e marketing | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 35 | checkbox explícito | `não_reconciliado` |
+| 408 | Como funciona? ✅ 2026-03-25 | tarefa | Comunicação e marketing | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 36 | checkbox explícito | `não_reconciliado` |
+| 409 | Cronograma ✅ 2026-03-16 | plano | Comunicação e marketing | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 37 | checkbox explícito | `não_reconciliado` |
+| 410 | Palestrante confirmado ✅ 2026-03-16 | tarefa | Comunicação e marketing | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 38 | checkbox explícito | `não_reconciliado` |
+| 411 | Vídeo teaser com imagens das edições anteriores | tarefa | Comunicação e marketing | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 39 | checkbox explícito | `não_reconciliado` |
+| 412 | Dados de impacto ✅ 2026-03-16 | tarefa | Métricas e relatórios | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 40 | checkbox explícito | `não_reconciliado` |
+| 413 | Faltam 2 dias ✅ 2026-03-27 | decisão com ação | Comunicação e marketing | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 41 | checkbox explícito | `não_reconciliado` |
+| 414 | É amanhã ✅ 2026-03-27 | tarefa | Comunicação e marketing | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 42 | checkbox explícito | `não_reconciliado` |
+| 415 | É hoje ✅ 2026-03-27 | tarefa | Comunicação e marketing | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 43 | checkbox explícito | `não_reconciliado` |
+| 416 | Reels - Conecta em 60s | tarefa | Conecta ACIRV | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 44 | checkbox explícito | `não_reconciliado` |
+| 417 | Reels - Como funciona a mesa de networking do Conecta Acirv? | tarefa | Conecta ACIRV | `(1º Conecta de 2026) Planejamento.md` | 10/02/2026 | 45 | checkbox explícito | `não_reconciliado` |
+| 418 | P0 — Finalizar o planejamento mensal de junho ✅ 2026-06-11 | plano | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 12 | checkbox explícito | `não_reconciliado` |
+| 419 | P0 — Finalizar o relatório de marketing ✅ 2026-06-11 | tarefa | Métricas e relatórios | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 13 | checkbox explícito | `não_reconciliado` |
+| 420 | P0 — Organizar o Scrum/Trello com base nas prioridades do mês ✅ 2026-06-11 | tarefa | Processos e operação | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 14 | checkbox explícito | `não_reconciliado` |
+| 421 | P0 — Registrar os principais alinhamentos da reunião geral ✅ 2026-06-11 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 15 | checkbox explícito | `não_reconciliado` |
+| 422 | P1 — Revisar demandas herdadas antes de abrir novas tarefas ✅ 2026-06-11 | melhoria | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 16 | checkbox explícito | `não_reconciliado` |
+| 423 | P0 — Abrir arquivo criativo do Dia dos Namorados ✅ 2026-06-11 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 20 | checkbox explícito | `não_reconciliado` |
+| 424 | P0 — Abrir arquivo criativo do Conecta Saúde ✅ 2026-06-11 | tarefa | Conecta Saúde | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 21 | checkbox explícito | `não_reconciliado` |
+| 425 | P0 — Postar o segundo criativo da campanha de pertencimento | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 22 | checkbox explícito | `não_reconciliado` |
+| 426 | P1 — Encaminhar briefing do mídia kit “Seja patrocinador” | tarefa | Imprensa | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 23 | checkbox explícito | `não_reconciliado` |
+| 427 | P1 — Revisar destaques do Instagram | melhoria | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 24 | checkbox explícito | `não_reconciliado` |
+| 428 | P1 — Melhorar Linktree/link de associação | melhoria | Sites e presença digital | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 25 | checkbox explícito | `não_reconciliado` |
+| 429 | P2 — Iniciar rascunho do fluxograma de eventos ✅ 2026-06-12 | tarefa | Processos e operação | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 26 | checkbox explícito | `não_reconciliado` |
+| 430 | P1 — Criar álbum de figurinhas ACIRV | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 30 | checkbox explícito | `não_reconciliado` |
+| 431 | P1 — Editar capas dos depoimentos do Café com o Presidente | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 31 | checkbox explícito | `não_reconciliado` |
+| 432 | P1 — Separar materiais não postados para TBT | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 32 | checkbox explícito | `não_reconciliado` |
+| 433 | P1 — Organizar bastidores e conteúdos leves para stories | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 33 | checkbox explícito | `não_reconciliado` |
+| 434 | P1 — Publicar TBT de materiais represados | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 37 | checkbox explícito | `não_reconciliado` |
+| 435 | P1 — Revisar Linktree/link de associação | melhoria | Sites e presença digital | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 38 | checkbox explícito | `não_reconciliado` |
+| 436 | P1 — Conferir se os links institucionais estão funcionando | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 39 | checkbox explícito | `não_reconciliado` |
+| 437 | P2 — Anotar ajustes futuros para site, destaques e canais de conversão | melhoria | Sites e presença digital | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 40 | checkbox explícito | `não_reconciliado` |
+| 438 | P0 — Finalizar vídeo pendente | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 44 | checkbox explícito | `não_reconciliado` |
+| 439 | P1 — Organizar pauta da semana 2 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 45 | checkbox explícito | `não_reconciliado` |
+| 440 | P1 — Conferir se Dia dos Namorados já está em produção | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 46 | checkbox explícito | `não_reconciliado` |
+| 441 | P1 — Conferir se Conecta Saúde já está aberto para criação | tarefa | Conecta Saúde | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 47 | checkbox explícito | `não_reconciliado` |
+| 442 | P2 — Revisar pendências não críticas antes do buffer | melhoria | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 48 | checkbox explícito | `não_reconciliado` |
+| 443 | P1 — Usar o dia apenas para ajustes, retrabalho e pendências pequenas | melhoria | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 52 | checkbox explícito | `não_reconciliado` |
+| 444 | P2 — Não abrir novas demandas grandes | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 53 | checkbox explícito | `não_reconciliado` |
+| 445 | P2 — Registrar o que ficou pendente para a semana 2 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 54 | checkbox explícito | `não_reconciliado` |
+| 446 | P1 — Publicar Cafézinho na ACIRV #1 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 64 | checkbox explícito | `não_reconciliado` |
+| 447 | P1 — Revisar lista de patrocinadores do Happy Hour Copa | melhoria | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 65 | checkbox explícito | `não_reconciliado` |
+| 448 | P1 — Separar lista de depoimentos e materiais reaproveitáveis | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 66 | checkbox explícito | `não_reconciliado` |
+| 449 | P2 — Organizar ideias de bastidores para stories da semana | ideia | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 67 | checkbox explícito | `não_reconciliado` |
+| 450 | P0 — Abrir inscrições do Happy Hour Copa | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 71 | checkbox explícito | `não_reconciliado` |
+| 451 | P0 — Publicar post/stories de chamada para inscrição | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 72 | checkbox explícito | `não_reconciliado` |
+| 452 | P0 — Disparar chamada em WhatsApp/grupos com link e CTA único | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 73 | checkbox explícito | `não_reconciliado` |
+| 453 | P1 — Ativar campanha de pertencimento com diretoria | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 74 | checkbox explícito | `não_reconciliado` |
+| 454 | P1 — Conferir se a frase “Eu faço parte do movimento” está sendo usada corretamente | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 75 | checkbox explícito | `não_reconciliado` |
+| 455 | P0 — Finalizar material de direitos das cotas de patrocínio | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 79 | checkbox explícito | `não_reconciliado` |
+| 456 | P0 — Criar mídia kit “Seja patrocinador” | tarefa | Imprensa | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 80 | checkbox explícito | `não_reconciliado` |
+| 457 | P0 — Alinhar o que comunicação explica e o que financeiro negocia | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 81 | checkbox explícito | `não_reconciliado` |
+| 458 | P1 — Conferir regra: patrocinador só deve ser divulgado após confirmação/pagamento | decisão com ação | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 82 | checkbox explícito | `não_reconciliado` |
+| 459 | P1 — Criar chamada para Congresso ACIRV Mulher | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 83 | checkbox explícito | `não_reconciliado` |
+| 460 | P1 — Publicar Gírias da Geração Z #1 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 87 | checkbox explícito | `não_reconciliado` |
+| 461 | P1 — Criar conexão entre a gíria escolhida e o mundo empresarial | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 88 | checkbox explícito | `não_reconciliado` |
+| 462 | P1 — Publicar ou preparar conteúdo frio ACIRV da semana | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 89 | checkbox explícito | `não_reconciliado` |
+| 463 | P2 — Guardar cortes ou bastidores que possam virar conteúdo futuro | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 90 | checkbox explícito | `não_reconciliado` |
+| 464 | P0 — Publicar Dia dos Namorados | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 94 | checkbox explícito | `não_reconciliado` |
+| 465 | P0 — Usar a linha: “ACIRV em um relacionamento sério com os empresários de Rio Verde” | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 95 | checkbox explícito | `não_reconciliado` |
+| 466 | P1 — Repostar nos stories | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 96 | checkbox explícito | `não_reconciliado` |
+| 467 | P1 — Manter a peça leve, institucional e simpática | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 97 | checkbox explícito | `não_reconciliado` |
+| 468 | P2 — Registrar aprendizados da semana para ajustar a próxima | melhoria | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 98 | checkbox explícito | `não_reconciliado` |
+| 469 | P1 — Publicar post de serviço ACIRV ou portfólio institucional | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 108 | checkbox explícito | `não_reconciliado` |
+| 470 | P1 — Garantir que o conteúdo frio tenha CTA claro | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 109 | checkbox explícito | `não_reconciliado` |
+| 471 | P1 — Conferir demandas abertas de Congresso e Happy Hour | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 110 | checkbox explícito | `não_reconciliado` |
+| 472 | P2 — Atualizar repositório de materiais, se houver tempo | melhoria | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 111 | checkbox explícito | `não_reconciliado` |
+| 473 | P0 — Confirmar plano de cobertura do Congresso ACIRV Mulher | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 115 | checkbox explícito | `não_reconciliado` |
+| 474 | P1 — Publicar chamada/aquecimento do Congresso ACIRV Mulher | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 116 | checkbox explícito | `não_reconciliado` |
+| 475 | P1 — Separar informações de programação, convite e tráfego pago | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 117 | checkbox explícito | `não_reconciliado` |
+| 476 | P1 — Conferir artes, legendas e orientações de postagem | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 118 | checkbox explícito | `não_reconciliado` |
+| 477 | P2 — Registrar dúvidas pendentes para alinhar com responsáveis | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 119 | checkbox explícito | `não_reconciliado` |
+| 478 | P0 — Confirmar plano de cobertura do Happy Hour Copa | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 123 | checkbox explícito | `não_reconciliado` |
+| 479 | P0 — Criar materiais finais dos patrocinadores confirmados | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 124 | checkbox explícito | `não_reconciliado` |
+| 480 | P1 — Publicar chamada/aquecimento do Happy Hour Copa | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 125 | checkbox explícito | `não_reconciliado` |
+| 481 | P1 — Divulgar patrocinadores apenas se estiverem confirmados/pagos | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 126 | checkbox explícito | `não_reconciliado` |
+| 482 | P1 — Reforçar clima Copa, inscrição e valor do encontro | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 127 | checkbox explícito | `não_reconciliado` |
+| 483 | P1 — Publicar Cafézinho na ACIRV #2 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 131 | checkbox explícito | `não_reconciliado` |
+| 484 | P1 — Publicar Gírias da Geração Z #2 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 132 | checkbox explícito | `não_reconciliado` |
+| 485 | P1 — Publicar TBT de bastidores | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 133 | checkbox explícito | `não_reconciliado` |
+| 486 | P1 — Separar cortes, fotos e registros úteis para pós-evento | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 134 | checkbox explícito | `não_reconciliado` |
+| 487 | P2 — Atualizar repositório de materiais | melhoria | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 135 | checkbox explícito | `não_reconciliado` |
+| 488 | P0 — Fechar fluxograma de eventos | tarefa | Processos e operação | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 139 | checkbox explícito | `não_reconciliado` |
+| 489 | P0 — Definir responsáveis por cobertura, fotos, vídeos, stories e aprovações | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 140 | checkbox explícito | `não_reconciliado` |
+| 490 | P0 — Conferir cerimonial, artes e materiais finais | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 141 | checkbox explícito | `não_reconciliado` |
+| 491 | P0 — Validar plano de cobertura dos dias 23 e 24/06 | investigação | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 142 | checkbox explícito | `não_reconciliado` |
+| 492 | P1 — Conferir se não há ruído entre comunicação, financeiro e eventos | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 143 | checkbox explícito | `não_reconciliado` |
+| 493 | P2 — Deixar registrado no Trello o que será executado na semana 4 | tarefa | Processos e operação | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 144 | checkbox explícito | `não_reconciliado` |
+| 494 | P0 — Publicar última chamada Congresso ACIRV Mulher | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 155 | checkbox explícito | `não_reconciliado` |
+| 495 | P0 — Publicar última chamada Happy Hour Copa | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 156 | checkbox explícito | `não_reconciliado` |
+| 496 | P0 — Reforçar inscrição, horário e presença | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 157 | checkbox explícito | `não_reconciliado` |
+| 497 | P1 — Disparar chamadas em stories e WhatsApp/grupos | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 158 | checkbox explícito | `não_reconciliado` |
+| 498 | P1 — Conferir checklist final de cobertura dos eventos | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 159 | checkbox explícito | `não_reconciliado` |
+| 499 | P0 — Cobrir Congresso ACIRV Mulher — 23/06 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 163 | checkbox explícito | `não_reconciliado` |
+| 500 | P0 — Registrar fotos, vídeos, bastidores e momentos-chave | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 164 | checkbox explícito | `não_reconciliado` |
+| 501 | P0 — Publicar stories durante o evento | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 165 | checkbox explícito | `não_reconciliado` |
+| 502 | P1 — Separar falas, cenas e registros com potencial para pós-evento | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 166 | checkbox explícito | `não_reconciliado` |
+| 503 | P1 — Organizar materiais brutos ao final do dia | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 167 | checkbox explícito | `não_reconciliado` |
+| 504 | P0 — Cobrir Congresso ACIRV Mulher — 24/06 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 171 | checkbox explícito | `não_reconciliado` |
+| 505 | P0 — Cobrir Happy Hour Copa — 24/06 | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 172 | checkbox explícito | `não_reconciliado` |
+| 506 | P0 — Registrar público, bastidores, telão/LED e patrocinadores confirmados | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 173 | checkbox explícito | `não_reconciliado` |
+| 507 | P0 — Publicar stories em tempo real | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 174 | checkbox explícito | `não_reconciliado` |
+| 508 | P1 — Usar São João como linguagem visual leve, sem criar campanha separada grande | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 175 | checkbox explícito | `não_reconciliado` |
+| 509 | P1 — Registrar comida típica, decoração e acolhimento dos associados | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 176 | checkbox explícito | `não_reconciliado` |
+| 510 | P1 — Separar melhores momentos para reels | melhoria | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 177 | checkbox explícito | `não_reconciliado` |
+| 511 | P2 — Evitar abrir qualquer nova demanda fora da cobertura | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 178 | checkbox explícito | `não_reconciliado` |
+| 512 | P1 — Publicar agradecimento pós-evento | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 182 | checkbox explícito | `não_reconciliado` |
+| 513 | P1 — Publicar patrocinadores pós-evento | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 183 | checkbox explícito | `não_reconciliado` |
+| 514 | P1 — Organizar fotos e vídeos dos eventos | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 184 | checkbox explícito | `não_reconciliado` |
+| 515 | P1 — Criar ou encaminhar matéria de pós-evento para o site | tarefa | Sites e presença digital | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 185 | checkbox explícito | `não_reconciliado` |
+| 516 | P2 — Separar melhores momentos para reels/resumo | melhoria | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 186 | checkbox explícito | `não_reconciliado` |
+| 517 | P1 — Publicar reels/resumo da semana | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 190 | checkbox explícito | `não_reconciliado` |
+| 518 | P1 — Finalizar organização de materiais no Trello | tarefa | Processos e operação | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 191 | checkbox explícito | `não_reconciliado` |
+| 519 | P1 — Conferir se Congresso e Happy Hour renderam conteúdo para reaproveitamento | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 192 | checkbox explícito | `não_reconciliado` |
+| 520 | P2 — Separar materiais que podem virar posts em julho | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 193 | checkbox explícito | `não_reconciliado` |
+| 521 | P2 — Registrar aprendizados operacionais da semana de eventos | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 194 | checkbox explícito | `não_reconciliado` |
+| 522 | P0 — Fechar métricas de junho | tarefa | Métricas e relatórios | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 203 | checkbox explícito | `não_reconciliado` |
+| 523 | P0 — Separar materiais de pós-evento | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 204 | checkbox explícito | `não_reconciliado` |
+| 524 | P1 — Publicar pós-evento consolidado | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 205 | checkbox explícito | `não_reconciliado` |
+| 525 | P1 — Publicar peça institucional sobre respeito/diversidade, se aprovada | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 206 | checkbox explícito | `não_reconciliado` |
+| 526 | P1 — Usar abordagem segura: respeito, diversidade, ambiente de negócios inclusivo e dignidade no trabalho | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 207 | checkbox explícito | `não_reconciliado` |
+| 527 | P1 — Organizar backlog do Trello | tarefa | Processos e operação | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 208 | checkbox explícito | `não_reconciliado` |
+| 528 | P2 — Separar materiais importantes para arquivamento | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 209 | checkbox explícito | `não_reconciliado` |
+| 529 | P0 — Fechar relatório de junho | tarefa | Métricas e relatórios | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 213 | checkbox explícito | `não_reconciliado` |
+| 530 | P0 — Iniciar planejamento de julho | plano | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 214 | checkbox explícito | `não_reconciliado` |
+| 531 | P1 — Revisar o que foi entregue, atrasado ou cancelado | melhoria | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 215 | checkbox explícito | `não_reconciliado` |
+| 532 | P1 — Atualizar Trello com pendências reais para julho | melhoria | Processos e operação | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 216 | checkbox explícito | `não_reconciliado` |
+| 533 | P1 — Registrar aprendizados sobre eventos, cobertura, comunicação e fluxo entre departamentos | tarefa | Processos e operação | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 217 | checkbox explícito | `não_reconciliado` |
+| 534 | P2 — Salvar materiais importantes no HD externo | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 218 | checkbox explícito | `não_reconciliado` |
+| 535 | P1 — Publicar agenda da semana nos stories | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 226 | checkbox explícito | `não_reconciliado` |
+| 536 | P1 — Revisar prioridades da semana no Trello | melhoria | Processos e operação | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 227 | checkbox explícito | `não_reconciliado` |
+| 537 | P1 — Conferir se há urgências que precisam entrar no planejamento | decisão com ação | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 228 | checkbox explícito | `não_reconciliado` |
+| 538 | P2 — Remover ou adiar tarefas que não cabem na capacidade da semana | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 229 | checkbox explícito | `não_reconciliado` |
+| 539 | P1 — Publicar pelo menos 1 conteúdo frio/institucional | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 233 | checkbox explícito | `não_reconciliado` |
+| 540 | P1 — Publicar pelo menos 1 conteúdo leve/humano | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 234 | checkbox explícito | `não_reconciliado` |
+| 541 | P1 — Repostar feed/reels nos stories | tarefa | Social Media | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 235 | checkbox explícito | `não_reconciliado` |
+| 542 | P1 — Separar materiais reaproveitáveis | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 236 | checkbox explícito | `não_reconciliado` |
+| 543 | P2 — Atualizar backlog criativo sem transformar tudo em tarefa ativa | melhoria | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 237 | checkbox explícito | `não_reconciliado` |
+| 544 | P0 — Não divulgar patrocinador sem confirmação/pagamento | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 241 | checkbox explícito | `não_reconciliado` |
+| 545 | P0 — Em semana com evento grande, reduzir novas tarefas planejadas | plano | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 242 | checkbox explícito | `não_reconciliado` |
+| 546 | P0 — Separar o que é comunicação do que é financeiro | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 243 | checkbox explícito | `não_reconciliado` |
+| 547 | P1 — Evitar demandas novas de site, portfólio ou projetos experimentais na semana de 22 a 26/06 | tarefa | Sites e presença digital | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 244 | checkbox explícito | `não_reconciliado` |
+| 548 | P1 — Priorizar carrosséis simples com peça principal e CTA | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 245 | checkbox explícito | `não_reconciliado` |
+| 549 | P1 — Usar vídeo curto para alcance e humanização | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 246 | checkbox explícito | `não_reconciliado` |
+| 550 | P2 — Guardar ideias boas no backlog quando não forem urgentes | ideia | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 247 | checkbox explícito | `não_reconciliado` |
+| 551 | P2 — ACIRV TV | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 253 | checkbox explícito | `não_reconciliado` |
+| 552 | P2 — Objetos falantes com IA | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 254 | checkbox explícito | `não_reconciliado` |
+| 553 | P2 — Vídeo misturando realidade com fantasia | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 255 | checkbox explícito | `não_reconciliado` |
+| 554 | P2 — ACIRV Ecossistema | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 256 | checkbox explícito | `não_reconciliado` |
+| 555 | P2 — Site completo do portfólio de locação | tarefa | Sites e presença digital | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 257 | checkbox explícito | `não_reconciliado` |
+| 556 | P2 — Notícias pelo Mundo | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 258 | checkbox explícito | `não_reconciliado` |
+| 557 | P2 — Grandes reformulações institucionais | tarefa | Comunicação e marketing | `(Checklist) Planejamento de Junho.md` | 11/06/2026 | 259 | checkbox explícito | `não_reconciliado` |
+| 558 | Testar novos criativos e CTAs para o conjunto Sudoexpo Goiânia, focando em conversão (ex: “Garanta seu estande” ou “Veja os bastidores da feira”) | investigação | SudoExpo | `(MÉTRICAS) - 2025.md` | 03/02/2026 | 107 | ação explícita em lista | `não_reconciliado` |
+| 559 | Divulgar o evento com antecedência e clareza de proposta | tarefa | Comunicação e marketing | `(PLANEJAMENTO ANUAL) CONECTA ACIRV 2026.md` | 23/02/2026 | 741 | ação explícita em lista | `não_reconciliado` |
+| 560 | Faltam 07 dias | decisão com ação | Comunicação e marketing | `(PLANEJAMENTO ANUAL) CONECTA ACIRV 2026.md` | 23/02/2026 | 912 | ação explícita em linha | `não_reconciliado` |
+| 561 | Prints, gráficos ou exports do Insights do Instagram do período 01 a 31 de março ✅ 2026-04-13 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 15 | checkbox explícito | `não_reconciliado` |
+| 562 | PRINT - Produção do mês ✅ 2026-04-10 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 16 | checkbox explícito | `não_reconciliado` |
+| 563 | GRÁFICO - Evolução de publicação ACIRV (Reels X Posts) ✅ 2026-04-12 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 17 | checkbox explícito | `não_reconciliado` |
+| 564 | PRINT - Alcance e visualizações ✅ 2026-04-12 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 18 | checkbox explícito | `não_reconciliado` |
+| 565 | GRÁFICO - Evolução das Visualizações da ACIRV (Seguidores X Não seguidores) ✅ 2026-04-12 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 19 | checkbox explícito | `não_reconciliado` |
+| 566 | PRINT - Total de seguidores no fim do mês | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 20 | checkbox explícito | `não_reconciliado` |
+| 567 | GRÁFICO - Evolução de seguidores ✅ 2026-04-12 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 21 | checkbox explícito | `não_reconciliado` |
+| 568 | Total de seguidores no fim do mês ✅ 2026-04-12 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 22 | checkbox explícito | `não_reconciliado` |
+| 569 | Crescimento líquido de seguidores ✅ 2026-04-12 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 23 | checkbox explícito | `não_reconciliado` |
+| 570 | Quantos ganharam e quantos deixaram de seguir ✅ 2026-04-12 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 24 | checkbox explícito | `não_reconciliado` |
+| 571 | Total de visualizações ✅ 2026-04-12 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 25 | checkbox explícito | `não_reconciliado` |
+| 572 | Total de interações ✅ 2026-04-12 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 26 | checkbox explícito | `não_reconciliado` |
+| 573 | Percentual de visualizações vindo de anúncios ✅ 2026-04-12 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 27 | checkbox explícito | `não_reconciliado` |
+| 574 | Percentual de alcance/visualizações vindo de não seguidores ✅ 2026-04-12 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 28 | checkbox explícito | `não_reconciliado` |
+| 575 | Prints das telas principais do painel para usar na apresentação ✅ 2026-04-12 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 29 | checkbox explícito | `não_reconciliado` |
+| 576 | Quantidade de posts de feed ✅ 2026-04-12 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 35 | checkbox explícito | `não_reconciliado` |
+| 577 | Quantidade de stories publicados ✅ 2026-04-12 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 36 | checkbox explícito | `não_reconciliado` |
+| 578 | Quantidade de reels publicados ✅ 2026-04-12 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 37 | checkbox explícito | `não_reconciliado` |
+| 579 | Quantidade de vídeos produzidos ✅ 2026-04-12 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 38 | checkbox explícito | `não_reconciliado` |
+| 580 | Quantidade de carrosséis, se você quiser separar | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 39 | checkbox explícito | `não_reconciliado` |
+| 581 | Uma planilha consolidada com o volume de produção por formato | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 40 | checkbox explícito | `não_reconciliado` |
+| 582 | CSV ou planilha com os posts de março | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 44 | checkbox explícito | `não_reconciliado` |
+| 583 | Ranking dos melhores conteúdos do mês | melhoria | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 45 | checkbox explícito | `não_reconciliado` |
+| 584 | Top 5 por visualizações | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 46 | checkbox explícito | `não_reconciliado` |
+| 585 | Top 5 por interações | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 47 | checkbox explícito | `não_reconciliado` |
+| 586 | Separação por formato: feed, carrossel e reels | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 48 | checkbox explícito | `não_reconciliado` |
+| 587 | Link, print ou thumbnail dos principais conteúdos para mostrar na reunião | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 49 | checkbox explícito | `não_reconciliado` |
+| 588 | Comparativo março vs. fevereiro ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 55 | checkbox explícito | `não_reconciliado` |
+| 589 | Seguidores ✅ 2026-04-13 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 56 | checkbox explícito | `não_reconciliado` |
+| 590 | Visualizações ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 57 | checkbox explícito | `não_reconciliado` |
+| 591 | Interações ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 58 | checkbox explícito | `não_reconciliado` |
+| 592 | Volume de produção ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 59 | checkbox explícito | `não_reconciliado` |
+| 593 | Participação de anúncios ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 60 | checkbox explícito | `não_reconciliado` |
+| 594 | Participação de não seguidores ✅ 2026-04-13 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 61 | checkbox explícito | `não_reconciliado` |
+| 595 | Número total de inserções espontâneas na mídia ✅ 2026-04-13 | tarefa | Imprensa | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 67 | checkbox explícito | `não_reconciliado` |
+| 596 | Lista por veículo ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 68 | checkbox explícito | `não_reconciliado` |
+| 597 | Data de cada inserção ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 69 | checkbox explícito | `não_reconciliado` |
+| 598 | Tema/assunto de cada aparição ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 70 | checkbox explícito | `não_reconciliado` |
+| 599 | Prints, links ou PDFs das matérias e aparições | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 71 | checkbox explícito | `não_reconciliado` |
+| 600 | Resumo do impacto institucional dessas inserções | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 72 | checkbox explícito | `não_reconciliado` |
+| 601 | Valor investido em março ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 78 | checkbox explícito | `não_reconciliado` |
+| 602 | Campanhas impulsionadas | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 79 | checkbox explícito | `não_reconciliado` |
+| 603 | Objetivo de cada campanha | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 80 | checkbox explícito | `não_reconciliado` |
+| 604 | Resultado gerado por anúncios ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 81 | checkbox explícito | `não_reconciliado` |
+| 605 | Crescimento de seguidores vindo de anúncios ✅ 2026-04-13 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 82 | checkbox explícito | `não_reconciliado` |
+| 606 | Alcance/visualizações geradas por anúncios ✅ 2026-04-13 | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 83 | checkbox explícito | `não_reconciliado` |
+| 607 | Evidência específica do investimento citado para mostrar retorno | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 84 | checkbox explícito | `não_reconciliado` |
+| 608 | Número de matérias publicadas no site em março | tarefa | Sites e presença digital | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 90 | checkbox explícito | `não_reconciliado` |
+| 609 | Acessos ao site no mês | tarefa | Sites e presença digital | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 91 | checkbox explícito | `não_reconciliado` |
+| 610 | Origem dos acessos, se disponível | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 92 | checkbox explícito | `não_reconciliado` |
+| 611 | Publicações no LinkedIn | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 93 | checkbox explícito | `não_reconciliado` |
+| 612 | Publicações no YouTube/Shorts | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 94 | checkbox explícito | `não_reconciliado` |
+| 613 | Prints ou export dos painéis desses canais | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 95 | checkbox explícito | `não_reconciliado` |
+| 614 | Número de novos associados no mês | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 101 | checkbox explícito | `não_reconciliado` |
+| 615 | Eventos e ações relevantes de março | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 102 | checkbox explícito | `não_reconciliado` |
+| 616 | Coberturas feitas em tempo real | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 103 | checkbox explícito | `não_reconciliado` |
+| 617 | Conteúdos ligados a campanhas, eventos e presença institucional | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 104 | checkbox explícito | `não_reconciliado` |
+| 618 | Lista dos principais marcos do mês para contextualizar os números | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 105 | checkbox explícito | `não_reconciliado` |
+| 619 | Gráficos prontos de seguidores, visualizações, interações e produção ✅ 2026-04-13 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 111 | checkbox explícito | `não_reconciliado` |
+| 620 | Versão em PNG dos gráficos que entrarão na apresentação ✅ 2026-04-13 | tarefa | Métricas e relatórios | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 112 | checkbox explícito | `não_reconciliado` |
+| 621 | Dashboard ou planilha final organizada | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 113 | checkbox explícito | `não_reconciliado` |
+| 622 | Prints do Instagram Insights ✅ 2026-04-13 | tarefa | Social Media | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 114 | checkbox explícito | `não_reconciliado` |
+| 623 | Prints das melhores peças/postagens | melhoria | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 115 | checkbox explícito | `não_reconciliado` |
+| 624 | Capa e estrutura visual mais sofisticada para a apresentação | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 116 | checkbox explícito | `não_reconciliado` |
+| 625 | Resumo dos sites/MVPs que você quer apresentar | tarefa | Sites e presença digital | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 124 | checkbox explícito | `não_reconciliado` |
+| 626 | Nome correto de cada projeto que entrou em março | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 125 | checkbox explícito | `não_reconciliado` |
+| 627 | Status de cada entrega | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 126 | checkbox explícito | `não_reconciliado` |
+| 628 | Comparativo da evolução da comunicação | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 127 | checkbox explícito | `não_reconciliado` |
+| 629 | Manual de tom de voz e evidências de melhoria de padrão | melhoria | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 128 | checkbox explícito | `não_reconciliado` |
+| 630 | Um slide curto explicando o volume e a natureza das demandas recebidas | tarefa | Comunicação e marketing | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 129 | checkbox explícito | `não_reconciliado` |
+| 631 | O primeiro é que os números de março parecem parcialmente inconsistentes com fevereiro. Em especial, alguns dados de produção e interações aparecem muito parecidos ou iguais, então vale revisar antes de apresentar. ✅ 2026-04-13 | melhoria | Métricas e relatórios | `(RELATÓRIO MÉTRICAS) - Março.md` | 05/03/2026 | 154 | checkbox explícito | `não_reconciliado` |
+| 632 | Criar uma página de dashboard no Lovable para centralizar os principais dados de métricas da ACIRV, com visualização em gráficos, atualização prática a partir de uma tabela-base e uso direto na apresentação do relatório de métricas. A intenção é transformar os dados recorrentes da operação em uma interface visual mais fácil de acompanhar e apresentar | melhoria | Métricas e relatórios | `00_DASHBOARD ACIRV.md` | 11/04/2026 | 16 | ação explícita em linha | `não_reconciliado` |
+| 633 | criar, renomear e excluir colunas | tarefa | Comunicação e marketing | `00_rascunho.md` |  | 69 | ação explícita em lista | `não_reconciliado` |
+| 634 | criar e excluir cartões | tarefa | Comunicação e marketing | `00_rascunho.md` |  | 71 | ação explícita em lista | `não_reconciliado` |
+| 635 | editar títulos | tarefa | Comunicação e marketing | `00_rascunho.md` |  | 75 | ação explícita em lista | `não_reconciliado` |
+| 636 | adicionar descrições | tarefa | Comunicação e marketing | `00_rascunho.md` |  | 77 | ação explícita em lista | `não_reconciliado` |
+| 637 | organizar manualmente o quadro | tarefa | Comunicação e marketing | `00_rascunho.md` |  | 79 | ação explícita em lista | `não_reconciliado` |
+| 638 | Precisamos pensar em uma forma de reduzir esse comportamento. Idealmente, o Hermes Work deveria possuir algum mecanismo para acompanhar requisitos, subtarefas ou critérios de conclusão, permitindo verificar automaticamente se tudo o que foi solicitado realmente foi implementado antes de considerar uma tarefa concluída | decisão com ação | Comunicação e marketing | `00_rascunho.md` |  | 88 | ação explícita em linha | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
