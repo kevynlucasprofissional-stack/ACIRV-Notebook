@@ -9,7 +9,7 @@ confidencialidade: interno
 
 # Relatório de Cobertura e Paridade — ACIRV Notebook
 
-> Gerado em: `2026-09-17T18:44:30.060993+00:00`
+> Gerado em: `2026-09-17T19:03:55.734260+00:00`
 
 ## 1. Cobertura de Fontes (000-Arquivos-originais/)
 
