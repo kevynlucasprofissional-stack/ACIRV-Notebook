@@ -2291,6 +2291,60 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 2179 | Resolver coisas que chegaram no WhatsApp | tarefa | Comunicação e marketing | `cronograma otimizado para o dia 110326.md` | 22/03/2026 | 65 | ação explícita em lista | `não_reconciliado` |
 | 2180 | Finalizar | tarefa | Comunicação e marketing | `cronograma otimizado para o dia 110326.md` | 22/03/2026 | 99 | ação explícita em linha | `não_reconciliado` |
 | 2181 | Criar adesivos da porta do banheiro | tarefa | Comunicação e marketing | `cronograma otimizado para o dia 110326.md` | 22/03/2026 | 101 | ação explícita em lista | `não_reconciliado` |
+### Resumo da Passagem 2
+
+- **Fontes Markdown examinadas nesta passagem:** 382
+- **Fontes com pelo menos uma nova ação explícita:** 149
+- **Novos itens adicionados nesta passagem:** 1776
+- **Total acumulado do Backlog Canônico:** 2181
+- **Critério:** somente formulações explicitamente acionáveis (checkboxes, listas, tabelas ou linhas diretas); sem mineração semântica profunda.
+- **Trello:** não consultado.
+
+#### Principais grupos por área/projeto
+
+| Área / projeto | Novos itens |
+|---|---:|
+| Comunicação e marketing | 1409 |
+| Social Media | 109 |
+| Processos e operação | 105 |
+| Métricas e relatórios | 39 |
+| Sites e presença digital | 26 |
+| Conecta ACIRV | 24 |
+| Conecta Saúde | 23 |
+| SudoExpo | 22 |
+| Imprensa | 18 |
+| tarefa | Comunicação e marketing | 1 |
+
+#### Principais tipos de ação
+
+| Tipo | Novos itens |
+|---|---:|
+| tarefa | 1279 |
+| melhoria | 154 |
+| decisão com ação | 146 |
+| investigação | 68 |
+| pedido | 57 |
+| plano | 38 |
+| ideia | 33 |
+| 6 de Janeiro - Calendarr](https://www.calendarr.com/brasil/dia-da-gratidao/) ✅ 2026-01-07 | 1 |
+
+#### Fontes mais densas em ações explícitas nesta passagem
+
+| Fonte | Novos itens |
+|---|---:|
+| `(Checklist) Planejamento de Junho.md` | 140 |
+| `Analise da Advertencia Profissional - Kevyn e Viviane.md` | 134 |
+| `Histórico do ChatGPT - Ecossistema ACIRV - ATUALIZADO 040420260321.md` | 124 |
+| `2007 a 3107 - Relatório bisemanal da esteira — ACIRV + VCOM.md` | 75 |
+| `(RELATÓRIO MÉTRICAS) - Março.md` | 71 |
+| `220626 a 260626 Relatório Semanal.md` | 68 |
+| `SCRUM ACIRV.md` | 55 |
+| `Manual de Tom de Voz ACIRV V5.md` | 54 |
+| `Relatório Semanal 29 de junho a 03 de Julho.md` | 44 |
+| `Planejamento de Junho — ACIRV + VCOM.md` | 42 |
+| `Histórico do ChatGPT - ACIRV Meet - 0404260330.md` | 30 |
+| `1º Fórum de IA da ACIRV - Planejamento Social Media.md` | 29 |
+
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
