@@ -6,7 +6,7 @@ tipo: pendencia
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
 ultima_revisao: '2026-09-17'
@@ -34,8 +34,9 @@ subtipo: pendencia
 
 ## Estratégia
 
-- Confirmar metas, linhas de base, proprietários e campanhas vigentes.
-- Confirmar se a Campanha de Pertencimento deve ser tratada oficialmente como **maio/2026**; o planejamento anual contém conflito interno entre abril e maio, enquanto dossiê posterior sustenta maio.
+- Confirmar metas, linhas de base, proprietários e campanhas vigentes quando ainda não houver evidência operacional suficiente.
+
+A divergência da Campanha de Pertencimento foi resolvida em 2026-09-17: **planejada para começar em abril e iniciada efetivamente em maio de 2026**. A resolução foi promovida para `[[Campanha-Eu-Faco-Parte]]` e `[[Registro-de-Decisoes]]`.
 
 ## Governança
 
@@ -47,12 +48,16 @@ Confirmar datas, escopo e status de eventos e campanhas quando houver divergênc
 
 ## Conecta ACIRV
 
-- Confirmar o valor oficial da **Cota Diamante** do Conecta 2026: uma mesma fonte registra R$ 20.000 e R$ 18.000.
-- Validar a origem e a metodologia da cifra de **R$ 4 milhões** associada ao Conecta, distinguindo resultado histórico alegado de meta anual.
+As divergências identificadas na triagem inicial foram resolvidas em 2026-09-17:
+
+- **Cota Diamante oficial**: R$ 18.000;
+- **R$ 4 milhões**: volume histórico acumulado de negócios movimentados ao longo de várias edições do Conecta, e não meta anual de 2026.
+
+As resoluções foram promovidas para `[[Conecta-ACIRV]]` e `[[Registro-de-Decisoes]]`.
 
 ## Dados
 
-Aprovar dicionário, tabela canônica e tratamento das divergências. Valores públicos de impacto devem registrar período, fonte e método.
+Aprovar dicionário, tabela canônica e tratamento das divergências. Valores públicos de impacto devem registrar período, fonte e método sempre que essas informações estiverem disponíveis.
 
 ## Marca
 
@@ -60,10 +65,13 @@ Confirmar V5 como manual vigente e política de submarcas.
 
 ## Segurança
 
-- Rotacionar/revogar qualquer credencial real potencialmente versionada no repositório.
+- Foi confirmado em 2026-09-17 que `000-Arquivos-originais/Contas e Senhas.md` e `000-Arquivos-originais/Minha Chave API Antropic.md` contêm credenciais reais.
+- Os dois caminhos devem permanecer **somente locais** e estão destinados ao `.gitignore`.
+- Antes de removê-los do GitHub, é obrigatório executar no clone local um `git rm --cached` dos dois caminhos e verificar que os arquivos físicos continuam existindo no disco; a remoção remota não deve ocorrer antes dessa confirmação.
+- Rotacionar/revogar qualquer credencial real que tenha sido versionada, pois removê-la da branch atual não elimina versões históricas do Git.
 - Revisar `.env` e artefatos de protótipos sem expor valores em notas, issues ou PRs.
 - Migrar credenciais ativas para gerenciador de segredos.
-- Avaliar remoção humana segura de segredos do Git e, quando necessário, reescrita de histórico após rotação.
+- Avaliar reescrita de histórico Git após rotação quando houver necessidade de eliminar segredos de commits antigos.
 - Manter a regra de que agentes **não abrem** arquivos suspeitos de conter credenciais e **não alteram** `000-Arquivos-originais/`.
 
 ## Tecnologia
@@ -74,13 +82,16 @@ Decidir arquivar, revisar ou pilotar protótipos de SaaS e separar claramente ex
 
 - [[Pendencias-Assumidas]] — explica origem.
 - [[Riscos-Operacionais]] — prioriza risco.
-- [[Registro-de-Decisoes]] — deve receber confirmações.
+- [[Registro-de-Decisoes]] — recebe confirmações resolvidas.
 - [[Triagem-Inicial-000-Arquivos-Originais-2026-09-17]] — registra evidências da ingestão inicial.
+- [[Campanha-Eu-Faco-Parte]] — contém a cronologia validada da campanha.
+- [[Conecta-ACIRV]] — contém os valores e interpretação histórica validados.
 
 ## Fontes e rastreabilidade
 
 - [[Fonte - Briefing do projeto]]
 - [[Triagem-Inicial-000-Arquivos-Originais-2026-09-17]]
+- validação humana de 2026-09-17.
 
 ## Limitações e revisão
 
