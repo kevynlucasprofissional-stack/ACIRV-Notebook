@@ -29,6 +29,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install pytest pytest-subtests
 
+      - name: "Guarantee 1: Check PR Immutability (Diff vs Base SHA)"
+        if: github.event_name == 'pull_request'
+        run: |
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+          echo "Comparing PR diff between Base ($BASE_SHA) and Head ($HEAD_SHA)..."
+          
+          PR_ORIGINALS_DIFF=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA" -- 000-Arquivos-originais/)
+          if [ -n "$PR_ORIGINALS_DIFF" ]; then
+            echo "::error::PR VIOLATION: Pull Request contains changes to 000-Arquivos-originais/!"
+            echo "$PR_ORIGINALS_DIFF"
+            exit 1
+          else
+            echo "OK: PR does not touch 000-Arquivos-originais/."
+          fi
+
       - name: Validate claims & referential integrity
         run: |
           python 98-Infraestrutura/ingestao/claims.py .
@@ -42,10 +58,13 @@ jobs:
           cd 98-Infraestrutura/ingestao
           python -m pytest test_invariantes.py -v
 
-      - name: Verify original sources immutability
+      - name: "Guarantee 2: Check Runtime Immutability (Working Tree Status)"
         run: |
-          git status --porcelain 000-Arquivos-originais/
-          if [ -n "$(git status --porcelain 000-Arquivos-originais/)" ]; then
-            echo "CI FAIL: 000-Arquivos-originais/ was modified!"
+          RUNTIME_DIFF=$(git status --porcelain 000-Arquivos-originais/)
+          if [ -n "$RUNTIME_DIFF" ]; then
+            echo "::error::RUNTIME VIOLATION: Validation scripts modified 000-Arquivos-originais/ during execution!"
+            echo "$RUNTIME_DIFF"
             exit 1
+          else
+            echo "OK: Runtime execution preserved 000-Arquivos-originais/ immutability."
           fi

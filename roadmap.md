@@ -7,17 +7,17 @@ Este documento é o backlog canônico da frente de ingestão, paridade e governa
 ## Fases do Roadmap
 
 ### Fase A — Preservação e Transição Arquitetural
-- [x] **A.1** Backup seguro do `main` registrado e verificado (`backup/main-pre-chatgpt-semantic-ingestion-2026-09-17` e tag correspondente).
-- [x] **A.2** Preservação da branch histórica `fix/ingestion-pipeline-hardening`.
+- [x] **A.1** Backup remoto do `main` publicado e verificado no GitHub (`backup/main-pre-chatgpt-semantic-ingestion-2026-09-17` e tag correspondente, ambos no SHA `c485e72d7243b07ccc2f9f5751dabbdca6724fee`).
+- [x] **A.2** Preservação da branch histórica `fix/ingestion-pipeline-hardening` no `origin`.
 - [x] **A.3** Transição arquitetural documentada: *claim-centric / script-centric* → **AI-semantic / narrative-centric com verificação determinística** (`Decisao-Arquitetural-Ingestao-Narrativa.md`).
 - [x] **A.4** Matriz de auditoria de componentes concluída (manter, adaptar, remover, arquivar).
 
 ### Fase B — Fundação Determinística Mínima
 - [x] **B.1** Inventário SHA idempotente (`inventariar_fontes.py`) separando *já inventariado* de *já revisado semântica/editorialmente* (`review_status`).
-- [x] **B.2** Safety gate pré-leitura (`safety_gate.py`) bloqueando credenciais confirmadas/suspeitas sem abrir conteúdo.
+- [x] **B.2** Safety gate pré-leitura (`safety_gate.py`) bloqueando credenciais confirmadas/suspeitas por metadados sem abrir conteúdo.
 - [x] **B.3** Schema expandido no ledger (`Ledger-de-Ingestao.jsonl`) com `review_status`, `last_reviewed_at`, `reviewed_by`.
 - [x] **B.4** Parsing estrito de JSONL e schema com exceção/erro explícito contendo arquivo e número de linha.
-- [x] **B.5** CI estritamente seguro (`.github/workflows/ci.yml`) com `permissions: contents: read` e verificação de imutabilidade runtime.
+- [x] **B.5** CI estritamente seguro (`.github/workflows/ci.yml`) com `permissions: contents: read` e dupla verificação de imutabilidade (PR diff vs Base SHA e Runtime status).
 
 ### Fase C — Contrato de Nota Canônica Narrativa
 - [x] **C.1** Formalização do [[Contrato-de-Nota-Canonica-Narrativa]] definindo o padrão de memória institucional.
@@ -25,9 +25,9 @@ Este documento é o backlog canônico da frente de ingestão, paridade e governa
 - [x] **C.3** Separação transparente de fatos documentados, interpretações operacionais e incertezas/pendências.
 - [x] **C.4** Regra de distinção temporal (`planejado` → `aprovado` → `agendado` → `executado` → `observado`).
 
-### Fase D — Protocolo do ChatGPT Agendado
-- [x] **D.1** Protocolo detalhado em [[ChatGPT-Protocolo-de-Ingestao-Agendada]] (18 passos operacionais).
-- [x] **D.2** Definição estrita do papel do ChatGPT como interpretador editorial e do Python como garantia determinística.
+### Fase D — Protocolo do ChatGPT Agendado (GitHub-First)
+- [x] **D.1** Protocolo detalhado em [[ChatGPT-Protocolo-de-Ingestao-Agendada]] (18 passos operacionais no paradigma **GitHub-First**).
+- [x] **D.2** Definição estrita do papel do ChatGPT como interpretador editorial (sem depender de shell/Python local) e do Python como validador determinístico.
 - [x] **D.3** Definição do fluxo de silêncio sem novidade material (sem PRs ruidosos).
 
 ### Fase E — Refatoração dos Claims de Evidência

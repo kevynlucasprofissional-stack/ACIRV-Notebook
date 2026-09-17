@@ -9,7 +9,7 @@ confidencialidade: interno
 
 # Relatório de Cobertura e Paridade — ACIRV Notebook
 
-> Gerado em: `2026-09-17T18:32:18.470309+00:00`
+> Gerado em: `2026-09-17T18:44:30.060993+00:00`
 
 ## 1. Cobertura de Fontes (000-Arquivos-originais/)
 
@@ -66,5 +66,5 @@ confidencialidade: interno
 
 | Caminho Sensível | Bloqueado Pré-Leitura | Motivo do Safety Gate |
 |---|:---:|---|
-| `000-Arquivos-originais/Contas e Senhas.md` | SIM | caminho confirmado sensível na auditoria de segurança: 000-Arquivos-originais/Contas e Senhas.md |
 | `000-Arquivos-originais/Minha Chave API Antropic.md` | SIM | caminho confirmado sensível na auditoria de segurança: 000-Arquivos-originais/Minha Chave API Antropic.md |
+| `000-Arquivos-originais/Contas e Senhas.md` | SIM | caminho confirmado sensível na auditoria de segurança: 000-Arquivos-originais/Contas e Senhas.md |

@@ -29,8 +29,10 @@ import os
 import re
 import subprocess
 import tempfile
+import sys
 from pathlib import Path
 import pytest
+sys.path.insert(0, str(Path(__file__).parent))
 
 from safety_gate import classify, CONFIRMED_SENSITIVE_PATHS
 from inventariar_fontes import (
