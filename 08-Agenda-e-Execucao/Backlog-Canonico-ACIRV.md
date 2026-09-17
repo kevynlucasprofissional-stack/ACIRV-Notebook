@@ -1701,6 +1701,46 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1589 | Publicar peça institucional sobre respeito/diversidade, se aprovada | tarefa | Comunicação e marketing | `Planejamento de Junho — ACIRV + VCOM.md` | 11/06/2026 | 400 | ação explícita em tabela | `não_reconciliado` |
 | 1590 | Organizar backlog do Trello | tarefa | Processos e operação | `Planejamento de Junho — ACIRV + VCOM.md` | 11/06/2026 | 401 | ação explícita em tabela | `não_reconciliado` |
 | 1591 | Salvar materiais importantes no HD externo | tarefa | Comunicação e marketing | `Planejamento de Junho — ACIRV + VCOM.md` | 11/06/2026 | 402 | ação explícita em tabela | `não_reconciliado` |
+| 1592 | Procurar parceiros, clientes e fornecedores | investigação | Comunicação e marketing | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 94 | ação explícita em lista | `não_reconciliado` |
+| 1593 | Apresentar o início dos preparativos, o papel da ACIRV como realizadora e o que será construído nas próximas semanas | tarefa | Comunicação e marketing | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 127 | ação explícita em linha | `não_reconciliado` |
+| 1594 | Enviar SPED e eSocial | tarefa | Comunicação e marketing | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 146 | ação explícita em lista | `não_reconciliado` |
+| 1595 | Faça o cadastro por QR Code | tarefa | Comunicação e marketing | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 277 | ação explícita em lista | `não_reconciliado` |
+| 1596 | Criar Stories separados, marcando associados desses segmentos | tarefa | Social Media | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 513 | ação explícita em linha | `não_reconciliado` |
+| 1597 | Padronizar sempre Casa do Empreendedor, evitando alternância com “Casa do Empresário” | tarefa | Comunicação e marketing | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 677 | ação explícita em linha | `não_reconciliado` |
+| 1598 | Enviar, preferencialmente, duas comunicações semanais | tarefa | Comunicação e marketing | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 790 | ação explícita em linha | `não_reconciliado` |
+| 1599 | Publicar | tarefa | Comunicação e marketing | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 799 | ação explícita em linha | `não_reconciliado` |
+| 1600 | Validar lista e logos dos expositores | investigação | Comunicação e marketing | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 833 | ação explícita em tabela | `não_reconciliado` |
+| 1601 | Teste do Matchmaker, revisão LGPD, produção das artes dos pins | melhoria | Comunicação e marketing | `Planejamento de conteúdo da ACIRV - Agosto de 2026.md` |  | 835 | ação explícita em tabela | `não_reconciliado` |
+| 1602 | Acompanhe as Novidades / Notícias | tarefa | Comunicação e marketing | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 1260 | ação explícita em tabela | `não_reconciliado` |
+| 1603 | Transformar em grid mais bonito | tarefa | Comunicação e marketing | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 1262 | ação explícita em tabela | `não_reconciliado` |
+| 1604 | Criar cards mais escaneáveis | tarefa | Processos e operação | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 1265 | ação explícita em tabela | `não_reconciliado` |
+| 1605 | criar landing pages de campanha | tarefa | Comunicação e marketing | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 1577 | ação explícita em lista | `não_reconciliado` |
+| 1606 | criar páginas interativas | tarefa | Comunicação e marketing | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 1578 | ação explícita em lista | `não_reconciliado` |
+| 1607 | testar ideias antes de levar para o WordPress | ideia | Sites e presença digital | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 1579 | ação explícita em lista | `não_reconciliado` |
+| 1608 | Procure por Import / Export Kit ou Website Templates | tarefa | Sites e presença digital | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 1734 | ação explícita em lista | `não_reconciliado` |
+| 1609 | Procurar por Templates, Modelos salvos, Ferramentas ou Importar/Exportar Kit | investigação | Comunicação e marketing | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 2013 | ação explícita em lista | `não_reconciliado` |
+| 1610 | Salve | tarefa | Comunicação e marketing | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 2093 | ação explícita em lista | `não_reconciliado` |
+| 1611 | Substituir o Slider Revolution por um Hero moderno no Elementor | tarefa | Comunicação e marketing | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 2388 | ação explícita em lista | `não_reconciliado` |
+| 1612 | Padronizar tudo com CSS/classes acirv- | tarefa | Comunicação e marketing | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 2396 | ação explícita em lista | `não_reconciliado` |
+| 1613 | testar ideias antes de converter | ideia | Comunicação e marketing | `Plano de como trabalhar no site da ACIRV - Lovable + Wordpress.md` |  | 2896 | ação explícita em tabela | `não_reconciliado` |
+| 1614 | Peça a saída em JSON, YAML, XML ou Markdown | tarefa | Comunicação e marketing | `Playbook Engenharia de Prompt.md` |  | 36 | ação explícita em lista | `não_reconciliado` |
+| 1615 | Defini um papel/persona claro no início do prompt? (System Prompt) | tarefa | Comunicação e marketing | `Playbook Engenharia de Prompt.md` |  | 92 | checkbox explícito | `não_reconciliado` |
+| 1616 | Forneci instruções dizendo o que *fazer* em vez de apenas o que *não fazer*? | tarefa | Comunicação e marketing | `Playbook Engenharia de Prompt.md` |  | 93 | checkbox explícito | `não_reconciliado` |
+| 1617 | Inseri contexto relevante e excluí o lixo informacional? | tarefa | Comunicação e marketing | `Playbook Engenharia de Prompt.md` |  | 94 | checkbox explícito | `não_reconciliado` |
+| 1618 | Coloquei a instrução principal e a pergunta no final do prompt para fugir do *Valley of Meh*? | tarefa | Comunicação e marketing | `Playbook Engenharia de Prompt.md` |  | 95 | checkbox explícito | `não_reconciliado` |
+| 1619 | Pedi uma saída em um formato rigoroso (JSON/Markdown) para facilitar a automação? | tarefa | Comunicação e marketing | `Playbook Engenharia de Prompt.md` |  | 96 | checkbox explícito | `não_reconciliado` |
+| 1620 | Mostrei pelo menos 2 exemplos (Few-shot) do que eu considero uma resposta perfeita? | tarefa | Comunicação e marketing | `Playbook Engenharia de Prompt.md` |  | 97 | checkbox explícito | `não_reconciliado` |
+| 1621 | Pedi para a IA "pensar passo a passo" e mostrar a lógica antes de me dar a resposta final? | tarefa | Comunicação e marketing | `Playbook Engenharia de Prompt.md` |  | 98 | checkbox explícito | `não_reconciliado` |
+| 1622 | "Forcei a largada" (Inception) escrevendo a primeira palavra da resposta esperada (Ex | tarefa | Comunicação e marketing | `Playbook Engenharia de Prompt.md` |  | 99 | checkbox explícito | `não_reconciliado` |
+| 1623 | Faça um "pitch" (resumo de 2 linhas) vendendo a pauta | tarefa | Comunicação e marketing | `Playbook de Releases.md` | 21/11/2025 | 78 | ação explícita em lista | `não_reconciliado` |
+| 1624 | Enviar mensagem para o cara que me vendeu o capcut pro 1 ano e pegar meu acesso canva | tarefa | Comunicação e marketing | `Preciso resolver na segunda dia 230326.md` | 22/03/2026 | 7 | ação explícita em linha | `não_reconciliado` |
+| 1625 | Promover relacionamento empresarial estratégico, incentivar parcerias e fortalecer o ecossistema de negócios local | tarefa | Comunicação e marketing | `Projetos e Programas ACIRV.md` | 27/05/2026 | 54 | ação explícita em linha | `não_reconciliado` |
+| 1626 | Criar apenas uma tela inicial limpa, leve e neutra, que sirva como placeholder para edições futuras | tarefa | Comunicação e marketing | `Prompt para Projeto Lovable em Branco.md` | 31/03/2026 | 24 | ação explícita em linha | `não_reconciliado` |
+| 1627 | Falta de encaminhamentos claros | decisão com ação | Comunicação e marketing | `Prompt para criar dossiê.md` |  | 360 | ação explícita em lista | `não_reconciliado` |
+| 1628 | Falta de responsáveis | decisão com ação | Comunicação e marketing | `Prompt para criar dossiê.md` |  | 368 | ação explícita em lista | `não_reconciliado` |
+| 1629 | Produza um documento que possa ser usado como memória oficial do evento | tarefa | Comunicação e marketing | `Prompt para criar dossiê.md` |  | 564 | ação explícita em lista | `não_reconciliado` |
+| 1630 | apresentar uma chamada para ação | tarefa | Comunicação e marketing | `Prompt seja Vivi.md` |  | 215 | ação explícita em lista | `não_reconciliado` |
+| 1631 | apresente o benefício ou significado principal | tarefa | Comunicação e marketing | `Prompt seja Vivi.md` |  | 333 | ação explícita em lista | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
