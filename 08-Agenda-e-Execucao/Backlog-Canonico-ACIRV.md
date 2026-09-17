@@ -2730,6 +2730,7 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 2559 | Cada post, cada story, cada vídeo precisa responder a uma pergunta: "Como isso reforça a ideia de que fazer parte da ACIRV é essencial para quem quer vencer nos negócios?" | ideia | Social Media | `Responsabilidades do Social Media ACIRV - Com comentários.md` | 17/11/2025 | residual/outro ano | 474 | trecho narrativo com intenção operacional | `não_reconciliado` |
 | 2560 | É redefinir o que eles deveriam estar pedindo | decisão com ação | Comunicação e marketing | `Responsabilidades do Social Media ACIRV - Com comentários.md` | 17/11/2025 | residual/outro ano | 480 | trecho narrativo com intenção operacional | `não_reconciliado` |
 | 2561 | Precisamos estruturar quem está ouvindo e o que queremos que eles percebam | decisão com ação | Comunicação e marketing | `Carrossel Retrospectiva.md` | 04/12/2025 | residual/outro ano | 8 | trecho narrativo com intenção operacional | `não_reconciliado` |
+| 2562 | Presidente, para fechar o balanço de 2025 com precisão, sua equipe precisa preencher estas lacunas | decisão com ação | Comunicação e marketing | `Retrospectiva 2025 - DADOS.md` | 28/11/2025 | residual/outro ano | 58 | trecho narrativo com intenção operacional | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
