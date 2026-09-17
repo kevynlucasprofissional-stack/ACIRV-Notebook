@@ -1557,6 +1557,19 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1445 | A assinatura emocional foi usada quando faz sentido? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1610 | checkbox explícito | `não_reconciliado` |
 | 1446 | O texto termina com clareza e coerência institucional? | tarefa | Comunicação e marketing | `Manual de Tom de Voz ACIRV V5.md` | 30/04/2026 | 1611 | checkbox explícito | `não_reconciliado` |
 | 1447 | Preciso desenvolver uma solução de matchmaking profissional, semelhante à lógica de um aplicativo como o Tinder. Para orientar o projeto, vou anexar a transcrição da reunião e as anotações feitas durante a discussão | decisão com ação | Comunicação e marketing | `230726 Prompt do matchmaker da SudoExpo.md` | 23/07/2026 | 1 | ação explícita em linha | `não_reconciliado` |
+| 1448 | Gravar de 4 a 6 takes curtos | tarefa | Comunicação e marketing | `Operacional cobertura estande ACIRV - 100926.md` |  | 7 | ação explícita em linha | `não_reconciliado` |
+| 1449 | Adicionar | tarefa | Comunicação e marketing | `Operacional cobertura estande ACIRV - 100926.md` |  | 271 | ação explícita em linha | `não_reconciliado` |
+| 1450 | Fazer um take contínuo de 8–15 segundos mostrando empresários conversando | tarefa | Comunicação e marketing | `Operacional cobertura estande ACIRV - 100926.md` |  | 361 | ação explícita em linha | `não_reconciliado` |
+| 1451 | Produzir | tarefa | Comunicação e marketing | `Operacional cobertura estande ACIRV - 100926.md` |  | 451 | ação explícita em tabela | `não_reconciliado` |
+| 1452 | Deve concentrar energia principalmente nos quatro editados | decisão com ação | Comunicação e marketing | `Operacional cobertura estande ACIRV - 100926.md` |  | 475 | ação explícita em linha | `não_reconciliado` |
+| 1453 | Cordinha | tarefa | Comunicação e marketing | `Orçamentos e pedidos para a SudoExpo.md` |  | 1 | checkbox explícito | `não_reconciliado` |
+| 1454 | Crachás | tarefa | Comunicação e marketing | `Orçamentos e pedidos para a SudoExpo.md` |  | 2 | checkbox explícito | `não_reconciliado` |
+| 1455 | Mapa em XPS | tarefa | Comunicação e marketing | `Orçamentos e pedidos para a SudoExpo.md` |  | 4 | checkbox explícito | `não_reconciliado` |
+| 1456 | "Aqui todos crescem conectados" em led | tarefa | Conecta ACIRV | `Orçamentos e pedidos para a SudoExpo.md` |  | 5 | checkbox explícito | `não_reconciliado` |
+| 1457 | ACIRV e "A casa do empresário em Rio Verde" em PVC | tarefa | Comunicação e marketing | `Orçamentos e pedidos para a SudoExpo.md` |  | 6 | checkbox explícito | `não_reconciliado` |
+| 1458 | Logos ACIRV Mulher, Conecta, Cam-ACIRV e Fórum de RH | tarefa | Conecta ACIRV | `Orçamentos e pedidos para a SudoExpo.md` |  | 7 | checkbox explícito | `não_reconciliado` |
+| 1459 | Criar um post de impacto, claro e comemorativo, com linguagem positiva e institucional | tarefa | Comunicação e marketing | `Output padrão para briefing.md` | 15/12/2025 | 28 | ação explícita em lista | `não_reconciliado` |
+| 1460 | Garantir aplicação correta das cores e identidade visual da ACIRV | tarefa | Comunicação e marketing | `Output padrão para briefing.md` | 15/12/2025 | 107 | ação explícita em lista | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
