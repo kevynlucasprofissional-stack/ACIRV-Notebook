@@ -2020,6 +2020,7 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 1908 | Preparar o briefing e estabelecer nova data de entrega | tarefa | Processos e operação | `relatorio_acirv_scrum_13-07_a_17-07-2026.md` |  | 47 | ação explícita em tabela | `não_reconciliado` |
 | 1909 | Definir a entrega relacionada ao projeto e reagendar | tarefa | Comunicação e marketing | `relatorio_acirv_scrum_13-07_a_17-07-2026.md` |  | 48 | ação explícita em tabela | `não_reconciliado` |
 | 1910 | Produzir o briefing e definir uma nova data nesta semana | tarefa | Processos e operação | `relatorio_acirv_scrum_13-07_a_17-07-2026.md` |  | 50 | ação explícita em tabela | `não_reconciliado` |
+| 1911 | Vamos posicionar a ACIRV não como uma "entidade burocrática", mas como o Hub Essencial de Crescimento | decisão com ação | Comunicação e marketing | `Carrossel Retrospectiva.md` | 04/12/2025 | 27 | ação explícita em linha | `não_reconciliado` |
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
