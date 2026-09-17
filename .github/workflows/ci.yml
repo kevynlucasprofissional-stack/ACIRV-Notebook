@@ -1,0 +1,51 @@
+name: Ingestion & Parity CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: read
+
+jobs:
+  validate-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytest pytest-subtests
+
+      - name: Validate claims & referential integrity
+        run: |
+          python 98-Infraestrutura/ingestao/claims.py .
+
+      - name: Validate vault invariants
+        run: |
+          python 98-Infraestrutura/ingestao/validar_invariantes.py .
+
+      - name: Run test suite
+        run: |
+          cd 98-Infraestrutura/ingestao
+          python -m pytest test_invariantes.py -v
+
+      - name: Verify original sources immutability
+        run: |
+          git status --porcelain 000-Arquivos-originais/
+          if [ -n "$(git status --porcelain 000-Arquivos-originais/)" ]; then
+            echo "CI FAIL: 000-Arquivos-originais/ was modified!"
+            exit 1
+          fi
