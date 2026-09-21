@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Relatório de Agosto"
             }
+          },
+          {
+            "id": "253b2cae27098943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hermes/Planejamento 4º Trimestre de 2026/01-planejamento/v2/2026-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09"
+            }
+          },
+          {
+            "id": "38c0acc6f03526ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/170926 Save prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "170926 Save prompt"
+            }
+          },
+          {
+            "id": "4777e6fd1c525ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mais alguns prompts voltados a engenharia de software"
+            }
+          },
+          {
+            "id": "ef271564738212d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/0926 Melhorias Hermes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0926 Melhorias Hermes"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,45 +243,53 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "1f687008f8df4efa",
+  "active": "ef271564738212d5",
   "lastOpenFiles": [
-    "08-Agenda-e-Execucao/170926 - Investigação Hermes Work por Antigravity.md",
-    "000-Arquivos-originais/170926 - Investigação Hermes Work por ChatGPT.md",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/Screenshot_20260921_041800_Instagram.jpg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/Screenshot_20260921_041753_Instagram.jpg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/Screenshot_20260921_041624_Instagram.jpg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/motion_photo_3204036170506940541.jpg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260910-WA0021.jpg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0042.jpeg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0039.jpeg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0036.jpeg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0034.jpeg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0027.jpeg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0025.jpeg",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Briefing inicial/Relatório Sudoexpo pt2.txt",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Briefing inicial/Relatório SudoExpo pt1.txt",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Briefing inicial/Apresentação diretoria Pt3.txt",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Pesquisa de Satisfação — Estande ACIRV _ SudoExpo 2026 (respostas).xlsx",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Pesquisa de satisfação do Café Entre Amigos no qual foi lançado o SudoExpo Match.xlsx",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/EXPECTATIVA - Fotos ESTANDE",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/CONTEXTO_UNIFICADO_SUDOEXPO_MATCH.md",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Contexto repositório de anotações.md",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Contexto conversas do zap.md",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Briefing inicial",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/210926 - sudoexpo-match-base-completa.json",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/18 a 200926 - Aulas de Estratégia de Marketing com Prof. Igdal.md",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo",
+    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+    "000-Arquivos-originais/0926 Melhorias Hermes.md",
+    "Hermes/Planejamento 4º Trimestre de 2026/01-planejamento/v2/2026-09.md",
+    "000-Arquivos-originais/170926 Save prompt.md",
     "000-Arquivos-originais/Relatório de Agosto.md",
+    "000-Arquivos-originais/180926 Abstrações Hermes Work.md",
+    "000-Arquivos-originais/Um estudo de Lara Dutra.md",
+    "ChatGPT/Ingestao-Agendada.md",
+    "98-Infraestrutura/Decisao-Arquitetural-Ingestao-Narrativa.md",
+    "98-Infraestrutura/Contrato-de-Nota-Canonica-Narrativa.md",
+    "pr_body.md",
+    "roadmap.md",
+    "Hermes/Ingestao-e-Paridade.md",
+    "98-Infraestrutura/Sistema-de-Ingestao.md",
+    "85-Bases-e-Consultas/Relatorio-de-Cobertura.md",
+    "07-Reunioes-e-Decisoes/Reuniao-Organizacao-SudoExpo-13-07-2026.md",
+    "07-Reunioes-e-Decisoes/Reuniao-Marketing-03-08-2026.md",
+    "000-Arquivos-originais/170926 - Investigação Hermes Work por Antigravity.md",
+    "000-Arquivos-originais/170926 - Investigação Hermes Work por ChatGPT.md",
     "000-Arquivos-originais/Relatório de Julho de 2026.md",
-    "000-Arquivos-originais/(1º Conecta de 2026) Planejamento.md",
-    "000 - Notas/00_rascunho.md",
-    "000 - Notas/Inteligência do Hermes.md",
-    "000 - Notas/Releaser.md",
-    "000 - Notas/Relatório de Agosto.md",
-    "Hermes/Planejamento 4º Trimestre de 2026/05-auditoria/REVISAO_BRIEFINGS_LOTE_PILOTO_v2.2.md",
-    "Hermes/Planejamento 4º Trimestre de 2026/03-integracoes/LOTE_PILOTO_TRELLO_SYNC.md",
-    "Hermes/Planejamento 4º Trimestre de 2026/02-estado/execution_state_v2.json.backup-local-1549",
-    "Hermes/Planejamento 4º Trimestre de 2026/01-planejamento/v2/PADRAO_BRIEFING_PRODUCAO.md",
-    "000 - Notas/150926 A fazer.md",
-    "000 - Notas/0926 Melhorias Hermes.md",
-    "000 - Notas/Sem título.md",
-    "000 - Notas/Graph View no Admin (estilo Obsidian).md",
-    "000 - Notas/Pontos de melhoria.md",
-    "000 - Notas/Nova paleta de cores da ACIRV.md",
-    "000 - Notas/Contas e Senhas.md",
-    "000 - Notas/Como funciona o MatchMaker.md",
-    "000 - Notas/Conexões Sudoexpo.md",
-    "000 - Notas/Roteiro Thomas.md",
-    "000 - Notas/Operacional cobertura estande ACIRV - 100926.md",
-    "000 - Notas/Estratégia de cobertura estande ACIRV - 100926.md",
-    "97-Fontes-Brutas/04-Anexos/{5DFD2406-3C72-4C69-8C16-D37454729740}.png",
-    "000 - Notas/Separação de matchs por evento.md",
-    "000 - Notas/Ideias para dar uso a motinha.md",
-    "97-Fontes-Brutas/04-Anexos/WhatsApp Image 2026-08-03 at 09.25.26 1.jpeg",
-    "97-Fontes-Brutas/04-Anexos/WhatsApp Image 2026-08-03 at 09.25.26.jpeg",
-    "97-Fontes-Brutas/04-Anexos/Pasted image 20260806085709.png",
-    "97-Fontes-Brutas/04-Anexos/Pasted image 20260806085704.png",
-    "97-Fontes-Brutas/04-Anexos/{AC551884-E8E3-41EE-83C4-4CCF8BD7034E}.png",
-    "97-Fontes-Brutas/04-Anexos/{D786DD65-FF64-4D6A-817B-482954336667}.png",
-    "97-Fontes-Brutas/04-Anexos/{82A3BEDE-C7CE-472E-AAD5-B0656C449B57}.png",
-    "97-Fontes-Brutas/04-Anexos/{2881FDA4-415F-4489-BC5F-8B382040E64E}.png",
-    "97-Fontes-Brutas/04-Anexos/{EC108031-C173-434F-889C-8FC6843E2E4B}.png",
-    "000 - Notas/Matchmaker SudoExpo"
+    "000-Arquivos-originais/(1º Conecta de 2026) Planejamento.md"
   ]
 }

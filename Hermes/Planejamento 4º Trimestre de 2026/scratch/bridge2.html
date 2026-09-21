@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head><meta charset="utf-8"><title>canon-bridge2</title></head>
+<body>
+<p id="s">carregando canon…</p>
+<script>
+(async () => {
+  const s = document.getElementById('s');
+  try {
+    const r = await fetch('/canon.json', {cache: 'no-store'});
+    const j = await r.json();
+    window.name = '__CANON__' + JSON.stringify(j);
+    s.textContent = 'window.name set: ' + Object.keys(j).length + ' posts, ' + ('__CANON__'.length + JSON.stringify(j).length) + ' chars';
+  } catch (e) {
+    s.textContent = 'ERRO: ' + e.message;
+  }
+})();
+</script>
+</body>
+</html>

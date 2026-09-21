@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head><meta charset="utf-8"><title>canon-bridge</title></head>
+<body>
+<p id="s">enviando canon para o opener…</p>
+<script>
+(async () => {
+  const s = document.getElementById('s');
+  try {
+    const r = await fetch('/canon.json', {cache: 'no-store'});
+    const j = await r.json();
+    const payload = {__canonBridge: true, canon: j};
+    const send = () => { try { if (window.opener) window.opener.postMessage(payload, '*'); } catch (e) {} };
+    // envia algumas vezes para garantir entrega após o listener existir
+    let n = 0;
+    const iv = setInterval(() => { send(); if (++n >= 6) clearInterval(iv); }, 400);
+    send();
+    s.textContent = 'canon enviado (' + Object.keys(j).length + ' posts)';
+  } catch (e) {
+    s.textContent = 'ERRO: ' + e.message;
+  }
+})();
+</script>
+</body>
+</html>
