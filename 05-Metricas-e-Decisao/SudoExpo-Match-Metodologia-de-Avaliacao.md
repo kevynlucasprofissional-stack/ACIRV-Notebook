@@ -26,6 +26,7 @@ fontes_documentais:
 - '[[Contexto-Mega-Relatorio-Pos-SudoExpo]]'
 notas_relacionadas:
 - '[[SudoExpo-2026]]'
+- '[[SudoExpo-Match]]'
 - '[[Cafe-Entre-Amigos]]'
 - '[[Politica-Editorial-de-Evidencia]]'
 - '[[Qualidade-dos-Dados-de-Marketing]]'
