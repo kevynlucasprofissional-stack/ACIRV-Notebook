@@ -25,6 +25,7 @@ notas_relacionadas:
 - '[[Registro-de-Decisoes]]'
 - '[[SudoExpo-2026]]'
 - '[[SudoExpo-Match-Metodologia-de-Avaliacao]]'
+- '[[SudoExpo-Match]]'
 - '[[Diagnostico-e-Governanca-de-Adocao-de-IA]]'
 confidencialidade: interno
 subtipo: pendencia
