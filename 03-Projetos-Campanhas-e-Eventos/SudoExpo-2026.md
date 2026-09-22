@@ -28,6 +28,7 @@ notas_relacionadas:
 - '[[Conecta-ACIRV]]'
 - '[[Forum-de-IA]]'
 - '[[SudoExpo-Match-Metodologia-de-Avaliacao]]'
+- '[[SudoExpo-Match]]'
 - '[[Qualidade-dos-Dados-de-Marketing]]'
 - '[[Pesquisa-e-Aprendizado-de-Marketing]]'
 confidencialidade: interno
