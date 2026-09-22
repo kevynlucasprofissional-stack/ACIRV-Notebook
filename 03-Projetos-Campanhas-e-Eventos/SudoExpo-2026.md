@@ -40,7 +40,7 @@ subtipo: evento
 > [!summary] Síntese
 > A SudoExpo 2026 foi a principal frente integrada de presença institucional da ACIRV em setembro: estande, Conecta, Fórum de IA, conteúdo, relacionamento e o experimento SudoExpo Match. Depois da feira, o problema deixou de ser apenas registrar o que foi planejado e passou a ser separar **entrega**, **pedidos extras**, **dependências externas**, **experiência do público** e **resultado mensurável**. O corpus pós-evento agora é suficiente para essa análise, mas vários resultados ainda dependem de reconciliação programática e validação humana.
 
-## Realização
+## Datas e cronograma
 
 - **Data:** 09 a 12 de setembro de 2026.
 - **Local geral:** Rio Verde-GO.
@@ -54,7 +54,7 @@ As mudanças de cronograma acima refletem a revisão documentada em 31/08/2026.
 
 > Fonte: `000-Arquivos-originais/310826 - Mudanças mais recentes do cronograma.md` — blob `e48fd481`.
 
-## Estande: conceito e intenção
+## Estande ACIRV
 
 **Conceito criativo aprovado:** “Estande ACIRV, a casa do empresário na SudoExpo”.
 
@@ -192,9 +192,11 @@ Aplicação:
 
 Esse ciclo conecta a SudoExpo a [[Pesquisa-e-Aprendizado-de-Marketing]] e evita que o pós-evento seja apenas uma prestação de contas visual.
 
-## KPI e orçamento de planejamento
+## KPI principal
 
 O planejamento registrou como KPI principal a quantidade de visitantes da feira, com orientação para intensificar divulgação.
+
+## Orçamento de comunicação
 
 O corpus de planejamento também registra:
 
@@ -207,7 +209,7 @@ O corpus de planejamento também registra:
 
 Esses valores descrevem o estado documentado do planejamento; não equivalem a prestação de contas financeira final.
 
-## Situação financeira
+### Situação financeira
 
 A anotação “situação financeira complicada” de 03/08/2026 foi validada em 17/09/2026 como **impressão operacional qualitativa pós-reunião de diretoria**, não déficit contábil auditado.
 
