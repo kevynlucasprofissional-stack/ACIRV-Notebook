@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f687008f8df4efa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Arquivos-originais/Relatório de Agosto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Relatório de Agosto"
-            }
-          },
-          {
-            "id": "253b2cae27098943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hermes/Planejamento 4º Trimestre de 2026/01-planejamento/v2/2026-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09"
-            }
-          },
-          {
-            "id": "38c0acc6f03526ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Arquivos-originais/170926 Save prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "170926 Save prompt"
-            }
-          },
-          {
             "id": "4777e6fd1c525ad8",
             "type": "leaf",
             "state": {
@@ -76,9 +34,51 @@
               "icon": "lucide-file",
               "title": "0926 Melhorias Hermes"
             }
+          },
+          {
+            "id": "8d32146e5a7cd8f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Contas e Senhas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contas e Senhas"
+            }
+          },
+          {
+            "id": "e6ac2b7b7ddd4ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/210926 Reunião com equipe de Marketing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "210926 Reunião com equipe de Marketing"
+            }
+          },
+          {
+            "id": "ede0b74a5c10afa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/220926 Alterações no catálogo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "220926 Alterações no catálogo"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - Notas/200826.md",
+                "file": "000-Arquivos-originais/210926 Reunião com equipe de Marketing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -243,22 +243,31 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d6034eea8940cdf4",
+  "active": "e6ac2b7b7ddd4ba2",
   "lastOpenFiles": [
+    "95-Auditorias/Contexto-Mega-Relatorio-Pos-SudoExpo.md",
+    "000-Arquivos-originais/220926 Alterações no catálogo.md",
+    "000-Arquivos-originais/210926 Reunião com equipe de Marketing.md",
+    "000-Arquivos-originais/Contas e Senhas.md",
+    "000-Arquivos-originais/0926 Melhorias Hermes.md",
+    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+    "000-Arquivos-originais/Relatório de Agosto.md",
+    "Hermes/Planejamento 4º Trimestre de 2026/01-planejamento/v2/2026-09.md",
+    "000-Arquivos-originais/170926 Save prompt.md",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/lu11880gjesb.tmp",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/Foto Neon Sudoexpo.png",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/Não confirmado 649424.crdownload",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/lu11880gjes6.tmp",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/ACIRV_Relatorio_FINAL_Pos_SudoExpo_2026.odp",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/lu11880gjes3.tmp",
+    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo.zip",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Projeto de reorganização do Drive/acirv_reorganizador_seguro_v2_1.py",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Projeto de reorganização do Drive/ACIRV_Acervo_Digital_Diretoria_v2.pptx",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Projeto de reorganização do Drive",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Nova pasta",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/CONTEXTO_EVENTO_PARCERIA_RAPHAEL.md",
-    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Material Balestrin/Perguntas pesquisa do Balestrin.json",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Material Balestrin/Perguntas pesquisa do Balestrin.md",
-    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Material Balestrin/Perguntas pesquisa do Balestrin.csv",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Material Balestrin/igpro-perguntas.md",
-    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Material Balestrin/igpro-perguntas.json",
-    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Material Balestrin",
-    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Perguntas pesquisa do Balestrin.csv",
-    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/igpro-perguntas.csv",
-    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Redes sociais/instagram_acirvoficial_insights_agosto_2026_MASTER(1).xlsx",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/Screenshot_20260921_041800_Instagram.jpg",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/Screenshot_20260921_041753_Instagram.jpg",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/Screenshot_20260921_041624_Instagram.jpg",
@@ -268,16 +277,10 @@
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0039.jpeg",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0036.jpeg",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0034.jpeg",
-    "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/REALIDADE - Fotos ESTANDE/IMG-20260909-WA0027.jpeg",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/CONTEXTO_UNIFICADO_SUDOEXPO_MATCH.md",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Contexto repositório de anotações.md",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Contexto conversas do zap.md",
     "000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/18 a 200926 - Aulas de Estratégia de Marketing com Prof. Igdal.md",
-    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
-    "000-Arquivos-originais/0926 Melhorias Hermes.md",
-    "Hermes/Planejamento 4º Trimestre de 2026/01-planejamento/v2/2026-09.md",
-    "000-Arquivos-originais/170926 Save prompt.md",
-    "000-Arquivos-originais/Relatório de Agosto.md",
     "000-Arquivos-originais/180926 Abstrações Hermes Work.md",
     "000-Arquivos-originais/Um estudo de Lara Dutra.md",
     "ChatGPT/Ingestao-Agendada.md",
@@ -287,9 +290,6 @@
     "roadmap.md",
     "Hermes/Ingestao-e-Paridade.md",
     "98-Infraestrutura/Sistema-de-Ingestao.md",
-    "85-Bases-e-Consultas/Relatorio-de-Cobertura.md",
-    "07-Reunioes-e-Decisoes/Reuniao-Organizacao-SudoExpo-13-07-2026.md",
-    "07-Reunioes-e-Decisoes/Reuniao-Marketing-03-08-2026.md",
-    "000-Arquivos-originais/170926 - Investigação Hermes Work por Antigravity.md"
+    "85-Bases-e-Consultas/Relatorio-de-Cobertura.md"
   ]
 }
