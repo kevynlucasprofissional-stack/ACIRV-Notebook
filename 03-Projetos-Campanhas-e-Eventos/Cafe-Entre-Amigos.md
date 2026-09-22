@@ -25,6 +25,7 @@ notas_relacionadas:
 - '[[Processo-de-Release]]'
 - '[[Calendario-Editorial-e-de-Eventos]]'
 - '[[SudoExpo-Match-Metodologia-de-Avaliacao]]'
+- '[[SudoExpo-Match]]'
 confidencialidade: interno
 subtipo: programa
 ---
