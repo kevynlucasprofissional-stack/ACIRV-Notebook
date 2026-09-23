@@ -66,6 +66,19 @@ Nesses casos o agente deve:
 
 A remoção de uma credencial real do repositório ou do histórico Git é uma ação de segurança humana deliberada e deve vir acompanhada de rotação/revogação; apagar apenas o arquivo não torna um segredo histórico seguro.
 
+## Regra de auto-merge para curadoria e automações
+
+Agentes e automações estão **autorizados a fazer merge automático no `main`** de PRs de curadoria, organização, análise, infraestrutura ou evolução do vault, desde que o diff da PR **não altere nenhum caminho dentro de `000-Arquivos-originais/`**.
+
+Antes do merge automático, o agente deve verificar a lista real de arquivos alterados da PR. A regra é binária:
+
+- se **nenhum** arquivo alterado estiver sob o prefixo `000-Arquivos-originais/`, o merge automático no `main` está autorizado;
+- se **qualquer** arquivo alterado estiver sob `000-Arquivos-originais/`, o merge automático é proibido e a PR deve permanecer sem merge até revisão humana deliberada.
+
+Essa autorização vale inclusive para mudanças produzidas por auditorias curatorias diárias. Branch e PR continuam preferíveis quando ajudam rastreabilidade, mas **aprovação humana não é requisito para o merge** quando a camada original permanece intocada.
+
+Conflitos técnicos, proteções do GitHub ou impossibilidade material de merge devem ser reportados como bloqueios técnicos; eles não alteram a política acima.
+
 ## Fluxo de promoção de conhecimento
 
 O fluxo normal é unidirecional:
