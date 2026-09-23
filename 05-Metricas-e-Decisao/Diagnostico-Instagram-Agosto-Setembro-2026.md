@@ -156,7 +156,7 @@ O próprio `Controle` do workbook avisa que o painel de setembro **não expõe m
 Também há campos em que o painel mostra percentuais/texto quando se esperaria um valor numérico. A base derivada preserva:
 
 - valor bruto;
-- valor normalizado somente quando é numericamento seguro;
+- valor normalizado somente quando é numericamente seguro;
 - `metricas_ausentes`;
 - notas de coleta;
 - SHA e caminho da fonte.
