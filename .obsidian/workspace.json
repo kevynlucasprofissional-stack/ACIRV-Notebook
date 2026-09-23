@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4777e6fd1c525ad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mais alguns prompts voltados a engenharia de software"
-            }
-          },
-          {
             "id": "ef271564738212d5",
             "type": "leaf",
             "state": {
@@ -76,9 +62,23 @@
               "icon": "lucide-file",
               "title": "220926 Alterações no catálogo"
             }
+          },
+          {
+            "id": "7abee55ae7dd6ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mais alguns prompts voltados a engenharia de software"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -243,8 +243,27 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e6ac2b7b7ddd4ba2",
+  "active": "7abee55ae7dd6ab9",
   "lastOpenFiles": [
+    "08-Agenda-e-Execucao/Reconciliacao-Backlog-SCRUM.md",
+    "01-Estrategia-e-Marca/Design-System-ACIRV.md",
+    "000-Arquivos-originais/#PESQUISA - Um estudo sobre a questão das pesquisas dentro da ACIRV.md",
+    "000-Arquivos-originais/PESQUISA - Um estudo sobre a questão das pesquisas dentro da ACIRV.md",
+    "000-Arquivos-originais/Um estudo sobre a questão das pesquisas dentro da ACIRV.md",
+    "000-Arquivos-originais/ChatGPT-Localizar briefings iniciais-20260923-1503.md",
+    "000-Arquivos-originais/0926 Melhorias Hermes.md",
+    "000-Arquivos-originais/A ACIRV do futuro.md",
+    "000-Arquivos-originais/Acelerar o fluxo de feedback é acelerar o fluxo de evolução..md",
+    "000-Arquivos-originais/Futuro do Marketing da ACIRV.md",
+    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+    "000-Arquivos-originais/Contas e Senhas.md",
+    "000-Arquivos-originais/220926 Alterações no catálogo.md",
+    "roadmap.md",
+    "08-Agenda-e-Execucao/Agenda-de-90-Dias.md",
+    "07-Reunioes-e-Decisoes/Organizacao-SudoExpo-09-06-2026.md",
+    "07-Reunioes-e-Decisoes/Planejamento-de-Junho-2026.md",
+    "07-Reunioes-e-Decisoes/SCRUM-15-06-2026.md",
+    "000-Arquivos-originais/210926 Reunião com equipe de Marketing.md",
     "000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (1).json",
     "000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (2).json",
     "000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (3).json",
@@ -255,32 +274,13 @@
     "000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum.json",
     "000-Arquivos-originais/SCRUM da ACIRV + Vcom",
     "000-Arquivos-originais/ACIRV + VCOM SCRUM",
-    "000-Arquivos-originais/ACIRV + VCOM - SCRUM",
     "000-Arquivos-originais/00-GUIA-DE-CURADORIA-HD-EXTERNO.md",
-    "000-Arquivos-originais/220926 Alterações no catálogo.md",
-    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
     "85-Bases-e-Consultas/Manifestos/HD-ACIRV-ingestao-20260922-212106.md",
     "000-Arquivos-originais/HD-ACIRV/90-AI-Friendly-Pendente/_LEIA-ME.md",
     "000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Relatórios/2026/03 - MARÇO/Documentos para gerar a apresentação final/Outros/backlog_tarefas_de_verdade.md",
     "000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Relatórios/2026/03 - MARÇO/Documentos para gerar a apresentação final/Últimos comentários sobre o relatório de Março.md",
     "000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/_LONG_PATHS/Como apresentar a evolução do manual de tom de voz - V1 até o V4__e8f4d235.md",
     "000-Arquivos-originais/HD-ACIRV/12-Fontes-Secundarias-IA/KEVYN-DADOS-ACIRV/Relatórios/2026/03 - MARÇO/Documentos para gerar a apresentação final/ChatGPT-Rastreando Crescimento de Seguidores.md",
-    "000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Relatórios/2026/03 - MARÇO/Documentos para gerar a apresentação final/(RELATÓRIO MÉTRICAS) - Março.md",
-    "000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Relatórios/2026/03 - MARÇO/Documentos para gerar a apresentação final/(DADOS RELATÓRIO MÉTRICAS) - Março.md",
-    "000-Arquivos-originais/HD-ACIRV/06-Eventos/KEVYN-DADOS-ACIRV/Notas/SaaS Conecta ACIRV/Intensivo 03 a 040426/Histórico do Chat - Ecossistema ACIRV - ATUALIZADO 040420260321.md",
-    "000-Arquivos-originais/HD-ACIRV/06-Eventos/KEVYN-DADOS-ACIRV/Notas/SaaS Conecta ACIRV/010420260956 - Ajustes 02 do SaaS.md",
-    "000-Arquivos-originais/HD-ACIRV/06-Eventos/KEVYN-DADOS-ACIRV/Notas/SaaS Conecta ACIRV/010420260326 - Ajustes 01 do SaaS.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração completa.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 19.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 18.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 17.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 16.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 15.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 14.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 13.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 12.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 11.md",
-    "000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Retrospectiva 2025 - Planejamento/Extrações/Extração 10.md",
     "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/raquelcardosoborges_1701542767907086/photos/2091270038060388.jpg",
     "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/8917750451646207.png",
     "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/8126765880759650.png",

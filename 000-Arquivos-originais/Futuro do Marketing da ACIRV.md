@@ -1,0 +1,1 @@
+A ACIRV não deveria tomar decisões de marketing apenas com base em opinião, tradição ou intuição. Ela deveria construir mecanismos permanentes para observar comportamento, ouvir pessoas, comparar alternativas, descobrir os fatores que realmente determinam os resultados e melhorar continuamente cada ponto de conexão com seu público.

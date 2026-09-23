@@ -1,0 +1,1 @@
+A ACIRV do futuro será uma instituição capaz de aprender sistematicamente com as próprias interações.

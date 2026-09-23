@@ -1,6 +1,6 @@
 ## Prompt para criar prompt para IA
-Atualize no repositório o roadmap.md, o jornal de engenharia, o hermes work inteligence e qualquer outro documento necessário com essas descobertas que fizemos aqui.
-Agora cria um prompt para eu mandar para a IA que vai realizar essas implementações/ajustes e ela realizar esses pontos de melhoria que identificamos nas análises anexadas. Me vê um prompt para eu mandar e ele resolver tudo isso. Cria um prompt que permita que a IA não precise pensar muito nem ficar lendo nada, que ele saiba de imediato o que ele tem que fazer. Para isso, leia todo o necessário direto no @GitHub
+Atualize no repositório o roadmap.md, o jornal de engenharia, o hermes work inteligence e qualquer outro documento necessário com essas visões, descobertas e decisões que fizemos aqui. 
+Agora cria um prompt para eu mandar para a IA que vai realizar essas implementações/ajustes e ela realizar esses pontos de melhoria que identificamos. Me vê um prompt para eu mandar e a IA resolver tudo isso. Cria um prompt que permita que a IA não precise pensar muito nem ficar lendo nada, que ele saiba de imediato o que ele tem que fazer, quando tem fazer, em que ordem e em que local. Para isso, leia todo o necessário direto no @GitHub
 
 ## Juntar tudo no main
 Precisamos juntar essas alterações no main e sincronizar o main local com o main remoto (Main na nuvem do github).
@@ -73,4 +73,7 @@ No final, apresente um resumo objetivo contendo:
 - confirmação de que local e remoto estão sincronizados.
 
 ## Para analisar trabalho
-Ok, ajustes feitos. Analisa a qualidade do trabalho no main, está disponível no @GitHub
+Ok, ajustes feitos. Faz uma análise profunda da qualidade do trabalho realizado, está disponível no @GitHub , mas não fique preso só em melhorar o código atual, vê o que está ótimo, o que está ok, sugira corrigir o que for um erro crítico, mas se tiver erros simples que não afetam o fluxo geral do funcionamento, sugira passar para as próximas implementações. Precisamos corrigir o que for inaceitável, aceitar erros aceitáveis e partir para os próximos passos (Se é que existem erros aceitáveis).
+
+## Para reescrever o texto
+Mantém a essência do texto, mantém a idéia central e em algum nível tenta manter também o tom de voz, mas torne o texto bem escrito, fácil de entender e sem redundâncias:
