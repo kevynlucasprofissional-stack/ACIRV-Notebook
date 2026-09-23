@@ -6,10 +6,10 @@ tipo: canal
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-22'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -24,6 +24,7 @@ notas_relacionadas:
 - '[[Diagnostico-de-84-Posts]]'
 - '[[Calendario-Editorial-e-de-Eventos]]'
 - '[[Manual-Operacional-de-Tom-de-Voz]]'
+- '[[Diagnostico-Instagram-Agosto-2026]]'
 confidencialidade: interno
 subtipo: canal
 ---
@@ -48,6 +49,12 @@ Cada publicação precisa de pilar, público, objetivo, CTA, fonte, responsável
 ## Leitura dos dados
 
 A amostra de 84 posts mostra forte concentração de engajamento. Comparar formatos com cautela, pois tema, distribuição, data e mídia paga também influenciam.
+
+## Agosto de 2026
+
+A análise executiva mais recente separa duas funções do canal: **mídia paga como amplificação/descoberta** e **orgânico como laboratório de ressonância, intenção e aquisição**. O diagnóstico detalhado está em [[Diagnostico-Instagram-Agosto-2026]].
+
+A implicação é medir cada conteúdo pelo objetivo que ele tenta cumprir, em vez de usar visualizações como proxy universal de sucesso.
 
 ## Cadência
 
