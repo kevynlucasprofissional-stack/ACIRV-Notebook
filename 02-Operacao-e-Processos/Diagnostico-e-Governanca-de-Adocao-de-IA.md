@@ -6,10 +6,10 @@ tipo: processo
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-09-22'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio_alto
 camadas_evidencia:
 - recurso_pedagogico
@@ -168,6 +168,27 @@ Em vez de aplicar imediatamente as 100 perguntas, a primeira rodada pode respond
 - top 3 riscos;
 - áreas dispostas a pilotar;
 - resultado mínimo que provaria valor.
+
+## Telemetria aplicada ao trabalho humano
+
+A direção registrada em 23/09 propõe estudar métricas sobre atendimento, conexão e trabalho operacional. Esse caso merece governança própria porque uma camada de IA pode transformar dados de processo em avaliações aparentes sobre pessoas.
+
+A regra canônica é:
+
+> **telemetria deve ser instrumento de compreensão e melhoria do sistema, não mecanismo automático de culpa, vigilância ou punição.**
+
+Antes de usar IA sobre trabalho humano:
+- começar por métricas de processo e equipe;
+- declarar finalidade e quem terá acesso;
+- combinar quantidade, qualidade, resultado e contexto;
+- registrar limitações do indicador;
+- evitar ranking individual por volume bruto;
+- não inferir esforço, competência ou mérito de sinais indiretos;
+- permitir explicação de exceções;
+- auditar efeitos de Goodhart;
+- exigir revisão humana para qualquer decisão material sobre pessoas.
+
+O primeiro piloto recomendado é usar dados agregados da [[Pesquisa-Pos-Relatorio-Diario]] para entender bloqueios, imprevistos, retrabalho e capacidade. Ver [[Telemetria-do-Trabalho-Humano]].
 
 ## Hermes Work: enquadramento correto
 

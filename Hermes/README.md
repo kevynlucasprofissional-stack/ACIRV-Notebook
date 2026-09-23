@@ -2,7 +2,11 @@
 
 Esta pasta contém pacotes de execução preparados para o Hermes trabalhar sobre o ACIRV Notebook sem misturar estado operacional com as notas institucionais do cofre.
 
-## Pacote ativo
+## Pacotes ativos
+
+- [`Pesquisas-Q4-2026/`](./Pesquisas-Q4-2026/) — operação de pesquisas prioritárias, controle local de contatos/respostas e promoção de agregados para a camada canônica.
+
+## Pacote ativo de Social Media
 
 - [`Planejamento 4º Trimestre de 2026/`](./Planejamento%204%C2%BA%20Trimestre%20de%202026/) — Social Media da ACIRV, de 16/09/2026 a 31/12/2026.
 

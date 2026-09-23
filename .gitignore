@@ -31,3 +31,9 @@ ACIRV-Notebook-before-purge.bundle
 !000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/professional_information.json
 !000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/profile_changes.json
 !000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/note_interactions.json
+
+# Controles locais de pesquisa — podem conter contatos e respostas identificáveis.
+# O GitHub recebe apenas schemas, metodologia, agregados e decisões.
+/Hermes/Pesquisas-Q4-2026/local/
+**/*.research-local.csv
+**/*.contacts-local.csv

@@ -6,10 +6,10 @@ tipo: projeto
 status: em_construcao
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-09-22'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio
 camadas_evidencia:
 - fato_documentado
@@ -34,7 +34,7 @@ subtipo: produto_operacional
 # Check-In-Inteligente-de-Eventos
 
 > [!summary] Síntese
-> Iniciativa registrada na reunião de marketing de 21/09/2026 para transformar o check-in de eventos em uma base estruturada de presença e relacionamento. O MVP ainda não está implementado: a decisão atual é desenvolver um formulário personalizado e começar pelo próximo Café Entre Amigos.
+> Iniciativa registrada na reunião de marketing de 21/09/2026 para transformar o check-in de eventos em uma base estruturada de presença e relacionamento. Em 23/09, o usuário propôs **Sympla** como direção preferida para inscrição e check-in, mantendo uma camada própria de inteligência a partir dos dados exportados. O piloto ainda precisa ser validado em operação.
 
 ## Problema
 
@@ -50,11 +50,11 @@ O valor está em **persistir contexto entre eventos**, não em coletar mais camp
 
 ## Estado atual
 
-**Documentado:** desenvolver check-in inteligente por formulário personalizado e priorizar a aplicação no próximo Café Entre Amigos.
+**Documentado em 21/09:** desenvolver check-in inteligente e priorizar a aplicação no próximo Café Entre Amigos.\n\n**Direção proposta em 23/09:** utilizar **Sympla** para inscrição e check-in, aproveitando a exportação de dados para construir a base analítica própria da ACIRV. A motivação é evitar desenvolver uma plataforma específica quando uma ferramenta pronta já cobre a operação básica.
 
 **Ainda não documentado como concluído:**
 
-- ferramenta escolhida;
+- validação operacional do Sympla como ferramenta do piloto;
 - schema final;
 - integração com CRM;
 - automação de mensagens;
@@ -62,6 +62,23 @@ O valor está em **persistir contexto entre eventos**, não em coletar mais camp
 - consentimento;
 - dashboard;
 - operação em produção.
+
+## Arquitetura proposta com Sympla
+
+Fluxo:
+
+**inscrição → check-in → exportação → base de dados → pesquisa → análise → melhoria do próximo evento**
+
+O Sympla deve resolver a camada transacional de inscrição/check-in. A inteligência longitudinal permanece fora da plataforma:
+- deduplicação;
+- recorrência;
+- associação com eventos anteriores;
+- segmentação;
+- follow-up;
+- cruzamento com condição de associado;
+- pesquisa pós-evento.
+
+A decisão evita confundir “usar uma plataforma pronta” com “ter inteligência própria”. O ativo estratégico é a base e o ciclo de aprendizagem, não o software de check-in.
 
 ## MVP recomendado — interpretação operacional
 
@@ -143,6 +160,8 @@ Perguntas mínimas do piloto:
 O piloto deve ser considerado útil se produzir uma base mais confiável e reutilizável **sem aumentar desnecessariamente fricção e coleta de dados**.
 
 ## Fontes e rastreabilidade
+
+- Direção operacional do usuário em 23/09/2026 — preferência pelo Sympla e pelo ciclo inscrição → check-in → base → pesquisa → análise → melhoria; fonte conversacional ainda não persistida em `000-Arquivos-originais/`.
 
 - `000-Arquivos-originais/210926 Reunião com equipe de Marketing.md` — blob `308a5c51194de989dc931e7fd15d2196685fa21d`.
 

@@ -134,3 +134,17 @@ Quando chegar a etapa de referência visual, o Hermes lê `04-moodboard/MOODBOAR
 Parar em 05/10/2026.
 
 Não criar nem editar briefings posteriores enquanto eles não estiverem marcados como `PRODUÇÃO_PRONTA` no GitHub.
+
+## Próxima fila — restante do planejamento anual
+
+Direção registrada em 23/09/2026: **usar o Hermes Work para passar à Samara o restante do planejamento anual**.
+
+Isso **não remove** o limite atual do lote. A fila posterior a 05/10 permanece bloqueada até que cada pauta:
+1. tenha briefing editorial fechado em `01-planejamento/v2/`;
+2. esteja marcada como `PRODUÇÃO_PRONTA` ou estado equivalente permitido;
+3. possua `DESCRIÇÃO CANÔNICA PARA O TRELLO`;
+4. tenha card canônico reconciliado ou regra explícita de criação.
+
+Quando esses gates forem satisfeitos, o Hermes deve continuar o mesmo padrão de execução: transferir sem reescrever, salvar, verificar e persistir estado.
+
+O objetivo é completar o calendário até 31/12 sem transformar o Hermes em autor editorial.
