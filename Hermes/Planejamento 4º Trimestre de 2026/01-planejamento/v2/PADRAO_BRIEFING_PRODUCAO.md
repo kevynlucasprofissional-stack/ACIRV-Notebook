@@ -186,7 +186,7 @@ Mesmo assim, os dois slides precisam ter **copy exata** e **direção visual pr�
 
 ## Relação com o sistema visual
 
-A autoridade visual é `../../../01-Estrategia-e-Marca/Design-System-ACIRV.md`.
+A autoridade visual é `../../../../01-Estrategia-e-Marca/Design-System-ACIRV.md`.
 
 Para execução pelo Hermes, toda direção visual usa `ACIRV-MOOD-v1` em `../../04-moodboard/MOODBOARD.md`, que é uma projeção operacional sincronizada do Design System canônico.
 
