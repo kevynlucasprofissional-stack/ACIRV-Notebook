@@ -184,15 +184,17 @@ Continuam sendo peças de baixa complexidade com **exatamente 2 slides**:
 
 Mesmo assim, os dois slides precisam ter **copy exata** e **direção visual própria**.
 
-## Relação com o moodboard
+## Relação com o sistema visual
 
-Toda direção visual deve usar `ACIRV-MOOD-v1`.
+A autoridade visual é `../../../01-Estrategia-e-Marca/Design-System-ACIRV.md`.
+
+Para execução pelo Hermes, toda direção visual usa `ACIRV-MOOD-v1` em `../../04-moodboard/MOODBOARD.md`, que é uma projeção operacional sincronizada do Design System canônico.
 
 Regra de ponderação já estabelecida:
 
 **quanto maior a peça no moodboard original, maior o peso dela como referência.**
 
-O briefing pode indicar qual linguagem do moodboard faz mais sentido para a peça, mas não deve pedir cópia literal de uma referência.
+O briefing pode indicar qual linguagem do moodboard faz mais sentido para a peça, mas não deve pedir cópia literal de uma referência. Nenhum briefing deve introduzir regra permanente de identidade visual que contradiga o Design System canônico.
 
 ## Quality Gate editorial
 
