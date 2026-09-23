@@ -6,7 +6,7 @@ tipo: stakeholder
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '2.1'
+versao_conteudo: '2.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
 ultima_revisao: '2026-09-22'
@@ -31,6 +31,7 @@ notas_relacionadas:
 - '[[Governanca-de-Aprovacoes]]'
 - '[[Criterios-de-Priorizacao-de-Marketing]]'
 - '[[Diagnostico-e-Governanca-de-Adocao-de-IA]]'
+- '[[Oficina-Raphael-Criacao-de-Site-com-IA]]'
 confidencialidade: interno
 subtipo: pessoa
 ---
@@ -103,6 +104,14 @@ As fontes públicas consolidadas divergem:
 - corpo da descrição: **Sede da ACIRV**.
 
 Até confirmação humana, o local permanece **pendente**.
+
+### Planejamento editorial de 21/09
+
+A reunião de marketing posterior adicionou uma sequência concreta de comunicação para a oficina: **Save the date → Palestrante → Conteúdo → Virada de lote → Desconto para associados**.
+
+Detalhes comerciais ainda não confirmados permanecem fora desta nota de stakeholder. A governança do evento está em [[Oficina-Raphael-Criacao-de-Site-com-IA]].
+
+> Fonte: `000-Arquivos-originais/210926 Reunião com equipe de Marketing.md` — blob `308a5c51194de989dc931e7fd15d2196685fa21d`.
 
 ### Papel da ACIRV
 
