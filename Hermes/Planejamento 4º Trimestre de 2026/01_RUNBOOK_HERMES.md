@@ -39,8 +39,11 @@ Padrão das descrições:
 Mapa do lote piloto:
 `03-integracoes/LOTE_PILOTO_TRELLO_SYNC.md`
 
-Moodboard:
-`04-moodboard/MOODBOARD.md`
+Design System canônico:
+`../../01-Estrategia-e-Marca/Design-System-ACIRV.md`
+
+Moodboard operacional:
+`04-moodboard/MOODBOARD.md` — perfil `ACIRV-MOOD-v1`
 
 ## Invariantes
 1. Samara recebe somente peças estáticas.
@@ -144,6 +147,8 @@ O Hermes não interpreta nem expande a regra. Apenas preserva o briefing aprovad
 ## Moodboard / referências visuais
 
 As referências visuais serão executadas em etapa separada, sempre com `ACIRV-MOOD-v1` e somente depois do briefing editorial fechado.
+
+`ACIRV-MOOD-v1` é a projeção operacional do arquivo `../../01-Estrategia-e-Marca/Design-System-ACIRV.md`. O `MOODBOARD.md` pode especializar o fluxo de Social Media, mas não criar regras visuais concorrentes.
 
 A sincronização dos briefings no Trello não depende de o Hermes reescrever ou recalcular direção visual: ela já está definida no bloco canônico.
 
