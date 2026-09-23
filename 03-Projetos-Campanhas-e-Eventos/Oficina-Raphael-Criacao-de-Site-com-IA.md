@@ -6,10 +6,10 @@ tipo: projeto
 status: planejado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-09-22'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -91,6 +91,21 @@ A comunicação pode avançar da curiosidade para a utilidade:
 **Existe uma data → existe uma pessoa capaz de ensinar → existe uma entrega concreta → existe uma condição comercial → existe um benefício para associado.**
 
 Isso evita publicar cinco peças desconectadas.
+
+## Briefings visuais de campanha
+
+A sequência editorial ganhou em 23/09 um briefing operacional específico no pacote do Hermes:
+
+`Hermes/Planejamento 4º Trimestre de 2026/01-planejamento/v2/OFICINA_RAPHAEL_08-10_BRIEFINGS_VISUAIS.md`
+
+Estados:
+- **Save the date:** produção visual pronta;
+- **Palestrante:** produção pronta com foto real/autorizada pendente;
+- **Conteúdo:** produção visual pronta;
+- **Virada de lote:** referência visual pronta, copy comercial bloqueada por dados;
+- **Desconto para associados:** referência visual pronta, copy comercial bloqueada por dados.
+
+O arquivo usa `PADRAO_BRIEFING_PRODUCAO.md` como guia de formatação e `Design-System-ACIRV.md` + `ACIRV-MOOD-v1` como autoridade de direção visual.
 
 ## Papel institucional da ACIRV
 

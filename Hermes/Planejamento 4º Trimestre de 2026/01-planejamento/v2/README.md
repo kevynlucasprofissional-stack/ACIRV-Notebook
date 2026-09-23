@@ -60,6 +60,10 @@ O mapa dos cards já existentes está em:
 
 **Não criar novos cards para esse lote.** Apenas sincronizar as descrições canônicas.
 
+## Campanhas/eventos paralelos
+
+- `OFICINA_RAPHAEL_08-10_BRIEFINGS_VISUAIS.md` — sequência visual específica da oficina de criação de site com IA: Save the date → Palestrante → Conteúdo → Virada de lote → Desconto para associados. As três primeiras peças possuem direção visual pronta; as duas comerciais permanecem bloqueadas até validação dos dados de lote/desconto.
+
 ## Arquivos canônicos por mês
 - `2026-09.md` — lote piloto fechado.
 - `2026-10-1.md` — posts até 05/10 fechados; itens posteriores ainda não liberados.
