@@ -6,7 +6,7 @@ tipo: projeto
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.2'
+versao_conteudo: '1.3'
 idioma: pt-BR
 data_criacao: '2026-06-17'
 ultima_revisao: '2026-09-22'
@@ -20,12 +20,14 @@ fontes_documentais:
 - '[[Fonte - Playbook Cafe Entre Amigos]]'
 - '[[Fonte - Notas Operacionais]]'
 - '000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/CONTEXTO_UNIFICADO_SUDOEXPO_MATCH.md'
+- '000-Arquivos-originais/210926 Reunião com equipe de Marketing.md'
 notas_relacionadas:
 - '[[Checklist-de-Evento]]'
 - '[[Processo-de-Release]]'
 - '[[Calendario-Editorial-e-de-Eventos]]'
 - '[[SudoExpo-Match-Metodologia-de-Avaliacao]]'
 - '[[SudoExpo-Match]]'
+- '[[Check-In-Inteligente-de-Eventos]]'
 confidencialidade: interno
 subtipo: programa
 ---
@@ -93,6 +95,24 @@ Ao analisar:
 - não descartar automaticamente avaliações de quem não usou;
 - tratar desconhecimento como possível sinal de descoberta/comunicação;
 - preservar anonimização.
+
+## Próxima edição — direcionamentos de 21/09
+
+A reunião de marketing registrou duas mudanças para o próximo Café:
+
+- o SudoExpo Match deve receber melhorias e ser usado **apenas com associados nessa edição**;
+- deve ser desenvolvido um **check-in inteligente** por formulário personalizado.
+
+Esses itens são planejamento. Eles não provam que a próxima edição já ocorreu, que o novo Match foi entregue ou que o check-in está em produção.
+
+A combinação é útil porque permite testar, em ambiente controlado, duas hipóteses diferentes:
+
+1. **qualidade de networking:** um público restrito a associados melhora relevância e reciprocidade?
+2. **qualidade de dados:** um check-in estruturado melhora a leitura de presença e recorrência?
+
+Ver [[Check-In-Inteligente-de-Eventos]] e [[SudoExpo-Match]].
+
+> Fonte: `000-Arquivos-originais/210926 Reunião com equipe de Marketing.md` — blob `308a5c51194de989dc931e7fd15d2196685fa21d`.
 
 ## Relações justificadas
 

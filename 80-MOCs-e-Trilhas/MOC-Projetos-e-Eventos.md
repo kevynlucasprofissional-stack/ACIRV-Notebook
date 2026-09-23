@@ -6,7 +6,7 @@ tipo: moc
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
 ultima_revisao: '2026-09-22'
@@ -40,7 +40,7 @@ subtipo: moc
 
 ## Eventos
 
-[[Conecta-Saude]], [[SudoExpo-2026]], [[Forum-de-IA]], [[Forum-da-Industria]], [[Happy-Hour-Especial-Copa-2026]], [[Congresso-Regional-da-Empreendedora-Mulher]].
+[[Conecta-Saude]], [[SudoExpo-2026]], [[Forum-de-IA]], [[Forum-da-Industria]], [[Oficina-Raphael-Criacao-de-Site-com-IA]], [[Happy-Hour-Especial-Copa-2026]], [[Congresso-Regional-da-Empreendedora-Mulher]].
 
 ## Programas e impacto
 
@@ -48,7 +48,7 @@ subtipo: moc
 
 ## Digital
 
-[[ACIRV-Meet]], [[Ecossistema-Digital-ACIRV]], [[SudoExpo-Match]].
+[[ACIRV-Meet]], [[Ecossistema-Digital-ACIRV]], [[SudoExpo-Match]], [[Check-In-Inteligente-de-Eventos]].
 
 ## Relações justificadas
 

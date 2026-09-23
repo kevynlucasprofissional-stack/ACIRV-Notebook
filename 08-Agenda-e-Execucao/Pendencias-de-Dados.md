@@ -6,10 +6,10 @@ tipo: pendencia
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-22'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -19,6 +19,7 @@ tags:
 - dados
 fontes_documentais:
 - '[[Fonte - Dados Marketing]]'
+- '000-Arquivos-originais/210926 Reunião com equipe de Marketing.md'
 notas_relacionadas:
 - '[[Qualidade-dos-Dados-de-Marketing]]'
 - '[[Dicionario-de-KPIs]]'
@@ -39,6 +40,12 @@ subtipo: pendencia
 - [ ] reconciliar seguidores e ganhos
 - [ ] definir visualizações, alcance e impressões
 - [ ] documentar salto de abril/maio
+
+- [ ] confirmar **quantos novos associados entraram em 2026**, conforme pedido da reunião de 21/09; a fonte orienta consultar Raki e Mônica
+- [ ] definir antes da comparação se a métrica representa entrada bruta, saldo líquido, CNPJ único ou outro conceito
+- [ ] registrar período, origem do dado e cancelamentos/desfiliações quando a análise for usada contra a meta de crescimento de [[Metas-de-Marketing-2026]]
+
+> Fonte da lacuna de associados: `000-Arquivos-originais/210926 Reunião com equipe de Marketing.md` — blob `308a5c51194de989dc931e7fd15d2196685fa21d`.
 
 ## Média
 

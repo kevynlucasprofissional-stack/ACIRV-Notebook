@@ -6,10 +6,10 @@ tipo: canal
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-22'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -18,6 +18,7 @@ tags:
 - conteudo
 fontes_documentais:
 - '[[Fonte - Notas Operacionais]]'
+- '000-Arquivos-originais/220926 Alterações no catálogo.md'
 notas_relacionadas:
 - '[[Minuto-ACIRV]]'
 - '[[Posicionamento-e-Proposta-de-Valor]]'
@@ -49,6 +50,18 @@ FAQ, Minuto ACIRV, caso, passo a passo, calendário e comparativo.
 ## Governança
 
 Serviço volátil precisa de data de revisão e responsável. Condição comercial de consultoria gratuita para associados confirmada em 2026-09-17.
+
+## Catálogo institucional — correção de 22/09
+
+Foi registrado um ajuste específico no catálogo da ACIRV:
+
+- retirar fotografias que mostram o espaço sem mesas e substituí-las por fotografias com mesas;
+- retirar a informação de que há **4 mesas redondas**;
+- a configuração indicada pela fonte para esse item é **somente a mesa de madeira**.
+
+Esta correção se aplica ao material de catálogo referido pela fonte. Não deve ser generalizada para todos os espaços ou layouts da ACIRV sem identificação adicional.
+
+> Fonte: `000-Arquivos-originais/220926 Alterações no catálogo.md` — blob `3a4bcb9380af64913169f0b87a43e76ceb18200a`.
 
 ## Métrica
 
