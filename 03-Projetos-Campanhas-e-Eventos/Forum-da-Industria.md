@@ -18,7 +18,7 @@ tags:
 - evento
 fontes_documentais:
 - '[[Fonte - Notas Operacionais]]'
-- '000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Fórum de indústria da ACIRV.md'
+- '000-Arquivos-originais/Fórum de indústria da ACIRV.md'
 notas_relacionadas:
 - '[[Arquitetura-de-Marca-e-Nomenclatura]]'
 - '[[Processo-de-Release]]'
@@ -46,7 +46,9 @@ Dados setoriais precisam de fonte e data. O evento pode gerar conteúdo de autor
 
 ## Snapshot de planejamento recuperado
 
-Uma nota criada em **02/04/2026** registra um snapshot de planejamento com data indicada de **27/05**. O documento é evidência de intenção de produção, não prova de que todas as ações foram executadas.
+Uma nota criada em **02/04/2026** e ampliada em **15/04/2026** registra um snapshot de planejamento, mas contém **divergência interna de data**: o cabeçalho diz **27/05**, enquanto um criativo posterior traz **“Manhã | 26 de Maio”**. Portanto, nenhuma das duas datas deve ser promovida como realização definitiva sem confirmação adicional.
+
+O documento é evidência de intenção de produção, não prova de que todas as ações foram executadas.
 
 ### Identidade sugerida
 
@@ -80,7 +82,7 @@ Esses valores são **snapshot de planejamento**, não confirmação de venda, co
 
 A nota orienta que, a partir da abertura das inscrições, as peças tenham CTA para **Sympla / link na bio**.
 
-> Fonte: `000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Fórum de indústria da ACIRV.md` — blob `bbdc1310ee532312e1aa4f559c4ad3ce17ef9d26`.
+> Fonte principal mais completa: `000-Arquivos-originais/Fórum de indústria da ACIRV.md` — blob `8e6aab657b9d08d07c4d6891d1511c67d85daf0d`. A cópia recuperada do HD (`bbdc1310...`) é uma versão anterior/menor.
 
 ## Métricas
 
