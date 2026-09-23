@@ -6,10 +6,10 @@ tipo: moc
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-22'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -48,7 +48,7 @@ subtipo: moc
 
 ## Digital
 
-[[ACIRV-Meet]], [[Ecossistema-Digital-ACIRV]].
+[[ACIRV-Meet]], [[Ecossistema-Digital-ACIRV]], [[SudoExpo-Match]].
 
 ## Relações justificadas
 

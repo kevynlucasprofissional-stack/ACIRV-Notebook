@@ -6,10 +6,10 @@ tipo: moc
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-22'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -32,6 +32,10 @@ subtipo: moc
 ## Ciclo principal
 
 [[Sistema-Operacional-de-Marketing]] → [[Processo-de-Briefing]] → [[Governanca-de-Aprovacoes]] → [[Processo-de-Relatorio-Mensal]].
+
+## Governança de sistemas e informação
+
+[[Diagnostico-e-Governanca-de-Adocao-de-IA]] e [[Governanca-do-Acervo-Digital]] organizam, respectivamente, como testar IA com valor/risco mensuráveis e como reorganizar o acervo sem perder rastreabilidade ou bytes.
 
 ## Eventos
 
