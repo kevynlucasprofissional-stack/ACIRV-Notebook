@@ -16,6 +16,11 @@ Cada pacote trimestral deve ter:
 - `03_EXECUTION_STATE.json` com estado mutável/checkpoint;
 - `04_RECONCILIACAO_TRELLO_INICIAL.md` com riscos de duplicação e legado;
 - `calendario/` com o plano versionado por mês;
-- `moodboard/` com referências visuais e seu contrato de uso.
+- `moodboard/` com a projeção operacional das referências visuais e seu contrato de uso; a autoridade semântica de identidade permanece na camada canônica `01-Estrategia-e-Marca/Design-System-ACIRV.md`.
 
 A regra arquitetural é: **plano versionado e estado de execução são coisas diferentes**. O Hermes não deve reescrever o plano silenciosamente ao atualizar o progresso.
+
+
+## Regra para inteligência visual
+
+Arquivos do Hermes podem projetar a inteligência visual para execução, mas não devem se tornar uma fonte concorrente. O `MOODBOARD.md` operacional deve permanecer compatível com `01-Estrategia-e-Marca/Design-System-ACIRV.md`. Decisões visuais permanentes nascidas no fluxo operacional devem ser promovidas ao canônico.
