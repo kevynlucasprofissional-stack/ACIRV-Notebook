@@ -144,6 +144,12 @@ A ideia de centro de processamento permanece hipótese; infraestrutura própria 
 
 Ver [[Diagnostico-e-Governanca-de-Adocao-de-IA]].
 
+## Fórum da Indústria
+
+Confirmar a **data final do Fórum da Indústria** antes de reutilizar materiais históricos: a fonte mais completa contém `# Data: 27/05`, mas um criativo adicionado posteriormente diz `Manhã | 26 de Maio`. A camada canônica preserva o conflito em vez de escolher um valor.
+
+> Fonte: `000-Arquivos-originais/Fórum de indústria da ACIRV.md` — blob `8e6aab657b9d08d07c4d6891d1511c67d85daf0d`.
+
 ## Reunião de marketing — 21/09
 
 Antes de tratar os novos direcionamentos como estado definitivo, confirmar:
