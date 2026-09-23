@@ -20,7 +20,7 @@ tags:
 fontes_documentais:
 - '[[Fonte - Playbook de Releases]]'
 - '[[Fonte - Notas Operacionais]]'
-- '000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Sobre assessoria de imprensa.md'
+- '000-Arquivos-originais/Sobre assessoria de imprensa.md'
 notas_relacionadas:
 - '[[Processo-de-Release]]'
 - '[[Autoridade-Institucional]]'
@@ -62,7 +62,7 @@ A anotação original resume o follow-up com um simples **“recebido?”**. Na 
 
 A lista nominal de jornalistas permanece na fonte original; ela pode envelhecer e não deve ser replicada como verdade estável sem manutenção.
 
-> Fonte: `000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Sobre assessoria de imprensa.md` — blob `d0f6a9c46751d609a95a6d8aa140eb7e052f704c`.
+> Fonte principal mais completa: `000-Arquivos-originais/Sobre assessoria de imprensa.md` — blob `15a1de8ee8aef9a4c1086a498235bfc730d1f38b`. A cópia do HD (`d0f6a9c4...`) preserva uma versão menor do mesmo material.
 
 ## Métrica
 
