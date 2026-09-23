@@ -23,6 +23,7 @@ fontes_documentais:
 - '[[Fonte - Notas Operacionais]]'
 - '[[Fonte - Fontes Especificas da Retomada]]'
 - '000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/CONTEXTO_EVENTO_PARCERIA_RAPHAEL.md'
+- '000-Arquivos-originais/210926 Reunião com equipe de Marketing.md'
 notas_relacionadas:
 - '[[Diretoria-e-Presidencia]]'
 - '[[VCOM]]'
