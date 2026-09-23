@@ -6,7 +6,7 @@ tipo: projeto
 status: em_revisao
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-09-22'
 ultima_revisao: '2026-09-22'
@@ -24,11 +24,13 @@ fontes_documentais:
 - '000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Contexto conversas do zap.md'
 - '000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/CONTEXTO_UNIFICADO_SUDOEXPO_MATCH.md'
 - '[[SudoExpo-2026]]'
+- '000-Arquivos-originais/210926 Reunião com equipe de Marketing.md'
 notas_relacionadas:
 - '[[SudoExpo-2026]]'
 - '[[Cafe-Entre-Amigos]]'
 - '[[Conecta-ACIRV]]'
 - '[[SudoExpo-Match-Metodologia-de-Avaliacao]]'
+- '[[Check-In-Inteligente-de-Eventos]]'
 confidencialidade: interno
 subtipo: produto_experimento
 ---
@@ -181,6 +183,28 @@ O sistema atual mede melhor os estágios iniciais e intermediários. Resultado e
 - valor econômico movimentado;
 - taxa final de sucesso baseada apenas em status interno;
 - causalidade de aquisição sem fonte.
+
+## Próximo ciclo — Café Entre Amigos
+
+A reunião de marketing de **21/09/2026** reposiciona o Match como frente ativa para o próximo [[Cafe-Entre-Amigos]], e não apenas como memória da SudoExpo.
+
+Foram registrados dois direcionamentos:
+
+- melhorar o SudoExpo Match;
+- no próximo Café, operar o Match **apenas para associados**.
+
+A restrição “apenas para associados” é tratada aqui como **escopo da próxima edição**, porque a fonte não estabelece que o produto inteiro tenha mudado permanentemente de público.
+
+O mesmo ciclo prevê testar [[Check-In-Inteligente-de-Eventos]], criando a possibilidade de relacionar presença, recorrência e uso do Match sem misturar automaticamente as duas bases.
+
+Perguntas para a próxima edição:
+
+1. a restrição a associados melhora qualidade dos matches ou reduz descoberta?
+2. qual proporção dos presentes realmente usa o produto?
+3. o check-in permite medir uso sem criar fricção adicional?
+4. quais melhorias do pós-SudoExpo foram efetivamente incorporadas?
+
+> Fonte: `000-Arquivos-originais/210926 Reunião com equipe de Marketing.md` — blob `308a5c51194de989dc931e7fd15d2196685fa21d`.
 
 ## Próxima evolução orientada por pesquisa
 

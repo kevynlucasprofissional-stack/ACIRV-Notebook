@@ -6,10 +6,10 @@ tipo: processo
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-22'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -20,6 +20,7 @@ tags:
 fontes_documentais:
 - '[[Fonte - Reunioes de Junho 2026]]'
 - '[[Fonte - Notas Operacionais]]'
+- '000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Documentos/Relatório de métrica Março parte 2 de 2.txt'
 notas_relacionadas:
 - '[[Criterios-de-Priorizacao-de-Marketing]]'
 - '[[Quadro-Operacional-Kanban]]'
@@ -40,6 +41,22 @@ O planejamento de junho registra grande variação de volume concluído por sema
 ## Limites propostos
 
 Por responsável: até 3 itens em produção, 2 em revisão e 1 urgência. Eventos próximos podem reservar capacidade própria. Mudança de limite precisa ser registrada.
+
+## Capacidade não é contagem de entregas
+
+A transcrição de março registra uma tentativa de resolver uma distorção recorrente: **dez tarefas pequenas não são diretamente comparáveis a uma implementação grande**, e dificuldade, duração e importância são dimensões diferentes.
+
+Naquele momento foi cogitado um sistema de pontos dado por stakeholders. O número e a fórmula não foram promovidos porque eram exploração, não regra aprovada.
+
+O aprendizado canônico é manter três perguntas separadas:
+
+1. **prioridade:** quão importante/urgente é o resultado?
+2. **esforço:** quanto trabalho e complexidade exige?
+3. **capacidade:** quanto espaço real existe no período?
+
+Isso evita usar volume de cards como produtividade e evita prometer mais trabalho apenas porque os itens têm nomes igualmente curtos.
+
+> Fonte: `000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Documentos/Relatório de métrica Março parte 2 de 2.txt` — blob `96d0b18ae5f7f8d9259ae11608c252f65d73742b`.
 
 ## Classes de tamanho
 
