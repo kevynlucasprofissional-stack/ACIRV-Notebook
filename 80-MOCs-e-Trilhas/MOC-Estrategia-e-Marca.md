@@ -6,10 +6,10 @@ tipo: moc
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -18,8 +18,12 @@ tags:
 - moc
 fontes_documentais:
 - '[[Fonte - Briefing do projeto]]'
+- '000-Arquivos-originais/DESIGN SYSTEM.md'
+- 'Briefing visual Kevyn → Samara, 2026-09-23'
 notas_relacionadas:
 - '[[MOC-Geral]]'
+- '[[ACIRV-MOOD-v1]]'
+- '[[Design-System-ACIRV]]'
 confidencialidade: interno
 subtipo: moc
 ---
@@ -27,7 +31,7 @@ subtipo: moc
 # MOC-Estrategia-e-Marca
 
 > [!summary] Síntese
-> Mapa da direção estratégica, posicionamento, linguagem e critérios de decisão.
+> Mapa da direção estratégica, posicionamento, linguagem, sistema visual e critérios de decisão da marca ACIRV.
 
 ## Direção
 
@@ -35,7 +39,12 @@ subtipo: moc
 
 ## Expressão
 
-[[Pilares-Estrategicos-de-Comunicacao]], [[Manual-Operacional-de-Tom-de-Voz]], [[Arquitetura-de-Marca-e-Nomenclatura]].
+[[Pilares-Estrategicos-de-Comunicacao]], [[Manual-Operacional-de-Tom-de-Voz]], [[Arquitetura-de-Marca-e-Nomenclatura]], [[ACIRV-MOOD-v1]], [[Design-System-ACIRV]].
+
+### Sistema visual
+
+- [[ACIRV-MOOD-v1]] — direção visual aplicada, repertório, backgrounds, fotografia, hierarquia e critérios de legibilidade.
+- [[Design-System-ACIRV]] — tokens, contraste, tipografia, componentes e regras estruturais do sistema de design.
 
 ## Governança
 
@@ -44,11 +53,14 @@ subtipo: moc
 ## Relações justificadas
 
 - [[MOC-Geral]] — é o mapa pai.
+- [[ACIRV-MOOD-v1]] e [[Design-System-ACIRV]] — transformam decisões visuais dispersas em referências canônicas reutilizáveis.
 
 ## Fontes e rastreabilidade
 
 - [[Fonte - Briefing do projeto]]
+- `000-Arquivos-originais/DESIGN SYSTEM.md`
+- briefing visual Kevyn → Samara, 23/09/2026.
 
 ## Limitações e revisão
 
-Esta nota deve ser revisada quando a fonte, o responsável, a data, a metodologia ou o estado operacional mudar.
+Esta nota deve ser revisada quando a fonte, o responsável, a data, a metodologia, o estado operacional ou a direção visual da marca mudar.
