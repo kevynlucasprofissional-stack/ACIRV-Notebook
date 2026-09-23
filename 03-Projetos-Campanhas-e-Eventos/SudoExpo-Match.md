@@ -6,10 +6,10 @@ tipo: projeto
 status: em_revisao
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-09-22'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -25,12 +25,14 @@ fontes_documentais:
 - '000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/CONTEXTO_UNIFICADO_SUDOEXPO_MATCH.md'
 - '[[SudoExpo-2026]]'
 - '000-Arquivos-originais/210926 Reunião com equipe de Marketing.md'
+- '000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Briefing inicial/Relatório SudoExpo pt1.txt'
 notas_relacionadas:
 - '[[SudoExpo-2026]]'
 - '[[Cafe-Entre-Amigos]]'
 - '[[Conecta-ACIRV]]'
 - '[[SudoExpo-Match-Metodologia-de-Avaliacao]]'
 - '[[Check-In-Inteligente-de-Eventos]]'
+- '[[Pesquisa-e-Aprendizado-de-Marketing]]'
 confidencialidade: interno
 subtipo: produto_experimento
 ---
@@ -135,14 +137,18 @@ Esse dado deve permanecer como **relato de operação**, não como causalidade c
 
 ## Hipóteses de comportamento
 
-Os briefings levantaram ideias sobre usuários:
+O briefing inicial levantou uma segmentação exploratória entre usuários:
 
 - mais permissivos;
 - mais seletivos;
-- concentração de conexões em poucos participantes;
-- maior interesse em matches de score alto.
+- possível concentração de conexões em poucos participantes;
+- possível associação entre score alto e maior interesse.
 
-Essas hipóteses são úteis porque geram perguntas testáveis, mas não devem ser incorporadas como perfil real dos usuários antes da recomputação.
+O mesmo briefing menciona, de memória, três proporções fortes: cerca de **15%** de usuários permissivos, mais de **80%** das conexões concluídas atribuídas a esse grupo e **100% de interesse** entre usuários seletivos nas conexões de score 8 ou superior observadas. O próprio relato diz que os números precisavam ser levantados novamente.
+
+**Decisão curatorial:** essas proporções permanecem **hipóteses quantitativas históricas**, não métricas canônicas. Elas só podem subir de status após recomputação reproduzível da base, definição formal dos grupos e denominadores explícitos.
+
+> Fonte direta: `000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Briefing inicial/Relatório SudoExpo pt1.txt` — blob `72c18349f2efa1745117bb8ebc6acce9cb3f006e`.
 
 ## O que significa sucesso
 
@@ -206,6 +212,23 @@ Perguntas para a próxima edição:
 
 > Fonte: `000-Arquivos-originais/210926 Reunião com equipe de Marketing.md` — blob `308a5c51194de989dc931e7fd15d2196685fa21d`.
 
+## Exposição antes de satisfação
+
+O briefing também registra avaliações muito baixas do Match por pessoas que aparentemente **não haviam conhecido o produto** na feira.
+
+Isso não autoriza descartar respostas negativas. A regra correta é segmentar:
+
+1. **não exposto** — não conheceu a proposta;
+2. **exposto** — conheceu, mas pode não ter usado;
+3. **usuário efetivo** — interagiu com o produto;
+4. **avaliação** — percepção declarada;
+5. **comportamento** — interesse, reciprocidade, conexão;
+6. **resultado posterior** — continuidade ou valor gerado.
+
+Uma nota baixa de alguém não exposto tem significado diferente de uma nota baixa após uso. Ao mesmo tempo, “não conheceu” é um dado útil sobre **alcance da comunicação e exposição ao produto**.
+
+Essa regra está alinhada a [[Pesquisa-e-Aprendizado-de-Marketing]] e [[Qualidade-dos-Dados-de-Marketing]].
+
 ## Próxima evolução orientada por pesquisa
 
 O produto deve ser melhorado combinando:
@@ -233,12 +256,14 @@ Perguntas prioritárias:
 - [[Cafe-Entre-Amigos]] — janela inicial de adoção.
 - [[Conecta-ACIRV]] — iniciativa institucional distinta de networking.
 - [[SudoExpo-Match-Metodologia-de-Avaliacao]] — regras quantitativas.
+- [[Pesquisa-e-Aprendizado-de-Marketing]] — governa triangulação, exposição, intenção versus comportamento e força de evidência.
 
 ## Fontes e rastreabilidade
 
 - `000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Contexto conversas do zap.md` — blob `55dc5567f601d73606f472bca4fb8f80a2a4a9d9`.
 - `000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/CONTEXTO_UNIFICADO_SUDOEXPO_MATCH.md` — blob `0c1646de1a7281768f635ef31f66a2f5f0d37937`.
 - `000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/210926 - sudoexpo-match-base-completa.json` — blob `13ef630ee0bde374d73cf4715fd8148ac9ed3df7`.
+- `000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Briefing inicial/Relatório SudoExpo pt1.txt` — blob `72c18349f2efa1745117bb8ebc6acce9cb3f006e`; fonte das hipóteses permissivo/seletivo, score e problema de exposição.
 
 ## Limitações e revisão
 
