@@ -6,7 +6,7 @@ tipo: pendencia
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.3'
+versao_conteudo: '1.4'
 idioma: pt-BR
 data_criacao: '2026-06-17'
 ultima_revisao: '2026-09-22'
@@ -143,6 +143,20 @@ Antes de defender adoção ampla ou investimento:
 A ideia de centro de processamento permanece hipótese; infraestrutura própria só deve ser dimensionada depois de demonstrada demanda real.
 
 Ver [[Diagnostico-e-Governanca-de-Adocao-de-IA]].
+
+## Reunião de marketing — 21/09
+
+Antes de tratar os novos direcionamentos como estado definitivo, confirmar:
+
+- se **Match apenas para associados** vale somente para o próximo Café ou passa a ser regra mais ampla do produto;
+- escopo e responsável do piloto de [[Check-In-Inteligente-de-Eventos]];
+- quais dados são realmente necessários no check-in e qual fluxo de consentimento será adotado;
+- formato de treinamento interno/rodízio de reuniões das ACIRVETES;
+- definição oficial da métrica “novos associados em 2026” e o número confirmado por Raki/Mônica;
+- preço, datas de lote, desconto para associados e capacidade da [[Oficina-Raphael-Criacao-de-Site-com-IA]];
+- a qual espaço/serviço exatamente se refere a correção de catálogo que substitui “4 mesas redondas” por “mesa de madeira”.
+
+> Fonte: `000-Arquivos-originais/210926 Reunião com equipe de Marketing.md` — blob `308a5c51194de989dc931e7fd15d2196685fa21d`; `000-Arquivos-originais/220926 Alterações no catálogo.md` — blob `3a4bcb9380af64913169f0b87a43e76ceb18200a`.
 
 ## Dados
 
