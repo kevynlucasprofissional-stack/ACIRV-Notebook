@@ -6,10 +6,10 @@ tipo: estrategia
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-17'
+ultima_revisao: '2026-09-22'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -19,6 +19,8 @@ tags:
 - linguagem
 fontes_documentais:
 - '[[Fonte - Manual de Tom de Voz]]'
+- '000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Como melhorar o novo tom de voz da ACIRV.md'
+- '000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Dados sobre o novo tom de voz e planejamento de 2026.md'
 notas_relacionadas:
 - '[[Processo-de-Briefing]]'
 - '[[Processo-de-Release]]'
@@ -48,6 +50,23 @@ Institucional sem ser distante; confiante sem arrogância; próxima sem perder c
 
 Clichês vazios, excesso de superlativos, promessas não comprovadas, jargão interno, urgência artificial, tom infantilizado e textos que colocam a instituição no centro quando o valor está no associado.
 
+## Regras de legibilidade recuperadas do HD
+
+Uma nota de evolução do manual, marcada como concluída em março de 2026, explicita critérios que estavam pouco visíveis nesta camada canônica:
+
+- subtítulos mais explicativos e jornalísticos;
+- preferir palavras simples e, quando possível, mais curtas;
+- reduzir adjetivação;
+- evitar usar como muleta palavras como **“estratégico”**, **“real/reais”** e **“tangível”**;
+- evitar travessões como recurso recorrente;
+- estruturar o texto para ser **escaneável**;
+- concentrar as informações essenciais já no primeiro parágrafo;
+- não obrigar toda peça a seguir uma fórmula fixa de persuasão “A + B”; escolher a estrutura adequada ao objetivo.
+
+Essas regras não significam proibição absoluta de uma palavra ou sinal gráfico. Funcionam como **alertas contra automatismos de estilo**.
+
+> Fonte: `000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Como melhorar o novo tom de voz da ACIRV.md` — blob `fb479d390643b78375bf91e8b78822274afd6fd6`.
+
 ## Teste de voz
 
 Leia o texto e responda: está claro para alguém fora da equipe? há uma informação útil? a afirmação pode ser comprovada? o próximo passo é inequívoco? o tom respeita o contexto e o público?
@@ -67,6 +86,8 @@ As versões **V4.5** e **V5** são as referências operacionais vigentes em uso 
 ## Fontes e rastreabilidade
 
 - [[Fonte - Manual de Tom de Voz]]
+- `000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Como melhorar o novo tom de voz da ACIRV.md` — blob `fb479d390643b78375bf91e8b78822274afd6fd6`.
+- `000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Dados sobre o novo tom de voz e planejamento de 2026.md` — blob `bca5a88494e3b1ab5da69b857a37d343558badf2`.
 
 ## Limitações e revisão
 
