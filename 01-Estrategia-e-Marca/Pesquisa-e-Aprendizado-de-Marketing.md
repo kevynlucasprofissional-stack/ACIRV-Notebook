@@ -6,7 +6,7 @@ tipo: estrategia
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.2'
+versao_conteudo: '1.3'
 idioma: pt-BR
 data_criacao: '2026-09-22'
 ultima_revisao: '2026-09-23'
@@ -379,3 +379,47 @@ Toda iniciativa relevante deve tentar deixar um ativo reutilizável: uma decisã
 O framework representa uma **arquitetura proposta de aprendizado**, não prova de que a ACIRV já opera um sistema institucional contínuo de pesquisa. O nível de maturidade deve subir somente quando existirem rotina, responsáveis, instrumentos reutilizáveis, histórico de decisões e nova medição.
 
 Não promover como “regra de mercado” números, exemplos ou afirmações gerais das aulas sem fonte independente. Não transformar as hipóteses quantitativas dos briefings em métricas finais sem recomputação das bases.
+
+## Carteira de pesquisa para a reta final de 2026
+
+A direção operacional registrada em 23/09/2026 adiciona uma regra de priorização temporal:
+
+1. **urgente e prioritária** — pesquisas capazes de mudar decisões de outubro, novembro e dezembro;
+2. **prioritária estrutural** — pesquisas que constroem inteligência permanente, mas não precisam interromper a execução imediata.
+
+A pergunta-mãe passa a ser:
+
+> **Que informação precisamos descobrir agora para aumentar nossa capacidade de atingir as metas definidas no começo do ano?**
+
+A carteira operacional está em [[Roadmap-de-Pesquisas-Q4-2026]] e inclui associados, aquisição, comunidade Builders/IA, Fórum de IA, evento de 08/10, ACIRVETES, check-in de eventos, ASPMed e feedback pós-relatório diário.
+
+### Pesquisa pós-relatório diário
+
+O relatório diário pode ser tratado como ponto recorrente de pesquisa. Depois de registrar a execução do dia, uma coleta curta deve capturar:
+- plano × realizado;
+- reagendamentos e causas;
+- demandas imprevistas;
+- bloqueios e esperas;
+- retrabalho;
+- interrupções relevantes;
+- aprendizado;
+- necessidade de escalonamento.
+
+O uso correto é **agregado e longitudinal**. O registro não deve virar score diário de produtividade. Ver [[Pesquisa-Pos-Relatorio-Diario]].
+
+### Telemetria do trabalho humano
+
+Mensurar atendimento, conexão e operação pode ajudar a melhorar processos, desde que a finalidade permaneça administrativa e de aprendizagem.
+
+Regra:
+> **medir para encontrar oportunidades de melhoria, não culpados.**
+
+Começar por processo e equipe antes de indivíduo, combinar volume com qualidade, resultado e contexto, e evitar rankings ou vereditos automáticos. Ver [[Telemetria-do-Trabalho-Humano]].
+
+### Operação por canais e controle local
+
+Pesquisas realizadas com contatos de WhatsApp, Instagram ou e-mail podem ser operacionalizadas pelo Hermes Work, mas bases identificáveis e respostas individuais devem permanecer em controle local. O GitHub recebe metodologia, schemas, agregados, decisões e aprendizados canônicos.
+
+Ver:
+- [[Roadmap-de-Pesquisas-Q4-2026]];
+- `Hermes/Pesquisas-Q4-2026/README.md`.
