@@ -33,6 +33,7 @@ fontes_documentais:
 - 'Hermes/Planejamento 4º Trimestre de 2026/04-moodboard/MOODBOARD.md'
 - 'Briefing visual Kevyn → Samara, 2026-09-23, fornecido por capturas de tela'
 notas_relacionadas:
+- '[[Manual-Canonico-de-Briefing-e-Direcao-Visual-ACIRV]]'
 - '[[Arquitetura-de-Marca-e-Nomenclatura]]'
 - '[[Manual-Operacional-de-Tom-de-Voz]]'
 - '[[Pilares-Estrategicos-de-Comunicacao]]'
@@ -78,6 +79,20 @@ Quando houver divergência:
 5. variações específicas de campanha.
 
 O `MOODBOARD.md` do Hermes pode especializar instruções para o fluxo de social media, mas não criar uma segunda identidade.
+
+---
+
+## Manual canônico de briefing
+
+Para criação de peças, campanhas, social media e referências visuais, o ponto único de entrada é [[Manual-Canonico-de-Briefing-e-Direcao-Visual-ACIRV]].
+
+Esse manual incorpora:
+- a estrutura editorial e operacional do briefing;
+- o subconjunto deste Design System necessário para orientar direção visual;
+- o template canônico;
+- regras de assets, dados a validar, prompts de geração e Quality Gate.
+
+Este Design System continua sendo a autoridade ampla da identidade visual. O manual é a autoridade canônica de **como transformar essa identidade em briefing executável**.
 
 ---
 

@@ -8,8 +8,8 @@
 
 ## Fontes de autoridade
 
-- Formatação do briefing: `PADRAO_BRIEFING_PRODUCAO.md`
-- Direção visual canônica: `../../../../01-Estrategia-e-Marca/Design-System-ACIRV.md`
+- Manual canônico de briefing + direção visual: `../../../../01-Estrategia-e-Marca/Manual-Canonico-de-Briefing-e-Direcao-Visual-ACIRV.md`
+- Design System amplo: `../../../../01-Estrategia-e-Marca/Design-System-ACIRV.md`
 - Projeção operacional: `../../04-moodboard/MOODBOARD.md` — `ACIRV-MOOD-v1`
 - Contexto do evento: `../../../../03-Projetos-Campanhas-e-Eventos/Oficina-Raphael-Criacao-de-Site-com-IA.md`
 

@@ -16,6 +16,10 @@ A copy e o briefing final são definidos **nos arquivos de planejamento**, não 
 
 Padrão canônico:
 
+`../../../../01-Estrategia-e-Marca/Manual-Canonico-de-Briefing-e-Direcao-Visual-ACIRV.md`
+
+Projeção operacional/compatibilidade do Hermes:
+
 `PADRAO_BRIEFING_PRODUCAO.md`
 
 Quando um post estiver marcado como `PRODUÇÃO_PRONTA` ou `PRODUÇÃO_PRONTA_COM_ASSET_PENDENTE`, o arquivo mensal conterá:
