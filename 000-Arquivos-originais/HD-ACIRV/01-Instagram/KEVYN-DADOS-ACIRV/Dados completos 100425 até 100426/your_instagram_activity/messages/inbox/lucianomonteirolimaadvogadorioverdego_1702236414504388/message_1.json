@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Luciano Monteiro Lima Advogado Rio Verde GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luciano Monteiro Lima Advogado Rio Verde GO",
+      "timestamp_ms": 1750439755782,
+      "content": "\u00f0\u009f\u0099\u008c\u00f0\u009f\u0099\u008c\u00f0\u009f\u0099\u008c",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3659268213301724752"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luciano Monteiro Lima Advogado Rio Verde GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucianomonteirolimaadvogadorioverdego_1702236414504388",
+  "magic_words": [
+    
+  ]
+}

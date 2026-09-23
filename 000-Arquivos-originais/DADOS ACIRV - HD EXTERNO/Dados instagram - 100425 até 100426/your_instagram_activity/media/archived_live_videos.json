@@ -1,0 +1,27 @@
+{
+  "ig_archived_live_videos": [
+    {
+      "media": [
+        {
+          "uri": "media/archived_live_videos/202603/18084058253523397.mp4",
+          "creation_timestamp": 1774565492,
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [
+            
+          ],
+          "media_variants": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

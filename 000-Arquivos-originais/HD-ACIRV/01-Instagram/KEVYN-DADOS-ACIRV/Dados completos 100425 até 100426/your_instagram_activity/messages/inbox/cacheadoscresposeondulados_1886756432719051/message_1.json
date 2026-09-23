@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "CACHEADOS, CRESPOS E ONDULADOS"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768322465817,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3809287371448211931"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CACHEADOS, CRESPOS E ONDULADOS",
+      "timestamp_ms": 1768321747700,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CACHEADOS, CRESPOS E ONDULADOS",
+  "is_still_participant": true,
+  "thread_path": "inbox/cacheadoscresposeondulados_1886756432719051",
+  "magic_words": [
+    
+  ]
+}

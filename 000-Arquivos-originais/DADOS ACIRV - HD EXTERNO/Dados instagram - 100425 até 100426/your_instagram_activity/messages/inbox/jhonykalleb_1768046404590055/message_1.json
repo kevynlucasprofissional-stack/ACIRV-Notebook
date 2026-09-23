@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Jhony & Kalleb"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756955933139,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713937864393582610"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756943588356,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713833621863091090"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jhony & Kalleb",
+  "is_still_participant": true,
+  "thread_path": "inbox/jhonykalleb_1768046404590055",
+  "magic_words": [
+    
+  ]
+}

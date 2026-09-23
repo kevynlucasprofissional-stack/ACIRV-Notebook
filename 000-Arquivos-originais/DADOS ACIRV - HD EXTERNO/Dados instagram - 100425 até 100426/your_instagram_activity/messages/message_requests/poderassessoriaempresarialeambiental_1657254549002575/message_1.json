@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "PODER ASSESSORIA EMPRESARIAL E AMBIENTAL"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "PODER ASSESSORIA EMPRESARIAL E AMBIENTAL",
+      "timestamp_ms": 1747142619229,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "PODER ASSESSORIA EMPRESARIAL E AMBIENTAL",
+      "timestamp_ms": 1745702443425,
+      "share": {
+        "link": "https://www.instagram.com/stories/poder.assessoria/3619536341374515335"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "PODER ASSESSORIA EMPRESARIAL E AMBIENTAL",
+      "timestamp_ms": 1745701379103,
+      "share": {
+        "link": "https://www.instagram.com/stories/poder.assessoria/3619527932432538662"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "PODER ASSESSORIA EMPRESARIAL E AMBIENTAL",
+  "is_still_participant": true,
+  "thread_path": "message_requests/poderassessoriaempresarialeambiental_1657254549002575",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Sistema OCB/GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759886129652,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759882523880,
+      "content": "Oi! Eu sou o Rioverdense, assistente da ACIRV. Voc\u00c3\u00aa poderia me contar qual \u00c3\u00a9 a sua d\u00c3\u00bavida ou o que voc\u00c3\u00aa gostaria de saber sobre a Sudoexpo ou a associa\u00c3\u00a7\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sistema OCB/GO",
+      "timestamp_ms": 1759882518083,
+      "content": "Sistema enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DPhxvl7jeZ5/?carousel_share_child_media_id=3738487940516275833_5791644297",
+        "share_text": "Sistema OCB/GO firma parceria para a SUDOEXPO 2026, em Rio Verde\n\nA SUDOEXPO, uma das maiores feiras multissetoriais do Centro-Oeste, contar\u00c3\u00a1 com a participa\u00c3\u00a7\u00c3\u00a3o do Sistema OCB/GO em sua pr\u00c3\u00b3xima edi\u00c3\u00a7\u00c3\u00a3o, prevista para 2026. Realizada a cada dois anos, a feira \u00c3\u00a9 organizada pela Associa\u00c3\u00a7\u00c3\u00a3o Comercial e Industrial de Rio Verde (ACIRV) e re\u00c3\u00bane empresas e institui\u00c3\u00a7\u00c3\u00b5es de todo o Estado, com foco em neg\u00c3\u00b3cios, inova\u00c3\u00a7\u00c3\u00a3o e capacita\u00c3\u00a7\u00c3\u00a3o.\n\nO Sistema OCB/GO j\u00c3\u00a1 participou de edi\u00c3\u00a7\u00c3\u00b5es anteriores e refor\u00c3\u00a7a, com essa nova parceria, seu compromisso com a valoriza\u00c3\u00a7\u00c3\u00a3o das cooperativas goianas em ambientes estrat\u00c3\u00a9gicos de gera\u00c3\u00a7\u00c3\u00a3o de oportunidades.\n\n#SistemaOCBGO #CooperativismoGoiano #Cooperar\u00c3\u0089Transformar #SomosCoop",
+        "original_content_owner": "goias_cooperativo"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759865730647,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759862008367,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sistema OCB/GO",
+      "timestamp_ms": 1759862001636,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759860262799,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3738301036508374015"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sistema OCB/GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/sistemaocbgo_1351866669541366",
+  "magic_words": [
+    
+  ]
+}

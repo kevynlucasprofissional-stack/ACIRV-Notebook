@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Thiago Rossi"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thiago Rossi",
+      "timestamp_ms": 1764253407464,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751110580210,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664903522886483165"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751110574655,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664903430846568038"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thiago Rossi",
+      "timestamp_ms": 1751081868485,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thiago Rossi",
+      "timestamp_ms": 1751081865327,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1749142943087,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3648397864725018913"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thiago Rossi",
+      "timestamp_ms": 1749141061442,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thiago Rossi",
+      "timestamp_ms": 1749140776812,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thiago Rossi",
+  "is_still_participant": true,
+  "thread_path": "inbox/thiagorossi_1689699782424718",
+  "magic_words": [
+    
+  ]
+}

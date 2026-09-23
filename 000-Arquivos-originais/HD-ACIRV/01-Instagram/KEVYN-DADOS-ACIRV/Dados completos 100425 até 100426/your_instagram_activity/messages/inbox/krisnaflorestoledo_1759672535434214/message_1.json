@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Krisna Flores Toledo"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krisna Flores Toledo",
+      "timestamp_ms": 1753450828222,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krisna Flores Toledo",
+      "timestamp_ms": 1753450818825,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1753410535153,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3684197033045174947"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1753410530087,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3684196989936295421"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krisna Flores Toledo",
+      "timestamp_ms": 1753396903353,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krisna Flores Toledo",
+      "timestamp_ms": 1753396137662,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Krisna Flores Toledo",
+  "is_still_participant": true,
+  "thread_path": "inbox/krisnaflorestoledo_1759672535434214",
+  "magic_words": [
+    
+  ]
+}

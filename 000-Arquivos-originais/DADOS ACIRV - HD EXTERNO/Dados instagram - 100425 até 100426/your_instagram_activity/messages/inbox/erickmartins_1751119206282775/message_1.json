@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Erick Martins"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Erick Martins",
+      "timestamp_ms": 1755284003741,
+      "content": "Ah sim legal obrigado ! \u00e2\u0099\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755283177067,
+      "content": "Isso mesmo! J\u00c3\u00a1 reserve um v\u00c3\u00addeo mostrando o seu talento e boa sorte!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Martins",
+      "timestamp_ms": 1755282780623,
+      "content": "Sim ne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Martins",
+      "timestamp_ms": 1755282777639,
+      "content": "Ahh legal top no ato de inscri\u00c3\u00a7\u00c3\u00a3o preciso enviar v\u00c3\u00addeo cantando algo assim ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755278126636,
+      "content": "Ol\u00c3\u00a1, boa tarde! Tudo bem e contigo? Voc\u00c3\u00aa se inscreve e, caso seja escolhido para as audi\u00c3\u00a7\u00c3\u00b5es, pode levar um acompanhante instrumentista. Boa sorte! \u00f0\u009f\u00ab\u00b1\u00f0\u009f\u008f\u00bd\u00e2\u0080\u008d\u00f0\u009f\u00ab\u00b2\u00f0\u009f\u008f\u00bb\u00f0\u009f\u008e\u00b6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Martins",
+      "timestamp_ms": 1755277283935,
+      "content": "Outra pergunta, eu sou e moro em campo grande, eu posso participar ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Martins",
+      "timestamp_ms": 1755277183352,
+      "content": "Onde h\u00c3\u00a1 os termos de participa\u00c3\u00a7\u00c3\u00a3o no festival",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Martins",
+      "timestamp_ms": 1755277168043,
+      "content": "Por isso a pergunta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Martins",
+      "timestamp_ms": 1755277164686,
+      "content": "Ol\u00c3\u00a1 boa tarde tudo bem ? Sobre o festival barzinho e viol\u00c3\u00a3o... eu mesmo precisaria tocar o viol\u00c3\u00a3o ou eu poderia levar um amigo pra tocar pra mim ? Eu sou compositor beat maker e canto... mas n\u00c3\u00a3o sou o especialista na hora de tocar viol\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erick Martins",
+  "is_still_participant": true,
+  "thread_path": "inbox/erickmartins_1751119206282775",
+  "magic_words": [
+    
+  ]
+}

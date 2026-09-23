@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ma"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756878020083,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756874196775,
+      "content": "No entanto, eu sou um assistente da ACIRV e estou aqui para ajudar com informa\u00c3\u00a7\u00c3\u00b5es sobre a associa\u00c3\u00a7\u00c3\u00a3o e eventos como a Sudoexpo. Se voc\u00c3\u00aa tem perguntas sobre esses temas, por favor, me avise!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ma",
+      "timestamp_ms": 1756874191848,
+      "content": "Eu j\u00c3\u00a1 fui a muitos concursos de voz e viol\u00c3\u00a3o para assistir e estou at\u00c3\u00a9 agora sem conseguir compreender que resultado foi esse. N\u00c3\u00a3o sei quais crit\u00c3\u00a9rios foram utilizados por esses jurados, mas n\u00c3\u00a3o faz sentido essa mo\u00c3\u00a7a n\u00c3\u00a3o ter sido escolhida. Basta ver esses storys aqui e perceber quem realmente canta e quem n\u00c3\u00a3o canta. Sem contar que o nome \"barzinho e viol\u00c3\u00a3o\" tamb\u00c3\u00a9m n\u00c3\u00a3o faz sentido, visto que teve o outro rapaz tocando e cantando da forma mais linda que j\u00c3\u00a1 vi na vida Djavan e escolheram um cara que n\u00c3\u00a3o saiu de um s\u00c3\u00b3 acorde e cantou terrivelmente. Enfim, que tristeza que foi assistir essa injusti\u00c3\u00a7a.",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713063637423603364"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ma",
+  "is_still_participant": true,
+  "thread_path": "inbox/ma_1767294651331897",
+  "magic_words": [
+    
+  ]
+}

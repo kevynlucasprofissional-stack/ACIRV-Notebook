@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "TRE\u00cc\u0082S MAIS | Arquitetura e Interiores"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "TRE\u00cc\u0082S MAIS | Arquitetura e Interiores",
+      "timestamp_ms": 1762876752810,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762876025395,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "TRE\u00cc\u0082S MAIS | Arquitetura e Interiores"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3763599315412281708"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "TRE\u00cc\u0082S MAIS | Arquitetura e Interiores",
+      "timestamp_ms": 1762873056720,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "TRE\u00cc\u0082S MAIS | Arquitetura e Interiores",
+      "timestamp_ms": 1762872204492,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "TRE\u00cc\u0082S MAIS | Arquitetura e Interiores",
+  "is_still_participant": true,
+  "thread_path": "inbox/tresmaisarquiteturaeinteriores_1895847805148809",
+  "magic_words": [
+    
+  ]
+}

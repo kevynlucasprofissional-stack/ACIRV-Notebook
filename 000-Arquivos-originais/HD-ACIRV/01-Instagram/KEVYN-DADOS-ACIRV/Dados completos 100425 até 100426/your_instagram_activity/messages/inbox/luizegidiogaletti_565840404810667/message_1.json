@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Luiz Egi\u00cc\u0081dio Galetti \u00e2\u0088\u00b4"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luiz Egi\u00cc\u0081dio Galetti \u00e2\u0088\u00b4",
+      "timestamp_ms": 1748640759405,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3643845343532289177"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luiz Egi\u00cc\u0081dio Galetti \u00e2\u0088\u00b4",
+  "is_still_participant": true,
+  "thread_path": "inbox/luizegidiogaletti_565840404810667",
+  "magic_words": [
+    
+  ]
+}

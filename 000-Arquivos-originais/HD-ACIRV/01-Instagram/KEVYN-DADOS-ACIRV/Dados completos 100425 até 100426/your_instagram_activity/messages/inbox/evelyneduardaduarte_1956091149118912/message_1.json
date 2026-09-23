@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Evelyn Eduarda Duarte"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774527894915,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861342268708190728"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774527891884,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861342229550137738"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn Eduarda Duarte",
+      "timestamp_ms": 1774526643453,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn Eduarda Duarte",
+      "timestamp_ms": 1774526642715,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Evelyn Eduarda Duarte",
+  "is_still_participant": true,
+  "thread_path": "inbox/evelyneduardaduarte_1956091149118912",
+  "magic_words": [
+    
+  ]
+}

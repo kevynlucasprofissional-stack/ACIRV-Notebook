@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Myshop Rio Verde GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758657905610,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DO9SCPWjcC2/",
+        "share_text": "Nova Associada ACIRV! \n\nTemos o prazer de anunciar que a MyShop Rio Verde (@myshop.rioverde) agora faz parte da nossa rede de associados! \n\nEspecializada no com\u00c3\u00a9rcio varejista de eletrodom\u00c3\u00a9sticos e equipamentos de \u00c3\u00a1udio e v\u00c3\u00addeo, a MyShop se destaca por oferecer produtos de qualidade, atendimento diferenciado e solu\u00c3\u00a7\u00c3\u00b5es modernas para o dia a dia dos seus clientes. \n\nSeja bem-vinda \u00c3\u00a0 ACIRV, MyShop Rio Verde! Juntos, fortalecemos o com\u00c3\u00a9rcio local e impulsionamos o desenvolvimento de nossa cidade. \n\n#ACIRVNovoAssociado #MyShopRioVerde #Com\u00c3\u00a9rcioVarejista #Eletrodom\u00c3\u00a9stico #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Myshop Rio Verde GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/myshoprioverdego_1785628326165196",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Gabriela Bull Sports"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gabriela Bull Sports",
+      "timestamp_ms": 1765545803336,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gabrielabullsports_1860345908693437/photos/1452424486307889.webp",
+          "creation_timestamp": 1765545802
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Bull Sports",
+      "timestamp_ms": 1765545801656,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriela Bull Sports",
+      "timestamp_ms": 1765545799422,
+      "content": "Ol\u00c3\u00a1, tudo bem ?\nMe chamo Juliana, somos uma confec\u00c3\u00a7\u00c3\u00a3o de camisetas esportivas e personalizadas, gostaria de conhecer nosso trabalho e fazer um or\u00c3\u00a7amento?\nEntre em contato 19 99232-0022 \nAguardo seu retorno!\nAtenciosamente Bull sports!\u00f0\u009f\u0091\u0095\u00f0\u009f\u0091\u009a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriela Bull Sports",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabrielabullsports_1860345908693437",
+  "magic_words": [
+    
+  ]
+}

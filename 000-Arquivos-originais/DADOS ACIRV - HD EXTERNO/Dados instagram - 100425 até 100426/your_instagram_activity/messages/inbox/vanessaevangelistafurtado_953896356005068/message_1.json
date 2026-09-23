@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0099\u0091\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u00a3\u00f0\u009d\u0099\u009a\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u0096 Evangelista \u00f0\u009d\u0099\u0081\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00a9\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u0099\u00f0\u009d\u0099\u00a4"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760095239918,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760091325901,
+      "content": "Recomendo que voc\u00c3\u00aa entre em contato com a ACIRV pelo telefone (64) 3620-0199 para verificar se as inscri\u00c3\u00a7\u00c3\u00b5es est\u00c3\u00a3o encerradas e obter mais detalhes.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u0091\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u00a3\u00f0\u009d\u0099\u009a\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u0096 Evangelista \u00f0\u009d\u0099\u0081\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00a9\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u0099\u00f0\u009d\u0099\u00a4",
+      "timestamp_ms": 1760091317578,
+      "content": "Bom dia! A oficina do dia 30/10 j\u00c3\u00a1 encerraram as inscri\u00c3\u00a7\u00c3\u00b5es? Tentei acessar e n\u00c3\u00a3o consegui, pode me ajudar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0099\u0091\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u00a3\u00f0\u009d\u0099\u009a\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u00a8\u00f0\u009d\u0099\u0096 Evangelista \u00f0\u009d\u0099\u0081\u00f0\u009d\u0099\u00aa\u00f0\u009d\u0099\u00a7\u00f0\u009d\u0099\u00a9\u00f0\u009d\u0099\u0096\u00f0\u009d\u0099\u0099\u00f0\u009d\u0099\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/vanessaevangelistafurtado_953896356005068",
+  "magic_words": [
+    
+  ]
+}

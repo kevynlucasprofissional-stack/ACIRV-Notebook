@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Luiz Aildo Cabral Araujo"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luiz Aildo Cabral Araujo",
+      "timestamp_ms": 1770651003173,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770647513831,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Luiz Aildo Cabral Araujo"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3828791267031900206"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luiz Aildo Cabral Araujo",
+      "timestamp_ms": 1770475637631,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3827323936300713184"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770152347245,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DUT14tBEg8W/?carousel_share_child_media_id=3824637501659811606_6027695835",
+        "share_text": "Honrar este convite \u00c3\u00a9 a forma que a #ACIRV encontrou de reconhecer o valor de quem caminha ao nosso lado. Quando o cooperativismo e o associativismo se sentam \u00c3\u00a0 mesma mesa, quem ganha \u00c3\u00a9 o ecossistema empresarial de Rio Verde.\n\nAo sermos recebidos pelo @sicredicerradogo para dar as boas-vindas a @luizaildorv na ger\u00c3\u00aancia da Ag\u00c3\u00aancia Jos\u00c3\u00a9 Walter, a ACIRV valida a import\u00c3\u00a2ncia deste novo ciclo. A ACIRV foi representada pelo @marquim_eletromar e levamos nosso desejo genu\u00c3\u00adno de uma gest\u00c3\u00a3o pr\u00c3\u00b3spera e estrat\u00c3\u00a9gica. Ver a sintonia entre o presidente da cooperativa, Zeir Ascari, e nossos diretores @keniasleite, @marimarduarte e @walterv.guimaraes confirma que estamos no caminho certo.\n\nPara n\u00c3\u00b3s, este encontro refor\u00c3\u00a7a que\u00c2\u00a0#ConectarParaCrescer\u00c2\u00a0n\u00c3\u00a3o \u00c3\u00a9 apenas um lema, mas a pr\u00c3\u00a1tica di\u00c3\u00a1ria de unir quem empreende com quem financia o desenvolvimento. Que a jornada do @luizaildorv seja de grandes realiza\u00c3\u00a7\u00c3\u00b5es e portas abertas.\n\nAqui, ningu\u00c3\u00a9m cresce isolado. A gente cresce conectado.",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luiz Aildo Cabral Araujo",
+  "is_still_participant": true,
+  "thread_path": "inbox/luizaildocabralaraujo_1001617044566332",
+  "magic_words": [
+    
+  ]
+}

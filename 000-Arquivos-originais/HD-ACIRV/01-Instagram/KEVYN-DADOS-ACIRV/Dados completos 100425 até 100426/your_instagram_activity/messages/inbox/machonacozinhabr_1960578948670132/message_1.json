@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "MachoNaCozinhaBr"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774971506961,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3865063354109125471"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774971496451,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3865063309087435465"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774971491347,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3865063262580998779"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774971491131,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3865063216544286610"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MachoNaCozinhaBr",
+      "timestamp_ms": 1774967337872,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MachoNaCozinhaBr",
+      "timestamp_ms": 1774967292252,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MachoNaCozinhaBr",
+      "timestamp_ms": 1774967194898,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MachoNaCozinhaBr",
+      "timestamp_ms": 1774967037429,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MachoNaCozinhaBr",
+  "is_still_participant": true,
+  "thread_path": "inbox/machonacozinhabr_1960578948670132",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Filipe Diogo"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Filipe Diogo",
+      "timestamp_ms": 1755202162103,
+      "content": "j\u00c3\u00a1 fizemos a inscri\u00c3\u00a7\u00c3\u00a3o, @igorefilipe vai estar por l\u00c3\u00a1 dando o recado kkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755200838040,
+      "content": "Ol\u00c3\u00a1, Filipe, boa tarde. Os dois festivais s\u00c3\u00a3o voltados para artistas do Brasil todo! Voc\u00c3\u00aa j\u00c3\u00a1 fez sua inscri\u00c3\u00a7\u00c3\u00a3o? Boa sorte. \u00f0\u009f\u008e\u00b6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Diogo",
+      "timestamp_ms": 1755197876900,
+      "content": "o festival barzinho e viol\u00c3\u00a3o \u00c3\u00a9 s\u00c3\u00b3 pra quem mora em RV?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Filipe Diogo",
+      "timestamp_ms": 1755197865505,
+      "content": "boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Filipe Diogo",
+  "is_still_participant": true,
+  "thread_path": "inbox/filipediogo_1750276693033693",
+  "magic_words": [
+    
+  ]
+}

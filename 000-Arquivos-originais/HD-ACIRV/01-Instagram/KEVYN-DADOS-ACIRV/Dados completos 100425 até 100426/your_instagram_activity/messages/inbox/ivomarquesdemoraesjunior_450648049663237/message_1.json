@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Ivo Marques De Moraes J\u00c3\u00banior"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758539208900,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3727219356968236659"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758538787386,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3727215806900937899"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756398989459,
+      "content": "N\u00c3\u00b3s quem agradecemos, Ivo, pela parceria de sempre! Esperamos voc\u00c3\u00aa e sua equipe no nosso pr\u00c3\u00b3ximo evento para nos prestigiar. \u00f0\u009f\u00a4\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivo Marques De Moraes J\u00c3\u00banior",
+      "timestamp_ms": 1756397369433,
+      "content": "Evento top, agrade\u00c3\u00a7o ao presidente Jos\u00c3\u00a9 Carlos Cintra e a todos colaboradores dessa querida entidade ACIRV pela organiza\u00c3\u00a7\u00c3\u00a3o \u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709212466455893506"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756383774012,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709135699762338402"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751043340475,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ivo Marques De Moraes J\u00c3\u00banior",
+  "is_still_participant": true,
+  "thread_path": "inbox/ivomarquesdemoraesjunior_450648049663237",
+  "magic_words": [
+    
+  ]
+}

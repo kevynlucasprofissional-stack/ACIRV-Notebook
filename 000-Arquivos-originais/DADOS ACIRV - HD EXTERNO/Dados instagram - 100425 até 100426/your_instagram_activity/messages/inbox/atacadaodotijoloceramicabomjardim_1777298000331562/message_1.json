@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Atacad\u00c3\u00a3o do Tijolo - Cer\u00c3\u00a2mica Bom Jardim"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Atacad\u00c3\u00a3o do Tijolo - Cer\u00c3\u00a2mica Bom Jardim",
+      "timestamp_ms": 1766240899431,
+      "content": "Atacad\u00c3\u00a3o enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DSfRKQzkda5/?id=3791824883299767993_58345520038",
+        "share_text": "#tijoloscer\u00c3\u00a2micos #tijolosrioverdegoias #engenheirosrioverde #certifica\u00c3\u00a7\u00c3\u00a3opsq",
+        "original_content_owner": "ceramicabomjardim.rv"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757876416843,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757872812452,
+      "content": "Como posso te ajudar hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Atacad\u00c3\u00a3o do Tijolo - Cer\u00c3\u00a2mica Bom Jardim",
+      "timestamp_ms": 1757872806682,
+      "content": "Atacad\u00c3\u00a3o enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DOl30rCDxwA/?id=3721626179267927040_58345520038",
+        "share_text": "Clique no bot\u00c3\u00a3o e fale conosco!\nO melhor tijolo da regi\u00c3\u00a3o!!\n#tijolosrioverdegoias #tijoloscer\u00c3\u00a2micos #tijolosmontividiu #tijolposjatai #atacadaodotijolo",
+        "original_content_owner": "ceramicabomjardim.rv"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Atacad\u00c3\u00a3o do Tijolo - Cer\u00c3\u00a2mica Bom Jardim",
+  "is_still_participant": true,
+  "thread_path": "inbox/atacadaodotijoloceramicabomjardim_1777298000331562",
+  "magic_words": [
+    
+  ]
+}

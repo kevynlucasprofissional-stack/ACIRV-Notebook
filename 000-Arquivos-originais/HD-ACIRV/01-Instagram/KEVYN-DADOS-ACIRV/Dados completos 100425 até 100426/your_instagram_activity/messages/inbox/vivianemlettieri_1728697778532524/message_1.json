@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Viviane M. Lettieri"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755649087822,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3702950955079660511"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755649062555,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3702941935832851046"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755649011450,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3702937045148625874"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Viviane M. Lettieri",
+  "is_still_participant": true,
+  "thread_path": "inbox/vivianemlettieri_1728697778532524",
+  "magic_words": [
+    
+  ]
+}

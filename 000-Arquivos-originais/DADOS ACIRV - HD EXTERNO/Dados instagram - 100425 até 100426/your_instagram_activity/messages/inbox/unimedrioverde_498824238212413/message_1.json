@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Unimed Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768325261503,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DTdY9M4DYl-/?carousel_share_child_media_id=3809310618654968190_6027695835",
+        "share_text": "Boas conversas geram oportunidades. Recebemos hoje o Edson, da Unimed Rio Verde, junto ao nosso Presidente Jos\u00c3\u00a9 Carlos, Vice Gustavo Lacerda e a gerente Janaine, com um objetivo: negociar uma parceria que traga benef\u00c3\u00adcios diretos e exclusivos para o associado #ACIRV.\n\n#ConectarParaCrescer \u00c3\u00a9 isso: transformar o relacionamento institucional em vantagens pr\u00c3\u00a1ticas para o dia a dia do seu neg\u00c3\u00b3cio e da sua equipe. Estamos trabalhando para entregar mais valor \u00c3\u00a0 sua associa\u00c3\u00a7\u00c3\u00a3o.\n\nAqui, ningu\u00c3\u00a9m cresce isolado. A gente cresce em rede.",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Unimed Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/unimedrioverde_498824238212413",
+  "magic_words": [
+    
+  ]
+}

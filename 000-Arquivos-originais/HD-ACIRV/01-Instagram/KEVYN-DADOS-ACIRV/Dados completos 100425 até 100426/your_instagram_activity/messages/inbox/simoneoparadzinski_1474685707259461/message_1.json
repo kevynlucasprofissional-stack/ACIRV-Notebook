@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Simone O Paradzinski"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Simone O Paradzinski",
+      "timestamp_ms": 1768580545117,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768566891637,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3811337634937941022"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Simone O Paradzinski",
+  "is_still_participant": true,
+  "thread_path": "inbox/simoneoparadzinski_1474685707259461",
+  "magic_words": [
+    
+  ]
+}

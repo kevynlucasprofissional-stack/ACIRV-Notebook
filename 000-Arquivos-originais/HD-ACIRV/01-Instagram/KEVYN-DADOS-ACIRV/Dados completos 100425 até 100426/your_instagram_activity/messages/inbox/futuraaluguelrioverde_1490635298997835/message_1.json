@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "FUTURA ALUGUEL | RIO VERDE"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761342057847,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQNRia4klTl/",
+        "share_text": "Hoje foi dia de celebrar conquistas! \n\nO presidente da ACIRV Jos\u00c3\u00a9 Carlos Cintra esteve com a equipe do Grupo Futura, empresa associada que acaba de completar 10 anos de muito trabalho e crescimento.\n\nMomentos como esse devem ser registrados. Diante disso, a associa\u00c3\u00a7\u00c3\u00a3o segue incentivando o desenvolvimento e o fortalecimento das empresas rioverdenses.\n\n#ACIRVassociados #ACIRVeGrupoFutura #10AnosGrupoFutura #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761341590670,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3750727434724276320"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761340830384,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQNPT5iEu3g/",
+        "share_text": "A ACIRV parabeniza o Grupo Futura pelos seus 10 anos de trajet\u00c3\u00b3ria!\n\nUma d\u00c3\u00a9cada constru\u00c3\u00adda com transpar\u00c3\u00aancia, credibilidade e dedica\u00c3\u00a7\u00c3\u00a3o, sempre buscando oferecer o melhor aos clientes e parceiros.\n\nQue esta caminhada de sucesso e crescimento continue inspirando o empreendedorismo em nossa regi\u00c3\u00a3o.\n\n#ACIRVhomenageia #ACIRVassociados #ACIRVeGrupoFutura #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FUTURA ALUGUEL | RIO VERDE",
+  "is_still_participant": true,
+  "thread_path": "inbox/futuraaluguelrioverde_1490635298997835",
+  "magic_words": [
+    
+  ]
+}

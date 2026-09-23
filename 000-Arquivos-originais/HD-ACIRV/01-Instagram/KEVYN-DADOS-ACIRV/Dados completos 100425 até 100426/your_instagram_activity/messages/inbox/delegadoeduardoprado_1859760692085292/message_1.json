@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "DELEGADO EDUARDO PRADO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DELEGADO EDUARDO PRADO",
+      "timestamp_ms": 1765495260736,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765487754023,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3785507871338398242"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DELEGADO EDUARDO PRADO",
+      "timestamp_ms": 1765487710388,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765487687537,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3785507507893602737"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765486572981,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3785497924068325331"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DELEGADO EDUARDO PRADO",
+      "timestamp_ms": 1765486382383,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DELEGADO EDUARDO PRADO",
+  "is_still_participant": true,
+  "thread_path": "inbox/delegadoeduardoprado_1859760692085292",
+  "magic_words": [
+    
+  ]
+}

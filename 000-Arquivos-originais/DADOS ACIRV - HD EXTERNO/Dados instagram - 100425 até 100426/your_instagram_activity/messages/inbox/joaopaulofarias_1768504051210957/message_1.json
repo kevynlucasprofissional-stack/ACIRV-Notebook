@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Jo\u00c3\u00a3o Paulo Farias"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994116660,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756990233117,
+      "content": "Oi! Parece que voc\u00c3\u00aa est\u00c3\u00a1 citando algo sobre jpfariasrv. Voc\u00c3\u00aa gostaria de fazer uma pergunta espec\u00c3\u00adfica ou precisa de alguma informa\u00c3\u00a7\u00c3\u00a3o relacionada \u00c3\u00a0 ACIRV?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Paulo Farias",
+      "timestamp_ms": 1756990228529,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Paulo Farias",
+      "timestamp_ms": 1756989976898,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756989869883,
+      "content": "Oi! Eu sou o Rioverdense, assistente da ACIRV. Como posso te ajudar hoje?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jo\u00c3\u00a3o Paulo Farias"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Paulo Farias",
+      "timestamp_ms": 1756989863532,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo\u00c3\u00a3o Paulo Farias",
+  "is_still_participant": true,
+  "thread_path": "inbox/joaopaulofarias_1768504051210957",
+  "magic_words": [
+    
+  ]
+}

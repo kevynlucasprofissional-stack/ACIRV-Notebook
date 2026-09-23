@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Soluti"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Soluti",
+      "timestamp_ms": 1749563154268,
+      "content": "Reacted \u00f0\u009f\u0092\u009a to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1749563091509,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009a",
+          "actor": "Soluti"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DKuO_pXORme/",
+        "share_text": "AINDA N\u00c3\u0083O FEZ SEU CERTIFICADO DIGITAL??? ENT\u00c3\u0083O CORRA! Na ACIRV voc\u00c3\u00aa conta com toda seguran\u00c3\u00a7a e suporte, tanto PRESENCIAL como ON-LINE, e com DESCONTOS PRA L\u00c3\u0081 DE ESPECIAIS para nossos Associados! Fale agora mesmo com a NAIARA CANOSSA no 64\u00e2\u0080\u009399233 2708 ou pelo Zap 64 - 3620 0199 e garanta j\u00c3\u00a1 o seu. CERTIFICADO DIGITAL, \u00c3\u0089 NA ACIRV!!! \u00f0\u009f\u0098\u0083\u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008a",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747825992565,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Soluti",
+  "is_still_participant": true,
+  "thread_path": "inbox/soluti_1342259283835438",
+  "magic_words": [
+    
+  ]
+}

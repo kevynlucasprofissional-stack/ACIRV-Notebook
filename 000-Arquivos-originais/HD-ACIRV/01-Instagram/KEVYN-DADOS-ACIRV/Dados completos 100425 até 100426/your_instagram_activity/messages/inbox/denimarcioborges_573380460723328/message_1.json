@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Denimarcio Borges"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770846352789,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DUohmVskpf-/?carousel_share_child_media_id=3830459253249972222_6027695835",
+        "share_text": "Seguimos construindo a Sudoexpo 2026 com quem acredita no potencial da nossa cidade.\n\nEm reuni\u00c3\u00a3o com o prefeito @wellingtoncarrijorv, avan\u00c3\u00a7amos no alinhamento institucional que fortalece o empreendedorismo e movimenta a economia de Rio Verde.\n\nA Sudoexpo nasce dessa conex\u00c3\u00a3o entre iniciativa privada e poder p\u00c3\u00bablico, uma constru\u00c3\u00a7\u00c3\u00a3o coletiva que amplia oportunidades e projeta o munic\u00c3\u00adpio ainda mais longe.\n\nEstamos trabalhando para entregar a melhor edi\u00c3\u00a7\u00c3\u00a3o da nossa hist\u00c3\u00b3ria. \n\nAqui, ningu\u00c3\u00a9m cresce isolado. A gente cresce conectado. \n\n#Acirv #Prefeitura #sudoexpo2026",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756472004395,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709863580067021163"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Denimarcio Borges",
+  "is_still_participant": true,
+  "thread_path": "inbox/denimarcioborges_573380460723328",
+  "magic_words": [
+    
+  ]
+}

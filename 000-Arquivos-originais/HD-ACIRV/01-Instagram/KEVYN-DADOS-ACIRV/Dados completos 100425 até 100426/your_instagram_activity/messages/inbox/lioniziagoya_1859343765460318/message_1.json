@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Lionizia Goy\u00c3\u00a1"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765453603491,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3785221414107025892"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lionizia Goy\u00c3\u00a1",
+      "timestamp_ms": 1765447246604,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lionizia Goy\u00c3\u00a1",
+  "is_still_participant": true,
+  "thread_path": "inbox/lioniziagoya_1859343765460318",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jessika Andrade"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770896420481,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3830879250358829495"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jessika Andrade",
+      "timestamp_ms": 1770896041104,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jessika Andrade",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessikaandrade_1370730080988358",
+  "magic_words": [
+    
+  ]
+}

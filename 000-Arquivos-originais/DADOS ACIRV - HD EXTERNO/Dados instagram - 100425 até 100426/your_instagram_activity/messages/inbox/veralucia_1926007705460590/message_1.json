@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Vera L\u00c3\u00bacia"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vera L\u00c3\u00bacia",
+      "timestamp_ms": 1772026919151,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772026787705,
+      "content": "Eu que agrade\u00c3\u00a7o pela sua presen\u00c3\u00a7a Vera!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vera L\u00c3\u00bacia"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vera L\u00c3\u00bacia",
+      "timestamp_ms": 1772026659473,
+      "content": "Obrigada pelo carinho de voc\u00c3\u00aas \u00f0\u009f\u0091\u008f\u00f0\u009f\u00a4\u00a9",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3840035660040625517"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1771987965819,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3840035660040625517"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vera L\u00c3\u00bacia",
+      "timestamp_ms": 1771983471070,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vera L\u00c3\u00bacia",
+  "is_still_participant": true,
+  "thread_path": "inbox/veralucia_1926007705460590",
+  "magic_words": [
+    
+  ]
+}

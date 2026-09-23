@@ -1,0 +1,539 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Barros \u00c3\u0093leos Essenciais"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1772587306363,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1772587305518,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1772587304793,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772581860815,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3845017624795543152"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772581853873,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3845017581501929664"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772581848002,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3845017539667909184"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1772581743750,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1772579952500,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1772577939291,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770902231261,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770902229781,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770902228449,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770902227035,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770902225619,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770902224216,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770899635703,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3830905997678730135"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770899380481,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770898676227,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3830898041352433884"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770898650858,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3830897803862587407"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770896991088,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770895934442,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770895665858,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3830872749598650807"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770895425743,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770895140473,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3830868320212332619"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770895130971,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3830868253011162158"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770895090543,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1770894794410,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1769604498443,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769604399486,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DUDduoIjREo/?carousel_share_child_media_id=3820027656478200104_6027695835",
+        "share_text": "O mercado est\u00c3\u00a1 saturado de ru\u00c3\u00addo, mas a narrativa certa \u00c3\u00a9 o sinal que corta a interfer\u00c3\u00aancia. A oficina de ontem provou que storytelling n\u00c3\u00a3o \u00c3\u00a9 sobre \"contar hist\u00c3\u00b3rias\", \u00c3\u00a9 sobre dominar uma ferramenta t\u00c3\u00a9cnica de convers\u00c3\u00a3o e influ\u00c3\u00aancia.\n\nA teoria do #Sebrae encontrou terreno f\u00c3\u00a9rtil na #ACIRV, onde l\u00c3\u00adderes do ecossistema local colocaram ideias em pr\u00c3\u00a1tica e transformaram aprendizado em a\u00c3\u00a7\u00c3\u00a3o. A presen\u00c3\u00a7a de l\u00c3\u00adderes como @rodrigovelosolimarv, @lanablaukrugel e @vivianelettierioficial elevou o n\u00c3\u00advel do debate, mostrando que a comunica\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a9 o alicerce de qualquer neg\u00c3\u00b3cio s\u00c3\u00b3lido.\n\nVimos profissionais do calibre de @pamelariquelmeimoveis, @lucasececiliaoficial e @imoveiscompri trocando insights valiosos com @jujugourmetdamarlla_, @nr1humanous e @raquelcardosoborges. Essa intera\u00c3\u00a7\u00c3\u00a3o multidisciplinar, somada \u00c3\u00a0 vis\u00c3\u00a3o estrat\u00c3\u00a9gica de @arrudadanubia, @kellyfmaia e @felipe.rv13, \u00c3\u00a9 o exemplo pr\u00c3\u00a1tico de que #ConectarParaCrescer n\u00c3\u00a3o \u00c3\u00a9 apenas um lema, \u00c3\u00a9 o m\u00c3\u00a9todo que utilizamos para fortalecer a economia de Rio Verde.\n\nQuem passou por aqui ontem j\u00c3\u00a1 n\u00c3\u00a3o vende apenas produtos; vende prop\u00c3\u00b3sito.\n\nAqui, ningu\u00c3\u00a9m cresce isolado. A gente cresce conectado.",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1769604014406,
+      "content": "Obrigado \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769604008080,
+      "content": "Juntos somos mais fortes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769604004187,
+      "content": "Muito obrigado por me alertar!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769603998120,
+      "content": "Feito, te coloquei na legenda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769603991829,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/lucasbarrosoleosessenciais_1847646209963407/photos/1585875729229739.jpg",
+          "creation_timestamp": 1769603990
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1769603960837,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769603926824,
+      "content": "Comento agora!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769603923063,
+      "content": "Nossa, perd\u00c3\u00a3o por isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769603915863,
+      "content": "Bom dia!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769603911832,
+      "content": "Opa Lucas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1769603878014,
+      "content": "Faltou comentar eu nos coment\u00c3\u00a1rios \u00f0\u009f\u0098\u0094",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1769603862939,
+      "content": "Lucas enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DUDduoIjREo/?carousel_share_child_media_id=3820023436303754101_6027695835",
+        "share_text": "",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764955652195,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764941029059,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764935560662,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764928446762,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764928445276,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764928443777,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764928443216,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764891014513,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764890998727,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764890988651,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764890966795,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764885559439,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764885321120,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764885216070,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764884561574,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764250144614,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764248919871,
+      "content": "Foi uma alegria contar com voc\u00c3\u00aas nesse momento de troca e aprendizado.\n\nEsperamos que o conte\u00c3\u00bado tenha contribu\u00c3\u00addo para o seu desenvolvimento e para fortalecer ainda mais o empreendedorismo em nossa regi\u00c3\u00a3o.\nSeguimos \u00c3\u00a0 disposi\u00c3\u00a7\u00c3\u00a3o e esperamos te encontrar nos pr\u00c3\u00b3ximos eventos da ACIRV! \u00f0\u009f\u00a4\u009d\u00e2\u009c\u00a8\u00f0\u009f\u0092\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lucas Barros \u00c3\u0093leos Essenciais"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Barros \u00c3\u0093leos Essenciais",
+      "timestamp_ms": 1764241942856,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas Barros \u00c3\u0093leos Essenciais",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasbarrosoleosessenciais_1847646209963407",
+  "magic_words": [
+    
+  ]
+}

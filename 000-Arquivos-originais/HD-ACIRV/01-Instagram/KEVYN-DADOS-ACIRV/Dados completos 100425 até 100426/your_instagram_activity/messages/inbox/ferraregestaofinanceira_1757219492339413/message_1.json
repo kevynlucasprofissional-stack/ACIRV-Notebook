@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Ferrare Gest\u00c3\u00a3o Financeira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ferrare Gest\u00c3\u00a3o Financeira",
+      "timestamp_ms": 1755871638792,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/1485631675862091.jpg",
+          "creation_timestamp": 1755871637
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/1045984824273954.jpg",
+          "creation_timestamp": 1755871637
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/1416398066119656.jpg",
+          "creation_timestamp": 1755871637
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/2165970127235592.jpg",
+          "creation_timestamp": 1755871637
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ferrare Gest\u00c3\u00a3o Financeira",
+  "is_still_participant": true,
+  "thread_path": "inbox/ferraregestaofinanceira_1757219492339413",
+  "magic_words": [
+    
+  ]
+}

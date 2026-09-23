@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Vagas de Emprego RV  \u00f0\u009f\u0092\u00bc"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1754077605010,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3689792787358274692"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vagas de Emprego RV  \u00f0\u009f\u0092\u00bc",
+      "timestamp_ms": 1754075924103,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vagas de Emprego RV  \u00f0\u009f\u0092\u00bc",
+      "timestamp_ms": 1752261008748,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vagas de Emprego RV  \u00f0\u009f\u0092\u00bc",
+      "timestamp_ms": 1750792819480,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vagas de Emprego RV  \u00f0\u009f\u0092\u00bc",
+      "timestamp_ms": 1749755304908,
+      "content": "Vagas enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DKz9X0mPNrf/?id=3653533640588843743_44297334749",
+        "share_text": "Emprega-Acirv\u00f0\u009f\u0094\u00a5",
+        "original_content_owner": "empregarioverde"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vagas de Emprego RV  \u00f0\u009f\u0092\u00bc",
+      "timestamp_ms": 1748981815245,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vagas de Emprego RV  \u00f0\u009f\u0092\u00bc",
+  "is_still_participant": true,
+  "thread_path": "inbox/vagasdeempregorv_1688138385914191",
+  "magic_words": [
+    
+  ]
+}

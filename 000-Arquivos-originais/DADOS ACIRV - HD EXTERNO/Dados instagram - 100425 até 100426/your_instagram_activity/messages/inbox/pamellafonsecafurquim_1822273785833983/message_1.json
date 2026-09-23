@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Pa\u00cc\u0082mella Fonseca Furquim"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761921262277,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQeiVc9jaoe/?carousel_share_child_media_id=3755590147061426718_6027695835",
+        "share_text": "A Rech & Rech, empresa associada \u00c3\u00a0 ACIRV, inaugurou seu novo escrit\u00c3\u00b3rio - um espa\u00c3\u00a7o moderno e acolhedor, que simboliza crescimento e novas conquistas, nessa quinta-feira (30).\n\nAs s\u00c3\u00b3cias Gilmara Rech e Pamella Fonseca Furquim receberam os convidados com carinho e alegria e o momento foi aben\u00c3\u00a7oado por um padre, trazendo ainda mais significado \u00c3\u00a0 ocasi\u00c3\u00a3o.\n\nA ACIRV se orgulha em acompanhar o desenvolvimento de seus associados e deseja muito sucesso \u00c3\u00a0 equipe da Rech & Rech!\n\n#ACIRVeventos #ACIRVassociados #RecheRech #CorretoraDeSeguros #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761856184789,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755044143799346885"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761855111101,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755026015304444032"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761855098000,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755008022386220856"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pa\u00cc\u0082mella Fonseca Furquim",
+  "is_still_participant": true,
+  "thread_path": "inbox/pamellafonsecafurquim_1822273785833983",
+  "magic_words": [
+    
+  ]
+}

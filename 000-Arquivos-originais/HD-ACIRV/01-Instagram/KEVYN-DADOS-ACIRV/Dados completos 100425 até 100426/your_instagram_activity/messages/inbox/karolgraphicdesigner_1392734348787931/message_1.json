@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Karol \u00e2\u0080\u00a2 Graphic Designer"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764891053872,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3780502500655605171"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karol \u00e2\u0080\u00a2 Graphic Designer",
+      "timestamp_ms": 1764887059557,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1745671210994,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3619274873009218762"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karol \u00e2\u0080\u00a2 Graphic Designer",
+      "timestamp_ms": 1745670487929,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Karol \u00e2\u0080\u00a2 Graphic Designer",
+  "is_still_participant": true,
+  "thread_path": "inbox/karolgraphicdesigner_1392734348787931",
+  "magic_words": [
+    
+  ]
+}

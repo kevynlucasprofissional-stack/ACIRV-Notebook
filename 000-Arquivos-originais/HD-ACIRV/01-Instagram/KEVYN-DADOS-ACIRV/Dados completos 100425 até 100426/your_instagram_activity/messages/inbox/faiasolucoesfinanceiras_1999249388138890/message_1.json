@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Faia | Solu\u00c3\u00a7\u00c3\u00b5es Financeiras"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Faia | Solu\u00c3\u00a7\u00c3\u00b5es Financeiras",
+      "timestamp_ms": 1770757506602,
+      "share": {
+        "link": "https://www.instagram.com/stories/faia_solucoesfinanceiras/3829713757606447476"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faia | Solu\u00c3\u00a7\u00c3\u00b5es Financeiras",
+      "timestamp_ms": 1770757488252,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770737074236,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Faia | Solu\u00c3\u00a7\u00c3\u00b5es Financeiras"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3829542490953660001"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faia | Solu\u00c3\u00a7\u00c3\u00b5es Financeiras",
+      "timestamp_ms": 1770736984823,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Faia | Solu\u00c3\u00a7\u00c3\u00b5es Financeiras",
+  "is_still_participant": true,
+  "thread_path": "inbox/faiasolucoesfinanceiras_1999249388138890",
+  "magic_words": [
+    
+  ]
+}

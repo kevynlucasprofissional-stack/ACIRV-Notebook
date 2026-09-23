@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Marketing M\u00c3\u00a9dico | Jur\u00c3\u00addico | Assessoria de Imprensa"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1749211062836,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3648968953482051009"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1749211031915,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3648969026085517962"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marketing M\u00c3\u00a9dico | Jur\u00c3\u00addico | Assessoria de Imprensa",
+      "timestamp_ms": 1749151018469,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marketing M\u00c3\u00a9dico | Jur\u00c3\u00addico | Assessoria de Imprensa",
+      "timestamp_ms": 1749151012592,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marketing M\u00c3\u00a9dico | Jur\u00c3\u00addico | Assessoria de Imprensa",
+  "is_still_participant": true,
+  "thread_path": "inbox/marketingmedicojuridicoassessoriadeimprensa_1725415425520813",
+  "magic_words": [
+    
+  ]
+}

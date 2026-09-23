@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Josiane Arantes | Autoconhecimento"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Josiane Arantes | Autoconhecimento",
+      "timestamp_ms": 1755898753936,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755898720126,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3705067144314778500"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1750246552706,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3657655450364242607"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josiane Arantes | Autoconhecimento",
+      "timestamp_ms": 1750212925467,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Josiane Arantes | Autoconhecimento",
+  "is_still_participant": true,
+  "thread_path": "inbox/josianearantesautoconhecimento_814777343250304",
+  "magic_words": [
+    
+  ]
+}

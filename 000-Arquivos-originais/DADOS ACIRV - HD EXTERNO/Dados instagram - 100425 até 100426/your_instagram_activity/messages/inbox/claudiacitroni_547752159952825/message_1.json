@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Cla\u00cc\u0081udia Citroni"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750894399295,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750894372440,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750894332863,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750894255153,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750894215138,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750894101698,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750894050961,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750889156481,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750853669009,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1750849449092,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Cla\u00cc\u0081udia Citroni"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3662712691484197619"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cla\u00cc\u0081udia Citroni",
+      "timestamp_ms": 1750819484715,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cla\u00cc\u0081udia Citroni",
+  "is_still_participant": true,
+  "thread_path": "inbox/claudiacitroni_547752159952825",
+  "magic_words": [
+    
+  ]
+}

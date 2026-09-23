@@ -1,0 +1,73 @@
+(Transcrito por TurboScribe. Atualize para Ilimitado para remover esta mensagem.)
+
+30 fotos aí na semana. Não, 30 não, 10. É 10, 15. 
+
+10, 15 fotos aí numa semana. Sendo que uma dessas fotos é um carrossel que teve que ser pensado, teve que passar por um designer, entendeu? Vai ser a mesma dificuldade de construir uma solução inteira, de um site inteiro? Com várias páginas, com back-end, com API, entendeu? Com sincronização com o Google Sheet. Não vai ser a mesma dificuldade.
+
+Então, além da questão da priorização, essas pessoas vão ter que dar nota também para a dificuldade de fazer aquela tarefa e por tempo que leva para fazer aquela tarefa. Porque às vezes uma tarefa pode ser difícil também, mas ela pode levar pouco tempo. Não sei, né? Às vezes dificuldade e tempo, às vezes, é meio que parecido.
+
+Não sei. E aí, a partir dessa relação de dificuldade da tarefa, de tempo da tarefa e de prioridade da tarefa, a gente vai definir quantos pontos vale aquela tarefa, entendeu? E aí, às vezes, a gente marca que eu tenho que bater uma quantidade de pontos aí por semana, sei lá. Por exemplo, vamos supor que para cada quesito desse, que é prioridade, tempo e dificuldade, a gente coloca, cada um vai ter que dar uma nota de 1 a 10.
+
+Aí, então, a nota máxima que uma tarefa pode receber de cada um dos stakeholders, que eu mencionei, é 30, né? 30. E aí, vamos supor, se uma tarefa receber nota 10 de todos os quesitos, de todos os stakeholders, então aquela tarefa está valendo 30 pontos, né? Porque é 30 vezes 4, dividido por 3, dá 30. É isso? 30 pontos vezes 4, dá 30, 60, 90, 120.
+
+São 4 stakeholders, cada um pode dar até 30 pontos no máximo. 120 dividido por 3, 40, 40, 80, 120. Não, é 40, né? Então, a nota máxima que cada tarefa pode receber é de 40 pontos, né? Aí, vamos supor que, por semana aí, eu tenho que fazer 100 pontos.
+
+Aí, se eu fizer uma tarefa de 40 pontos, mais 10 tarefas de 6 pontos, fechei a semana bem, entendeu? Eu acho que tem que ser assim. Tem que ser assim. Inclusive, assim, eu vou... Desse jeito, eu acho que eu vou até... tipo, até conseguir me sentir com mais bem-estar, porque, olha, é foda.
+
+Inclusive, eu até quero falar isso na reunião. Eu quero falar que eu não estou conseguindo descansar direito, que eu passo o final de semana pensando em trabalho, entendeu? Porque é muito trabalho e todo mundo me cobrando, e é muita pressão. Isso é foda.
+
+Desse jeito, eu não quero. Eu amo trabalhar na SIRV. Eu gosto muito do trabalho que eu estou fazendo aqui, das pessoas que eu estou conhecendo aqui, dos lugares que eu estou conversando, dos lugares que eu estou visitando por causa da SIRV, só que desse jeito não dá.
+
+Não dá mesmo. Eu vou pedir para eles arrumarem outra pessoa para ficar no meu lugar. Se eles não priorizarem, se eles não fizerem desse jeito, de todo mundo sentar e fazer a priorização, não vai dar.
+
+Não vai dar mesmo. E eu vou pedir porque eu não estou conseguindo... Chega o final de semana e eu não consigo pensar em descansar, porque é muita pressão vindo de todo lado e isso me preocupa muito também, porque eu fico pensando toda hora que eles querem me demitir, porque, tipo assim, enquanto eu estou fazendo a prioridade de um, o outro está meio deixado de lado. E aí logo, logo ele vem me cobrar.
+
+E aí o que fica todo mundo pensando? Que eu sou esquecido, que eu estou esquecendo a prioridade. Tipo assim, o stakeholder A vai lá e me cobra uma coisa. Aí o stakeholder... Enquanto eu estou fazendo o trabalho do stakeholder B, eu anoto o que o stakeholder A me falou e aí no meio desse trabalho vem o stakeholder C falando que a prioridade dele é mais urgente.
+
+Beleza, eu vou fazer, já que a prioridade dele é rápida. Aí no que eu estou fazendo do C, o A me cobrou de novo. E aí o que o A me fala? Que é ser esquecido, ser esquece.
+
+Está vendo? Olha que zueira, o que eu tenho que ouvir. E aí, tipo assim, eu fico inseguro, né? Porque olha como é que está ficando a minha imagem. Olha o que as pessoas estão pensando de mim.
+
+Isso é chato, chato pra caramba. Sendo que, tipo assim, a desorganização não é só por culpa minha. Eu cheguei aqui e já estava desorganizado.
+
+Eu cheguei aqui e já estava sem sistema. Pelo contrário, eu que estou... Ah, inclusive isso eu quero apresentar também, né? Ó, eu criei o manual... Aqui não tinha manual de porra nenhuma. Tipo assim, se eu fosse demitido... Se não fosse graças a mim, se eu fosse demitido hoje, quem entrasse aqui amanhã não ia saber o que fazer.
+
+Ó, eu criei o manual... Eu estou criando os sistemas aqui dentro, né? Eu criei o manual do Tom de Voz da Sirvi. Porque, tipo assim, a Vivi, quando ela criou lá o... Tipo assim, a apresentação... É... A apresentação de como é que devia ser feito... Escrita as legendas no Instagram. Ela, tipo assim, escreveu... Mostrou como é que estava antes e escreveu de um jeito depois que ela achava que ficava top.
+
+Tipo, como é que a gente ia saber? Que regras ela utilizou? Entendeu? Qual que foi a lógica interna que ela usou para escrever aquela legenda? Tipo assim, esse antes e depois que ela fez não era replicável. Só ela conseguia fazer isso. Entendeu? Ela estava centralizando o poder nela.
+
+O poder de escrever uma legenda boa. E qualquer legenda que não fosse a dela, do jeito que ela escreveu, com o jeito que ela pensou naquele momento, não ia ser boa. Aí eu fui lá e fiz diferente.
+
+Eu fui lá e criei um manual de como escrever uma legenda. Baseado... Tipo assim, sempre que a Vivi elogiava uma legenda minha, eu ia lá e desconstruía aquela legenda. Como é que essa legenda foi escrita? Quantos caracteres ela utilizou? Qual que foi a lógica de argumentação que essa legenda fez? Quem que essa legenda citou? Em quantos parágrafos essa legenda... foi escrita? Entendeu? Eu fui desconstruindo até encontrar um modelo replicável.
+
+E hoje a gente tem o manual de tom de voz da Sirvi, modelo 4, que descreve tudo. Descreve quantos caracteres que tem que ter uma legenda no Instagram, em quantos parágrafos, como é que é a estrutura da legenda, como é que deve ser o tom de voz, que tipo de palavras o texto deve utilizar, sabe? Se é formal, se não é, se é... se fala simples, tem essa questão do falar simples também, está descrito no tom de voz, que não precisa falar difícil para parecer inteligente, para parecer sábio, por causa que eu tive que reescrever esse manual quatro vezes, porque da primeira vez estava gerando muito texto, estava gerando palavras muito difíceis que eu não entendia. Aí na verdade... tipo assim, estava usando as mesmas palavras todas as vezes, agora já não usei isso.
+
+Aí na versão 2 eu já... tipo eu tenho todas as versões ali, eu tenho a versão 1, versão 2, versão 3, versão 4, inclusive eu até posso mostrar inclusive eu quero mostrar isso, eu quero mostrar um comparativo de todas as versões do manual de tom de voz, para eles entenderem que o texto da Acirve tem constante evolução, entendeu? Tipo assim, se eu for demitido hoje, amanhã a pessoa que entrar no meu lugar sabe como é que escreve uma legenda da Acirve, porque tem o manual. Release. Release para imprensa, outra coisa, não tinha manual, eu tive que aprender como é que faz um, entendeu? Não tem o manual certo, não tinha, porque eu fiz, eu fiz o manual de como escrever um release para a imprensa, o manual oficial da Acirve, aí tem o tom de voz da Acirve, aí pode pegar a estrutura de como escrever um release, misturar com o manual de tom de voz, e aí vai ter um release no tom de voz da Acirve. 
+
+O release padrão da Acirve no tom de voz da Acirve, olha que beleza, que coisa boa. Tem um timbrado também, não foi eu que fiz, mas tem, que dá uma embelezada. É, deixa eu pensar, que manual que tem, ah, outra coisa, cerimonial para o café entre amigos, não tinha cerimonial, eu tive que aprender como é que fazia um cerimonial do café entre amigos, não tinha manual, agora tem.
+
+É, o café entre amigos, ele sempre precisa de cerimonial, né, e tem um padrão de como é que faz esse cerimonial. É, tipo assim, eu tive que descobrir, entrevistar uma pessoa, olhando arquivos cerimoniais antigos, para entender como que faz esse cerimonial. Tipo assim, eu tive que pesquisar, entender, procurar, entendeu? Agora não precisa mais, porque tem o manual.
+
+Se eu for demitido hoje, se alguém entrar no meu lugar, sabe como é que faz um cerimonial para a Acirve, porque tem o manual. Tipo assim, não tinha sistema nenhum. Era tudo contando com a expertise, com a capacidade de cada um de procurar e de se virar.
+
+Mas agora eu estou criando sistemas. Agora eu estou, tipo assim, fazendo de um jeito que eu não precise ficar fazendo retrabalho. Quantos cerimoniais eu já não tive que escrever? Entendeu? E, tipo assim, eu criei o manual de cerimonial da Acirve, logo na primeira vez que eu precisei escrever um cerimonial. 
+
+E todas as outras vezes eu escrevi o cerimonial em cima do manual, entendeu? E todo mundo sempre elogia. Eu quero também mostrar a diferença de qualidade de um carro se é um antigo, por exemplo. Qual era a frequência em que era postado, por exemplo, um ano atrás? Porque eu já fiz esse estudo.
+
+Um ano atrás, uma postagem era feita uma vez a cada quatro dias, entendeu? Uma vez a cada dois dias. Hoje não tem um dia direito que não tenha uma postagem. Todo dia tem postagem, praticamente.
+
+Eu já parei pra observar isso, como é que era um ano atrás aqui no Instagram da Acirve, entendeu? E a qualidade dos carroçais também. Um ano atrás, era tipo assim, era uma foto a cada tantos dias, né? E era tipo assim, três, quatro fotos, umas fotos meio ruins, uns ângulos esquisitos. A legenda até que era boa, porque parece que era um jornalista que fazia, mas isso não... Isso... Quer dizer, isso é só um vírgula, um ponto fora da vírgula.
+
+Quer dizer, o cara só sabia escrever todos os detalhes ali, ele se preocupava em escrever um texto que informava as pessoas, um texto informativo. Não quer dizer que tinha tom de voz, não quer dizer que tinha estratégia de marca, não quer dizer que era marketing, entendeu? Além disso, eu também quero fazer um... uma... uma análise, uma análise não, uma apresentação melhor, mostrando os dados do trafego pago, porque eu sei que o Rafael tá preocupado com isso. No final de tudo, tem que ter uma questão assim de... é... de... Como que fala, hein? Tem que ter uma questão de... próximos passos, próximas ações, tem que ter isso.
+
+É... E aí, tipo assim, uma das próximas ações que eu quero colocar é o Poker Scrum, que é justamente fazer aquele... aquele processo de gamificação que eu citei, o de separar em três... como é que se fala? Em três pilares, que é o prioridade, dificuldade e tempo, quanto tempo que essa atividade vai gastar pra ser feita, e a gente fazer essa análise, essa avaliação com todas as atividades que eu tenho, o que vai demorar pra caralho, porque todo mundo passa muita coisa pra mim, eu tenho quase 300 tarefas ali pra ser feita. Outra coisa que eu quero apresentar, eu quero apresentar a questão da gestão de tempo. Mostrar pra eles, e eu acho que isso pode ser apresentado na parte do problema, né? Mostrar pra eles que atualmente eu tô mudando muito de foco, entendeu? Que tem muitas demandas chegando de muitos lugares e que tem muita interrupção e que por causa disso só 45% do tempo é de fato de trabalho, é de fato produtivo, o restante do tempo é tipo assim... é... mudança de foco, responder WhatsApp, entendeu? Não, e principalmente, eu fico muito tempo parado respondendo WhatsApp das pessoas me cobrando, aí é que foda.
+
+Porque justamente por causa daquilo que eu falei, ninguém sabe qual que é a prioridade do outro. Enquanto eu tô fazendo a prioridade do stakeholder A, o stakeholder B vai lá e me cobra, aí eu tenho que parar a atividade do stakeholder A pra ir responder o stakeholder B. E olha, aí eu já mudei de foco, já perdi tempo. Entendeu? Isso é foda, isso é foda.
+
+E aí nessa mudança de foco, ele precisar me mandar mensagem pra me cobrar, atrapalha o rolê de todo mundo. Porque enquanto eu tô ali respondendo ele do porquê que eu ainda não fiz o trabalho dele, eu tô perdendo tempo que eu poderia estar investindo fazendo o trabalho, executando. Entendeu? Isso é foda.
+
+Ah, eu também quero ver se eu falo alguma coisa pra ele, sei lá, eu queria dar de presente pra cada um aí, como fazer amigos, influenciar pessoas e deixar um marcador assim, bem na página do elogio, genuinamente. Porque esses caras tudo sabem só falar o ruim, só apontar o erro, só apontar o feio. Falar do bom, do que deu certo, do que ficou legal, não sabe não.
+
+É difícil, é complicado, eu até passo longe. Na hora que eu entrego um trabalho assim, eu não quero nem saber do feedback, porque eu sei que só vai falar mal. Aff.
+
+(Transcrito por TurboScribe. Atualize para Ilimitado para remover esta mensagem.)

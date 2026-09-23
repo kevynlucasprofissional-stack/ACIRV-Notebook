@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Renovaveis Servi\u00c3\u00a7os"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Renovaveis Servi\u00c3\u00a7os",
+      "timestamp_ms": 1760618966731,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758745245003,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Renovaveis Servi\u00c3\u00a7os"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DO_4mHDEoOD/",
+        "share_text": "Bem-vinda, Renov\u00c3\u00a1veis Servi\u00c3\u00a7os!\u00c2\u00a0 \n\n\u00c3\u0089 com grande satisfa\u00c3\u00a7\u00c3\u00a3o que anunciamos a chegada da\u00c2\u00a0Renov\u00c3\u00a1veis Servi\u00c3\u00a7os (@renovaveisservicos)\u00c2\u00a0como mais um associado \u00c3\u00a0 nossa rede! \n\nA empresa atua com excel\u00c3\u00aancia na\u00c2\u00a0instala\u00c3\u00a7\u00c3\u00a3o e manuten\u00c3\u00a7\u00c3\u00a3o de sistemas centrais de ar-condicionado, ventila\u00c3\u00a7\u00c3\u00a3o e refrigera\u00c3\u00a7\u00c3\u00a3o, oferecendo solu\u00c3\u00a7\u00c3\u00b5es eficientes e sustent\u00c3\u00a1veis para conforto t\u00c3\u00a9rmico em diversos ambientes. \n\nCom uma equipe qualificada e compromisso com a qualidade, a Renov\u00c3\u00a1veis Servi\u00c3\u00a7os refor\u00c3\u00a7a nosso ecossistema de empresas que prezam pela inova\u00c3\u00a7\u00c3\u00a3o e pelo profissionalismo no setor.\nSeja muito bem-vinda! Estamos felizes em t\u00c3\u00aa-los conosco! \n\n#ACIRVNovosAssociados #Renov\u00c3\u00a1veisServi\u00c3\u00a7os #Solu\u00c3\u00a7\u00c3\u00b5esT\u00c3\u00a9rmicas #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Renovaveis Servi\u00c3\u00a7os",
+  "is_still_participant": true,
+  "thread_path": "inbox/renovaveisservicos_1786527732741922",
+  "magic_words": [
+    
+  ]
+}

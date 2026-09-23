@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "L\u00c3\u00advia Andrade Silva \u00e2\u0098\u0080\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747757991713,
+      "content": "Por nada!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "L\u00c3\u00advia Andrade Silva \u00e2\u0098\u0080\u00ef\u00b8\u008f",
+      "timestamp_ms": 1747757858723,
+      "content": "Aguardo, obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747757840175,
+      "content": "Irei solicitar que nosso comercial entre em contato com vc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "L\u00c3\u00advia Andrade Silva \u00e2\u0098\u0080\u00ef\u00b8\u008f",
+      "timestamp_ms": 1747755777508,
+      "content": "\u00e2\u0080\u00aa+55\u00c2\u00a064\u00c2\u00a098154\u00e2\u0080\u00912745\u00e2\u0080\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "L\u00c3\u00advia Andrade Silva \u00e2\u0098\u0080\u00ef\u00b8\u008f",
+      "timestamp_ms": 1747755761106,
+      "content": "Sim, um momento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747752835000,
+      "content": "Livia consegue enviar seu contato?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747752118240,
+      "content": "Audio call ended",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747752116740,
+      "content": "You started an audio call",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "L\u00c3\u00advia Andrade Silva \u00e2\u0098\u0080\u00ef\u00b8\u008f",
+      "timestamp_ms": 1747750621300,
+      "content": "Bom dia, tudo bem? Como funciona a associa\u00c3\u00a7\u00c3\u00a3o? Sou gerente do polo de Rio Verde da Universidade Cruzeiro do Sul, temos interesse em se associar juntamente com voc\u00c3\u00aas!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "L\u00c3\u00advia Andrade Silva \u00e2\u0098\u0080\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/liviaandradesilva_1676244013770295",
+  "magic_words": [
+    
+  ]
+}

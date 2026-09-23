@@ -1,0 +1,7 @@
+RESUMO GERAL
+========================
+Pasta raiz analisada: D:\ARQUIVOS\CLIENTES E OUTROS\ACIRV\Último ano
+Total de diretórios: 1117
+Total de arquivos: 6060
+Total de arquivos a partir da raiz: 6060
+Total de erros de acesso: 0

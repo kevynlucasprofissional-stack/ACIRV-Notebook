@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "T\u00c3\u00a2nia Machado Dos Santos"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "T\u00c3\u00a2nia Machado Dos Santos",
+      "timestamp_ms": 1744805576596,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "T\u00c3\u00a2nia Machado Dos Santos",
+  "is_still_participant": true,
+  "thread_path": "message_requests/taniamachadodossantos_1648390026555694",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

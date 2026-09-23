@@ -1,0 +1,329 @@
+{
+  "settings_notification_preferences": [
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "UPLOADS_AND_SHARING"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "STICKER_RESPONSES_POLL"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "BIRTHDAY_REMINDERS"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "MILESTONE_LIKES"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "POSTS_SUGGESTED"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "email"
+        },
+        "Type": {
+          "value": "MARKETING_EMAIL"
+        },
+        "Value": {
+          "value": "ON"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "CLIPS_RECENTLY_UPLOADED"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "TAGGED_IN_BIO"
+        },
+        "Value": {
+          "value": "FOLLOWING"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "ADS"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "REPORT_UPDATED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "CONTACT_JOINED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "VIEW_COUNT"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "VIDEO_CALL"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "LIKE_AND_COMMENT_ON_PHOTO_USER_TAGGED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "LIKES"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "COMMENTS"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "NEW_FOLLOWER"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "FIRST_POST"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "COMMENT_LIKES"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "FOLLOW_REQUEST_ACCEPTED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "FELIX_UPLOAD_RESULT"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "NOTIFICATION_REMINDERS"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "ANNOUNCEMENTS"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "PENDING_DIRECT_SHARE"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "LIVE_BROADCAST"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "MTEC"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MTEC",
+      "timestamp_ms": 1774310151833,
+      "content": "MTEC enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DWPjBz1lgwI/?carousel_share_child_media_id=3859343138817966208_9982910918",
+        "share_text": "",
+        "original_content_owner": "psijenniferguimaraes"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773789270965,
+      "content": "Entre nesse site e clique em \"quero associar\" para seguir com o processo de se associar \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773789241441,
+      "content": "https://www.acirv.com.br/associe/",
+      "share": {
+        "link": "https://www.acirv.com.br/associe/",
+        "share_text": "https://www.acirv.com.br/associe/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773789212388,
+      "content": "Depende do tamanho da empresa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MTEC",
+      "timestamp_ms": 1773782438262,
+      "content": "Quanto custa para se associar",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3854813493342348754"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MTEC",
+  "is_still_participant": true,
+  "thread_path": "inbox/mtec_1943767857017908",
+  "magic_words": [
+    
+  ]
+}

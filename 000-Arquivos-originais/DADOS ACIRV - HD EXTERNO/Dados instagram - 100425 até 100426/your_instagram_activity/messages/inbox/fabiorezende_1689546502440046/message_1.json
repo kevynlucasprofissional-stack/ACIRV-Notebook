@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Fabio Rezende"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabio Rezende",
+      "timestamp_ms": 1753015744835,
+      "content": "Fabio enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabio Rezende",
+      "timestamp_ms": 1752631464730,
+      "content": "Fabio enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabio Rezende",
+      "timestamp_ms": 1749126915467,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabio Rezende",
+      "timestamp_ms": 1749126840133,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fabio Rezende",
+  "is_still_participant": true,
+  "thread_path": "inbox/fabiorezende_1689546502440046",
+  "magic_words": [
+    
+  ]
+}

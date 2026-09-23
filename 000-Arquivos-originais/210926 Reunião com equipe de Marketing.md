@@ -3,6 +3,7 @@ Quando eu estiver aguardando a entrega de um trabalho importante, pedir ajuda da
 Fazer ações de treinamento interno para a ACIRV relacionados a treinar o conhecimento das ACIRVETES sobre a própria ACIRV, ou fazer rodízio de participação das ACIRVETES em reuniões.
 
 Focar em base de dados com check-in inteligente em eventos através de formulário personalizado.
+Fazer
 
 ==Focar nas metas de 2026 de acordo com o planejamento anual==
 

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Patrick Alievi"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Patrick Alievi",
+      "timestamp_ms": 1757980947094,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757962747629,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3722383313047806376"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patrick Alievi",
+      "timestamp_ms": 1756482783556,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756479665278,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709942617439273967"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756470269629,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709863580067021163"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patrick Alievi",
+  "is_still_participant": true,
+  "thread_path": "inbox/patrickalievi_1800399488026523",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "participants": [
+    {
+      "name": "Fernanda Alves Ger"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernanda Alves Ger",
+      "timestamp_ms": 1759585107795,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759583838240,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernanda Alves Ger"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3735982429233318884"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Alves Ger",
+      "timestamp_ms": 1759554574600,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Alves Ger",
+      "timestamp_ms": 1758755798943,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Alves Ger",
+      "timestamp_ms": 1758754610702,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Alves Ger",
+      "timestamp_ms": 1755776972411,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755776954996,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3704047871221570073"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755776930963,
+      "content": "Ol\u00c3\u00a1! Agradecemos a sua participa\u00c3\u00a7\u00c3\u00a3o e ficamos felizes que tenha aproveitado a oficina. Esperamos voc\u00c3\u00aa na pr\u00c3\u00b3xima! \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernanda Alves Ger"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Alves Ger",
+      "timestamp_ms": 1755734198132,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernanda Alves Ger",
+  "is_still_participant": true,
+  "thread_path": "inbox/fernandaalvesger_813209376740434",
+  "magic_words": [
+    
+  ]
+}

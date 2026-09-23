@@ -1,0 +1,87 @@
+Relatório de pacote
+
+-----------------------------------------------------------------------------
+Documento:
+Nome: Acirv - SudoExpo - Expositores.ai
+Modo de cor: Cor RGB
+Perfil de cor: sRGB IEC61966-2.1
+Unidades da régua: pixels
+Dimensões da prancheta: 1080 px x 1080 px
+Mostrar imagens no modo de contorno: DESATIVADO
+Realçar fontes substituídas: DESATIVADO
+Realçar glifos substituídos: DESATIVADO
+Preservar capacidade de edição do texto
+Simular papel colorido: DESATIVADO
+
+-----------------------------------------------------------------------------
+Objetos de cor especial:
+
+-----------------------------------------------------------------------------
+Fontes ausentes:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes protegidas que não foram empacotadas:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes:
+Aero (TrueType)
+
+-----------------------------------------------------------------------------
+Fontes incorporadas:
+NENHUM
+
+-----------------------------------------------------------------------------
+Vínculos ausentes:
+
+C:\Users\usuário\Desktop\Acirv - SudoExpo - Expositores_Pasta\Links\ednaldo.pdf
+Tipo: PDF
+
+C:\Users\usuário\Desktop\Acirv - SudoExpo - Expositores_Pasta\Links\Buriti Rio Verde-01.png
+Tipo: Outro
+
+-----------------------------------------------------------------------------
+Imagens vinculadas:
+
+C:\Users\felip\Downloads\BG.psd
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\felip\Downloads\BG.psd
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\felip\Downloads\BG.psd
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\felip\Downloads\BG.psd
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\felip\Downloads\BG.psd
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada

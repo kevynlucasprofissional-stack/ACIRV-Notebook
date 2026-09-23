@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Machado Lemes Advogados | Rio Verde - GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757006720302,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757002933625,
+      "content": "Oi! Eu sou o Rioverdense, o assistente da ACIRV. Voc\u00c3\u00aa tem alguma pergunta ou algo espec\u00c3\u00adfico que gostaria de saber sobre a ACIRV ou a Sudoexpo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Machado Lemes Advogados | Rio Verde - GO",
+      "timestamp_ms": 1757002925662,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Machado Lemes Advogados | Rio Verde - GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/machadolemesadvogadosrioverdego_1768686497859379",
+  "magic_words": [
+    
+  ]
+}

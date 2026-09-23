@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Cileia Sandim"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747757933635,
+      "content": "Tenta novamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747757923551,
+      "content": "https://forms.office.com/r/EHgHiAigct",
+      "share": {
+        "link": "https://forms.office.com/r/EHgHiAigct",
+        "share_text": "https://forms.office.com/r/EHgHiAigct"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747757871261,
+      "content": "Boa tarde, tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cileia Sandim",
+      "timestamp_ms": 1747244972268,
+      "content": "O que consta no Instagram n\u00c3\u00a3o est\u00c3\u00a1 direcionando ao formul\u00c3\u00a1rio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cileia Sandim",
+      "timestamp_ms": 1747244957139,
+      "content": "Envia o link para a inscri\u00c3\u00a7\u00c3\u00a3o da palestra de IA por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cileia Sandim",
+  "is_still_participant": true,
+  "thread_path": "inbox/cileiasandim_1671648060896557",
+  "magic_words": [
+    
+  ]
+}

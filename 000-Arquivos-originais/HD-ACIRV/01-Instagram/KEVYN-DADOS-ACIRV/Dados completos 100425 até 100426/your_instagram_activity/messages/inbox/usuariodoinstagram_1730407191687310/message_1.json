@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1753224031436,
+      "content": "Como foi sua experi\u00c3\u00aancia com este atendimento? Sua opini\u00c3\u00a3o nos ajuda a melhorar. \u00f0\u009f\u0092\u0099 https://akece.io/fa61716b-9bc2-49ef-bf69-34970c6bd9ba",
+      "share": {
+        "link": "https://akece.io/fa61716b-9bc2-49ef-bf69-34970c6bd9ba",
+        "share_text": "Como foi sua experi\u00c3\u00aancia com este atendimento? Sua opini\u00c3\u00a3o nos ajuda a melhorar. \u00f0\u009f\u0092\u0099 https://akece.io/fa61716b-9bc2-49ef-bf69-34970c6bd9ba"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1753224029513,
+      "content": "Estou finalizando este atendimento, caso tenha mais alguma d\u00c3\u00bavida, basta nos chamar por aqui! \u00f0\u009f\u0092\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1753220318397,
+      "content": "Parece que voc\u00c3\u00aa recebeu uma men\u00c3\u00a7\u00c3\u00a3o em uma hist\u00c3\u00b3ria. Voc\u00c3\u00aa gostaria de conversar sobre isso ou tem alguma pergunta espec\u00c3\u00adfica?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1753220313751,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1753216941809,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "inbox/usuariodoinstagram_1730407191687310",
+  "magic_words": [
+    
+  ]
+}

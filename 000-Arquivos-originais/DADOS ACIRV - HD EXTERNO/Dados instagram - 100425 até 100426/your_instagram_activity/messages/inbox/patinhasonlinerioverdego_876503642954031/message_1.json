@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Patinhas Online Rio Verde/GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Patinhas Online Rio Verde/GO",
+      "timestamp_ms": 1745385791983,
+      "content": "Ol\u00c3\u00a1, tudo bem ! Poderia nos ajudar a divulgar a nossa pr\u00c3\u00b3xima feirinha de ado\u00c3\u00a7\u00c3\u00a3o? \u00c3\u0089 dia 26/04 s\u00c3\u00a1bad\u00c3\u00a3o,  das 9 \u00c3\u00a0s 12 hs na Redepop.\nDiversos c\u00c3\u00a3es e gatos dependem do sucesso desse evento para conseguir um lar cheio de amor! \u00f0\u009f\u0092\u009b\u00f0\u009f\u0092\u0099\u00e2\u009c\u00a8\nGratid\u00c3\u00a3o \u00f0\u009f\u0090\u00be",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patinhas Online Rio Verde/GO",
+      "timestamp_ms": 1745385790704,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/patinhasonlinerioverdego_876503642954031/photos/687505883979944.jpg",
+          "creation_timestamp": 1745385789
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patinhas Online Rio Verde/GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/patinhasonlinerioverdego_876503642954031",
+  "magic_words": [
+    
+  ]
+}

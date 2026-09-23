@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    },
+    {
+      "name": "Antonia Hipolito"
+    },
+    {
+      "name": "RODRIGO IENERICH"
+    },
+    {
+      "name": "iara basilio"
+    },
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "zacconi"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1766190091436,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1766190091114,
+      "content": "Ol\u00c3\u00a1, sou o gerente da PG. Possu\u00c3\u00admos licen\u00c3\u00a7a comercial formal e estamos procurando parceiros qualificados. Pagamos sal\u00c3\u00a1rios diariamente e nunca deixamos de pag\u00c3\u00a1-los. Voc\u00c3\u00aa pode entrar em contato conosco pelo WhatsApp:+17085501009",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1766190089745,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Antonia Hipolito, RODRIGO IENERICH, iara basilio and 2 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/antoniahipolitorodrigoienerichiarabasilioand2others_758978763895193",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbbOJ2y1udmxizNE/"
+  },
+  "is_pending": true
+}

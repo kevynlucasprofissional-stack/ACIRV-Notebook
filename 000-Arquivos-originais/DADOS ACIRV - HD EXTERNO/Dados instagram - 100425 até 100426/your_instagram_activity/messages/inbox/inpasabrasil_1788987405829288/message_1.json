@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Inpasa Brasil"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758981289059,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758981285155,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DPG6xoajcwF/?carousel_share_child_media_id=3730927838670212101_6027695835",
+        "share_text": "Diretores da ACIRV receberam, esta semana, representantes da Inpasa Rio Verde em uma reuni\u00c3\u00a3o de apresenta\u00c3\u00a7\u00c3\u00a3o e troca de informa\u00c3\u00a7\u00c3\u00b5es. \n\nA ACIRV compartilhou seus servi\u00c3\u00a7os e a\u00c3\u00a7\u00c3\u00b5es voltadas ao setor empresarial, enquanto a Inpasa apresentou a empresa e seus planos para a cidade. \n\nMais uma conex\u00c3\u00a3o importante para o fortalecimento da nossa rede empresarial! \n\n#ACIRVreuni\u00c3\u00b5es #InpasaRioVerde #Agroneg\u00c3\u00b3cio #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Inpasa Brasil",
+  "is_still_participant": true,
+  "thread_path": "inbox/inpasabrasil_1788987405829288",
+  "magic_words": [
+    
+  ]
+}

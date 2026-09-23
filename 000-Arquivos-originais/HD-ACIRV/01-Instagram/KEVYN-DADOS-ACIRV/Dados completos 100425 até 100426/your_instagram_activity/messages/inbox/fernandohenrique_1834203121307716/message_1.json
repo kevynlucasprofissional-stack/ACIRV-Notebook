@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Fernando Henrique"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762953673166,
+      "content": "Aproveite!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762953669555,
+      "content": "Que bom que deu certo!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Henrique",
+      "timestamp_ms": 1762953662694,
+      "content": "Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Henrique",
+      "timestamp_ms": 1762953657054,
+      "content": "Simm estou aqui inclusive",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Henrique",
+      "timestamp_ms": 1762953645746,
+      "content": "Oii bomm diaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762953547232,
+      "content": "Oi, Fernando! \nBom dia! \nFoi aberto 5 ingressos extras. \nRealmente esgotaram. \nVoc\u00c3\u00aa conseguiu? (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762953542123,
+      "content": "Oi, Fernando! \nBom dia! \nFoi aberto 5 ingressos extras. \nRealmente esgotaram. \nVoc\u00c3\u00aa conseguiu!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Henrique",
+      "timestamp_ms": 1762885964171,
+      "content": "tem outro lugar que eu possa comprar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Henrique",
+      "timestamp_ms": 1762885957355,
+      "content": "fui comprar os ingressos para amanha j\u00c3\u00a1 esgotaram no sympla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Henrique",
+      "timestamp_ms": 1762885948017,
+      "content": "Boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernando Henrique",
+  "is_still_participant": true,
+  "thread_path": "inbox/fernandohenrique_1834203121307716",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Carlos Adriano | LGPD & Auditoria"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carlos Adriano | LGPD & Auditoria",
+      "timestamp_ms": 1762455656259,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Adriano | LGPD & Auditoria",
+      "timestamp_ms": 1762455656049,
+      "content": "62 99983 0202\nCarlos Adriano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762455635609,
+      "content": "Me passa seu WhatsApp que vamos pedir para a gerente executiva alinhar contigo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Adriano | LGPD & Auditoria",
+      "timestamp_ms": 1762449340886,
+      "content": "Sim gostaria..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762449028769,
+      "content": "Voc\u00c3\u00aa quer falar pessoalmente??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762449015050,
+      "content": "Boa tarde, como vai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Adriano | LGPD & Auditoria",
+      "timestamp_ms": 1762430829599,
+      "content": "Estou em Goi\u00c3\u00a2nia at\u00c3\u00a9 sexta, como fa\u00c3\u00a7o para falar com o \nJos\u00c3\u00a9 Carlos Cintra Presidente da ACIRV?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Adriano | LGPD & Auditoria",
+      "timestamp_ms": 1762430788131,
+      "content": "Bommmmmm Diaaaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos Adriano | LGPD & Auditoria",
+  "is_still_participant": true,
+  "thread_path": "inbox/carlosadrianolgpdauditoria_1828768945184467",
+  "magic_words": [
+    
+  ]
+}

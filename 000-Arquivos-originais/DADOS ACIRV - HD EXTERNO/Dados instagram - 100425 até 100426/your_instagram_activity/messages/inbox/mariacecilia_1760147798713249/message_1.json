@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Maria cecilia"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756209191789,
+      "content": "Ol\u00c3\u00a1, bom dia. Em que podemos ajud\u00c3\u00a1-la?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756154790009,
+      "content": "Maria cecilia replied to an ad. View ad(https://www.instagram.com/p/DNqaDr5A6e4/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria cecilia",
+      "timestamp_ms": 1756154789194,
+      "content": "N\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria cecilia",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariacecilia_1760147798713249",
+  "magic_words": [
+    
+  ]
+}

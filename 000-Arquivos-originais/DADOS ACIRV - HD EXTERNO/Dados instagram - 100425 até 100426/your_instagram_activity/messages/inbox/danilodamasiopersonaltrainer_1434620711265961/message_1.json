@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Danilo Dam\u00c3\u00a1sio | Personal Trainer"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Danilo Dam\u00c3\u00a1sio | Personal Trainer",
+      "timestamp_ms": 1756302379071,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Danilo Dam\u00c3\u00a1sio | Personal Trainer",
+      "timestamp_ms": 1755697648381,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755697045989,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3703372222878337589"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755091478939,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3698297710436514981"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Danilo Dam\u00c3\u00a1sio | Personal Trainer",
+      "timestamp_ms": 1755089228741,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Danilo Dam\u00c3\u00a1sio | Personal Trainer",
+  "is_still_participant": true,
+  "thread_path": "inbox/danilodamasiopersonaltrainer_1434620711265961",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "AMT Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764277395666,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3775354695503227387"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764246865466,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3775098738789138156"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762443856732,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQuEbnBjZ9F/?carousel_share_child_media_id=3759962228414848837_6027695835",
+        "share_text": "Durante esta manh\u00c3\u00a3, a diretoria da ACIRV recebeu o presidente da Ag\u00c3\u00aancia Municipal de Mobilidade e Tr\u00c3\u00a2nsito (AMT) Welker Rubens de Freitas e demais representantes da autarquia. O objetivo do encontro foi discutir projetos de mobilidade urbana e melhor fluxo de ve\u00c3\u00adculos em vias p\u00c3\u00bablicas. \n\nUm dos assuntos abordados, refere-se ao funcionamento e fiscaliza\u00c3\u00a7\u00c3\u00a3o do Estacionamento Rotativo \u00c3\u0081rea Verde. A a\u00c3\u00a7\u00c3\u00a3o - que j\u00c3\u00a1 funciona em Rio Verde - ser\u00c3\u00a1 intensificada no per\u00c3\u00adodo de compras natalinas, especialmente em pontos estrat\u00c3\u00a9gicos do munic\u00c3\u00adpio.\n\nO di\u00c3\u00a1logo e a coopera\u00c3\u00a7\u00c3\u00a3o entre as institui\u00c3\u00a7\u00c3\u00b5es s\u00c3\u00a3o essenciais para garantir mais fluidez, seguran\u00c3\u00a7a e comodidade para todos os cidad\u00c3\u00a3os.\n\n#ACIRVreuni\u00c3\u00b5es #ACIRVeAMT #MobilidadeUrbana #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762443779610,
+      "content": "Not everyone can message this profile.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762443774885,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3759973235132532963"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "AMT Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/amtrioverde_1828989601829068",
+  "magic_words": [
+    
+  ]
+}

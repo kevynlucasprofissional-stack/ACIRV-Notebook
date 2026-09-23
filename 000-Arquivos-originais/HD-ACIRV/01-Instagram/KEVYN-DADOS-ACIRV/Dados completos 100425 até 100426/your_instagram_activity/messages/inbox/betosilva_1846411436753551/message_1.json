@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Beto Silva"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Beto Silva",
+      "timestamp_ms": 1764108775432,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764108567908,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3773938355244234970"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beto Silva",
+  "is_still_participant": true,
+  "thread_path": "inbox/betosilva_1846411436753551",
+  "magic_words": [
+    
+  ]
+}

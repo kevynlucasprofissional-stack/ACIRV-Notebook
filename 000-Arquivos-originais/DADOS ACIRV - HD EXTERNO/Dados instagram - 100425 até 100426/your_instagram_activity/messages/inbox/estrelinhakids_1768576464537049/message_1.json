@@ -1,0 +1,348 @@
+{
+  "participants": [
+    {
+      "name": "Estrelinha Kids"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759587622123,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759583784331,
+      "content": "Entendi! Se quiser, posso ajudar com informa\u00c3\u00a7\u00c3\u00b5es sobre eventos ou outros temas relacionados \u00c3\u00a0 ACIRV.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1759583780464,
+      "content": "N\u00c3\u00a3o gosto da voz dessa l\u00c3\u00adrica",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3735656355601426950"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759583727851,
+      "content": "Fico feliz que voc\u00c3\u00aa esteja gostando! Tem algo mais que voc\u00c3\u00aa gostaria de conversar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1759583724915,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3735650570951527722"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759583701639,
+      "content": "Entendi! Cada um tem seu gosto musical. Tem alguma outra artista ou assunto que voc\u00c3\u00aa gostaria de discutir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1759583698443,
+      "content": "N\u00c3\u00a3o gosto muito dessa cantora",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3735644863770473066"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759582196595,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759582169317,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1759582168619,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1759582165899,
+      "content": "Quem foi o vencedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759582152219,
+      "content": "Parece que voc\u00c3\u00aa est\u00c3\u00a1 animado! Tem algo espec\u00c3\u00adfico que voc\u00c3\u00aa gostaria de saber ou conversar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1759582150157,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3735639549729922093"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759582091624,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1759582087196,
+      "content": "Quem foi a vencedora ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759582066761,
+      "content": "Oi! Sou o Rioverdense, seu assistente da ACIRV. Como posso ajudar voc\u00c3\u00aa hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1759582063429,
+      "content": "Maravilhosa",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3735654068682302175"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756998031337,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994347546,
+      "content": "Fico feliz em ajudar! Se precisar de mais informa\u00c3\u00a7\u00c3\u00b5es ou quiser conversar mais, estou aqui.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756994344827,
+      "content": "Te agrade\u00c3\u00a7o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994323163,
+      "content": "Entendo! Essa conex\u00c3\u00a3o na m\u00c3\u00basica \u00c3\u00a9 realmente importante e envolve muitos elementos para funcionar bem. Se quiser, podemos conversar mais sobre como isso pode ser explorado em apresenta\u00c3\u00a7\u00c3\u00b5es futuras na Sudoexpo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756994318501,
+      "content": "Envolve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994316684,
+      "content": "Concordo plenamente! A interpreta\u00c3\u00a7\u00c3\u00a3o e a din\u00c3\u00a2mica s\u00c3\u00a3o fundamentais para transmitir emo\u00c3\u00a7\u00c3\u00b5es e conectar com o p\u00c3\u00bablico. Voc\u00c3\u00aa tem artistas ou apresenta\u00c3\u00a7\u00c3\u00b5es em mente que achou que fizeram isso de forma excelente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756994313482,
+      "content": "Interpreta\u00c3\u00a7\u00c3\u00a3o e din\u00c3\u00a2mica \u00c3\u00a9 tudo na m\u00c3\u00basica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994287984,
+      "content": "Com certeza, seu feedback \u00c3\u00a9 muito v\u00c3\u00a1lido! A interpreta\u00c3\u00a7\u00c3\u00a3o e a din\u00c3\u00a2mica sempre devem ser levadas em conta. Se voc\u00c3\u00aa tiver mais sugest\u00c3\u00b5es ou experi\u00c3\u00aancias para compartilhar, ficarei feliz em ouvir!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756994283241,
+      "content": "Espero que vcs observem isso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994258555,
+      "content": "Entendo o que voc\u00c3\u00aa quer dizer. A interpreta\u00c3\u00a7\u00c3\u00a3o e a din\u00c3\u00a2mica s\u00c3\u00a3o muito importantes em uma performance. Voc\u00c3\u00aa gostaria de compartilhar mais sobre o que voc\u00c3\u00aa espera de uma apresenta\u00c3\u00a7\u00c3\u00a3o ou sobre outras experi\u00c3\u00aancias que teve?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756994254845,
+      "content": "N\u00c3\u00a3o gostei da morena porque ela perdeu muito a interpreta\u00c3\u00a7\u00c3\u00a3o. Uma m\u00c3\u00basica que precisa de din\u00c3\u00a2mica, infelizmente n\u00c3\u00a3o aconteceu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994186426,
+      "content": "\u00c3\u0089 \u00c3\u00b3timo saber que voc\u00c3\u00aa apreciou a interpreta\u00c3\u00a7\u00c3\u00a3o! A Sudoexpo sempre traz apresenta\u00c3\u00a7\u00c3\u00b5es de alta qualidade. Tem mais algo que voc\u00c3\u00aa gostaria de discutir sobre o evento ou as apresenta\u00c3\u00a7\u00c3\u00b5es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756994178521,
+      "content": "Como a interpreta\u00c3\u00a7\u00c3\u00a3o dela foi bem apurada . Amei",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713841440289023693"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994137605,
+      "content": "Fico feliz que voc\u00c3\u00aa tenha gostado! Se quiser, podemos conversar sobre como a t\u00c3\u00a9cnica se relaciona com a Sudoexpo ou outras experi\u00c3\u00aancias que voc\u00c3\u00aa teve em eventos. O que acha?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756994133859,
+      "content": "T\u00c3\u00a9cnica pura ! Essa do cabelo cacheado",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713841440289023693"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994108527,
+      "content": "Que \u00c3\u00b3timo que voc\u00c3\u00aa est\u00c3\u00a1 achando bom! Tem mais alguma coisa que voc\u00c3\u00aa gostaria de compartilhar ou perguntar sobre a Sudoexpo ou a ACIRV?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756994105180,
+      "content": "Muito bom \u00f0\u009f\u0098\u008a",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713836833525586292"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756994058084,
+      "content": "Se quiser, podemos falar sobre as experi\u00c3\u00aancias que voc\u00c3\u00aa teve na Sudoexpo ou como prefere eventos com diferentes formas de apresenta\u00c3\u00a7\u00c3\u00a3o.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756994053697,
+      "content": "Essa n\u00c3\u00a3o gostei porque ela gritou muito, n\u00c3\u00a3o interpretou. S\u00c3\u00b3 grito? Cad\u00c3\u00aa a sutileza nas interpreta\u00c3\u00a7\u00c3\u00b5es?",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713816556372589304"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756993987189,
+      "content": "Fico feliz que esteja gostando! Se voc\u00c3\u00aa tiver alguma pergunta ou se quiser falar mais sobre a Sudoexpo ou sobre a ACIRV, \u00c3\u00a9 s\u00c3\u00b3 me dizer!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756993981613,
+      "content": "Muito afinada",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713808270013363698"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756993970903,
+      "content": "A Sudoexpo \u00c3\u00a9 realmente um evento incr\u00c3\u00advel! \u00c3\u0089 a maior feira multissetorial do sudoeste goiano e re\u00c3\u00bane muitas empresas, promovendo neg\u00c3\u00b3cios e inova\u00c3\u00a7\u00c3\u00a3o. Voc\u00c3\u00aa gostaria de saber mais sobre a feira ou sobre os participantes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756993965260,
+      "content": "Essa deveria ganhar",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713808270013363698"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756993947619,
+      "content": "Oi! Que bom que voc\u00c3\u00aa gostou! Quais s\u00c3\u00a3o suas d\u00c3\u00bavidas ou sobre o que voc\u00c3\u00aa gostaria de conversar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Estrelinha Kids",
+      "timestamp_ms": 1756993940707,
+      "content": "Essa foi a melhor !!!!",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713808270013363698"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Estrelinha Kids",
+  "is_still_participant": true,
+  "thread_path": "inbox/estrelinhakids_1768576464537049",
+  "magic_words": [
+    
+  ]
+}

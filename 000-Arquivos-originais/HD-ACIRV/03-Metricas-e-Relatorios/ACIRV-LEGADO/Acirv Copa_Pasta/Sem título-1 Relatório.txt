@@ -1,0 +1,111 @@
+Relatório de pacote
+
+-----------------------------------------------------------------------------
+Documento:
+Nome: Sem título-1.ai
+Modo de cor: Cor RGB
+Perfil de cor: sRGB IEC61966-2.1
+Unidades da régua: pixels
+Dimensões da prancheta: 1080 px x 1920 px
+Mostrar imagens no modo de contorno: DESATIVADO
+Realçar fontes substituídas: DESATIVADO
+Realçar glifos substituídos: DESATIVADO
+Preservar capacidade de edição do texto
+Simular papel colorido: DESATIVADO
+
+-----------------------------------------------------------------------------
+Objetos de cor especial:
+
+-----------------------------------------------------------------------------
+Fontes ausentes:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes protegidas que não foram empacotadas:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes:
+Montserrat SemiBold (OTF)
+Montserrat ExtraBold (OTF)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Fontes incorporadas:
+NENHUM
+
+-----------------------------------------------------------------------------
+Vínculos ausentes:
+NENHUM
+
+-----------------------------------------------------------------------------
+Imagens vinculadas:
+
+D:\Gustavo\2022\Acirv\Hora do Jogo\post_feed_black_friday_cup_in_portuguese_3d_render_9.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 289,269 por 289,269 pontos 
+Resolução: 268,816 por 268,816 pixels por polegada
+
+
+D:\Gustavo\2022\Acirv\Hora do Jogo\flag_brazil_3d_render_5.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 51025K, 3950 por 3307 pixels
+Dimensões: 383,989 por 342,848 pontos 
+Resolução: 740,646 por 694,488 pixels por polegada
+
+
+D:\Gustavo\2022\Acirv\Hora do Jogo\1378.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 24414K, 2500 por 2500 pixels
+Dimensões: 403,419 por 403,419 pontos 
+Resolução: 446,186 por 446,186 pixels por polegada
+
+
+D:\Gustavo\2022\Acirv\Hora do Jogo\post_feed_black_friday_cup_in_portuguese_3d_render_9.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 235,668 por 235,668 pontos 
+Resolução: 329,956 por 329,956 pixels por polegada
+
+
+D:\Gustavo\2022\Acirv\Hora do Jogo\flag_brazil_3d_render_5.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 51025K, 3950 por 3307 pixels
+Dimensões: 312,837 por 279,319 pontos 
+Resolução: 909,101 por 852,445 pixels por polegada
+
+
+D:\Gustavo\2022\Acirv\Hora do Jogo\1378.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 24414K, 2500 por 2500 pixels
+Dimensões: 328,666 por 328,666 pontos 
+Resolução: 547,668 por 547,668 pixels por polegada
+
+
+D:\Gustavo\2022\Acirv\Hora do Jogo\Hora do Jogo - ACIRV ST.psd
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 8100K, 1080 por 1920 pixels
+Dimensões: 1080 por 1920 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+D:\Gustavo\2022\Acirv\Hora do Jogo\Hora do Jogo - ACIRV FD.psd
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada

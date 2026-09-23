@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Poltr\u00c3\u00b4nica - Aluguel de poltronas eletr\u00c3\u00b4nicas- p\u00c3\u00b3s-operat\u00c3\u00b3rio"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774559288128,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861605599453103014"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Poltr\u00c3\u00b4nica - Aluguel de poltronas eletr\u00c3\u00b4nicas- p\u00c3\u00b3s-operat\u00c3\u00b3rio",
+  "is_still_participant": true,
+  "thread_path": "inbox/poltronicaalugueldepoltronaseletronicasposoperatorio_1956467929081234",
+  "magic_words": [
+    
+  ]
+}

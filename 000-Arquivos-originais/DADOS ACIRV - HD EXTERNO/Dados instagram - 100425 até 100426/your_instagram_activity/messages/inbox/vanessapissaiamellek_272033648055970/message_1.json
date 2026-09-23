@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Vanessa Pissaia Mellek"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vanessa Pissaia Mellek",
+      "timestamp_ms": 1751329102149,
+      "content": "Vanessa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DLiX8GUyTPG/?id=3666598331662545862_5549311709",
+        "share_text": "Brindes personalizados e grava\u00c3\u00a7\u00c3\u00a3o a laser. Print, a melhor de Rio Verde!\n\n#printrv #brindes #brindespersonalizados #empreendedorismo #rioverde",
+        "original_content_owner": "print.rv"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vanessa Pissaia Mellek",
+      "timestamp_ms": 1751070175439,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vanessa Pissaia Mellek",
+  "is_still_participant": true,
+  "thread_path": "inbox/vanessapissaiamellek_272033648055970",
+  "magic_words": [
+    
+  ]
+}

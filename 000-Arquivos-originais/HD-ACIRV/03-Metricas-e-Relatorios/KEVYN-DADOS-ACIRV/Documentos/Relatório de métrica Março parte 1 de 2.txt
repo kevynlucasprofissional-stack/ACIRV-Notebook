@@ -1,0 +1,91 @@
+(Transcrito por TurboScribe. Atualize para Ilimitado para remover esta mensagem.)
+
+Esse é um áudio no qual eu vou falar sobre como é que eu penso que deve ser a reunião de apresentação de métricas de março. Como deve ser a reunião de apresentação de métricas de março? Primeiro preciso mostrar o de sempre, né? Acessoria de imprensa, preciso mostrar a quantidade de postagens, preciso mostrar os dados, né? Tipo, quantas visualizações, qual que foi a evolução dos seguidores. Preciso mostrar os gráficos de quantos stories, o gráfico de tudo isso, né? Também preciso mostrar quantos stories foram publicados.
+
+Quantidade de vídeos produzidos, quantidade de reels publicados, quantas interações, quantas visualizações, qual que foi o total de seguidores. Tipo, a evolução dos seguidores, quantos a gente ganhou a mais e quantos deixaram de seguir. Deixa eu ver, talvez seja interessante transformar tudo isso num dashboard.
+
+Ah, eu também quero pegar todos esses dados e transformar numa tabela Excel pra que eu possa criar um dashboard no Loveable. E fazer com que o Loveable consiga ficar integrado com essa tabela Excel. E aí toda vez que eu atualizar a tabela Excel, o próprio Loveable já vai atualizar os gráficos.
+
+E aí nesse dashboard tem que ter a opção de salvar os gráficos gerados em PNG. Tipo, dos vários gráficos que a gente vai gerar, quantidade de interação, quantidade de seguidores. Isso aí tudo tem que ser possível ser atualizado automaticamente pelo dashboard.
+
+Tem que ter um botão lá de sincronizar agora, sabe? Porque quando eu clico nesse botão, o dashboard vai ler de novo a tabela Excel e vai atualizar com os novos dados, se tiver. E... deixa eu ver. E todos os gráficos gerados nesse dashboard deve ser possível de salvar ele em PNG.
+
+E aí eu quero apresentar esse dashboard também na apresentação de relatório de métricas que vai ter agora segunda-feira, dia 14. Além disso, já foi falado de assessoria de imprensa, né? Eu também quero... é porque tem um problema, tem um problema muito grande. Que aqui eu tenho demandas sendo recebidas de quatro frentes diferentes.
+
+Que é o José Carlos, a Janaine, a Viviane e o Rafael. José Carlos, Rafael, Janaine e Viviane. Essas quatro frentes estão ao mesmo tempo me enviando demandas, entendeu? E isso é muito complicado porque cada uma dessas frentes está preocupada com uma coisa diferente.
+
+A Janaine está preocupada ali com a comunicação interna, entendeu? Com as artes das oficinas, ela está preocupada... a comunicação interna que eu falo é tipo assim, adesivo para os vidros daqui, adesivo para as paredes. Deixar o interno aqui na CIRV, e eu estou falando fisicamente e visualmente, bonito, entendeu? Ela está preocupada com PDFs de apresentação, que a gente pode mostrar aí para os associados, entendeu? Ela está preocupada com os vídeos que a gente passa nos telões aqui dentro da CIRV, entendeu? Ela não está tão preocupada assim com estragão ou marketing, ela só quer deixar o interno da CIRV bonito. É isso que ela quer, é isso que ela está preocupada.
+
+Às vezes uma postagem informativa ou outra sim, só que o trabalho de marketing de verdade não é a preocupação dela. Ah, e ela também está preocupada com o endomarket, que é as ações sazonais. Por exemplo, o que a gente vai fazer para promover a interação entre os funcionários da CIRV em junho? Que está logo ali, de festa junina.
+
+A gente vai fazer só uma atividade? A gente vai fazer uma atividade entre os funcionários da CIRV? A gente vai decorar a CIRV? E se for decorar, como é que a gente vai fazer isso? Ela está preocupada com o endomarket também. Aí tem a Viviane. A Viviane está preocupada com assessoria de imprensa, está preocupada com conteúdo frio, está preocupada com relatório de métricas, está preocupada com tráfego pago.
+
+Ela está preocupada com o conteúdo que a gente vai produzir para o tráfego. Ela está preocupada com vídeos para a CIRV. Está preocupada com cobertura de conteúdo em tempo real, stories.
+
+Ela está preocupada com tudo isso. Ela está preocupada com os criativos para os eventos da CIRV, de aviso. Por exemplo, ela está preocupada com essas coisas.
+
+Agora o Rafael. O Rafael está preocupado com um bom relatório de tráfego, de tráfego pago. Ele está preocupado com o fórum de indústria que ele está organizando agora.
+
+Ele quer 12 criativos, quer um media kit, ele quer um monte de coisa. Entendeu? Ele quer o criativo de patrocinadores para o fórum de indústria da CIRV. Ele quer tudo isso.
+
+Agora o José Carlos. Com o que ele está preocupado? Ele está preocupado com campanhas de seguidores, ele está preocupado com o que eu posto, todas as fotos que ele tira dele com outras pessoas. O José Carlos é muito relação pública, ele tira foto com um monte de gente importante e quer que eu poste todas.
+
+Ele está preocupado com isso. Ele está preocupado com a quantidade de seguidores também. Ele quer que a gente tenha mais seguidores, que a quantidade de seguidores cresça.
+
+Ele está preocupado com que a gente faça campanhas para alavancar seguidores. Ele está preocupado com tudo isso. Ah, e agora tem o Diney Aracá, que ele me doou 500 reais para a gente fazer tráfego pago.
+
+E a gente tem que mostrar para o Diney que esse dinheiro dele gerou resultado. Para a gente fazer tráfego pago, para aumentar seguidores e tudo mais. O que eu, Kevin, estou preocupado? Eu estou preocupado com tudo isso, mas em gravar vídeo, em capturar cenas, em editar essas cenas.
+
+De vez em quando, um design ou outro que precisa de urgência eu faço. Eu estou preocupado com... Deixa eu pensar. Ah, eu preciso fazer assessoria de imprensa.
+
+O site que o Rafael... Ah, outra coisa que o Rafael está preocupado. Ele está preocupado com as inovações. Ele está preocupado com o motor de busca que ele me pediu da base de associados da Asirve.
+
+Esse motor de busca já tem o MVP dele e eu vou apresentar. Inclusive, eu tenho que apresentar isso também na reunião de métricas. Que são os três sites que eu fiz.
+
+Um que eu ainda vou fazer, quer dizer, é o Asirve Meet e o Ecosistema Asirve. O Ecosistema Asirve é esse motor de busca que o Rafael me pediu. Funciona assim, é como se fosse uma barra de pesquisa onde eu posso pesquisar dentro da base de todos os associados da Asirve.
+
+Entendeu? Por exemplo, se eu pesquiso marketing lá, aí já aparece todas as empresas que trabalham com marketing que são associadas da Asirve. Além disso, eu ainda coloquei um mural de demandas para servir como se fosse o 99 frilo, só que para o Ecosistema Asirve. Porque eu percebi que muitos negócios deixam de acontecer dentro do Ecosistema Asirve Simplesmente porque quando um associado tem uma demanda, ele não tem uma maneira rápida e facilitada de receber uma oferta de um outro associado.
+
+Entendeu? Aí, o que que acontece? Aí eu crio uma solução para isso. Essas duas coisas ao mesmo tempo. A barra de pesquisa e o mural de demandas.
+
+Onde associados podem publicar as suas demandas e outros associados podem mostrar interesse. E aí, quando um associado demonstra interesse e o associado que tem a demanda tem interesse nesse associado que tem a oferta, aí eles podem... aí é liberado o WhatsApp um do outro para eles continuarem a negociação pelo WhatsApp. Podem precisar colocar um chat ali no... No... No Asirvesaz, entendeu? Quer dizer, no Ecosistema Asirve.
+
+Aí o Asirve Meet é uma solução simples de reunião. Tipo assim, uma pessoa vem, cria uma reunião, marca os dias que ela pode, os horários que ela pode. E aí outra pessoa vem e dentro desses horários ela marca que dia que ela pode.
+
+Aí uma terceira vem e dentro dos horários que sobrou, que coincidem da primeira e da segunda, ela vem e marca os horários que ela pode também. E aí assim semiautomaticamente, porque cada um vai ter que entrar e falar que horário que pode. Aí... Aí... Como é que fala? Aí o programa ele vai lá ver quais que são os dias e horas que todo mundo pode e avisa, né? Para o organizador.
+
+Nesse relatório de métricas... Ah, tem a questão dos stakeholders, né? Eu não sei se eu terminei de falar. Que eu preciso... É porque cada um tá preocupado com alguma coisa, né? Que nem eu falei lá no começo. E eu tô preocupado em fazer tudo isso.
+
+Mas entregar vídeo, entregar sequência de stories, entendeu? Entregar um bom relatório, fazer um design ali do bom relatório. Às vezes fazer uma animação. Acima de tudo isso eu ainda tô preocupado com meus estudos.
+
+Com aprender como criar uma página melhor pelo Lovebook. Aprender a fazer algum tipo de programação. A entregar um diferencial aqui para a CIRV, entendeu? Eu ainda tô preocupado com as minhas... Eu quero voltar a usar o After Effects para fazer animação.
+
+Eu tenho o VO3 que eu posso estar usando para fazer umas animações com o IA para a CIRV, entendeu? Mas eu não tô tendo tempo de fazer nada disso. Aí tem essa questão também de que aqui eu sou constantemente interrompido. Tem muita troca de tipo de bloco de trabalho.
+
+Não tem bloco de foco protegido, entendeu? Aí, por exemplo, eu tô aqui na CIRV e aí... Eu tô fazendo, por exemplo, uma urgência da Janaína. Uma prioridade da Janaína. Aí vem a Vivi e me fala, ó... Kevin, você precisa fazer isso.
+
+Aí eu percebo, aí eu... Beleza, eu vou fazer isso agora e depois eu volto para a Janaína. Aí no meio do que eu tô fazendo da Janaína e a Vivi... Aí no meio do que eu tô fazendo da Vivi e vem a Janaína e me cobro dela e aparece o Rafael e fala a prioridade dele. Aí... Aí no meio disso tudo aparece uma urgência que dentro da CIRV mesmo, por exemplo, um... Um galão de água que tem que carregar, um... Sei lá, um... A Nayara, que é a menina do comercial, tá tendo problema com a impressora e me pede ajuda, entendeu? Aí, como é que faz? É foda, é foda isso.
+
+E o que que eu percebo? Que a solução, ela não tá em... Em, tipo assim... É... Como que fala, né? A solução não tá em centralizar a demanda em alguém. Não tá em, tipo assim, pararem de falar a demanda pra mim e falar pra outra pessoa e essa outra pessoa passar tudo pra mim, não. Porque essa outra pessoa só vai receber tudo, vai ficar estressada e vai me passar tudo.
+
+Vai me passar tudo estressada e... E ainda não vai fazer a prioridade. Não vai fazer a priorização, tipo... Ela só vai funilar, funilar tudo. O que vai gerar tensão ainda por cima.
+
+Porque tem muita coisa sendo derramada de uma vez e todo mundo querendo o dele pra agora. Porque cada um... Cada um tá preocupado com o CIRV, né? Todo mundo tá preocupado com o CIRV. Com a própria demanda, com o que é importante pra si, né? Tipo, a Vivi... A Vivi, ela tá preocupada com a campanha de seguidores do... A Vivi, ela até que tá preocupada com tudo, até porque ela é dona da agência, né? Eu sou... Eu sou um funcionário da VECOM.
+
+Eu sou um braço da VECOM dentro da CIRV. É isso. A Vivi, ela tá preocupada com tudo igual eu porque ela é dona da agência.
+
+Mas, por exemplo, o Rafael não tá preocupado com a... Com o portfólio da... O portfólio de... O portfólio dos serviços da CIRV, do mesmo tanto que a Janaína. A Janaína não tá preocupada com a campanha de aumentar seguidores do mesmo tanto que o... Que o... Como que se fala? Do mesmo tanto que o José Carlos. O José Carlos não tá preocupado com... Com, vamos supor, um relatório melhor de tráfego pago do que o... Mais do que o Rafael, entendeu? Cada um tá com as suas prioridades.
+
+E a Janaína, por exemplo, não tá preocupada com um perfil interessante, assim, do Instagram, com conteúdo frio, para o Instagram, do mesmo tanto que o Rafael. E o... Entendeu? Cada um com a sua prioridade. E é foda, eu tenho que mediar tudo isso.
+
+E, que nem eu falei, né? A solução não é funilar. Não é, tipo assim, todo mundo passar de parar pra mim e começar a passar só pra Vivi, e aí a Vivi me passa. Não.
+
+A solução é reunir essas quatro pessoas, junto comigo, e todo mundo olhar pra todas as demandas, e cada um dar uma nota. Ó, essa demanda aqui, a Janaína fala, né? Essa demanda aqui pra mim é nota 5. Aí o Rafael fala, não, pra mim é nota 10. Aí a Vivi, não, pra mim é 7. Aí o José Carlos falou assim, não, pra mim é nota 2. Aí a gente pega essas quatro notas, divide por quatro, e aí vai dar a média.
+
+Entendeu? E a gente faz isso pra todas as demandas. Aí a gente consegue fazer um balançamento de priorização. E aí, de acordo com todo mundo, aí todo mundo vai entrar em consenso sobre o que deve ser feito primeiro.
+
+E aí a gente vai ter prioridade. E além de, tipo assim, dar nota pra prioridade, a gente também tem que dar nota pra dificuldade. Porque, por exemplo, às vezes postar uma foto tem mais prioridade do que, por exemplo, construir, terminar de construir o SaaS Ecosistema Serve.
+
+Só que aí terminar de construir o SaaS Ecosistema Serve é muito mais complicado do que postar uma foto no Instagram. E eles não vão gastar o mesmo tempo, entendeu? Então, tipo assim, como é que eles vão medir, então, a minha... a minha consistência, a minha frequência, como é que eles vão medir a minha qualidade de trabalho, né? O quanto que eu tô trabalhando de verdade. Vai ser fazendo a divisão de quanto tempo em média isso vai demorar e a dificuldade, né? Porque, por exemplo, se eu postar...
+
+(Transcrito por TurboScribe. Atualize para Ilimitado para remover esta mensagem.)

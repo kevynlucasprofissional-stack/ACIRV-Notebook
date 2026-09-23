@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Thiago/ Eleve"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thiago/ Eleve",
+      "timestamp_ms": 1744817662332,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thiago/ Eleve",
+  "is_still_participant": true,
+  "thread_path": "inbox/thiagoeleve_1626256625435701",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Follow ADS"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Follow ADS",
+      "timestamp_ms": 1746627816786,
+      "content": "\u00f0\u009f\u0094\u008d Est\u00c3\u00a1 buscando mais clientes para o seu neg\u00c3\u00b3cio?\n\nAqui na Follow ADS, somos especialistas em transformar seguidores em clientes! \u00f0\u009f\u0092\u00a5 Fazemos an\u00c3\u00bancios estrat\u00c3\u00a9gicos que realmente funcionam, divulgando seu empreendimento com assertividade e resultados que podem ser medidos de verdade.\n\nSe voc\u00c3\u00aa recebeu esta mensagem, voc\u00c3\u00aa tem direito a uma promo\u00c3\u00a7\u00c3\u00a3o exclusiva para dar o primeiro passo rumo ao crescimento do seu neg\u00c3\u00b3cio.\n\n\u00f0\u009f\u0091\u0089 Para saber mais, agende uma conversa conosco!\n\n\u00f0\u009f\u0093\u009e Entre em contato agora e descubra como podemos ajudar seu neg\u00c3\u00b3cio a vender mais!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Follow ADS",
+  "is_still_participant": true,
+  "thread_path": "message_requests/followads_1666211401440223",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

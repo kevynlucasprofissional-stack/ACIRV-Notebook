@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "GAPES - Grupo Associado de Pesquisa do Sudoeste Goiano \u00f0\u009f\u008c\u00b1"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GAPES - Grupo Associado de Pesquisa do Sudoeste Goiano \u00f0\u009f\u008c\u00b1",
+      "timestamp_ms": 1755715675849,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755715129028,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3703528148554045466"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GAPES - Grupo Associado de Pesquisa do Sudoeste Goiano \u00f0\u009f\u008c\u00b1",
+      "timestamp_ms": 1755711488559,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755710408990,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3703489283394684512"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GAPES - Grupo Associado de Pesquisa do Sudoeste Goiano \u00f0\u009f\u008c\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/gapesgrupoassociadodepesquisadosudoestegoiano_1211265386934829",
+  "magic_words": [
+    
+  ]
+}

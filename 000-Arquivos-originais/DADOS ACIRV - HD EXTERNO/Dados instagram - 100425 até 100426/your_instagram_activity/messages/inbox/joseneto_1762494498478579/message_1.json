@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jos\u00c3\u00a9 Neto"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756392553832,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709212008957992448"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Neto",
+      "timestamp_ms": 1756382215172,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jos\u00c3\u00a9 Neto",
+  "is_still_participant": true,
+  "thread_path": "inbox/joseneto_1762494498478579",
+  "magic_words": [
+    
+  ]
+}

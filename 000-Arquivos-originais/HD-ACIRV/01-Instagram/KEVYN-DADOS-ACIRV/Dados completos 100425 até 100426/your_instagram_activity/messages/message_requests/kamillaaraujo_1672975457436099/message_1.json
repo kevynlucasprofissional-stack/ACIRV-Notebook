@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Kamilla Ara\u00c3\u00bajo"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kamilla Ara\u00c3\u00bajo",
+      "timestamp_ms": 1744818572830,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kamilla Ara\u00c3\u00bajo",
+  "is_still_participant": true,
+  "thread_path": "message_requests/kamillaaraujo_1672975457436099",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

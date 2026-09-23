@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Alvaro Augusto Simoes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761860077261,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755076916689939972"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Augusto Simoes",
+      "timestamp_ms": 1761859207741,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alvaro Augusto Simoes",
+  "is_still_participant": true,
+  "thread_path": "inbox/alvaroaugustosimoes_1822308885830473",
+  "magic_words": [
+    
+  ]
+}

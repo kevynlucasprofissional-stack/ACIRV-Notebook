@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1744477168455,
+      "content": "Ol\u00c3\u00a1, somos a maior plataforma de jogos PG do Brasil. Convidamos voc\u00c3\u00aa a colaborar. Voc\u00c3\u00aa pode ganhar mais de 1000,00 reais todos os dias.Al\u00c3\u00a9m disso, o recrutamento de agentes exige trabalho em tempo integral e voc\u00c3\u00aa pode ganhar muito dinheiro.Entre em contato conosco pelo Telegram\u00ef\u00bc\u009ahttps://t.me/yqxj1220",
+      "share": {
+        "link": "https://t.me/yqxj1220",
+        "share_text": "Ol\u00c3\u00a1, somos a maior plataforma de jogos PG do Brasil. Convidamos voc\u00c3\u00aa a colaborar. Voc\u00c3\u00aa pode ganhar mais de 1000,00 reais todos os dias.Al\u00c3\u00a9m disso, o recrutamento de agentes exige trabalho em tempo integral e voc\u00c3\u00aa pode ganhar muito dinheiro.Entre em contato conosco pelo Telegram\u00ef\u00bc\u009ahttps://t.me/yqxj1220"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "message_requests/usuariodoinstagram_1645150490212981",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

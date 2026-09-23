@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Taialla Oliveira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761844736431,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3754948110595209800"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Taialla Oliveira",
+      "timestamp_ms": 1761841751364,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Taialla Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/taiallaoliveira_1860401615360555",
+  "magic_words": [
+    
+  ]
+}

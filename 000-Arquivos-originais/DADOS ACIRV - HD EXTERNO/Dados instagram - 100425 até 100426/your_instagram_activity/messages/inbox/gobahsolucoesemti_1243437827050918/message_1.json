@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Gobah! Solu\u00c3\u00a7\u00c3\u00b5es em TI"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768305585266,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3809145683706754318"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768303268540,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3809126254340028313"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gobah! Solu\u00c3\u00a7\u00c3\u00b5es em TI",
+  "is_still_participant": true,
+  "thread_path": "inbox/gobahsolucoesemti_1243437827050918",
+  "magic_words": [
+    
+  ]
+}

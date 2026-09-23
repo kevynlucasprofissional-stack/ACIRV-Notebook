@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "The One Rio Verde - Goi\u00c3\u00a1s"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764893167030,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3780482059220144884"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The One Rio Verde - Goi\u00c3\u00a1s",
+  "is_still_participant": true,
+  "thread_path": "inbox/theonerioverdegoias_1853822702679091",
+  "magic_words": [
+    
+  ]
+}

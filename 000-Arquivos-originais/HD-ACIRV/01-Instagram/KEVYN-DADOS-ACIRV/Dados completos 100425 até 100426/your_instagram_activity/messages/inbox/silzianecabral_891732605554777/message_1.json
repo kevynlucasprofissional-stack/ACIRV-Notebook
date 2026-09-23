@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Silziane Cabral"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756210017208,
+      "content": "Ol\u00c3\u00a1, Silziane, bom dia! Nossa agenda \u00c3\u00a9 divulgada periodicamente pelas redes sociais. Dessa maneira, continue nos acompanhando para se manter informada sobre nossos eventos. Abra\u00c3\u00a7os.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756208024554,
+      "content": "Silziane Cabral replied to an ad. View ad(https://www.instagram.com/p/DNqaDr5A6e4/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silziane Cabral",
+      "timestamp_ms": 1756208023892,
+      "content": "Voc\u00c3\u00aa pode me informar sobre eventos futuros?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Silziane Cabral",
+  "is_still_participant": true,
+  "thread_path": "inbox/silzianecabral_891732605554777",
+  "magic_words": [
+    
+  ]
+}

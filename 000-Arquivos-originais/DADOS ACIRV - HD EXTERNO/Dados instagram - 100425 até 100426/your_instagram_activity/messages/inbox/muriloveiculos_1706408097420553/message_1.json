@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Murilo Ve\u00c3\u00adculos"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Murilo Ve\u00c3\u00adculos",
+      "timestamp_ms": 1750876622649,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Murilo Ve\u00c3\u00adculos",
+  "is_still_participant": true,
+  "thread_path": "inbox/muriloveiculos_1706408097420553",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Helo\u00cc\u0082 Ferraz Pratas | Especialista em Prata desde 2009"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774566401188,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861665279801939521"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helo\u00cc\u0082 Ferraz Pratas | Especialista em Prata desde 2009",
+      "timestamp_ms": 1774562875767,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774562075199,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861628982353822473"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Helo\u00cc\u0082 Ferraz Pratas | Especialista em Prata desde 2009",
+  "is_still_participant": true,
+  "thread_path": "inbox/heloferrazpratasespecialistaempratadesde2009_887184909342880",
+  "magic_words": [
+    
+  ]
+}

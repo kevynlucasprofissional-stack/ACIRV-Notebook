@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u0081guia Autom\u00c3\u00b3veis | Seminovos Rio Verde - GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758212125559,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758208311328,
+      "content": "Ol\u00c3\u00a1! Eu sou o assistente da ACIRV. Voc\u00c3\u00aa poderia me contar qual \u00c3\u00a9 a sua d\u00c3\u00bavida ou como posso ajudar voc\u00c3\u00aa hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00c3\u0081guia Autom\u00c3\u00b3veis | Seminovos Rio Verde - GO",
+      "timestamp_ms": 1758208293567,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00c3\u0081guia Autom\u00c3\u00b3veis | Seminovos Rio Verde - GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/aguiaautomoveisseminovosrioverdego_1512194733556414",
+  "magic_words": [
+    
+  ]
+}

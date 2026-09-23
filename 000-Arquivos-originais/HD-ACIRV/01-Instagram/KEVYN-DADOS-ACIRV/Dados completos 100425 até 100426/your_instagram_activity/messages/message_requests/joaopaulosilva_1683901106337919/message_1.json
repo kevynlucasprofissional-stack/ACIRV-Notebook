@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Joao Paulo Silva"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joao Paulo Silva",
+      "timestamp_ms": 1748552469765,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3643438282178266423"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joao Paulo Silva",
+  "is_still_participant": true,
+  "thread_path": "message_requests/joaopaulosilva_1683901106337919",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

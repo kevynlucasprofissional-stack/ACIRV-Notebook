@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Dra. V\u00c3\u00a2nia Machado"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dra. V\u00c3\u00a2nia Machado",
+      "timestamp_ms": 1774526983908,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774526846475,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861333465803615052"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774526763303,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861332768332808649"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dra. V\u00c3\u00a2nia Machado",
+  "is_still_participant": true,
+  "thread_path": "inbox/dravaniamachado_1374882313906468",
+  "magic_words": [
+    
+  ]
+}

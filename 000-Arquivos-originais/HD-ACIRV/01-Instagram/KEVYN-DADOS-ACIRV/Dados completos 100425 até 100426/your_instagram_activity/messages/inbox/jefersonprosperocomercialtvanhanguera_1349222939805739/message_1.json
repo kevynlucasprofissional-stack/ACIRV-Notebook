@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Jeferson Pr\u00c3\u00b3spero | Comercial TV Anhanguera"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeferson Pr\u00c3\u00b3spero | Comercial TV Anhanguera",
+      "timestamp_ms": 1774525785394,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jeferson Pr\u00c3\u00b3spero | Comercial TV Anhanguera",
+      "timestamp_ms": 1757025651135,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3714483263130944019"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757020946822,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3714483263130944019"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756293017449,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3708376926173949183"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jeferson Pr\u00c3\u00b3spero | Comercial TV Anhanguera",
+  "is_still_participant": true,
+  "thread_path": "inbox/jefersonprosperocomercialtvanhanguera_1349222939805739",
+  "magic_words": [
+    
+  ]
+}

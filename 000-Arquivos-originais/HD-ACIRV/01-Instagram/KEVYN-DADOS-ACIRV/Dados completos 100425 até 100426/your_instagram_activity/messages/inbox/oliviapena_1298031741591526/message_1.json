@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Olivia Pena"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Olivia Pena",
+      "timestamp_ms": 1764280430946,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764248953368,
+      "content": "Olivia, foi uma alegria contar com voc\u00c3\u00aas nesse momento de troca e aprendizado.\n\nEsperamos que o conte\u00c3\u00bado tenha contribu\u00c3\u00addo para o seu desenvolvimento e para fortalecer ainda mais o empreendedorismo em nossa regi\u00c3\u00a3o.\n\nSeguimos \u00c3\u00a0 disposi\u00c3\u00a7\u00c3\u00a3o e esperamos te encontrar nos pr\u00c3\u00b3ximos eventos da ACIRV! \u00f0\u009f\u00a4\u009d\u00e2\u009c\u00a8\u00f0\u009f\u0092\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Olivia Pena"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764248570733,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3775113047162291029"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia Pena",
+      "timestamp_ms": 1764245715897,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1750874154982,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3662920331224961801"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia Pena",
+      "timestamp_ms": 1750871171598,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1750791946947,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3662181441275122763"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olivia Pena",
+      "timestamp_ms": 1750784988389,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Olivia Pena",
+  "is_still_participant": true,
+  "thread_path": "inbox/oliviapena_1298031741591526",
+  "magic_words": [
+    
+  ]
+}

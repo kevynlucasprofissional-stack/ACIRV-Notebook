@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Adega Pasini Wine Bar"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747852450980,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DJ7QNQ_u6nY/",
+        "share_text": "EST\u00c3\u0081 PRECISANDO TRAZER UM POUCO DE LEVEZA para os seus dias? Ent\u00c3\u00a3o venha conhecer o PASINI WINE BAR, que oferece um espa\u00c3\u00a7o aconchegante e climatizado, ideal para vivenciar momentos de lazer, intera\u00c3\u00a7\u00c3\u00a3o e confraterniza\u00c3\u00a7\u00c3\u00a3o, regados a vinho, alta gastronomia e conhecimento. Quem garante \u00c3\u00a9 a propriet\u00c3\u00a1ria, Eliane Pasini (aqui ao lado da nossa Rakil\u00c3\u00a2ndia Medeiros), idealizadora e sommelier do 1\u00c2\u00b0 bar de vinhos da nossa cidade. \u00e2\u0080\u009cNossa miss\u00c3\u00a3o \u00c3\u00a9 trazer conhecimentos gerais sobre o mundo dos vinhos e tornar a bebida acess\u00c3\u00advel a um maior n\u00c3\u00bamero de pessoas\u00e2\u0080\u009d, diz Eliane. O PASINI WINE BAR est\u00c3\u00a1 localizado na Rua Abel Pereira de Castro, 880, centro. O fone \u00c3\u00a9 o 64 99249-5117. PARAB\u00c3\u0089NS, E SEJA BEM-VINDO \u00c3\u0080 ACIRV, PASINI WINE BAR!!! \u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adega Pasini Wine Bar",
+  "is_still_participant": true,
+  "thread_path": "inbox/adegapasiniwinebar_1219171786251401",
+  "magic_words": [
+    
+  ]
+}

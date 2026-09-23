@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Folha da Cidade"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1750099350708,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DK-NtuqOD6v/?id=3656420264552971951_6027695835",
+        "share_text": "NOSSOS AGRADECIMENTOS AO JORNAL FOLHA DA CIDADE e ao amigo Jesus Catarino pelo apoio. Nesta edi\u00c3\u00a7\u00c3\u00a3o, o Jornal faz breve balan\u00c3\u00a7o da gest\u00c3\u00a3o do presidente Eduardo Lobo e sua diretoria nestes 4 anos e meio de mandato. BRIGADUUU AO JESUS CATARINO E AO SEU FOLHA DA CIDADE! Confira: https://www.facebook.com/photo/?fbid=1136032525233356&set=pcb.1136033195233289 \u00f0\u009f\u0091\u008f\u00f0\u009f\u0099\u008c\u00f0\u009f\u00a4\u00b2",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Folha da Cidade",
+  "is_still_participant": true,
+  "thread_path": "inbox/folhadacidade_1192140912180610",
+  "magic_words": [
+    
+  ]
+}

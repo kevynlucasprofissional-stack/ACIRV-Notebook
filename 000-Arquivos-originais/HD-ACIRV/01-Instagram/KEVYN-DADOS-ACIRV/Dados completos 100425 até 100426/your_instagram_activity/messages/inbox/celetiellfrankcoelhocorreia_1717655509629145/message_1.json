@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Celetiell Frank Coelho Correia"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751974673525,
+      "content": "N\u00c3\u00a3o est\u00c3\u00a1 conseguindo fazer a inscri\u00c3\u00a7\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751974649201,
+      "content": "Bom dia, tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Celetiell Frank Coelho Correia",
+      "timestamp_ms": 1751904102150,
+      "content": "Boa tarde, eu fiz o cadastro no curdo de gest\u00c3\u00a3o financeira, mas como pego meu convite para participar do evento? \nL\u00c3\u00a1 fala para fazer login mas n\u00c3\u00a3o consigo.\nComo proceder?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Celetiell Frank Coelho Correia",
+  "is_still_participant": true,
+  "thread_path": "inbox/celetiellfrankcoelhocorreia_1717655509629145",
+  "magic_words": [
+    
+  ]
+}

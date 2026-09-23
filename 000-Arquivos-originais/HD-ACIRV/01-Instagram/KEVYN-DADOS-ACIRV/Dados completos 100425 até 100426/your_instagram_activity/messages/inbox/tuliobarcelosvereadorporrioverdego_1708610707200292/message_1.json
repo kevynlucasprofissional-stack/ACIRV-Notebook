@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "T\u00c3\u00balio Barcelos | Vereador por Rio Verde GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751079764407,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664645030455645613"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "T\u00c3\u00balio Barcelos | Vereador por Rio Verde GO",
+      "timestamp_ms": 1751072826961,
+      "share": {
+        "link": "https://www.instagram.com/stories/vereadortuliobarcelos/3664586751356451285"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "T\u00c3\u00balio Barcelos | Vereador por Rio Verde GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/tuliobarcelosvereadorporrioverdego_1708610707200292",
+  "magic_words": [
+    
+  ]
+}

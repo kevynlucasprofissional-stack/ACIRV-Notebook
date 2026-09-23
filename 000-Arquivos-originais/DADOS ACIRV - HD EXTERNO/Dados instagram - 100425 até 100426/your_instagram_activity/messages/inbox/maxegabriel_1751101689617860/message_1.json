@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Max e Gabriel"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max e Gabriel",
+      "timestamp_ms": 1765535843881,
+      "content": "Max enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DSKQToYjWaw/?id=3785910154534151856_71936547613",
+        "share_text": "At\u00c3\u00a9 que esse dia chegou, obrigado Deus por tudo que tem feito em minha vida, por minha fam\u00c3\u00adlia, meus amigos, meu emprego, e pelo talento que me deu parab\u00c3\u00a9ns pra mim",
+        "original_content_owner": "max_e_gabriel_sertanejo"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755277809744,
+      "content": "Ol\u00c3\u00a1, boa tarde! Voc\u00c3\u00aa pode acessar o link: https://linktr.ee/acirv.festivais?fbclid=PAQ0xDSwMMSPBleHRuA2FlbQIxMQABpyAEQ_5ksoBeHGcmxIgXSACTpONvGdFzxOklnQqDK0y0HpsztSAFmXY4g7lh_aem_eExjjCRjCnCJZu2xDXFiUw. Boa sorte!",
+      "share": {
+        "link": "https://linktr.ee/acirv.festivais?fbclid=PAQ0xDSwMMSPBleHRuA2FlbQIxMQABpyAEQ_5ksoBeHGcmxIgXSACTpONvGdFzxOklnQqDK0y0HpsztSAFmXY4g7lh_aem_eExjjCRjCnCJZu2xDXFiUw",
+        "share_text": "Ol\u00c3\u00a1, boa tarde! Voc\u00c3\u00aa pode acessar o link: https://linktr.ee/acirv.festivais?fbclid=PAQ0xDSwMMSPBleHRuA2FlbQIxMQABpyAEQ_5ksoBeHGcmxIgXSACTpONvGdFzxOklnQqDK0y0HpsztSAFmXY4g7lh_aem_eExjjCRjCnCJZu2xDXFiUw. Boa sorte!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max e Gabriel",
+      "timestamp_ms": 1755275737247,
+      "content": "Boa tarde onde faz a inscri\u00c3\u00a7\u00c3\u00a3o para o festival ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Max e Gabriel",
+  "is_still_participant": true,
+  "thread_path": "inbox/maxegabriel_1751101689617860",
+  "magic_words": [
+    
+  ]
+}

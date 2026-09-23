@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1761768766793,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761768315648,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Usu\u00c3\u00a1rio do Instagram"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DQZ-rt1ErrM/",
+        "share_text": "Tem novidade chegando na ACIRV! \n\n\u00c3\u0089 com alegria que damos boas-vindas \u00c3\u00a0 nova associada Andr\u00c3\u00a9a Tartuce Advocacia (@andreatartuceadv).\nCom experi\u00c3\u00aancia nas \u00c3\u00a1reas de Direito Tribut\u00c3\u00a1rio, Sucess\u00c3\u00b3rio, Contratual e Planejamento Patrimonial, o escrit\u00c3\u00b3rio se destaca por oferecer solu\u00c3\u00a7\u00c3\u00b5es jur\u00c3\u00addicas completas e personalizadas.\n\nSeja muito bem-vinda, Andr\u00c3\u00a9a! Que essa parceria traga ainda mais conex\u00c3\u00b5es e crescimento para todos n\u00c3\u00b3s.\n\n#ACIRVassociados #ACIRVeAndr\u00c3\u00a9aTartuceAdvocacia #Direito #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760052313017,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760048536141,
+      "content": "Ol\u00c3\u00a1! Eu sou o Rioverdense, assistente da ACIRV. Como posso ajudar voc\u00c3\u00aa hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1760048501672,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "inbox/usuariodoinstagram_1800998574628171",
+  "magic_words": [
+    
+  ]
+}

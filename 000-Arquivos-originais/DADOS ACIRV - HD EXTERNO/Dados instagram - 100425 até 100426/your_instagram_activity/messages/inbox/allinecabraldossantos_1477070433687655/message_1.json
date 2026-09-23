@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Alline Cabral Dos Santos"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alline Cabral Dos Santos",
+      "timestamp_ms": 1772037177006,
+      "content": "Alline enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DVMA6uVja0r/?carousel_share_child_media_id=3840448617723571499_1485056857",
+        "share_text": "N\u00c3\u00a3o poderia ter um lugar melhor para come\u00c3\u00a7ar a vida de empreendedora do que dentro de uma entidade t\u00c3\u00a3o forte e respeitada como a Acirv. Parab\u00c3\u00a9ns pelo evento conselho Acirv Mulher!",
+        "original_content_owner": "allinelobo"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alline Cabral Dos Santos",
+  "is_still_participant": true,
+  "thread_path": "inbox/allinecabraldossantos_1477070433687655",
+  "magic_words": [
+    
+  ]
+}

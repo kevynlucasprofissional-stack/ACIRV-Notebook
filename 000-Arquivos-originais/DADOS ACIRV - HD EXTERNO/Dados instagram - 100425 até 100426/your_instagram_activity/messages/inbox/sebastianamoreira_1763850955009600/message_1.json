@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Sebastiana Moreira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sebastiana Moreira",
+      "timestamp_ms": 1756521173689,
+      "share": {
+        "link": "https://www.instagram.com/stories/tianinharv/3710290931242417788"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sebastiana Moreira",
+  "is_still_participant": true,
+  "thread_path": "inbox/sebastianamoreira_1763850955009600",
+  "magic_words": [
+    
+  ]
+}

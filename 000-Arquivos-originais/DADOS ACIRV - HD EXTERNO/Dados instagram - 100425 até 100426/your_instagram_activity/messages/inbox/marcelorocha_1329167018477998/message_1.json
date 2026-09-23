@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Marcelo Rocha"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcelo Rocha",
+      "timestamp_ms": 1775792733291,
+      "share": {
+        "link": "https://www.instagram.com/stories/oficialmarcelorocha/3871952356208548830"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Rocha",
+      "timestamp_ms": 1775792418049,
+      "share": {
+        "link": "https://www.instagram.com/stories/oficialmarcelorocha/3871949755211608597"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcelo Rocha",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcelorocha_1329167018477998",
+  "magic_words": [
+    
+  ]
+}

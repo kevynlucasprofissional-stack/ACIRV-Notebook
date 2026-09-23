@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Talento \u00c3\u009anico"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756387196036,
+      "content": "64. 3620.0199 esse \u00c3\u00a9 o nosso WhatsApp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talento \u00c3\u009anico",
+      "timestamp_ms": 1756386173731,
+      "content": "Sobre cadastrar uma crian\u00c3\u00a7a pra canta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talento \u00c3\u009anico",
+      "timestamp_ms": 1756386165225,
+      "content": "Qual watzap pra ter mais informa\u00c3\u00a7\u00c3\u00b5es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756292678155,
+      "content": "Em que posso ajudar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756292671406,
+      "content": "Bom dia!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756292326907,
+      "content": "Talento \u00c3\u009anico replied to an ad. View ad(https://www.instagram.com/p/DNqaDr5A6e4/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talento \u00c3\u009anico",
+      "timestamp_ms": 1756292326137,
+      "content": "Voc\u00c3\u00aa pode me informar sobre eventos futuros?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Talento \u00c3\u009anico",
+  "is_still_participant": true,
+  "thread_path": "inbox/talentounico_1761551471906215",
+  "magic_words": [
+    
+  ]
+}

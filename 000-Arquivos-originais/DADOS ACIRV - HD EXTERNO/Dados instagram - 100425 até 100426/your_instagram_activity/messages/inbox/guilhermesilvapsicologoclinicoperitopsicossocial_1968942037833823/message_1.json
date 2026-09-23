@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Guilherme Silva | Psic\u00c3\u00b3logo Cl\u00c3\u00adnico & Perito Psicossocial"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1775817178961,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3872157223296630420"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guilherme Silva | Psic\u00c3\u00b3logo Cl\u00c3\u00adnico & Perito Psicossocial",
+      "timestamp_ms": 1775745991700,
+      "share": {
+        "link": "https://www.instagram.com/stories/guilhermesilvapsi/3871560141145818239"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guilherme Silva | Psic\u00c3\u00b3logo Cl\u00c3\u00adnico & Perito Psicossocial",
+  "is_still_participant": true,
+  "thread_path": "inbox/guilhermesilvapsicologoclinicoperitopsicossocial_1968942037833823",
+  "magic_words": [
+    
+  ]
+}

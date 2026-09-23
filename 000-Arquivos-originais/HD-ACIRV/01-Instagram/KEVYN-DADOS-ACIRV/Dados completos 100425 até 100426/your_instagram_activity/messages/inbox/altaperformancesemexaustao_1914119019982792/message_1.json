@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Alta Performance sem Exaust\u00c3\u00a3o"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alta Performance sem Exaust\u00c3\u00a3o",
+      "timestamp_ms": 1770933961151,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770895268962,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alta Performance sem Exaust\u00c3\u00a3o"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3830869593158411977"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alta Performance sem Exaust\u00c3\u00a3o",
+      "timestamp_ms": 1770894820645,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alta Performance sem Exaust\u00c3\u00a3o",
+  "is_still_participant": true,
+  "thread_path": "inbox/altaperformancesemexaustao_1914119019982792",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0080\u00a2Jusinei"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e2\u0080\u00a2Jusinei",
+      "timestamp_ms": 1755624390885,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0080\u00a2Jusinei",
+      "timestamp_ms": 1755624283590,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0080\u00a2Jusinei",
+  "is_still_participant": true,
+  "thread_path": "inbox/jusinei_1754730299254999",
+  "magic_words": [
+    
+  ]
+}

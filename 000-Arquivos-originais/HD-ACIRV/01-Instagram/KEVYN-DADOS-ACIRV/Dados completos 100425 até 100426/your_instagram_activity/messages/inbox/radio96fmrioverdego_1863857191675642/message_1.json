@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "R\u00c3\u00a1dio 96 FM - Rio Verde GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765923616352,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3789164308832548295"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765923491999,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DSVz4VzjREV/",
+        "share_text": "ACIRV na 96 FM \u00f0\u009f\u008e\u0099\u00ef\u00b8\u008f\n\nO vice-presidente da ACIRV, @raphael_valongo, participou do programa da 96 FM, onde apresentou um balan\u00c3\u00a7o das principais a\u00c3\u00a7\u00c3\u00b5es desenvolvidas pela entidade ao longo do \u00c3\u00baltimo semestre e tamb\u00c3\u00a9m trouxe atualiza\u00c3\u00a7\u00c3\u00b5es sobre os n\u00c3\u00bameros e as proje\u00c3\u00a7\u00c3\u00b5es da Sudoexpo 2026.\n\nDurante a entrevista, Raphael destacou o trabalho institucional da ACIRV, o fortalecimento do associativismo, a atua\u00c3\u00a7\u00c3\u00a3o em defesa do setor produtivo e o posicionamento da entidade como voz ativa dos empres\u00c3\u00a1rios de Rio Verde e regi\u00c3\u00a3o, al\u00c3\u00a9m de compartilhar dados que refor\u00c3\u00a7am a import\u00c3\u00a2ncia econ\u00c3\u00b4mica e social da Sudoexpo para o munic\u00c3\u00adpio.\n\nA participa\u00c3\u00a7\u00c3\u00a3o refor\u00c3\u00a7a o compromisso da ACIRV com a transpar\u00c3\u00aancia, a comunica\u00c3\u00a7\u00c3\u00a3o e o di\u00c3\u00a1logo direto com a sociedade.\n\n#ACIRVe96FM #associe #rioverde #sudoexpo2026",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "R\u00c3\u00a1dio 96 FM - Rio Verde GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/radio96fmrioverdego_1863857191675642",
+  "magic_words": [
+    
+  ]
+}

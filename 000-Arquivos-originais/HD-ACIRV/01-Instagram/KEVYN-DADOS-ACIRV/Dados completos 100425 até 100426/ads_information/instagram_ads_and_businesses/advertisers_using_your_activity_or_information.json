@@ -1,0 +1,3394 @@
+{
+  "ig_custom_audiences_all_types": [
+    {
+      "advertiser_name": "Publya - M\u00c3\u00addia Program\u00c3\u00a1tica",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "monday.com",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Terram",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM01 - AntisocialMedia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "target.teal",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Le Lis Blanc",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Manual BR",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vira Click",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Martins Broker Finance",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sic Marketing",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Can\u00c3\u00a7\u00c3\u00a3o Alimentos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ag\u00c3\u00aancia Hill MKT LTDA #2",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zul+",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sirena",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Millena Nobrega Treinamentos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "P&G Brasil Primary",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Futura Im\u00c3\u00b3veis",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rafael Carvalho Intermedia\u00c3\u00a7\u00c3\u00b5es",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nexu Leads",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Temperando com Lucro",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Carlos Valente",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nutripura",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SM AI ",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Creator Crew",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "YOUCOM",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hub Goi\u00c3\u00a1s",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Magazine Luiza",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hallow",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "La\u00c3\u00ads Le\u00c3\u00a3o",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Match Talent",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Saint Paul Escola de Neg\u00c3\u00b3cios",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BIANCO Pizza Bar",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Samara Vahldick",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Backstage Productions Live",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Solution Inform\u00c3\u00a1tica",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Suellen Syglyd",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TC",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lumine",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "N\u00c3\u00a9ctar Sistemas",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TIM Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Puzzle Ads",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AgriQ - Receitu\u00c3\u00a1rio Agron\u00c3\u00b4mico",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Natura",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Inter",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Senac Goi\u00c3\u00a1s",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Transportadora Brasil Central Ltda",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Perfil Vitor Silva = BM02",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dra Yasmin Francine",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Petlove Plano de Sa\u00c3\u00bade",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Seja AP",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "JM solu\u00c3\u00a7\u00c3\u00b5es em energia \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Filipe Viana",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "UmmixAds",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cooperativa Comigo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Capital Inicial BMA 01",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Agridoce Fam\u00c3\u00adlia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Euner Santiago",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hi World LTDA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sebrae PR",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Leo Baltazar | Criador de Conte\u00c3\u00bado\u00ef\u00bf\u00bd",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ag\u00c3\u00aancia Health Pro I Mkt M\u00c3\u00a9dico",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dra. Izadora Zaiden",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lab34 An\u00c3\u00bancios 2",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Blip BR",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AstraZeneca Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "b a s t",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wellington Carrijo ",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hospital Israelita Albert Einstein",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sem bab\u00c3\u00b8zera",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM 01 - Pignatti",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "openbarclubpinheiros",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "VCOM Intelig\u00c3\u00aancia em Marketing",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Leiturinha",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vitrio",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "V4 Company",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Castilho IA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "OREO",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Fazendo Terapia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mercado Livre",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Assa\u00c3\u00ad Atacadista",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Melego Telecom",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dra Isabel Duarte Marques",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - 02",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Andr\u00c3\u00a9 Froed Personal Trainer",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Descomplica Vestibulares",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "leadfy.240",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TRR Petrorio",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Atendente MX's Business",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TudoMed",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Preditiva Hoje",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Redmedia 03",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "K\u00c3\u00aania Bittencourt",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ipiranga",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ju Lima",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mapa Avalia\u00c3\u00a7\u00c3\u00b5es",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rodrigo Alvim Advogado do Passageiro",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "_laradutra",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Brutos Barbearia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cacau Show",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Siagri ERP",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Smirna Ribeiro \u00ef\u00bf\u00bd",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nelore Steak House",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Alecrim Comunica\u00c3\u00a7\u00c3\u00a3o e Assessoria",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Floripa Comedy Club",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Leandro Dany Entretenimento",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Colibri Festas & Decora\u00c3\u00a7\u00c3\u00b5es",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Um Show Comedy Guarulhos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jair Fasolo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM1 - Rapha Borges",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Lu\u00c3\u00ads Eduardo Dantas | LED",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Marcelo Barros",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Luxe Store",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Weach",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Clube de Regatas do Flamengo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AM Sweets",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "LaGio Padaria",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Du'Sono Colch\u00c3\u00b5es Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Strike Social",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Atlanta Ve\u00c3\u00adculos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Creamy Skincare",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM01 - Davi Ribas",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pedro Sobral",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Globoplay",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM Nutri Master",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "OLD - Gest\u00c3\u00a3o Master - BM 2025",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zero Grau Beer",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Aegea Saneamento",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Samsung",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dono de Empresa",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Noviole",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sabor & Caf\u00c3\u00a9",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "!Baila Baila!",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ag\u00c3\u00aancia Join",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Amanda Sotta",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Elementary Innovation Pte. Ltd.",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AlphaTickets",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pandamobo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dispor Coleta",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Clesio Theodoro",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pinterest Inc",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Terra\u00c3\u00a7o Matriz",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Memor\u00c3\u00a1vel Global",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bianca Freitas - Anunciante",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "omachadoburger",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ana Carolina Rocha",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fluency TV Ingl\u00c3\u00aas",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MCompany",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "O Popular",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "UOL",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Max Peters",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sioux digital 1:1",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Contas reserva 02",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Roberta Pugsley",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nio",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AIAgentCore",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bonapp",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Spotify",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kwai Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "upsummiteventos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MPP Business test account",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "XP Investimentos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sophya",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM 01 Dina",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HostGator",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Simple App",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GIMC",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jonas  2026",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TurboScribe",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "223 - Cubocc/Droga5",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vou de 99",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pedro Guimar\u00c3\u00a3es - Licita\u00c3\u00a7\u00c3\u00b5es",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "O Novo Mercado",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FARFETCH",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Performance Marketing - USD - Spotify AB",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Reprise Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "inDrive",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Yotta",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Retargetly",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nubank",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Binance",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Carrefour",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Netshoes",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "AE Powerwin BM",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kontrabando Creative Brand Powerhouse Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "C6 Bank",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Tinder",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Channel Factory",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FCB Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Universidade Cruzeiro do Sul",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sicredi Ouro Verde MT/PA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Yay\u00c3\u00a1 Comunica\u00c3\u00a7\u00c3\u00a3o",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "urusbraziliansteakhouse",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "NIAD",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Hotel Bons Tempos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TecnoShow Comigo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Amora Livros Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pizzaria Senhor Sabor ",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ang\u00c3\u00aa Fitwear",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ron\u00c3\u00a3 Contadores",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Empresa Autogerenci\u00c3\u00a1vel",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Staage",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BotConversa LTDA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Deborah G. Lima",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Garcia Im\u00c3\u00b3veis",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Maax Corretora",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zimran",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Meta for Business",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "STEAL THE LOOK",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Seven Salon",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sesc Goi\u00c3\u00a1s",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "F5 M\u00c3\u00addia de Performance",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "The UC Theatre",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "OXY Digital",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Destrave Sua Comunica\u00c3\u00a7\u00c3\u00a3o",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "YinoLink\u00e6\u0098\u0093\u00e8\u00af\u00ba",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Matheus Croche",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Construtora MESSA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jovem Pan News",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Carna clubes",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "OpenAI",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sallve",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Carla Sim\u00c3\u00b5es",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Exact Sales",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "P\u00c3\u00b3s PUCPR Digital",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Art&C Comunica\u00c3\u00a7\u00c3\u00a3o",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SICOOB Executivo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Soul8",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ag\u00c3\u00aancia Kevy",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Brics Craft",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nos 45 Do Segundo Tempo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Leadfy.173",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fogo de Ch\u00c3\u00a3o Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "V\u00c3\u00b3lus",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dr. F\u00c3\u00a1bio Monteiro",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Brastemp",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "estudio_tex_asasul",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Caixa Aqui Facilita",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pr\u00c3\u00b3ximo Milion\u00c3\u00a1rio",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Uniagency",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "RD Station Conversas",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Terceiriza Rio",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vivo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bolster",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "veedstudio",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM Inexxus Secund\u00c3\u00a1ria",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "HQ CDM",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Codespace BM",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Perplexity AI",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kommo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Santander Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Spotify LATAM BM",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "V\u00c3\u00a9los - An\u00c3\u00bancios",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "LinkedIn",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SHEIN & Meta-ALL",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vyon",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "TikTok",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Huios empresarial",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mc Credi",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Headway App",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Thyago ADS",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Typeform",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pluga",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Claro Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Meta",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Canva",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FB Growth Marketing",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Erick Villegas",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Linktree",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Microsoft Customer Insights Center",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FB Only SMB Channel Test Page",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wish",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Reality Labs",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pureza Beauty",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PH3A",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "E-Dialog Comunica\u00c3\u00a7\u00c3\u00a3o Digital",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Foccus Entretenimento e Comunica\u00c3\u00a7\u00c3\u00a3o",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "8 Engage",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Cadu Neiva Ace",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Carolina Kroff",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sr Samurai Japon\u00c3\u00aas Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Tathi De\u00c3\u00a2ndhela",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sesc",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "C.A.PRODU\u00c3\u0087\u00c3\u0095ES",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Center Chamas",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dreams Nutrition",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM Sescoop OCB GO",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Megatech Inform\u00c3\u00a1tica Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nando Reis",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Salon Line",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "3A Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "myshopmaquinasdegelo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FSB Digital",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gocase Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sebrae RS",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Turbo Academy - Reserva",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "exame",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FGV",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "99 \u00c3\u0093 T I C A S  -  Rio Verde GO",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Izabella Camargo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Aline Venditti",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Shopee Marketing Solution Service",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Casa Verdinha",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rick Miura",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Grupo Equatorial ",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Disney Channel Latinoam\u00c3\u00a9rica",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Moradas Grill Rio Verde.",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nerd Universe",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Juliano Cazarr\u00c3\u00a9",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mario Capasa",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "\u00c3\u008dtalo Diego Teot\u00c3\u00b4nio",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Raquel Vono - Gest\u00c3\u00a3o Pedag\u00c3\u00b3gica",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Febracis",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jonathas Magalh\u00c3\u00a3es",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "COP Odontologia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MAKER",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Facieg",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Olivew Principal",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ag\u00c3\u00aancia Frog",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Resultados Digitais",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Brioli Doces Fitness",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Motiva Treino Personalizado",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Up Solu\u00c3\u00a7\u00c3\u00b5es em Investimento",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jo\u00c3\u00a3o Menna - O Segredo da Autoridade",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Golden Hippo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Me Poupe",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Risqu\u00c3\u00a9",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dra.Biancca Cabral",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Educon",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Plug Tune",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Shows Vanessa",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Andr\u00c3\u00a9 Lug",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mkt Magistral",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "L'Or\u00c3\u00a9al Group",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ag\u00c3\u00aancia Africa",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - CEO - Reserva 1",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Imp\u00c3\u00a9rio e Speed Distribuidora",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Airbnb",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Vox2you",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Marcello Safe 16",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sebrae Goi\u00c3\u00a1s",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mango Technologies, Inc",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rafael Kiso's Business",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BETC HAVAS",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Caio Carneiro",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Greenpeace Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Grigo - Com\u00c3\u00a9dia e Marketing #1",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Teachy",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Barra Shopping Sul",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Danilo Rocha Psi",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CAROL IASMIM",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Magr\u00c3\u00a3o Vereador",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Atlas Shape",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "La Braciera",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Don Comunica\u00c3\u00a7\u00c3\u00a3o Digital",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kompier Prass",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Indexis",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rei Phone",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Anna Marquez",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Shape Leve",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ana Clara",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Artplan",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Moringa",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Mylena Marques",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sol\u00c3\u00a1rio Piscinas Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gilberto Augusto",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Empresa HBM Assessores",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Teste 01 - Davi",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jotacom - The Cross Performance Agency",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Feijukinha GYN",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Alfa Distribuidora",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Academia Brasileira de Social Media",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Croesus",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "bradesco",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Plugcit\u00c3\u00a1rios",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Ecoville Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Coronel Picanha",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "400 Pizza Artesanal",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "\u00ef\u00bf\u00bdVoc\u00c3\u00aa faz seu progresso",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Splash",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Adial",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Myshop.rioverde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Range Mobile",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "EssenceMediacom Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Open Criativa Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM Codirect 2",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Noir Chocolates Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Havan",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Postar Pra Vender",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Thales Fagundes Comunica\u00c3\u00a7\u00c3\u00a3o",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hotmart",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "O Primo Rico",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MoBrand",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Camila Renaux",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dotb",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "A Trinca",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PRIMEIRO REINO BURGUER",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Portal Odonto Cursos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PLAY Publicidade & Eventos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Creditas",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Karlos Cabral",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Central Sports e Cal\u00c3\u00a7ados",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "DM Strategic",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Regilda",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "A Terap\u00c3\u00aautica",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Valter Social Media de Elite",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Shopee Business Account",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "G4 Business",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Denner Clemente",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Planta e Vida ",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Helio Tatsuo Yostsui",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CEAD Brasil - Grupo Educacional e Assessoria de Ensino a Dist\u00c3\u00a2ncia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dra. Yassue Minami",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sicoob",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Swile do Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Senac Esp\u00c3\u00adrito Santo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "The Rage",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Z\u00c3\u00aanite Centro Automotivo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Unirv",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Danielly Fonseca",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ACI Montes Claros",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Sampa Pizza",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Perdomo Doces",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Constrular",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "iFood",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "o conteudalista",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "litybrasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zenity semijoias e acess\u00c3\u00b3rios ",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gracielle Gatto Hairstylist",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Odorata Beleza & Cuidado",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jo\u00c3\u00a3o Valio Stand up Comedy",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BOSSA FM",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Duda e Ribs",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Casa Brasileira de Livros",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "EletromarRv",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CAMBOTA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "WebAds",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bluefocus",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Shab Fitness",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GoDaddy",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "_coelhorodrigo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Marketing e Canva",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vanderlan Cardoso",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Avengers Agency LLC",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Feijukinha Rio verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Focusnetworks",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Y\u00c3\u00a1s Comunica\u00c3\u00a7\u00c3\u00a3o e Marketing",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "V\u00c3\u00aanus Prime Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hypera Pharma",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "robson Manoel",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Nutri Ana Gl\u00c3\u00b3ria",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Afonso Padilha",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "mLabs",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM TCCC",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Meetsocial HK Digital Marketing Co.\u00ef\u00bc\u008cltd-1",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Emagrecentro Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "rafael.barroso.macedo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM Victor 3",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "IBTO",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jasper Entretenimento",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ACIRV",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Kewin Campos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CSGOBig",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Shopping dos Cosm\u00c3\u00a9ticos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "MRV",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ag\u00c3\u00aancia Arpejo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PEPSICO BRASIL",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vidapura Produtos Naturais LTDS",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Conquista Supermercados",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vizzela",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM 01",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Aline da Fonseca",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Serasa",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Z\u00c3\u00a9 Delivery de Bebidas",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ESCALA DIGITAL",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Campe\u00c3\u00a3o Supermercados",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Zygon",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Inove Brindes e Uniformes",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GWM Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Senac RJ",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vivendo Inteligente",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rodrigo Ferreira",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Senac Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rodrigo de Vasconcelos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM Casa de Artista 2026",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Escalar Odonto - Ila Fl\u00c3\u00a1via",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ADS Pander",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Factory Tech - Psion",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ceres Agrobank",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "IX Tecnologia",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Boost Digital",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "rubitutibr",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Music Box",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Politics 2",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "UAU Digital",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Acij",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "OLD - BM Gest\u00c3\u00a3o Master",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Corpus Suplementos Nutricionais",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - CEO - Principal",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vinicius Peres - DZB",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "OlivewCred FGTS",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Big Fudge Vinyl",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Rancheiro Hamburgueria Artesanal",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM J\u00c3\u00a3oiagro",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Gambiarra A Festa",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Otamira",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "CIEE",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "ECO Connect",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Leonardo Marcondes Madureira",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ag\u00c3\u00aancia 100%",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ag\u00c3\u00aancia Drum",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Texaco Lubrificantes",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Insight M\u00c3\u00addia 2",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Comunidade Sobral",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Reserva",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fernando Ant\u00c3\u00b4nio",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hashtag Programa\u00c3\u00a7\u00c3\u00a3o",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Inusitada Agro",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Massas e Sabores",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Time de Midia Accenture",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Stella Artois",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Decor Rustic Rio Verde",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Ademicon",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Idtagg",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "\u00e0\u00b8\u0097\u00ce\u00b1\u00cf\u0084\u00ce\u00b1\u00e2\u0084\u0093i\u00ce\u00b1 \u00c6\u0092\u00d1\u0094\u00e2\u0084\u0093i\u00cf\u0081\u00cf\u0081\u00d1\u0094",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Clib",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Fujioka",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "UniSenai PR",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Galeria",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Aloisio Junior",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "BM - Reykar Ve\u00c3\u00adculos",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vira lata productions",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "WMcCANN Brasil",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Petra Rosa Psic\u00c3\u00b3loga",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Blank School",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Company Hero",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "StartSe",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Clube Do Porkinho",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Quizlet",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bedaie",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Simboo Tech",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "EMT",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Nomad Global",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pullse",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Brasil Terrenos SA",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "M.A Produ\u00c3\u00a7\u00c3\u00b5es",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Pedro Sales",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Burger King",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Deezer",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Galv\u00c3\u00a3o Comunica",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Prequel",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Central de contas - Sicoob Nova Central",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "PicPay",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Vivian Lee",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "monday CRM",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Mat Wright",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Drake Lando",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Chauncy Smith",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Agent Factory",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Dave Giovacchini UGC",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "GenXtra42",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "willscheren",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Jules Henry",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "FB for IG",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Grupo Conceito",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Tonya Green Emerald Coast Realtor",
+      "has_data_file_custom_audience": false,
+      "has_remarketing_custom_audience": true,
+      "has_in_person_store_visit": false
+    }
+  ]
+}

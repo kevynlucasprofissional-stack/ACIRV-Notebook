@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Adriano Brito"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adriano Brito",
+      "timestamp_ms": 1744320819237,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adriano Brito",
+  "is_still_participant": true,
+  "thread_path": "message_requests/adrianobrito_1643550600372970",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

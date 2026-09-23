@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Celia Mendes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Celia Mendes",
+      "timestamp_ms": 1772456559845,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759576528703,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759572671750,
+      "content": "Se precisar de informa\u00c3\u00a7\u00c3\u00b5es sobre a ACIRV, como servi\u00c3\u00a7os, eventos ou associa\u00c3\u00a7\u00c3\u00b5es, estou aqui para ajudar! Qual \u00c3\u00a9 a sua pergunta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Celia Mendes",
+      "timestamp_ms": 1759572613808,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Celia Mendes",
+  "is_still_participant": true,
+  "thread_path": "inbox/celiamendes_824281062299932",
+  "magic_words": [
+    
+  ]
+}

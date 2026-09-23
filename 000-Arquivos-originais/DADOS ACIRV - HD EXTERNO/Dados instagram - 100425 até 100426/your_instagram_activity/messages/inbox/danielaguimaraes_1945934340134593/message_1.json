@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Daniela Guimar\u00c3\u00a3es"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773999325506,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3856908302102123030"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773999318680,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3856908236226393124"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniela Guimar\u00c3\u00a3es",
+      "timestamp_ms": 1773974992014,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniela Guimar\u00c3\u00a3es",
+      "timestamp_ms": 1773974400297,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniela Guimar\u00c3\u00a3es",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielaguimaraes_1945934340134593",
+  "magic_words": [
+    
+  ]
+}

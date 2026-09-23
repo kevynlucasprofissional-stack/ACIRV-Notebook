@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Crea Goi\u00c3\u00a1s"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Crea Goi\u00c3\u00a1s",
+      "timestamp_ms": 1771005738159,
+      "content": "Crea enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DUtQkbvEatN/",
+        "share_text": "Est\u00c3\u00a3o abertas as inscri\u00c3\u00a7\u00c3\u00b5es para o evento \u00e2\u0080\u009cEncontro Profissional para Atualiza\u00c3\u00a7\u00c3\u00a3o, Normas Vigentes e ART\u00e2\u0080\u009d em Rio Verde-GO! \n\nAcesse o site www.creago.org.br, no \u00c3\u00adcone \u00e2\u0080\u009cCursos e Eventos\u00e2\u0080\u009d e saiba mais!",
+        "original_content_owner": "creagoias"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Crea Goi\u00c3\u00a1s",
+  "is_still_participant": true,
+  "thread_path": "message_requests/creagoias_1915314303196597",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,22 @@
+{
+  "profile_friend_map": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Pedidos recebidos": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Pedidos enviados": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

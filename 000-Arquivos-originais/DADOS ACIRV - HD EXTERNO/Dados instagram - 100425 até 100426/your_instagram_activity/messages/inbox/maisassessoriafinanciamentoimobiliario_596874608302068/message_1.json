@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Mais Assessoria | Financiamento Imobili\u00c3\u00a1rio"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mais Assessoria | Financiamento Imobili\u00c3\u00a1rio",
+      "timestamp_ms": 1751137517847,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751079595797,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mais Assessoria | Financiamento Imobili\u00c3\u00a1rio"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664643694804843881"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mais Assessoria | Financiamento Imobili\u00c3\u00a1rio",
+      "timestamp_ms": 1751075605221,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mais Assessoria | Financiamento Imobili\u00c3\u00a1rio",
+  "is_still_participant": true,
+  "thread_path": "inbox/maisassessoriafinanciamentoimobiliario_596874608302068",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Nome",
+      "vec": [
+        {
+          "value": "Facebook access (mobile): Samsung Android mobile devices"
+        },
+        {
+          "value": "Facebook access (mobile): all mobile devices"
+        },
+        {
+          "value": "Frequent Travelers"
+        },
+        {
+          "value": "Frequent international travelers"
+        },
+        {
+          "value": "Poss\u00c3\u00advel troca de operadora de celular ou dispositivo m\u00c3\u00b3vel"
+        },
+        {
+          "value": "Troca recente de operadora de celular ou dispositivo m\u00c3\u00b3vel"
+        },
+        {
+          "value": "Uso de redes Wi-Fi"
+        },
+        {
+          "value": "Usu\u00c3\u00a1rios de operadora de celular ou dispositivo m\u00c3\u00b3vel"
+        }
+      ]
+    }
+  ],
+  "fbid": "17841406235053461"
+}

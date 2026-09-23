@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Andressa Quinelli | Seguros e Cons\u00c3\u00b3rcios"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759545614606,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759541753872,
+      "content": "Eu sou o Rioverdense, o assistente oficial da ACIRV! Como posso te ajudar hoje? Se tiver alguma pergunta, fique \u00c3\u00a0 vontade para compartilhar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andressa Quinelli | Seguros e Cons\u00c3\u00b3rcios",
+      "timestamp_ms": 1759541722530,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andressa Quinelli | Seguros e Cons\u00c3\u00b3rcios",
+  "is_still_participant": true,
+  "thread_path": "inbox/andressaquinelliseguroseconsorcios_1618441532883877",
+  "magic_words": [
+    
+  ]
+}

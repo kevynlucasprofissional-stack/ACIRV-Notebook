@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Ctax Contabilidade"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759938617627,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759934846168,
+      "content": "Desculpe, mas n\u00c3\u00a3o posso ajudar com isso. Voc\u00c3\u00aa pode querer entrar em contato com um agente de suporte para obter mais informa\u00c3\u00a7\u00c3\u00b5es.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ctax Contabilidade",
+      "timestamp_ms": 1759934840971,
+      "content": "Ol\u00c3\u00a1, tudo bem? \u00f0\u009f\u0098\u008a\nAqui \u00c3\u00a9 a Neuziane da Studio Agro! N\u00c3\u00b3s ajudamos produtores e empresas do agro a terem mais resultado, organiza\u00c3\u00a7\u00c3\u00a3o e crescimento com solu\u00c3\u00a7\u00c3\u00b5es pr\u00c3\u00a1ticas e personalizadas. \u00f0\u009f\u008c\u00b1\u00e2\u009c\u00a8\n\nA Studio Agro conta com mais de 40 solu\u00c3\u00a7\u00c3\u00b5es para o agro, como capta\u00c3\u00a7\u00c3\u00a3o de recursos, gest\u00c3\u00a3o financeira e energia, sempre com foco em aumentar a efici\u00c3\u00aancia do produtor. \u00f0\u009f\u009a\u009c\u00e2\u009a\u00a1\n\nOferecemos um diagn\u00c3\u00b3stico gratuito para entender melhor sua realidade e identificar as solu\u00c3\u00a7\u00c3\u00b5es que podem gerar mais resultado para o seu neg\u00c3\u00b3cio.\n\n\u00f0\u009f\u0091\u0089 Quando seria um bom hor\u00c3\u00a1rio para conversarmos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ctax Contabilidade",
+  "is_still_participant": true,
+  "thread_path": "inbox/ctaxcontabilidade_1799684208092941",
+  "magic_words": [
+    
+  ]
+}

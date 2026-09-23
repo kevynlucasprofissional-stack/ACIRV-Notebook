@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Tarum\u00c3\u00a3 Consultoria"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tarum\u00c3\u00a3 Consultoria",
+      "timestamp_ms": 1752604816445,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3676776593420211305"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tarum\u00c3\u00a3 Consultoria",
+  "is_still_participant": true,
+  "thread_path": "inbox/tarumaconsultoria_1724550075606355",
+  "magic_words": [
+    
+  ]
+}

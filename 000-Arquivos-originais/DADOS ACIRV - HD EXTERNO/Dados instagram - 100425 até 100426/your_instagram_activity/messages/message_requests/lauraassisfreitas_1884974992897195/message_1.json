@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Laura Assis Freitas"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Laura Assis Freitas",
+      "timestamp_ms": 1768127819305,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Laura Assis Freitas",
+  "is_still_participant": true,
+  "thread_path": "message_requests/lauraassisfreitas_1884974992897195",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Karina Carvalho"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764798240875,
+      "content": "Karina Carvalho replied to an ad. View ad(https://www.instagram.com/p/DNqaDr5A6e4/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karina Carvalho",
+      "timestamp_ms": 1764798240257,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3779676589450766128"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1748624181731,
+      "content": "Segue link de inscri\u00c3\u00a7\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1748624177616,
+      "content": "https://www.sympla.com.br/evento/poder-feminino---conectando-corpo-e-mente-aos-desejos/2954719",
+      "share": {
+        "link": "https://www.sympla.com.br/evento/poder-feminino---conectando-corpo-e-mente-aos-desejos/2954719",
+        "share_text": "https://www.sympla.com.br/evento/poder-feminino---conectando-corpo-e-mente-aos-desejos/2954719"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1748601181956,
+      "content": "Irei verificar e te informo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1748601176176,
+      "content": "Bom dia!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karina Carvalho",
+      "timestamp_ms": 1748557470738,
+      "content": "Quero ir. Quando vai ser as inscri\u00c3\u00a7\u00c3\u00b5es?",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3643272195758008392"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Karina Carvalho",
+  "is_still_participant": true,
+  "thread_path": "inbox/karinacarvalho_1713908496675677",
+  "magic_words": [
+    
+  ]
+}

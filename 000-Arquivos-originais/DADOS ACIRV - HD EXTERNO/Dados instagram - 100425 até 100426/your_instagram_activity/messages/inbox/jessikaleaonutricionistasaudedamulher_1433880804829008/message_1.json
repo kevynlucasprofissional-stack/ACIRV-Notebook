@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "J\u00c3\u00a9ssika Le\u00c3\u00a3o - Nutricionista Sa\u00c3\u00bade da Mulher!"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764891005540,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3780502035213669443"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00a9ssika Le\u00c3\u00a3o - Nutricionista Sa\u00c3\u00bade da Mulher!",
+      "timestamp_ms": 1764885681767,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "J\u00c3\u00a9ssika Le\u00c3\u00a3o - Nutricionista Sa\u00c3\u00bade da Mulher!",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessikaleaonutricionistasaudedamulher_1433880804829008",
+  "magic_words": [
+    
+  ]
+}

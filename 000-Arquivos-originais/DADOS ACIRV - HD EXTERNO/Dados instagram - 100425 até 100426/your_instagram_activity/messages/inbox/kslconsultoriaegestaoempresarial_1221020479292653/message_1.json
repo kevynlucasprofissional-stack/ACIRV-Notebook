@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "KSL Consultoria e Gest\u00c3\u00a3o Empresarial"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "KSL Consultoria e Gest\u00c3\u00a3o Empresarial",
+      "timestamp_ms": 1744402971232,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "KSL Consultoria e Gest\u00c3\u00a3o Empresarial",
+  "is_still_participant": true,
+  "thread_path": "inbox/kslconsultoriaegestaoempresarial_1221020479292653",
+  "magic_words": [
+    
+  ]
+}

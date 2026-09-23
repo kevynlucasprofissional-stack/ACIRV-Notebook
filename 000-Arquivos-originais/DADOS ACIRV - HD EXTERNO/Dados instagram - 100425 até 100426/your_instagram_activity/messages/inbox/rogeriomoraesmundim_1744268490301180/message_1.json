@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Rog\u00c3\u00a9rio Moraes Mundim"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rog\u00c3\u00a9rio Moraes Mundim",
+      "timestamp_ms": 1754602603612,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3693903351842976834"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rog\u00c3\u00a9rio Moraes Mundim",
+  "is_still_participant": true,
+  "thread_path": "inbox/rogeriomoraesmundim_1744268490301180",
+  "magic_words": [
+    
+  ]
+}

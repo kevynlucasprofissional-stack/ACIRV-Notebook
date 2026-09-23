@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Karine Insuela"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karine Insuela",
+      "timestamp_ms": 1761606349004,
+      "content": "Karine enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Karine Insuela",
+  "is_still_participant": true,
+  "thread_path": "inbox/karineinsuela_1837805574281312",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,292 @@
+[
+  {
+    "timestamp": 1734695776,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Quantidade",
+        "value": "1"
+      },
+      {
+        "label": "Status"
+      },
+      {
+        "label": "Hor\u00c3\u00a1rio da atualiza\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1764824166
+      },
+      {
+        "label": "Ativo",
+        "value": "Verdadeiro"
+      },
+      {
+        "label": "Data/hora de expira\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Tempo de concess\u00c3\u00a3o",
+        "timestamp_value": 1734695776
+      },
+      {
+        "label": "Data/hora de cria\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1734695776
+      },
+      {
+        "label": "Status de valida\u00c3\u00a7\u00c3\u00a3o"
+      },
+      {
+        "label": "Revogada",
+        "value": "Falso"
+      },
+      {
+        "label": "Item",
+        "media": [
+          {
+            "uri": "your_instagram_activity/posts/media/your_posts/28909078858691589.png"
+          }
+        ]
+      },
+      {
+        "label": "Tipo",
+        "value": "FREE"
+      },
+      {
+        "label": "Tipo de produto"
+      }
+    ],
+    "fbid": "28909078858691589"
+  },
+  {
+    "timestamp": 1734695776,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Quantidade",
+        "value": "1"
+      },
+      {
+        "label": "Status"
+      },
+      {
+        "label": "Hor\u00c3\u00a1rio da atualiza\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1764840572
+      },
+      {
+        "label": "Ativo",
+        "value": "Verdadeiro"
+      },
+      {
+        "label": "Data/hora de expira\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Tempo de concess\u00c3\u00a3o",
+        "timestamp_value": 1734695776
+      },
+      {
+        "label": "Data/hora de cria\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1734695776
+      },
+      {
+        "label": "Status de valida\u00c3\u00a7\u00c3\u00a3o"
+      },
+      {
+        "label": "Revogada",
+        "value": "Falso"
+      },
+      {
+        "label": "Item",
+        "media": [
+          {
+            "uri": "your_instagram_activity/posts/media/your_posts/8917750451646207.png"
+          }
+        ]
+      },
+      {
+        "label": "Tipo",
+        "value": "FREE"
+      },
+      {
+        "label": "Tipo de produto"
+      }
+    ],
+    "fbid": "8917750451646207"
+  },
+  {
+    "timestamp": 1734695776,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Quantidade",
+        "value": "1"
+      },
+      {
+        "label": "Status"
+      },
+      {
+        "label": "Hor\u00c3\u00a1rio da atualiza\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1764829380
+      },
+      {
+        "label": "Ativo",
+        "value": "Verdadeiro"
+      },
+      {
+        "label": "Data/hora de expira\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Tempo de concess\u00c3\u00a3o",
+        "timestamp_value": 1734695776
+      },
+      {
+        "label": "Data/hora de cria\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1734695776
+      },
+      {
+        "label": "Status de valida\u00c3\u00a7\u00c3\u00a3o"
+      },
+      {
+        "label": "Revogada",
+        "value": "Falso"
+      },
+      {
+        "label": "Item",
+        "media": [
+          {
+            "uri": "your_instagram_activity/posts/media/your_posts/8126765880759650.png"
+          }
+        ]
+      },
+      {
+        "label": "Tipo",
+        "value": "FREE"
+      },
+      {
+        "label": "Tipo de produto"
+      }
+    ],
+    "fbid": "8126765880759650"
+  },
+  {
+    "timestamp": 1724140063,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Quantidade",
+        "value": "1"
+      },
+      {
+        "label": "Status"
+      },
+      {
+        "label": "Hor\u00c3\u00a1rio da atualiza\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1764834910
+      },
+      {
+        "label": "Ativo",
+        "value": "Verdadeiro"
+      },
+      {
+        "label": "Data/hora de expira\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Tempo de concess\u00c3\u00a3o",
+        "timestamp_value": 1724140063
+      },
+      {
+        "label": "Data/hora de cria\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1724140063
+      },
+      {
+        "label": "Status de valida\u00c3\u00a7\u00c3\u00a3o"
+      },
+      {
+        "label": "Revogada",
+        "value": "Falso"
+      },
+      {
+        "label": "Item",
+        "media": [
+          {
+            "uri": "your_instagram_activity/posts/media/your_posts/27364909699766555.png"
+          }
+        ]
+      },
+      {
+        "label": "Tipo",
+        "value": "FREE"
+      },
+      {
+        "label": "Tipo de produto"
+      }
+    ],
+    "fbid": "27364909699766555"
+  },
+  {
+    "timestamp": 1719341255,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Quantidade",
+        "value": "1"
+      },
+      {
+        "label": "Status"
+      },
+      {
+        "label": "Hor\u00c3\u00a1rio da atualiza\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1764808616
+      },
+      {
+        "label": "Ativo",
+        "value": "Verdadeiro"
+      },
+      {
+        "label": "Data/hora de expira\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Tempo de concess\u00c3\u00a3o",
+        "timestamp_value": 1719341255
+      },
+      {
+        "label": "Data/hora de cria\u00c3\u00a7\u00c3\u00a3o",
+        "timestamp_value": 1719341255
+      },
+      {
+        "label": "Status de valida\u00c3\u00a7\u00c3\u00a3o"
+      },
+      {
+        "label": "Revogada",
+        "value": "Falso"
+      },
+      {
+        "label": "Item",
+        "media": [
+          {
+            "uri": "your_instagram_activity/posts/media/your_posts/7896491403752078.png"
+          }
+        ]
+      },
+      {
+        "label": "Tipo",
+        "value": "FREE"
+      },
+      {
+        "label": "Tipo de produto"
+      }
+    ],
+    "fbid": "7896491403752078"
+  }
+]

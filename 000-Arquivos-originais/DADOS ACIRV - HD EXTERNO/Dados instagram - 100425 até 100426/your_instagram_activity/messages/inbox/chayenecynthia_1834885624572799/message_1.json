@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Chayene Cynthia"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762953598831,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3764250047459166960"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chayene Cynthia",
+      "timestamp_ms": 1762951868651,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chayene Cynthia",
+  "is_still_participant": true,
+  "thread_path": "inbox/chayenecynthia_1834885624572799",
+  "magic_words": [
+    
+  ]
+}

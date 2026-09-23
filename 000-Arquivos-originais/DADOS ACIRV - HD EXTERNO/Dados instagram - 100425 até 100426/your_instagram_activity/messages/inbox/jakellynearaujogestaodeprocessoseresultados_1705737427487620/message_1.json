@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jakellyne Ara\u00c3\u00bajo | Gest\u00c3\u00a3o de Processos e Resultados"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jakellyne Ara\u00c3\u00bajo | Gest\u00c3\u00a3o de Processos e Resultados",
+      "timestamp_ms": 1750870965018,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1750849498217,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jakellyne Ara\u00c3\u00bajo | Gest\u00c3\u00a3o de Processos e Resultados"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3662713486388592042"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jakellyne Ara\u00c3\u00bajo | Gest\u00c3\u00a3o de Processos e Resultados",
+      "timestamp_ms": 1750808515433,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jakellyne Ara\u00c3\u00bajo | Gest\u00c3\u00a3o de Processos e Resultados",
+  "is_still_participant": true,
+  "thread_path": "inbox/jakellynearaujogestaodeprocessoseresultados_1705737427487620",
+  "magic_words": [
+    
+  ]
+}

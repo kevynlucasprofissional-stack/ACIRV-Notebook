@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Let\u00c3\u00adcia Brito"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756234794714,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3707888457403737105"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Let\u00c3\u00adcia Brito",
+  "is_still_participant": true,
+  "thread_path": "inbox/leticiabrito_1760990735295622",
+  "magic_words": [
+    
+  ]
+}

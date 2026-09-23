@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Sim\u00c3\u00a3o Michaleski"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1746789856459,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Sim\u00c3\u00a3o Michaleski",
+      "timestamp_ms": 1746743898131,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Sim\u00c3\u00a3o Michaleski",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunosimaomichaleski_1384448479616518",
+  "magic_words": [
+    
+  ]
+}

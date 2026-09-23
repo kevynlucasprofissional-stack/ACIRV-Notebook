@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Datte"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760111104817,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760107500831,
+      "content": "Oi! Eu sou o Rioverdense, o assistente da ACIRV. Como posso te ajudar hoje? Se tiver alguma pergunta sobre a associa\u00c3\u00a7\u00c3\u00a3o ou a Sudoexpo, estou aqui!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Datte",
+      "timestamp_ms": 1760107496067,
+      "content": "Oi! \u00f0\u009f\u0091\u008b\nA Datte est\u00c3\u00a1 lan\u00c3\u00a7ando uma plataforma super moderna de aprendizado \u00f0\u009f\u0092\u00bb\nCom a gente, o conhecimento est\u00c3\u00a1 sempre em movimento \u00f0\u009f\u009a\u0080\nSegue pra ver as novidades \u00f0\u009f\u0091\u0089 https://www.instagram.com/datte.tecnologia/",
+      "share": {
+        "link": "https://www.instagram.com/datte.tecnologia/",
+        "share_text": "Instagram"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Datte",
+  "is_still_participant": true,
+  "thread_path": "inbox/datte_1801717977889564",
+  "magic_words": [
+    
+  ]
+}

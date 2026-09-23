@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764780493983,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764780484220,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQoqu0XDTsE/",
+        "share_text": "\u00f0\u009f\u0093\u00a2 Uma conex\u00c3\u00a3o que transforma!\n\nA ACIRV, por meio do N\u00c3\u00bacleo Setorial da Sa\u00c3\u00bade, convida voc\u00c3\u00aa para um evento feito para gerar networking, parceria e crescimento entre profissionais da Sa\u00c3\u00bade.\n\n\u00f0\u009f\u00a9\u00ba Conecta Sa\u00c3\u00bade\n\n\u00f0\u009f\u0093\u0085 04 de dezembro\u00c2\u00a0\n\u00f0\u009f\u0095\u0095 18h30\n\u00f0\u009f\u0093\u008d ACIRV (rua Dona Maricota, 199 - Setor Marconal)\n\n\u00f0\u009f\u0094\u0092 Exclusivo para profissionais e neg\u00c3\u00b3cios do setor da Sa\u00c3\u00bade.\n\n\u00f0\u009f\u0092\u00ac Inscreva-se pelos canais oficiais da ACIRV.\n\n#ACIRVeventos #ConectaSa\u00c3\u00bade #SetorDaSa\u00c3\u00bade #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "inbox/usuariodoinstagram_1916270373107644",
+  "magic_words": [
+    
+  ]
+}

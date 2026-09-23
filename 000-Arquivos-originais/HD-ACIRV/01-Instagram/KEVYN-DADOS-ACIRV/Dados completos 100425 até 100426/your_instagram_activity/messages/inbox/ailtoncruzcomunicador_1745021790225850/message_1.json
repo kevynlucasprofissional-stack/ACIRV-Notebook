@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ailton Cruz COMUNICADOR"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755715129110,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3703528148554045466"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1754679061237,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3694838165776107017"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ailton Cruz COMUNICADOR",
+  "is_still_participant": true,
+  "thread_path": "inbox/ailtoncruzcomunicador_1745021790225850",
+  "magic_words": [
+    
+  ]
+}

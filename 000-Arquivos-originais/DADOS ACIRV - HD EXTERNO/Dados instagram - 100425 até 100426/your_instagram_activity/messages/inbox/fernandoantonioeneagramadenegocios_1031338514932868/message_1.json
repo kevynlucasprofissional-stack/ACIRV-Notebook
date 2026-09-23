@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Fernando Antonio | ENEAGRAMA DE NEG\u00c3\u0093CIOS"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernando Antonio | ENEAGRAMA DE NEG\u00c3\u0093CIOS",
+      "timestamp_ms": 1762873673616,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762871400528,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernando Antonio | ENEAGRAMA DE NEG\u00c3\u0093CIOS"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3763560355453596391"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Antonio | ENEAGRAMA DE NEG\u00c3\u0093CIOS",
+      "timestamp_ms": 1762870759495,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernando Antonio | ENEAGRAMA DE NEG\u00c3\u0093CIOS",
+  "is_still_participant": true,
+  "thread_path": "inbox/fernandoantonioeneagramadenegocios_1031338514932868",
+  "magic_words": [
+    
+  ]
+}

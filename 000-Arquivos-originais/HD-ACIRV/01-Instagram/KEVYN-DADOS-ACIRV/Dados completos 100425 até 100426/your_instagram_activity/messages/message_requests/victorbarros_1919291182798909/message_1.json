@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Victor Barros"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Victor Barros",
+      "timestamp_ms": 1771358283979,
+      "content": "Victor enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DU1JDFFkpk7/?id=3834010451815078203_49687073",
+        "share_text": "O @leandropintobr deu o caminho para fazermos o que \u00c3\u00a9 para ser feito. Brabo irm\u00c3\u00a3o \u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bb.",
+        "original_content_owner": "lucianoboaretto"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victor Barros",
+  "is_still_participant": true,
+  "thread_path": "message_requests/victorbarros_1919291182798909",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

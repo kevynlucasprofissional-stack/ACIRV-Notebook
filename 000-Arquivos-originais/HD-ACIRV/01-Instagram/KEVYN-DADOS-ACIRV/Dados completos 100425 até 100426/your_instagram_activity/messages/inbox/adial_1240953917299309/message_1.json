@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Adial"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761680693845,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3753572006714586876"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adial",
+  "is_still_participant": true,
+  "thread_path": "inbox/adial_1240953917299309",
+  "magic_words": [
+    
+  ]
+}

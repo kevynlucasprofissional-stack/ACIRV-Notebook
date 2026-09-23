@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Lesche"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bruno Lesche",
+      "timestamp_ms": 1745685084459,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Lesche",
+      "timestamp_ms": 1745685017544,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Lesche",
+      "timestamp_ms": 1745684364304,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Lesche",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunolesche_949405303120840",
+  "magic_words": [
+    
+  ]
+}

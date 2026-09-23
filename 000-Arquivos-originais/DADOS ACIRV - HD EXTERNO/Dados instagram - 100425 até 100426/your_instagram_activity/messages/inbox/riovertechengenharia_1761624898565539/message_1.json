@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Riovertech Engenharia"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759352754682,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DPR_QOIj5eo/",
+        "share_text": "Seja bem-vinda, Riovertech Engenharia!\n\nTemos a alegria de receber a Riovertech Engenharia (@riovertech) como nova associada da ACIRV!\n\nEspecializada em solu\u00c3\u00a7\u00c3\u00b5es personalizadas em energia solar, a empresa contribui com inova\u00c3\u00a7\u00c3\u00a3o e sustentabilidade para a regi\u00c3\u00a3o, desenvolvendo projetos que aliam efici\u00c3\u00aancia energ\u00c3\u00a9tica e economia para resid\u00c3\u00aancias, empresas e propriedades rurais.\n\n\u00c3\u0089 um prazer contar com parceiros que compartilham da nossa vis\u00c3\u00a3o de desenvolvimento respons\u00c3\u00a1vel e tecnol\u00c3\u00b3gico.\n\n#ACIRVassociados #Riovertech #EnergiaSolar #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Riovertech Engenharia",
+      "timestamp_ms": 1756298427062,
+      "content": "Riovertech enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Riovertech Engenharia",
+  "is_still_participant": true,
+  "thread_path": "inbox/riovertechengenharia_1761624898565539",
+  "magic_words": [
+    
+  ]
+}

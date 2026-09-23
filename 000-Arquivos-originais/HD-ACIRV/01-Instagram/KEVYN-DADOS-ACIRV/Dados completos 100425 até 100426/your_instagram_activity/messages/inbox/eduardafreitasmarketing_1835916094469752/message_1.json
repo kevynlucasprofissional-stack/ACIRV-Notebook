@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Eduarda Freitas | Marketing"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1763053519268,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3765087959868337964"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduarda Freitas | Marketing",
+      "timestamp_ms": 1763051983742,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eduarda Freitas | Marketing",
+  "is_still_participant": true,
+  "thread_path": "inbox/eduardafreitasmarketing_1835916094469752",
+  "magic_words": [
+    
+  ]
+}

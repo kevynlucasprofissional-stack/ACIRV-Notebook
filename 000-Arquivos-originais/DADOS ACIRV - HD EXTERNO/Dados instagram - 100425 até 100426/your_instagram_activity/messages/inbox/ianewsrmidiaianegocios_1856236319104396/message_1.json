@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "IA News\u00c2\u00ae | M\u00c3\u00addia, IA & Neg\u00c3\u00b3cios"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "IA News\u00c2\u00ae | M\u00c3\u00addia, IA & Neg\u00c3\u00b3cios",
+      "timestamp_ms": 1765303348743,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "IA News\u00c2\u00ae | M\u00c3\u00addia, IA & Neg\u00c3\u00b3cios",
+      "timestamp_ms": 1765303348217,
+      "content": "Fa\u00c3\u00a7a parte da IANews, acesse nosso Newsletter Premium \u00ef\u00bf\u00bd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765303346761,
+      "content": "Receber Newsletter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "IA News\u00c2\u00ae | M\u00c3\u00addia, IA & Neg\u00c3\u00b3cios",
+      "timestamp_ms": 1765133346883,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "IA News\u00c2\u00ae | M\u00c3\u00addia, IA & Neg\u00c3\u00b3cios",
+      "timestamp_ms": 1765133345627,
+      "content": "ianews.co messaged you because you followed their account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "IA News\u00c2\u00ae | M\u00c3\u00addia, IA & Neg\u00c3\u00b3cios",
+  "is_still_participant": true,
+  "thread_path": "inbox/ianewsrmidiaianegocios_1856236319104396",
+  "magic_words": [
+    
+  ]
+}

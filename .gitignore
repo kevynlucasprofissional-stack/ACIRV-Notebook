@@ -8,3 +8,26 @@
 # Backup pré-purga: contém histórico sensível
 /ACIRV-Notebook-before-purge.bundle
 ACIRV-Notebook-before-purge.bundle
+# Fontes sensiveis locais do HD ACIRV - politica V4
+000-Arquivos-originais/**/Acessos site.md
+000-Arquivos-originais/**/Contas e Senhas.md
+000-Arquivos-originais/HD-ACIRV/**/security_and_login_information/**
+000-Arquivos-originais/HD-ACIRV/**/personal_information/device_information/**
+000-Arquivos-originais/HD-ACIRV/**/personal_information/information_about_you/possible_phone_numbers.json
+000-Arquivos-originais/HD-ACIRV/**/personal_information/information_about_you/locations_of_interest.json
+000-Arquivos-originais/HD-ACIRV/**/logged_information/link_history/**
+000-Arquivos-originais/HD-ACIRV/**/logged_information/recent_searches/**
+000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/security_and_login_information/**
+000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/personal_information/device_information/**
+000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/personal_information/information_about_you/possible_phone_numbers.json
+000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/personal_information/information_about_you/locations_of_interest.json
+000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/logged_information/link_history/**
+000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/logged_information/recent_searches/**
+!000-Arquivos-originais/HD-ACIRV/**/instagram_profile_information.json
+!000-Arquivos-originais/HD-ACIRV/**/professional_information.json
+!000-Arquivos-originais/HD-ACIRV/**/profile_changes.json
+!000-Arquivos-originais/HD-ACIRV/**/note_interactions.json
+!000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/instagram_profile_information.json
+!000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/professional_information.json
+!000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/profile_changes.json
+!000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/**/note_interactions.json

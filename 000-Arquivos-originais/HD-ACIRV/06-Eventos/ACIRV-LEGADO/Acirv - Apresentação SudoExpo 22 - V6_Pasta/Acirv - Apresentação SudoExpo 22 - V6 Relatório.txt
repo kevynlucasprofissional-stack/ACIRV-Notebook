@@ -1,0 +1,112 @@
+Relatório de pacote
+
+-----------------------------------------------------------------------------
+Documento:
+Nome: Acirv - Apresentação SudoExpo 22 - V6.ai
+Modo de cor: Cor RGB
+Perfil de cor: Adobe RGB (1998)
+Unidades da régua: pixels
+Dimensões da prancheta: 1600 px x 900 px
+Mostrar imagens no modo de contorno: DESATIVADO
+Realçar fontes substituídas: DESATIVADO
+Realçar glifos substituídos: DESATIVADO
+Preservar capacidade de edição do texto
+Simular papel colorido: DESATIVADO
+
+-----------------------------------------------------------------------------
+Objetos de cor especial:
+
+-----------------------------------------------------------------------------
+Fontes ausentes:
+Kaleidos Smooth* (não instalado)
+
+-----------------------------------------------------------------------------
+Fontes protegidas que não foram empacotadas:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes:
+Kaleidos W00 Smooth (OTF)
+AmsiPro-Italic (OTF)
+Exo 2 Semi Bold (OTF)
+Exo 2 (OTF)
+Exo 2 Black (OTF)
+Exo 2 Extra Bold (OTF)
+Exo 2 Light Italic (OTF)
+Exo 2 Medium (OTF)
+MisterGiacco Pro Light (OTF)
+MisterGiacco Pro Regular Oblique (OTF)
+MisterGiacco Pro Bold Oblique (OTF)
+MisterGiacco Pro Bold (OTF)
+
+-----------------------------------------------------------------------------
+Fontes incorporadas:
+NENHUM
+
+-----------------------------------------------------------------------------
+Vínculos ausentes:
+NENHUM
+
+-----------------------------------------------------------------------------
+Imagens vinculadas:
+
+G:\Sudoexpo\Material novo\AdobeStock_409069630.jpeg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 79195K, 6368 por 4245 pixels
+Dimensões: 638,21 por 425,44 pontos 
+Resolução: 718,409 por 718,409 pixels por polegada
+
+
+G:\Sudoexpo\Material novo\AdobeStock_299484239.jpeg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 23953K, 3500 por 2336 pixels
+Dimensões: 482,963 por 322,343 pontos 
+Resolução: 521,779 por 521,779 pixels por polegada
+
+
+G:\Sudoexpo\Material novo\AdobeStock_197565964.jpeg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 58647K, 5480 por 3653 pixels
+Dimensões: 492,183 por 328,092 pontos 
+Resolução: 801,652 por 801,652 pixels por polegada
+
+
+G:\Sudoexpo\Material novo\AdobeStock_52302491.jpeg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 36689K, 4129 por 3033 pixels
+Dimensões: 440,535 por 323,599 pontos 
+Resolução: 674,835 por 674,835 pixels por polegada
+
+
+G:\Sudoexpo\Material novo\AdobeStock_226766291.jpeg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 31561K, 4500 por 2394 pixels
+Dimensões: 612,222 por 325,702 pontos 
+Resolução: 529,22 por 529,22 pixels por polegada
+
+
+G:\Sudoexpo\DSC_6431.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 35778K, 4288 por 2848 pixels
+Dimensões: 1374,349 por 912,814 pontos 
+Resolução: 224,642 por 224,642 pixels por polegada
+
+
+G:\Sudoexpo\DSC_6431.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 35778K, 4288 por 2848 pixels
+Dimensões: 1374,349 por 912,814 pontos 
+Resolução: 224,642 por 224,642 pixels por polegada

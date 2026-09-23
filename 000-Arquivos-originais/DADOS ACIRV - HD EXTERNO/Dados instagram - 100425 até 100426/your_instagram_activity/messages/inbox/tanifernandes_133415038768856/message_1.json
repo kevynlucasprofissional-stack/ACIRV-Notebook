@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Tani Fernandes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755898778428,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3705067144314778500"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755897520965,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DNrApMV5Ixk/?carousel_share_child_media_id=3705057949193112676_6027695835",
+        "share_text": "Essa semana a equipe do F\u00c3\u00b3rum de RH da ACIRV realizou uma reuni\u00c3\u00a3o no espa\u00c3\u00a7o da Salus RH. \nO encontro, conduzido pela diretora de Aprimoramento Profissional da ACIRV Jackcely Gouveia, contou com uma din\u00c3\u00a2mica de integra\u00c3\u00a7\u00c3\u00a3o e reconhecimento dos membros f\u00c3\u00b3rum. Na sequ\u00c3\u00aancia, a gerente de RH da Comigo Tani Fernandes atualizou o grupo quanto \u00c3\u00a0s novidades do Congresso Nacional de Treinamento e Desenvolvimento (CBTD). Finalizando a reuni\u00c3\u00a3o os presentes tomaram conhecimento e  definiram a agenda dos pr\u00c3\u00b3ximos eventos do F\u00c3\u00b3rum de RH da ACIRV.\n\n#ACIRVreuni\u00c3\u00b5es #F\u00c3\u00b3rumDeRH #Capacita\u00c3\u00a7\u00c3\u00a3oProfissional #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tani Fernandes",
+      "timestamp_ms": 1752853916919,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tani Fernandes",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanifernandes_133415038768856",
+  "magic_words": [
+    
+  ]
+}

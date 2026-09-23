@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "IDTAGG \u00e2\u0080\u00a2 Cart\u00c3\u00a3o Inteligente"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760041209713,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DPmgbBkEk93/",
+        "share_text": "Recebemos com entusiasmo a IDTAGG, nova associada da ACIRV!\n\nUma solu\u00c3\u00a7\u00c3\u00a3o que j\u00c3\u00a1 conquistou mais de 4.200 marcas com seu cart\u00c3\u00a3o digital interativo.\n\nCom a IDTAGG (@idtaggoficial), conectar-se com clientes e gerar vendas \u00c3\u00a9 t\u00c3\u00a3o r\u00c3\u00a1pido quanto um toque.\n\nSeja bem-vinda, IDTAGG!\n\n#ACIRVassociados #IDTAGG #Cart\u00c3\u00a3oDigital #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "IDTAGG \u00e2\u0080\u00a2 Cart\u00c3\u00a3o Inteligente",
+  "is_still_participant": true,
+  "thread_path": "inbox/idtaggcartaointeligente_1800926804635348",
+  "magic_words": [
+    
+  ]
+}

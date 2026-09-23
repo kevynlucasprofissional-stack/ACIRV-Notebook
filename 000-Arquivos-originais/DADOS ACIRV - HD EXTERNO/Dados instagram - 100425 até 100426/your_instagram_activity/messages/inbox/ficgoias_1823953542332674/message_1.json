@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "FIC Goi\u00c3\u00a1s"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762011719990,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3756348896118150154"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FIC Goi\u00c3\u00a1s",
+  "is_still_participant": true,
+  "thread_path": "inbox/ficgoias_1823953542332674",
+  "magic_words": [
+    
+  ]
+}

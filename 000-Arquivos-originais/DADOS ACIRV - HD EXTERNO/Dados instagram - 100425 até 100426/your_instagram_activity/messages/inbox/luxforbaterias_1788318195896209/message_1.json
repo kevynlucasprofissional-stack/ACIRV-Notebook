@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "LUXFOR BATERIAS"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758917150524,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DPFAYIpja-e/",
+        "share_text": "Seja bem-vinda, Baterias Luxfor! \n\nTemos o prazer de anunciar a chegada da\u00c2\u00a0Baterias Luxfor (@bateriasluxfor.ltda) como mais nova empresa associada! \n\nA Baterias Luxfor atua no\u00c2\u00a0com\u00c3\u00a9rcio varejista de pe\u00c3\u00a7as e acess\u00c3\u00b3rios novos para ve\u00c3\u00adculos automotores, oferecendo qualidade, confian\u00c3\u00a7a e solu\u00c3\u00a7\u00c3\u00b5es ideais para quem busca o melhor desempenho para o seu ve\u00c3\u00adculo. \n\n\u00c3\u0089 uma grande satisfa\u00c3\u00a7\u00c3\u00a3o contar com a parceria de empresas que fortalecem o setor automotivo e contribuem para o desenvolvimento econ\u00c3\u00b4mico da nossa regi\u00c3\u00a3o. \n\nDesejamos muito sucesso e que essa parceria traga grandes resultados! \n\n#ACIRVNovoAssociado #BateriasLuxfor #SetorAutomotivo #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LUXFOR BATERIAS",
+  "is_still_participant": true,
+  "thread_path": "inbox/luxforbaterias_1788318195896209",
+  "magic_words": [
+    
+  ]
+}

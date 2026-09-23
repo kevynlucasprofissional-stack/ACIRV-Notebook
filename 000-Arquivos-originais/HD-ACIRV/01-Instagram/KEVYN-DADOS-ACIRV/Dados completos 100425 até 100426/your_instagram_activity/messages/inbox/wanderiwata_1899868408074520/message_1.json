@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Wander Iwata"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wander Iwata",
+      "timestamp_ms": 1769602452106,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wander Iwata",
+  "is_still_participant": true,
+  "thread_path": "inbox/wanderiwata_1899868408074520",
+  "magic_words": [
+    
+  ]
+}

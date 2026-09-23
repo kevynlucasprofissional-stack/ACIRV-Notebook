@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Track&Field\u00c2\u00ae Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Track&Field\u00c2\u00ae Rio Verde",
+      "timestamp_ms": 1764889775338,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764872453625,
+      "content": "Ainda n\u00c3\u00a3o recebemos.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Track&Field\u00c2\u00ae Rio Verde"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764872412977,
+      "content": "Boa tarde!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Track&Field\u00c2\u00ae Rio Verde",
+      "timestamp_ms": 1764693827590,
+      "content": "Sobre hor\u00c3\u00a1rio especial de funcionamento do cormercio em Rio Verde, com quem eu devo falar? Voc\u00c3\u00aas tem essa programa\u00c3\u00a7\u00c3\u00a3o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Track&Field\u00c2\u00ae Rio Verde",
+      "timestamp_ms": 1764693792581,
+      "content": "Boa tarde! Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Track&Field\u00c2\u00ae Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/trackfieldrrioverde_1852002989527729",
+  "magic_words": [
+    
+  ]
+}

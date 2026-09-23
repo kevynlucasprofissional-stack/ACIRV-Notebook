@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "cantinho vip caf\u00c3\u00a9 S\u00c3\u00a3o Thomaz"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757336742475,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757332932578,
+      "content": "Como posso ajudar voc\u00c3\u00aa com informa\u00c3\u00a7\u00c3\u00b5es sobre a ACIRV ou a Sudoexpo? Por favor, compartilhe sua d\u00c3\u00bavida!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "cantinho vip caf\u00c3\u00a9 S\u00c3\u00a3o Thomaz",
+      "timestamp_ms": 1757332926939,
+      "content": "cantinho enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DOVyhBZDokd/?id=3717099239026624797_76672681092",
+        "share_text": "",
+        "original_content_owner": "cantvipcafesaothomaz"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "cantinho vip caf\u00c3\u00a9 S\u00c3\u00a3o Thomaz",
+  "is_still_participant": true,
+  "thread_path": "inbox/cantinhovipcafesaothomaz_1771861767541852",
+  "magic_words": [
+    
+  ]
+}

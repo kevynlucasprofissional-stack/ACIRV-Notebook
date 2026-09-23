@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Osmar Roberto F. Cunha"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Osmar Roberto F. Cunha",
+      "timestamp_ms": 1755897648486,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3705039490572939551"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755895165239,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3705039490572939551"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Osmar Roberto F. Cunha",
+  "is_still_participant": true,
+  "thread_path": "inbox/osmarrobertofcunha_1757502628977766",
+  "magic_words": [
+    
+  ]
+}

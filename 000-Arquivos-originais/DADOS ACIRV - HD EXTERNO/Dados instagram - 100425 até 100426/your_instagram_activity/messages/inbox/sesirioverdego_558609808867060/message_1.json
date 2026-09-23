@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "SESI Rio Verde GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SESI Rio Verde GO",
+      "timestamp_ms": 1770665651168,
+      "content": "SESI enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DUYpbsrAM9P/?id=3825990106750177103_8248030674",
+        "share_text": "Com a vacina\u00c3\u00a7\u00c3\u00a3o do SESI, sua ind\u00c3\u00bastria conta com atendimento organizado, aplica\u00c3\u00a7\u00c3\u00a3o no pr\u00c3\u00b3prio local de trabalho e suporte especializado em todas as etapas.\nVacina quadrivalente a partir de R$ 65,00, com condi\u00c3\u00a7\u00c3\u00b5es para empresas de todos os portes. Solicite um or\u00c3\u00a7amento e fale com o SESI.",
+        "original_content_owner": "sesigoias"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SESI Rio Verde GO",
+      "timestamp_ms": 1751416674726,
+      "content": "SESI enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DLapyldOdJN/?id=3664425042918888013_61793925504",
+        "share_text": "A psic\u00c3\u00b3loga Thais Brenner mostra como funciona o Programa de Sa\u00c3\u00bade Mental no Trabalho do Sesi, que j\u00c3\u00a1 est\u00c3\u00a1 fazendo a diferen\u00c3\u00a7a em empresas como a Uniodonto.\n\nEscuta, diagn\u00c3\u00b3stico e a\u00c3\u00a7\u00c3\u00b5es personalizadas: tudo pensado para fortalecer o bem-estar de quem move as empresas todos os dias.\n\n\u00f0\u009f\u0091\u0089 Quer saber como levar esse cuidado para dentro da sua empresa? Fale com a gente!\n\n#Sa\u00c3\u00badeMentalNoTrabalho #BemEstarNasEmpresas #Cuidar\u00c3\u0089NossaMiss\u00c3\u00a3o #SesiSa\u00c3\u00bade #QualidadeDeVida #AmbienteDeTrabalhoSaud\u00c3\u00a1vel #Sa\u00c3\u00badeEProdutividade #Uniodonto #PsicologiaOrganizacional",
+        "original_content_owner": "sesigoias.saude"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SESI Rio Verde GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/sesirioverdego_558609808867060",
+  "magic_words": [
+    
+  ]
+}

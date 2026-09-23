@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Dra. Elise Werner\u00e2\u0080\u00a2 Ultrassom na gesta\u00c3\u00a7\u00c3\u00a3o"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773972968974,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3856687202244091676"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dra. Elise Werner\u00e2\u0080\u00a2 Ultrassom na gesta\u00c3\u00a7\u00c3\u00a3o",
+      "timestamp_ms": 1773972843833,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dra. Elise Werner\u00e2\u0080\u00a2 Ultrassom na gesta\u00c3\u00a7\u00c3\u00a3o",
+  "is_still_participant": true,
+  "thread_path": "inbox/draelisewernerultrassomnagestacao_1945788520149175",
+  "magic_words": [
+    
+  ]
+}

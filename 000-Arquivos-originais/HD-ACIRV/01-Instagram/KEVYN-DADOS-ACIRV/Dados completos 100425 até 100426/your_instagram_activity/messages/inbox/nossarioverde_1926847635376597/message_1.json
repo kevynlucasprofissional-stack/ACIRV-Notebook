@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "nossarioverde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "nossarioverde",
+      "timestamp_ms": 1774397106480,
+      "content": "nossarioverde enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DWSA0ezCVdJ/?carousel_share_child_media_id=3860151259261118654_74647736132",
+        "share_text": "Informa\u00c3\u00a7\u00c3\u00a3o que conecta, conte\u00c3\u00bado que transforma. \u00f0\u009f\u0093\u00b0\u00e2\u009c\u00a8\n\nCada p\u00c3\u00a1gina foi pensada com cuidado para levar conhecimento, reflex\u00c3\u00a3o e atualiza\u00c3\u00a7\u00c3\u00a3o de forma clara e acess\u00c3\u00advel. \n\nDeslize para conferir e ficar por dentro! \u00f0\u009f\u0092\u00ac\n\n#Informa\u00c3\u00a7\u00c3\u00a3o #Conte\u00c3\u00badoDeQualidade #Atualiza\u00c3\u00a7\u00c3\u00a3o #Jornal",
+        "original_content_owner": "nossarioverde"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nossarioverde",
+      "timestamp_ms": 1772060408839,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3839919062994725930"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "nossarioverde",
+  "is_still_participant": true,
+  "thread_path": "inbox/nossarioverde_1926847635376597",
+  "magic_words": [
+    
+  ]
+}

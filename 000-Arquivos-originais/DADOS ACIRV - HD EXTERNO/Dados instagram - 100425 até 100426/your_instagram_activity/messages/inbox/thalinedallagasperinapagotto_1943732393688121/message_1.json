@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Thaline Dalla Gasperina Pagotto"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thaline Dalla Gasperina Pagotto",
+      "timestamp_ms": 1773784468002,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773778060739,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3855051608669934356"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thaline Dalla Gasperina Pagotto",
+  "is_still_participant": true,
+  "thread_path": "inbox/thalinedallagasperinapagotto_1943732393688121",
+  "magic_words": [
+    
+  ]
+}

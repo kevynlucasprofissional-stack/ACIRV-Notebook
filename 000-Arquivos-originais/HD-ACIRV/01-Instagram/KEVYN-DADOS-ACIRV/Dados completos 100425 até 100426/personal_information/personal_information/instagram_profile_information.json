@@ -1,0 +1,52 @@
+{
+  "profile_account_insights": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Sincroniza\u00c3\u00a7\u00c3\u00a3o de contatos": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        },
+        "C\u00c3\u00b3digo do primeiro pa\u00c3\u00ads": {
+          "href": "",
+          "value": "BR",
+          "timestamp": 0
+        },
+        "Compartilhou o v\u00c3\u00addeo ao vivo": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        },
+        "\u00c3\u009altimo login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1775824888
+        },
+        "\u00c3\u009altima desconex\u00c3\u00a3o": {
+          "href": "",
+          "value": "",
+          "timestamp": 1774619886
+        },
+        "Hor\u00c3\u00a1rio do primeiro story": {
+          "href": "",
+          "value": "",
+          "timestamp": 1507262088
+        },
+        "Hor\u00c3\u00a1rio do \u00c3\u00baltimo story": {
+          "href": "",
+          "value": "",
+          "timestamp": 1775817131
+        },
+        "Hor\u00c3\u00a1rio do primeiro story para Amigos Pr\u00c3\u00b3ximos": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

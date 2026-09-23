@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Marcela Ina\u00cc\u0081cio"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759608321568,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759604429523,
+      "content": "A ACIRV est\u00c3\u00a1 localizada na Rua Dona Maricota, n\u00c2\u00ba 199 \u00e2\u0080\u0093 Setor Jardim Marconal \u00e2\u0080\u0093 Rio Verde-GO. Se precisar de mais informa\u00c3\u00a7\u00c3\u00b5es sobre a associa\u00c3\u00a7\u00c3\u00a3o ou outros servi\u00c3\u00a7os, estou aqui!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcela Ina\u00cc\u0081cio",
+      "timestamp_ms": 1759604421689,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759604303399,
+      "content": "Voc\u00c3\u00aa gostaria de saber mais sobre a ACIRV ou algum evento espec\u00c3\u00adfico?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcela Ina\u00cc\u0081cio",
+      "timestamp_ms": 1759604297186,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759604146852,
+      "content": "Oi! Eu sou o Rioverdense, assistente da ACIRV. Como posso te ajudar hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcela Ina\u00cc\u0081cio",
+      "timestamp_ms": 1759604123267,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcela Ina\u00cc\u0081cio",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcelainacio_1796009915127037",
+  "magic_words": [
+    
+  ]
+}

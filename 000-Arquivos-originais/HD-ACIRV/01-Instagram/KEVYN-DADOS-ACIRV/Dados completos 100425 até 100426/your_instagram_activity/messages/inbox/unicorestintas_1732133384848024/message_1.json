@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "UNICORES TINTAS"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1753410543240,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3684197098602325427"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "UNICORES TINTAS",
+      "timestamp_ms": 1753397076244,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "UNICORES TINTAS",
+  "is_still_participant": true,
+  "thread_path": "inbox/unicorestintas_1732133384848024",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Kam\u00c3\u00a9lia"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kam\u00c3\u00a9lia",
+      "timestamp_ms": 1762200365297,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762198293218,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kam\u00c3\u00a9lia"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3757913940895605439"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kam\u00c3\u00a9lia",
+      "timestamp_ms": 1746814857342,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1746813285709,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kam\u00c3\u00a9lia"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DJcSKHGumVL/?carousel_share_child_media_id=3628855259414816075_6027695835",
+        "share_text": "NA ACIRV, OFICINA ORIENTA EMPREENDEDORES SOBRE COMO APLICAR A INTELIG\u00c3\u008aNCIA ARTIIFICIAL EM SEUS NEG\u00c3\u0093CIOS \n\nRealizada em conjunto pelo SEBRAE e ACIRV na noite desta quinta-feira (08), no audit\u00c3\u00b3rio da Associa\u00c3\u00a7\u00c3\u00a3o, a oficina \u00e2\u0080\u009cFa\u00c3\u00a7a Sucesso na era da Intelig\u00c3\u00aancia Artificial\u00e2\u0080\u009d visou fornecer subs\u00c3\u00addios para o empreendedor compreender esse \u00e2\u0080\u0098mundo\u00e2\u0080\u0099, explorando as principais ferramentas e entendendo como elas funcionam. A palestra mostrou ainda oportunidades inovadoras e as diversas aplica\u00c3\u00a7\u00c3\u00b5es da IA no dia a dia empresarial. \n\nO comando da Oficina coube a Analista T\u00c3\u00a9cnica do SEBRAE, Kam\u00c3\u00a9lia Amanda Santos Ferreira. Segundo ela, a escolha do tema tem muito a ver com o momento em que o Pa\u00c3\u00ads vivi, onde a Intelig\u00c3\u00aancia Artificial est\u00c3\u00a1 muito em alta, mas que precisa ser utilizada de forma assertiva para dar o resultado esperado.\n\nPalestrante da noite, o Consultor do Sebrae e especialista em intelig\u00c3\u00aancia artificial, Bill Wallace Andrade explicou que um dos segredos \u00c3\u00a9 saber usar a IA com equil\u00c3\u00adbrio, de forma que o neg\u00c3\u00b3cio mantenha sempre a ess\u00c3\u00aancia humana. \n\nRepresentando a ACIRV no evento, a Gerente Executiva Janaine Marquez deu as boas-vindas a todos participantes, salientando a import\u00c3\u00a2ncia da parceria entre a Associa\u00c3\u00a7\u00c3\u00a3o e o SEBRAE para oferecer ao empres\u00c3\u00a1rio mais ferramentas para o fortalecimento e desenvolvimento do empreendedorismo rio-verdense.",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kam\u00c3\u00a9lia",
+  "is_still_participant": true,
+  "thread_path": "inbox/kamelia_1667823527945677",
+  "magic_words": [
+    
+  ]
+}

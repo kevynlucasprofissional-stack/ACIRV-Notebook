@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Alves"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bruno Alves",
+      "timestamp_ms": 1745697011452,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Alves",
+      "timestamp_ms": 1745692756088,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno Alves",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunoalves_1523167499077948",
+  "magic_words": [
+    
+  ]
+}

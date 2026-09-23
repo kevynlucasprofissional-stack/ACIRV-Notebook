@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Grasiele"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759612204124,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759608352013,
+      "content": "Se voc\u00c3\u00aa precisa de informa\u00c3\u00a7\u00c3\u00b5es espec\u00c3\u00adficas sobre a Sudoexpo ou como funciona a sele\u00c3\u00a7\u00c3\u00a3o dos artistas, posso ajudar com isso!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grasiele",
+      "timestamp_ms": 1759608344197,
+      "content": "Nossa de novo ele, cidade do agro ,cidade do sertanejo \nE o\nSertanejo n\u00c3\u00a3o tem vez nesse festival ,podiam at\u00c3\u00a9 mudar o nome barzinho e viol\u00c3\u00a3o n\u00c3\u00a3o combina \n\u00c3\u0089 sempre os mesmos q ganham t\u00c3\u00a1 ficando sem credibilidade",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3735694302786692831"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Grasiele",
+  "is_still_participant": true,
+  "thread_path": "inbox/grasiele_1204905984237436",
+  "magic_words": [
+    
+  ]
+}

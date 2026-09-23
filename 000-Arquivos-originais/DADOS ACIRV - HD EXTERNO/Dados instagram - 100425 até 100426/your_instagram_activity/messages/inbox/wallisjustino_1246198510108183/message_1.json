@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Wallis Justino"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747912394750,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3638075285421976718"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wallis Justino",
+      "timestamp_ms": 1747912051435,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wallis Justino",
+      "timestamp_ms": 1747911250218,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wallis Justino",
+  "is_still_participant": true,
+  "thread_path": "inbox/wallisjustino_1246198510108183",
+  "magic_words": [
+    
+  ]
+}

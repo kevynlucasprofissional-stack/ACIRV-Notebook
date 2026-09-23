@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Limp\u00c3\u00a9rio Limpeza"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774566305050,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861664469948940687"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Limp\u00c3\u00a9rio Limpeza",
+      "timestamp_ms": 1774563631854,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Limp\u00c3\u00a9rio Limpeza",
+      "timestamp_ms": 1756398283062,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756392573612,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Limp\u00c3\u00a9rio Limpeza"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709212090990185885"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Limp\u00c3\u00a9rio Limpeza",
+      "timestamp_ms": 1756383355655,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Limp\u00c3\u00a9rio Limpeza",
+      "timestamp_ms": 1745695641479,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Limp\u00c3\u00a9rio Limpeza",
+  "is_still_participant": true,
+  "thread_path": "inbox/limperiolimpeza_1537058151022216",
+  "magic_words": [
+    
+  ]
+}
