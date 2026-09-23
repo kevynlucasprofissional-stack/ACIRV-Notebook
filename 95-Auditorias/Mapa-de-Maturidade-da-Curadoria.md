@@ -5,7 +5,7 @@ tipo: auditoria
 status: ativo
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.2'
+versao_conteudo: '1.3'
 idioma: pt-BR
 data_criacao: '2026-09-22'
 ultima_revisao: '2026-09-23'
@@ -46,6 +46,7 @@ A avaliação considera conjuntamente cobertura das fontes, qualidade semântica
 | Domínio | Estado | Justificativa | Próximo gatilho legítimo |
 |---|---|---|---|
 | Estratégia e metas 2026 | **bom** | Norte estratégico e metas estão separados da execução; ainda faltam proprietários, linhas de base e fórmulas oficiais para parte das metas. | confirmar fórmulas e dados de associados |
+| Pesquisa, feedback e aprendizado | **bom** | A camada canônica agora explicita pesquisa como capacidade de decisão, separa percepção, comportamento, exposição e resultado, formaliza triangulação/longitudinalidade e trata “determinante” por força de evidência. Ainda falta institucionalizar rotina, responsáveis e registro de pesquisas/decisões. | executar primeiros ciclos com pergunta→decisão→nova medição e registrar responsáveis/instrumentos |
 | Identidade visual e direção de arte | **excelente** | A curadoria de 23/09 consolidou fonte primária, Design System, ACIRV-MOOD e projeção operacional do Hermes em uma autoridade canônica única, com precedência explícita, tokens, repertório, acessibilidade, legibilidade, fotografia, backgrounds e critérios de aprovação. | nova decisão humana material, nova versão formal da identidade ou evidência de contradição/regressão no uso operacional |
 | Priorização, capacidade e SCRUM | **bom** | Há diagnóstico de origem, critérios de prioridade, limites de WIP, evidência de ritual semanal e narrativa longitudinal março→setembro. | reconciliar backlog canônico com a semântica real do SCRUM/Trello e validar limites/SLA |
 | SudoExpo 2026 | **bom** | Planejamento, execução, evidência, percepção e resultado posterior formam uma narrativa consistente, preservando conflitos. | fechar matriz Planejado×Entregue e resultados das pesquisas |
@@ -89,6 +90,19 @@ O commit `9f3c9a55df6cb268035d5b60ae497a21750601ee` adicionou sete exports JSON 
 
 A sequência de curadoria de 23/09 conta uma história clara: **fonte original + decisões visuais recentes + moodboard operacional → consolidação temporária em ACIRV-MOOD → eliminação da duplicidade canônica → Design System único com projeção operacional sincronizada**. A mudança não altera a fonte original; ela resolve autoridade, precedência e manutenção futura da inteligência visual.
 
+### Pesquisa, feedback e aprendizado
+
+O novo estudo de 23/09 não foi promovido como verdade por si só. Ele funcionou como mapa para reler os três briefings primários e revelou uma arquitetura que estava parcialmente comprimida na nota canônica: **incerteza → pergunta → hipótese → variável → coleta → análise → decisão → mudança → nova medição**.
+
+A curadoria também tornou explícitas quatro distinções necessárias para evitar conclusões frágeis:
+
+- percepção declarada ≠ comportamento observado;
+- não exposição ≠ insatisfação;
+- associação ≠ causalidade;
+- hipótese de determinante ≠ determinante comprovado.
+
+O domínio sobe para **bom** porque a semântica e a proveniência ficaram sólidas, mas não para excelente: ainda falta provar que a ACIRV opera esse sistema de pesquisa de maneira recorrente, com responsáveis, instrumentos, decisões registradas e medições posteriores.
+
 ## Regra para próximas auditorias
 
 Escolher áreas pelo **valor marginal da revisão**, na ordem insuficiente → em_evolucao → bom → excelente apenas com gatilho concreto ou amostragem antirregressão. Se uma área continuar estável e não houver evidência nova, registrar a estabilidade e seguir adiante.
@@ -97,6 +111,9 @@ Escolher áreas pelo **valor marginal da revisão**, na ordem insuficiente → e
 
 - camada canônica atual do ACIRV Notebook em 23/09/2026;
 - `01-Estrategia-e-Marca/Design-System-ACIRV.md`;
+- `01-Estrategia-e-Marca/Pesquisa-e-Aprendizado-de-Marketing.md`;
+- `000-Arquivos-originais/#PESQUISA - Um estudo sobre a questão das pesquisas dentro da ACIRV.md` — síntese secundária usada como mapa de lacunas;
+- três briefings em `000-Arquivos-originais/Dados para mega-relatório pós Sudoexpo/Briefing inicial/` — fontes primárias da curadoria de pesquisa;
 - commits `7cf8d57597f5c2741120cc0a827021b48c11a892` e `a5c6dff451d19f5213f53515481a2d3d33a3efd8`;
 - `000-Arquivos-originais/DESIGN SYSTEM.md` — referenciado apenas como fonte primária preservada;
 - `000-Arquivos-originais/SCRUM da ACIRV + Vcom/` — snapshots do board ACIRV + VCOM: SCRUM;
