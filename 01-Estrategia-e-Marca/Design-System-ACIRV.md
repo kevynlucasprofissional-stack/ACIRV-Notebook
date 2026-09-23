@@ -4,11 +4,15 @@ titulo: Design-System-ACIRV
 aliases:
 - ACIRV Design System
 - Sistema de Design ACIRV
+- Identidade Visual ACIRV
+- ACIRV-MOOD-v1
+- ACIRV Mood V1
+- Moodboard ACIRV
 tipo: estrategia
 status: ativo
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '2.0'
 idioma: pt-BR
 data_criacao: '2026-09-23'
 ultima_revisao: '2026-09-23'
@@ -20,141 +24,248 @@ tags:
 - marca
 - design-system
 - identidade-visual
+- direcao-visual
+- moodboard
 - acessibilidade
 - social-media
 fontes_documentais:
 - '000-Arquivos-originais/DESIGN SYSTEM.md'
-- '[[ACIRV-MOOD-v1]]'
+- 'Hermes/Planejamento 4º Trimestre de 2026/04-moodboard/MOODBOARD.md'
 - 'Briefing visual Kevyn → Samara, 2026-09-23, fornecido por capturas de tela'
 notas_relacionadas:
-- '[[ACIRV-MOOD-v1]]'
 - '[[Arquitetura-de-Marca-e-Nomenclatura]]'
 - '[[Manual-Operacional-de-Tom-de-Voz]]'
+- '[[Pilares-Estrategicos-de-Comunicacao]]'
 confidencialidade: interno
-subtipo: sistema_de_design
+subtipo: sistema_visual_canonico
+perfil_operacional_hermes: ACIRV-MOOD-v1
 ---
 
-# Design-System-ACIRV
+# Design System e Direção Visual da ACIRV
 
-> [!summary] Síntese
-> Sistema canônico de princípios, tokens e regras visuais da ACIRV. Parte do documento original `000-Arquivos-originais/DESIGN SYSTEM.md`, preservado como fonte imutável, e incorpora a direção visual atualizada em 23/09/2026. O sistema deve produzir comunicação institucional, humana, moderna, legível e reconhecível, sem engessar a variedade criativa.
+> [!summary] Fonte canônica principal
+> Este documento é a **fonte canônica principal para identidade visual, direção de design e sistema visual da ACIRV**. Ele consolida a inteligência antes distribuída entre o antigo arquivo canônico `ACIRV-MOOD-v1.md`, o `Design-System-ACIRV.md`, o `MOODBOARD.md` operacional do Hermes e o `000-Arquivos-originais/DESIGN SYSTEM.md`. A fonte original permanece imutável; o `MOODBOARD.md` do Hermes continua existindo como **projeção operacional sincronizada** desta inteligência.
 
-## 1. Conceito de marca
+## 0. Arquitetura e autoridade das fontes
 
-Tema central: **Conectar para Crescer**.
+A arquitetura visual passa a ser deliberadamente simples:
 
-A linguagem visual deve equilibrar:
-- autoridade institucional;
-- proximidade humana;
-- conexão empresarial;
-- movimento;
-- crescimento local;
-- clareza;
-- energia contemporânea.
+1. **Fonte primária imutável:** `000-Arquivos-originais/DESIGN SYSTEM.md`.
+   - preserva o registro original;
+   - nunca deve ser alterada por IA;
+   - serve como evidência e proveniência;
+   - não é, sozinha, a regra vigente quando decisões posteriores a atualizam.
 
-Princípios:
-- institucional, sem burocracia;
-- moderno, sem estética genérica de startup;
-- vibrante, sem caos;
-- humano, sem perder autoridade;
-- local, sem limitar ambição;
-- criativo, sem sacrificar legibilidade.
+2. **Fonte canônica vigente:** `01-Estrategia-e-Marca/Design-System-ACIRV.md` — este documento.
+   - reúne tokens, princípios, direção visual, repertório do moodboard, regras de social media, web/interface, acessibilidade e critérios de aprovação;
+   - resolve conflitos entre fontes antigas e decisões mais recentes;
+   - é a autoridade semântica para qualquer nova decisão de design da ACIRV.
 
-## 2. Relação entre Design System e ACIRV-MOOD
+3. **Projeção operacional do Hermes:** `Hermes/Planejamento 4º Trimestre de 2026/04-moodboard/MOODBOARD.md`.
+   - precisa continuar existindo porque integra o fluxo de automação;
+   - contém a parcela da inteligência necessária para geração de referências visuais e briefings;
+   - pode ser mais operacional e enxuta, mas **não pode contradizer este documento**;
+   - o identificador operacional continua sendo **`ACIRV-MOOD-v1`** para preservar compatibilidade.
 
-O [[ACIRV-MOOD-v1]] define a **direção visual aplicada** e o repertório criativo.
+### Regra de precedência
 
-Este documento define o **sistema estável**:
-- cores;
-- tipografia;
-- contraste;
-- fundos;
-- composição;
-- fotografia;
-- acessibilidade;
-- componentes;
-- critérios de aprovação.
+Quando houver divergência:
 
-Regra de precedência:
-1. fatos e tokens oficiais documentados;
-2. decisões canônicas mais recentes;
-3. repertório do moodboard;
-4. variações de campanha.
+1. decisão humana mais recente explicitamente documentada;
+2. este documento canônico;
+3. fatos/tokens da fonte primária original;
+4. projeção operacional do Hermes;
+5. variações específicas de campanha.
 
-## 3. Tokens cromáticos de referência
+O `MOODBOARD.md` do Hermes pode especializar instruções para o fluxo de social media, mas não criar uma segunda identidade.
 
-Tokens herdados da fonte primária:
+---
 
-| Papel | Cor |
-|---|---|
-| Azul institucional / primary | `#0E1EB2` |
-| Azul-claro / communication | `#039DE3` |
-| Laranja / connection | `#FF7C31` |
-| Verde / growth | `#27E300` |
-| Amarelo / highlight | `#EAFF00` |
-| Branco / surface | `#FFFFFF` |
-| Branco suave / surface-soft | `#F6F8FC` |
-| Texto primário | `#101828` |
-| Texto secundário | `#475467` |
-| Borda | `#D0D5DD` |
+## 1. Conceito central da identidade
 
-Valores percebidos em moodboards e campanhas podem variar visualmente, mas não substituem os tokens oficiais sem decisão explícita.
+Tema de marca: **Conectar para Crescer**.
 
-## 4. Papéis das cores
+Conceito visual herdado da fonte original: **Tradição em Movimento**.
 
-- **Azul:** estrutura, autoridade, confiança, identidade.
-- **Azul-claro/ciano:** comunicação, digital, informação.
-- **Laranja:** conexão, ação, eventos, contraste.
-- **Verde:** crescimento, progresso, benefícios.
-- **Amarelo:** destaque, conquista, atenção.
-- **Roxo:** cor auxiliar permitida em transições/degradês, não token estrutural primário.
+A ACIRV deve ocupar visualmente o ponto de encontro entre experiência e inovação. O sistema precisa comunicar a credibilidade de uma entidade consolidada e, ao mesmo tempo, a energia de uma rede empresarial viva, acessível e em movimento.
 
-O azul deve continuar sendo a âncora geral do sistema, mesmo quando outra cor domina uma peça de campanha.
+A sensação geral deve ser:
 
-## 5. Sistema de backgrounds
+- institucional, sem parecer burocrática;
+- moderna, sem parecer uma startup genérica;
+- vibrante, sem parecer infantil ou caótica;
+- humana, sem perder autoridade;
+- local e comunitária, sem perder ambição;
+- organizada, objetiva e orientada a resultados;
+- variada, sem deixar de ser reconhecível como ACIRV.
 
-A decisão de 23/09/2026 substitui a orientação antiga que desencorajava gradientes multicoloridos em termos gerais.
+### Arquétipos centrais
 
-Quatro famílias passam a ser oficiais:
+1. **O Sábio:** autoridade, conhecimento, credibilidade e clareza.
+2. **O Conector:** proximidade, articulação, movimento, rede e encorajamento.
 
-### A. Fundo sólido
-Um único tom da paleta ACIRV.
+Todo design deve fortalecer pelo menos um destes objetivos: **pertencimento, resultados, autoridade, proximidade ou captação**.
 
-Uso: peças diretas, gráficas, chamadas curtas, outdoors, campanhas com alta saturação.
+### Públicos de referência
+
+A identidade precisa funcionar simultaneamente para:
+
+- empresários experientes, especialmente 35+, que esperam confiança, estabilidade e clareza;
+- jovens empreendedores 25+, que respondem melhor a dinamismo, utilidade, abertura e linguagem contemporânea.
+
+---
+
+## 2. Princípios operacionais
+
+1. **Clareza antes de ornamento.**
+2. **Hierarquia antes de densidade.**
+3. **Legibilidade antes de “caber tudo”.**
+4. **Pessoas e histórias reais antes de banco de imagem genérico.**
+5. **Azul como âncora; cores vibrantes com função.**
+6. **Variedade controlada, não repetição de template.**
+7. **A estética deve servir à mensagem.**
+8. **Uma peça pode variar muito sem deixar de pertencer ao mesmo sistema.**
+
+Em social media, a arte deve ser entendida rapidamente no celular. A profundidade fica prioritariamente na legenda; a peça entrega **gancho, estrutura, contexto essencial e ação**.
+
+---
+
+## 3. Tokens cromáticos oficiais
+
+Tokens documentados na fonte primária:
+
+| Papel | Token | Uso principal |
+|---|---:|---|
+| Azul institucional / primary | `#0E1EB2` | autoridade, estrutura, navegação, identidade |
+| Azul-claro / communication | `#039DE3` | informação, digital, transparência |
+| Laranja / connection | `#FF7C31` | conexão, ação, eventos, CTA |
+| Verde / growth | `#27E300` | crescimento, progresso, benefícios |
+| Amarelo / highlight | `#EAFF00` | destaque, conquista, atenção pontual |
+| Branco / surface | `#FFFFFF` | superfície e respiro |
+| Branco suave / surface-soft | `#F6F8FC` | superfícies secundárias |
+| Texto primário | `#101828` | texto sobre superfícies claras |
+| Texto secundário | `#475467` | metadados e apoio |
+| Borda | `#D0D5DD` | divisores e contornos discretos |
+| On-primary | `#FFFFFF` | texto sobre azul institucional |
+
+### Hierarquia cromática de referência
+
+A fonte original propõe, como orientação e não regra matemática:
+
+- azul institucional: aproximadamente 60%;
+- verde: até 30%;
+- laranja: até 10%;
+- azul-claro e amarelo: destaques e funções específicas.
+
+Em campanhas, essas proporções podem variar bastante. O que não muda é a existência de uma **âncora cromática clara**.
+
+### Cores percebidas no moodboard
+
+O moodboard operacional registra aproximações visuais úteis para referência, sem substituir tokens oficiais:
+
+- azul elétrico: ~`#003DC5`;
+- azul profundo: ~`#000EB4`;
+- azul-marinho: ~`#080890`;
+- azul escuro: ~`#000974`;
+- verde neon: ~`#2DDE24`;
+- laranja percebido: ~`#DE733A`;
+- ciano/azul claro: ~`#027AB0` a `#129CDF`;
+- roxo: permitido como cor auxiliar em transições e gradientes.
+
+**Regra:** aproximações do moodboard orientam aparência; tokens oficiais orientam consistência de sistema.
+
+---
+
+## 4. Papéis semânticos das cores
+
+- **Azul:** confiança, tradição, institucionalidade, estrutura.
+- **Azul-claro/ciano:** comunicação, tecnologia, informação e transição.
+- **Laranja:** conexão, encontro, ação, temporalidade.
+- **Verde:** crescimento, vitalidade, progresso, resultado.
+- **Amarelo:** novidade, conquista, ênfase e ponto focal.
+- **Roxo:** auxiliar em transições, profundidade e gradientes; não é token estrutural primário.
+- **Branco/superfícies claras:** respiro, leitura prolongada e peças técnicas.
+
+Evitar usar todos os acentos com a mesma intensidade na mesma peça.
+
+---
+
+## 5. Sistema oficial de backgrounds
+
+A decisão de 23/09/2026 atualiza a orientação antiga da fonte primária que desencorajava gradientes multicoloridos de forma ampla.
+
+**Regra vigente:** gradientes são parte oficial do repertório ACIRV quando controlados, legíveis e coerentes com uma das famílias abaixo.
+
+### A. Cor sólida da paleta ACIRV
+
+Um único tom funciona como campo dominante.
+
+Indicado para:
+- títulos muito diretos;
+- peças gráficas;
+- outdoors;
+- mensagens curtas;
+- campanhas com reconhecimento cromático imediato.
 
 ### B. Degradê monocromático
-Variações claras e escuras de uma mesma cor.
 
-Uso: profundidade, sobriedade, peças institucionais e situações em que adicionar outra cor criaria ruído.
+Diferentes tons da mesma cor, com áreas mais claras e escuras.
+
+Indicado para:
+- profundidade sem ruído cromático;
+- variações institucionais;
+- peças em que adicionar outra cor enfraqueceria a leitura.
+
+O degradê deve ser fluido, não uma divisão rígida em faixas.
 
 ### C. Degradê fluido clássico
-Principalmente azul + verde, com transição orgânica.
 
-Uso: conexão, crescimento, institucional contemporâneo, carrosséis, campanhas de rede.
+Principalmente **azul + verde**, admitindo transições próximas e controladas.
+
+Deve sugerir:
+- conexão;
+- movimento;
+- crescimento;
+- energia digital.
+
+É uma das assinaturas recentes mais reconhecíveis da ACIRV.
 
 ### D. Degradê linear experimental
-Azul combinado com outras cores da paleta, incluindo laranja, ciano, verde, amarelo ou roxo auxiliar.
 
-Uso: campanhas, capas, transições, peças de alto impacto.
+Azul combinado com outras cores da paleta — laranja, ciano, verde, amarelo ou roxo auxiliar — com maior liberdade de direção e incidência.
 
-Regras para D:
-- não usar todas as cores ao mesmo tempo;
+Regras:
 - manter um eixo cromático dominante;
-- garantir área de contraste para texto;
-- não sacrificar reconhecimento da marca;
-- variar direção e incidência para evitar repetição mecânica.
+- não transformar a peça em arco-íris;
+- preservar área de leitura;
+- usar cores secundárias com função;
+- variar direção e composição para evitar repetição mecânica.
 
-## 6. Combinações complementares
+### Azul + laranja
 
-A combinação **azul + laranja** está validada como repertório de contraste forte.
+A combinação **azul + laranja** está validada como contraste forte e complementar quando bem equilibrada. Ela funciona particularmente bem em campanhas, capas e peças de transição, desde que o texto permaneça claramente legível.
 
-Ela funciona porque:
-- cria separação visual imediata;
-- ajuda a destacar áreas de ação;
-- traz energia sem abandonar o azul;
-- pode funcionar bem em gradientes quando a transição é controlada.
+---
 
-Não usar complementaridade como justificativa automática para qualquer combinação. A prioridade continua sendo legibilidade e coerência.
+## 6. Contraste e acessibilidade
+
+Meta mínima:
+- **4.5:1** para texto normal;
+- **3:1** para texto grande e elementos gráficos essenciais;
+- foco visível em interfaces;
+- alvos de toque com pelo menos 44px quando aplicável.
+
+Combinações preferidas:
+- branco sobre azul institucional;
+- texto escuro sobre azul-claro, laranja, verde e amarelo.
+
+Evitar:
+- branco como texto normal sobre amarelo, verde, laranja ou azul-claro;
+- usar apenas cor para comunicar estado;
+- contraste marginal compensado por sombra, glow ou outline;
+- textos longos em verde ou amarelo.
+
+---
 
 ## 7. Tipografia
 
@@ -167,60 +278,74 @@ Fallback:
 
 Evitar serifas decorativas, manuscritas e fontes futuristas que descaracterizem a marca.
 
-### Hierarquia de referência
+### Tokens tipográficos digitais
 
-Da fonte original:
-- `display-lg`: 3.5rem / 700 / 1.05
-- `h1`: 3rem / 700 / 1.1
-- `h2`: 2.25rem / 700 / 1.15
-- `h3`: 1.5rem / 700 / 1.25
-- `body-lg`: 1.125rem / 400 / 1.6
-- `body-md`: 1rem / 400 / 1.6
-- `body-sm`: 0.875rem / 400 / 1.5
-- `label-lg`: 1rem / 700 / 1.2
-- `label-md`: 0.875rem / 700 / 1.2
-- `eyebrow`: 0.75rem / 700 / 1.2
-- `metric-xl`: 3rem / 700 / 1
+| Token | Tamanho | Peso | Line-height | Letter-spacing |
+|---|---:|---:|---:|---:|
+| display-lg | 3.5rem | 700 | 1.05 | -0.03em |
+| h1 | 3rem | 700 | 1.1 | -0.025em |
+| h2 | 2.25rem | 700 | 1.15 | -0.02em |
+| h3 | 1.5rem | 700 | 1.25 | -0.01em |
+| body-lg | 1.125rem | 400 | 1.6 | 0 |
+| body-md | 1rem | 400 | 1.6 | 0 |
+| body-sm | 0.875rem | 400 | 1.5 | 0 |
+| label-lg | 1rem | 700 | 1.2 | 0.01em |
+| label-md | 0.875rem | 700 | 1.2 | 0.02em |
+| eyebrow | 0.75rem | 700 | 1.2 | 0.12em |
+| metric-xl | 3rem | 700 | 1 | -0.03em |
 
-Esses tokens são referência digital. Em social media, a escala final deve ser adaptada ao formato e à leitura no celular.
+### Regras tipográficas gerais
 
-## 8. Nova regra de tamanho mínimo perceptivo
+- preferir alinhamento à esquerda;
+- centralizar apenas capas, títulos curtos, selos e chamadas cerimoniais;
+- limitar linhas longas a aproximadamente 60–75 caracteres;
+- evitar blocos inteiros em caixa alta;
+- usar caixa alta seletivamente;
+- usar negrito para hierarquia, não para “gritar” o texto inteiro;
+- preservar respiro entre título, contexto, ação e corpo.
 
-A atualização de 23/09/2026 reforça:
+### Regra crítica de legibilidade em social media
 
-> Contraste adequado não compensa fonte pequena demais.
+> **Contraste adequado não compensa fonte pequena demais.**
 
-Aplicação:
-- aumentar títulos, subtítulos e corpo quando a leitura em feed estiver difícil;
-- não comprimir texto para “caber”;
+A atualização de 23/09/2026 formaliza:
+- aumentar títulos, subtítulos e texto corrido quando a leitura em feed estiver difícil;
 - reduzir copy antes de reduzir fonte;
-- preservar informações críticas em tamanho confortável;
-- tratar rodapés, data, local e CTA como conteúdo, não como decoração.
+- não transformar data, local, CTA ou assinatura em microtexto;
+- testar a arte em escala realista de celular;
+- se uma informação necessária exige zoom, a hierarquia tipográfica falhou.
 
-### QA obrigatório
-A peça precisa ser testada em escala realista de celular. Se o usuário precisa ampliar a tela para ler informação necessária, a tipografia falhou.
+---
 
-## 9. Contraste e acessibilidade
+## 8. Fotografia e pessoas
 
-Meta mínima:
-- **4.5:1** para texto normal;
-- **3:1** para texto grande e elementos gráficos essenciais;
-- foco visível em interfaces;
-- alvos de toque com pelo menos 44px quando aplicável.
+Prioridade visual:
 
-Combinações seguras:
-- branco sobre azul institucional;
-- texto escuro sobre verde, amarelo, laranja e azul-claro.
+1. pessoas reais da ACIRV;
+2. associados e empresários;
+3. equipe e parceiros;
+4. eventos e encontros reais;
+5. cenas documentais de comércio e trabalho;
+6. objetos/produtos em conteúdos técnicos.
 
-Evitar:
-- branco em texto normal sobre amarelo, verde, laranja ou azul-claro;
-- texto pequeno sobre fotografia detalhada;
-- depender apenas de cor para comunicar estado;
-- contraste marginal compensado por sombra ou glow.
+A fotografia deve reforçar autenticidade, pertencimento e impacto local.
 
-## 10. Regra de texto sobre fotografia
+### Tratamentos preferidos
 
-Quando o fundo for realista e tiver muitos detalhes, aplicar uma ou mais destas soluções:
+- overlay azul;
+- duotone/banho cromático;
+- recorte editorial;
+- colagem;
+- foto cheia com área negativa;
+- recorte de pessoas/objetos sobre fundo saturado;
+- gradiente sobre imagem;
+- blocos gráficos de proteção de texto.
+
+Evitar fotografia de banco genérica quando houver registro real disponível.
+
+### Texto sobre fotografia detalhada
+
+Quando o fundo realista tiver muitos detalhes, aplicar uma ou mais destas soluções:
 
 1. caixa de texto sólida ou semitransparente;
 2. faixa/bloco cromático;
@@ -230,101 +355,316 @@ Quando o fundo for realista e tiver muitos detalhes, aplicar uma ou mais destas 
 6. reposicionamento para área negativa;
 7. recorte da fotografia.
 
-A referência positiva é manter a fotografia humana, mas garantir uma **superfície de leitura deliberada**.
-
 Não aceitar texto corrido pequeno diretamente sobre área visualmente complexa.
 
-## 11. Fotografia
+O diagnóstico de 23/09/2026 é canônico: **fundo realista + muitos detalhes + fonte pequena + contraste baixo reduz claramente a qualidade do design**.
 
-Prioridade:
-1. pessoas reais da ACIRV;
-2. associados e empresários;
-3. equipe e parceiros;
-4. eventos e encontros reais;
-5. comércio e cenas locais;
-6. objetos/serviços quando tecnicamente necessário.
+---
 
-Tratamentos aceitos:
-- overlay azul;
-- duotone;
-- recorte;
-- colagem;
-- fundo saturado;
-- caixa de texto;
-- gradiente sobre imagem.
+## 9. Linguagem gráfica
 
-Evitar banco de imagem genérico quando houver registro real disponível.
+Elementos disponíveis, sem obrigação de aparecer juntos:
 
-## 12. Layout e composição
+- linhas curvas e ondas finas;
+- redes abstratas;
+- nós, cruzamentos e intersecções;
+- blocos tipo marca-texto;
+- faixas retangulares;
+- recortes e colagens;
+- contornos amarelos/verdes;
+- texturas discretas;
+- ícones simples;
+- setas e triângulos ascendentes;
+- gradientes.
 
-Sistema espacial:
-- múltiplos de 8px;
-- 4px apenas para microajustes.
+O elemento gráfico deve **organizar, conectar ou enfatizar**. Não usar decoração gratuita.
 
-Web/interface:
-- desktop: 12 colunas;
-- tablet: 8;
-- mobile: 4;
-- margens mobile mínimas: 16px.
+### Shapes
 
-Princípios:
-- hierarquia clara;
-- respiro;
-- composição escaneável;
-- uma ação principal por seção;
-- assimetria controlada;
-- agrupamento lógico;
-- densidade moderada;
-- alinhamentos consistentes.
-
-Social media:
-- um gancho dominante;
-- uma ideia visual central;
-- CTA/assinatura secundária;
-- evitar excesso de blocos;
-- último slide de carrossel com ação inequívoca.
-
-## 13. Shapes
-
-- cantos moderadamente arredondados: 8–16px;
+- cantos geralmente entre 8px e 16px;
 - 24px para painéis grandes;
 - pills apenas em tags, filtros, selos e badges;
-- linhas fluidas e conexões;
-- nós e intersecções;
-- formas ascendentes com parcimônia;
-- elementos devem reforçar rede, movimento ou crescimento.
+- formas ascendentes podem sugerir crescimento;
+- triângulos podem dialogar com a inclinação do “A” da marca, sem deformar o logotipo;
+- evitar excesso de círculos, blobs e formas aleatórias sem função semântica.
 
-Evitar blobs e formas aleatórias sem função semântica.
+---
 
-## 14. Componentes digitais
+## 10. Profundidade e efeitos
+
+Preferir:
+- contraste de superfícies;
+- bordas sutis;
+- overlays;
+- sombras suaves;
+- profundidade por cor;
+- sobreposição controlada.
+
+Evitar:
+- glassmorphism intenso;
+- neon excessivo;
+- reflexos metálicos;
+- sombras pesadas;
+- 3D gratuito;
+- efeitos que prejudiquem leitura.
+
+---
+
+## 11. Sistema espacial e layout
+
+Base espacial:
+- múltiplos de 8px;
+- 4px para microajustes.
+
+### Grade digital
+
+- desktop: 12 colunas;
+- tablet: 8 colunas;
+- mobile: 4 colunas;
+- margem mobile mínima: 16px;
+- conteúdo desktop geralmente entre 1120px e 1280px.
+
+### Princípios
+
+- hierarquia clara;
+- composição escaneável;
+- respiro suficiente;
+- assimetria controlada;
+- agrupamento lógico;
+- alinhamentos consistentes;
+- uma ação principal por seção;
+- densidade moderada.
+
+No mobile, empilhar cards e ações quando necessário e preservar a ordem narrativa: **contexto → benefício → prova → ação**.
+
+---
+
+## 12. Composição para social media
+
+### Post de 1 slide
+
+- 1 gancho dominante;
+- 1 imagem/ideia central;
+- 1 assinatura ou CTA secundário;
+- respiro suficiente para leitura imediata.
+
+### Post de 2 slides
+
+**Slide 1 — capa**
+- gancho curto e forte;
+- alto contraste;
+- não antecipar toda a legenda.
+
+**Slide 2 — fechamento/CTA**
+- ação clara;
+- composição mais simples que a capa;
+- não criar um terceiro bloco de conteúdo apenas para preencher espaço.
+
+### Carrossel
+
+- capa com força de peça única;
+- miolo alternando texto, fotografia, listas curtas e respiro;
+- margens, cores e assinatura consistentes;
+- último slide com CTA inequívoco.
+
+---
+
+## 13. Hierarquia das referências do moodboard
+
+A regra operacional original permanece válida:
+
+> **Quanto maior a peça no moodboard composto, maior o peso dela como referência visual.**
+
+- **PESO 4 — ÂNCORA:** determina principalmente hierarquia, ritmo, contraste, tratamento de imagem e sensação geral.
+- **PESO 2 — FORTE:** amplia repertório sem competir com as âncoras.
+- **PESO 1 — COMPLEMENTAR:** oferece soluções específicas sem redefinir a identidade.
+
+Não fazer média simples entre todas as peças.
+
+---
+
+## 14. Referências âncora — PESO 4
+
+### A. “A força da ACIRV tem nome: O SEU!”
+
+Preservar:
+- fotografia real com forte banho/overlay azul;
+- tipografia muito grande;
+- branco + verde-limão como hierarquia;
+- laranja como contraste pontual;
+- grande área de respiro;
+- logo separado do título;
+- mensagem institucional humana.
+
+### B. “08 Mar — Dia Internacional da Mulher”
+
+Preservar:
+- azul dominante;
+- título de alta escala;
+- fotografia de pessoas reais;
+- colagem editorial;
+- acentos verde e laranja;
+- linguagem humana e contemporânea.
+
+### C. Campanha “Conectar para Crescer”
+
+Preservar:
+- gradientes luminosos;
+- mensagens curtas;
+- palavras-chave em verde/amarelo;
+- linhas/curvas discretas;
+- sensação digital, viva e conectada;
+- CTA secundário.
+
+### D. Série Dia do Comerciante / comércio local
+
+Preservar:
+- fotografia documental;
+- overlay azul profundo;
+- frases curtas ligadas ao cotidiano empresarial;
+- marca-texto/blocos coloridos;
+- prioridade para história e significado.
+
+---
+
+## 15. Referências fortes — PESO 2
+
+### Associativismo
+
+Repertório:
+- fundo azul com foto coletiva;
+- título branco com palavra-chave verde;
+- listas muito curtas;
+- linhas e conexões discretas;
+- sensação de rede e ação coletiva.
+
+### Serviços e benefícios
+
+Repertório:
+- azul-marinho;
+- recortes de objetos/fotos;
+- contornos claros ou amarelos;
+- título branco/amarelo/verde;
+- pequenos blocos informativos;
+- CTA compacto;
+- verde-limão e laranja como separadores.
+
+### Campanhas SudoExpo
+
+Fundos altamente saturados em laranja, verde, azul-claro ou amarelo são válidos como **variação de campanha**, não padrão universal do feed.
+
+---
+
+## 16. Referências complementares — PESO 1
+
+Peças claras/brancas são válidas quando:
+- o conteúdo exige comparação;
+- há informação técnica;
+- o excesso de azul prejudicaria leitura;
+- a sequência do feed precisa de respiro.
+
+Branco é modo complementar, não padrão dominante.
+
+---
+
+## 17. Padrões recentes validados
+
+### “SudoExpo acabou. E agora?”
+- hierarquia tipográfica forte;
+- degradê experimental controlado;
+- azul + laranja;
+- estrutura simples;
+- leitura imediata.
+
+### “Amanhã a casa abre”
+- fotografia de evento;
+- overlay/degradê organizando a imagem;
+- bloco informativo com boa hierarquia.
+
+**Aprendizado:** a composição é positiva, mas microtexto como “Estande ACIRV” não deve ser replicado em tamanho difícil de ler.
+
+---
+
+## 18. O que deve permanecer consistente
+
+- reconhecimento ACIRV;
+- azul como âncora;
+- alto contraste;
+- hierarquia tipográfica forte;
+- mensagem curta na arte;
+- palavras-chave destacadas;
+- logo com área de respiro;
+- linguagem contemporânea e energética;
+- pessoas e histórias reais;
+- sensação de conexão, movimento e rede;
+- identidade empresarial sem burocracia;
+- legibilidade em escala de uso real.
+
+## 19. O que pode variar
+
+- fundo sólido, branco, foto ou gradiente;
+- cor de acento;
+- posição do logo;
+- alinhamento;
+- colagem versus foto cheia;
+- quantidade de elementos decorativos;
+- linguagem de campanha;
+- intensidade e direção de gradientes.
+
+A variedade é desejada desde que a peça continue reconhecível como ACIRV.
+
+---
+
+## 20. Componentes digitais
 
 ### Botão primário
-- fundo azul institucional;
+- azul institucional;
 - texto branco;
-- ação central.
+- ação central;
+- referência: 48px de altura, 12px de radius, padding 12px 20px.
 
 ### Botão secundário
-- fundo verde;
+- verde;
 - texto escuro;
-- benefícios/progresso.
+- progresso, benefício ou resultado.
 
 ### Botão acento
-- fundo laranja;
+- laranja;
 - texto escuro;
-- inscrições/eventos/contato.
+- inscrição, evento ou contato.
+
+### Navegação
+- fundo azul;
+- texto branco;
+- estrutura simples;
+- item ativo claramente identificável.
 
 ### Cards
 - claros: leitura e conteúdo recorrente;
-- azuis: institucionalidade;
-- verdes: métricas/evolução;
+- azuis: autoridade e institucionalidade;
+- verdes: métricas e evolução;
 - laranja/amarelo: destaque pontual.
+
+### Formulários
+- rótulo persistente;
+- não depender apenas de placeholder;
+- erros com orientação clara;
+- campos e botões com pelo menos 44px, preferencialmente 48px.
 
 ### Badges
 - amarelo: conquista;
 - laranja: evento/temporal;
 - verde: benefício/confirmado.
 
-## 15. Tokens de forma e espaçamento
+### Ícones
+- simples;
+- geométricos;
+- traço consistente;
+- rede, pessoas, negócios, crescimento, diálogo, calendário, localização e resultados.
+
+---
+
+## 21. Tokens de forma e espaçamento
 
 ### Border radius
 - none: 0px
@@ -347,112 +687,224 @@ Evitar blobs e formas aleatórias sem função semântica.
 - 8: 64px
 - 9: 96px
 
-## 16. Profundidade e efeitos
+---
 
-Preferir:
-- contraste de superfícies;
-- bordas sutis;
-- overlays;
-- sombras suaves;
-- profundidade por cor.
+## 22. Padrões de tela
 
-Evitar:
-- glassmorphism intenso;
-- neon excessivo;
-- reflexos metálicos;
-- sombras pesadas;
-- 3D gratuito;
-- efeitos que prejudiquem a leitura.
+### Página inicial institucional
+- hero com promessa clara;
+- CTA principal e secundário;
+- prova de impacto;
+- benefícios;
+- histórias reais;
+- próximos eventos e contato.
 
-## 17. Movimento
+### Página de evento
+- nome, data, horário e local antes da dobra;
+- CTA em laranja;
+- blocos curtos;
+- destaques de palestrantes, programação e benefícios.
+
+### Página de benefícios
+- organização por necessidade/categoria;
+- valor prático;
+- ícones simples;
+- caminhos claros para solicitar ou saber mais.
+
+### Área do associado / dashboard
+- navegação azul;
+- indicadores prioritários;
+- cards claros;
+- verde para progresso;
+- amarelo para metas/avisos;
+- evitar gráfico quando número/lista resolver melhor.
+
+### Conteúdo editorial
+- superfícies claras;
+- hierarquia forte;
+- títulos em azul;
+- metadados discretos;
+- imagens reais;
+- contexto e impacto local.
+
+### Pertencimento e reconhecimento
+- fotografia de associados;
+- selos amarelos/verdes;
+- azul para credibilidade;
+- laranja para chamada;
+- espaço para tempo de filiação, conquista e depoimento.
+
+---
+
+## 23. Movimento
 
 Em interfaces:
 - transições geralmente entre 180ms e 240ms;
 - entrada por opacidade;
 - pequeno deslocamento;
 - expansão controlada;
-- linhas de conexão progressivas.
+- linhas de conexão progressivas;
+- indicadores com crescimento sutil.
 
-Respeitar redução de movimento.
+Evitar parallax intenso, rotação decorativa e animações contínuas. Respeitar redução de movimento.
 
-Evitar parallax intenso, rotação decorativa e animação contínua.
+---
 
-## 18. Linguagem de conteúdo
+## 24. Linguagem de conteúdo aplicada ao design
 
-A voz visual e textual deve combinar:
-- clareza;
-- proximidade;
-- credibilidade;
-- utilidade;
+A voz deve combinar:
+- conhecimento e credibilidade;
+- proximidade e acolhimento;
+- utilidade prática;
 - orgulho da comunidade empresarial;
-- pessoas e resultados reais.
+- pessoas, acontecimentos e resultados reais.
 
-A arte não deve carregar toda a profundidade do conteúdo. A legenda ou página completa a narrativa.
+O design não deve carregar texto em excesso. Para regras completas de linguagem, usar [[Manual-Operacional-de-Tom-de-Voz]].
 
-## 19. Do
+---
 
-- usar azul como âncora;
-- mostrar pessoas reais;
-- criar hierarquia forte;
-- variar backgrounds entre A–D;
-- usar foto com proteção de texto quando necessário;
-- aumentar fontes quando a leitura pedir;
-- usar cores com significado;
-- preservar respiro;
-- manter coerência entre canais;
-- testar a peça em escala real de uso.
+## 25. Antipadrões
 
-## 20. Don't
+Não:
+- usar microtexto para informação importante;
+- colocar texto pequeno sobre fundo detalhado;
+- lotar a peça de copy;
+- repetir sempre a mesma composição;
+- repetir sempre o mesmo degradê;
+- usar todas as cores na mesma intensidade;
+- transformar neon ou gradiente em ruído;
+- criar estética genérica de startup;
+- usar foto genérica quando houver registro real;
+- depender de sombra/glow para corrigir contraste;
+- distorcer, rotacionar ou redesenhar o logo;
+- esconder informação essencial;
+- colocar estética acima da clareza;
+- copiar literalmente uma referência.
 
-- não usar microtexto para informação importante;
-- não colocar texto pequeno sobre fundo detalhado;
-- não repetir sempre o mesmo degradê;
-- não usar todas as cores com a mesma intensidade;
-- não criar estética genérica de startup;
-- não depender de efeito para corrigir contraste;
-- não lotar a arte de copy;
-- não distorcer o logo;
-- não usar fotografia genérica quando houver material real;
-- não sacrificar legibilidade em nome de estética.
+---
 
-## 21. Checklist final
+## 26. Decisão rápida de background
+
+1. Mensagem curta e gráfica? → **A — sólido**.
+2. Profundidade sem nova cor? → **B — monocromático**.
+3. Assinatura de movimento/crescimento? → **C — azul + verde**.
+4. Campanha/alto impacto? → **D — experimental**.
+5. Foto real forte? → usar foto com overlay, área negativa ou caixa de texto.
+6. Muitos detalhes atrás do texto? → proteger a leitura antes de pensar em reduzir fonte.
+
+---
+
+## 27. Checklist de aprovação
 
 - [ ] A peça é reconhecível como ACIRV?
-- [ ] A mensagem principal é lida em segundos?
-- [ ] Título, subtítulo e detalhes essenciais são legíveis no celular?
+- [ ] O objetivo está claro?
+- [ ] O título é lido imediatamente?
+- [ ] Subtítulo e informações essenciais são legíveis sem zoom?
 - [ ] O fundo pertence a uma família visual clara?
-- [ ] A fotografia, se usada, não compete com o texto?
-- [ ] As cores têm papel definido?
-- [ ] O azul permanece como referência identitária?
-- [ ] O contraste atende o conteúdo?
+- [ ] Se há fotografia detalhada, o texto está protegido?
+- [ ] O azul funciona como âncora ou referência identitária?
+- [ ] Cada cor secundária tem função?
+- [ ] O contraste é suficiente?
+- [ ] A peça evita microtexto?
 - [ ] O layout tem respiro?
 - [ ] O logo está preservado?
-- [ ] Há variação em relação às peças recentes?
-- [ ] A peça evita microtexto e excesso de informação?
+- [ ] Há variação em relação às peças recentes sem perder identidade?
+- [ ] A estética reforça a mensagem?
+- [ ] A peça funciona na escala real do canal?
 
-## 22. Histórico de decisão
+---
 
-### 2026-09-23 — revisão de legibilidade e backgrounds
+## 28. Instruções para IA
 
-Briefing Kevyn → Samara consolidado na camada canônica:
+Ao gerar telas, referências ou direções visuais:
 
-- aumentar fontes de títulos, subtítulos e texto corrido;
-- reconhecer que contraste bom não resolve fonte pequena;
-- usar caixa/faixa/overlay em fundos fotográficos detalhados;
-- oficializar quatro famílias de background;
-- aprovar degradês fluidos e experimentais como repertório;
-- validar azul + laranja como combinação de alto contraste;
-- preservar exemplos positivos recentes sem copiar literalmente suas composições.
+1. definir objetivo e público;
+2. escolher um foco visual principal;
+3. usar azul como estrutura/âncora;
+4. atribuir função às cores;
+5. respeitar contraste;
+6. priorizar fotografia real/local;
+7. proteger texto sobre fundos complexos;
+8. usar Campuni ou fallback definido;
+9. manter hierarquia forte e legível;
+10. não inventar fatos, preços, horários ou promessas;
+11. adaptar a composição ao briefing em vez de copiar referência;
+12. testar legibilidade e coerência antes de finalizar.
 
-Esta decisão atualiza a orientação da fonte primária que recomendava evitar gradientes multicoloridos de forma ampla.
+### Prompt-base para referência visual
+
+> Crie uma referência visual conceitual para uma publicação da ACIRV usando o perfil operacional `ACIRV-MOOD-v1`, derivado do Design System canônico da ACIRV. Respeite a hierarquia de referências do moodboard, preserve o azul como âncora, contraste alto, tipografia forte, palavras-chave destacadas, linguagem humana e contemporânea e uso intencional de verde-limão, amarelo, laranja ou ciano. Escolha conscientemente entre fundo sólido, degradê monocromático, degradê azul+verde, degradê experimental ou fotografia tratada. Se houver fundo fotográfico complexo, crie uma superfície de leitura. Garanta legibilidade real no celular e evite microtexto. Adapte a composição ao briefing; não copie literalmente uma peça existente.
+
+---
+
+## 29. Contrato de sincronização com o Hermes
+
+O arquivo operacional:
+
+`Hermes/Planejamento 4º Trimestre de 2026/04-moodboard/MOODBOARD.md`
+
+deve permanecer semanticamente sincronizado com este documento.
+
+### O que precisa existir nos dois
+- conceito visual;
+- papéis das cores;
+- tokens essenciais;
+- quatro famílias de background;
+- regras de tipografia e legibilidade;
+- proteção de texto sobre fotografia;
+- hierarquia de referências;
+- referências âncora;
+- variação permitida;
+- antipadrões;
+- checklist mínimo;
+- instruções de geração de referência.
+
+### O que pode existir apenas aqui
+- componentes digitais;
+- tokens detalhados de interface;
+- padrões de tela;
+- motion;
+- arquitetura completa;
+- histórico e governança.
+
+### O que pode existir apenas no Hermes
+- estados do fluxo;
+- `post_id`;
+- integração Trello;
+- gatilhos de automação;
+- prompts operacionais específicos.
+
+### Regra de não divergência
+Se o Hermes precisar de uma regra visual que ainda não existe aqui, a decisão deve ser promovida para esta fonte canônica e só então refletida no `MOODBOARD.md`.
+
+---
+
+## 30. Histórico de decisões
+
+### Fonte primária — versão alpha
+O arquivo `000-Arquivos-originais/DESIGN SYSTEM.md` estabeleceu o primeiro sistema documentado de tokens, tipografia, componentes, acessibilidade, fotografia, layout e linguagem visual.
+
+### 2026-09-16 — ACIRV-MOOD-v1
+O moodboard operacional do Hermes consolidou repertório visual do feed, hierarquia por peso e referências âncora.
+
+### 2026-09-23 — briefing Kevyn → Samara
+Foram formalizadas:
+- fontes maiores em títulos, subtítulos e corpo;
+- regra de que contraste não compensa microtexto;
+- caixas/faixas/overlays em fundos fotográficos detalhados;
+- quatro famílias de background;
+- uso oficial de gradientes controlados;
+- azul + laranja como combinação válida;
+- validação de composições recentes com correções de legibilidade.
+
+### 2026-09-23 — consolidação arquitetural
+A inteligência visual canônica foi consolidada neste único documento. O antigo `01-Estrategia-e-Marca/ACIRV-MOOD-v1.md` deixou de ser uma segunda fonte canônica. O identificador `ACIRV-MOOD-v1` permanece como **perfil operacional do Hermes**, não como documento canônico concorrente.
+
+---
 
 ## Fontes e rastreabilidade
 
-Fonte primária imutável:
-- `000-Arquivos-originais/DESIGN SYSTEM.md`
-
-Direção visual operacional anterior:
-- `Hermes/Planejamento 4º Trimestre de 2026/04-moodboard/MOODBOARD.md`
-
-Atualização humana:
-- briefing visual Kevyn → Samara, 23/09/2026, fornecido ao agente por capturas de tela.
+- **Fonte primária imutável:** `000-Arquivos-originais/DESIGN SYSTEM.md`.
+- **Fonte operacional de repertório:** `Hermes/Planejamento 4º Trimestre de 2026/04-moodboard/MOODBOARD.md`.
+- **Decisão humana recente:** briefing visual Kevyn → Samara, 23/09/2026, fornecido por capturas de tela.
+- **Documento canônico substituído por esta consolidação:** `01-Estrategia-e-Marca/ACIRV-MOOD-v1.md`.

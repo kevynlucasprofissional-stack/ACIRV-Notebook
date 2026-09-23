@@ -39,8 +39,11 @@ Padrão Trello:
 Mapa do lote piloto:
 `03-integracoes/LOTE_PILOTO_TRELLO_SYNC.md`
 
-Moodboard:
-`04-moodboard/MOODBOARD.md`
+Design System canônico (autoridade semântica visual):
+`../../01-Estrategia-e-Marca/Design-System-ACIRV.md`
+
+Moodboard operacional do Hermes:
+`04-moodboard/MOODBOARD.md` — projeção `ACIRV-MOOD-v1`, obrigatoriamente alinhada ao canônico
 
 ## Escopo imutável
 - Samara recebe somente peças estáticas.
@@ -123,6 +126,8 @@ Salvar imediatamente no estado. Não esperar o fim do lote.
 A criação editorial das referências não deve preceder o briefing. Como o lote piloto já está fechado, essa etapa pode ser executada separadamente depois.
 
 Nesta sincronização, a prioridade é deixar os 12 cards com a **descrição canônica correta**.
+
+Quando chegar a etapa de referência visual, o Hermes lê `04-moodboard/MOODBOARD.md`; se existir qualquer ambiguidade de identidade, tokens, contraste, backgrounds ou legibilidade, prevalece `../../01-Estrategia-e-Marca/Design-System-ACIRV.md`.
 
 ## Limite desta execução
 

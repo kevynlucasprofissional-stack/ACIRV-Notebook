@@ -2,14 +2,15 @@
 
 **Série:** lote piloto ACIRV Social Media Q4/2026 — publicação de 16/09/2026 a 05/10/2026
 **Total de peças:** 12 posts
-**Moodboard:** `ACIRV-MOOD-v1` (`04-moodboard/MOODBOARD.md`)
+**Moodboard operacional:** `ACIRV-MOOD-v1` (`../04-moodboard/MOODBOARD.md`)  
+**Autoridade visual canônica:** `../../../01-Estrategia-e-Marca/Design-System-ACIRV.md`
 **Rota:** ChatGPT via navegador (Browser Hub), **um prompt por vez, no mesmo chat**. Nenhuma chave/API OpenAI foi usada.
 **Chat único da série:** https://chatgpt.com/c/6aaadab4-43e8-83e9-9ceb-41df102c98dd
 
-Direção de marca enviada em todas as peças: azul ACIRV predominante (`#003DC5` / `#000EB4` / `#080890`),
-alto contraste, sans-serif pesada, branco para leitura, verde-limão destacando UMA palavra-chave,
-laranja como acento pontual, fotografia real com banho azul, logo ACIRV discreta, pouco texto na arte.
+Direção de marca vigente para novas gerações: seguir integralmente `../04-moodboard/MOODBOARD.md`, que projeta o Design System canônico. Azul permanece como âncora, mas backgrounds podem usar os modos A–D (sólido, monocromático, azul+verde ou experimental), inclusive azul+laranja quando apropriado. Priorizar alto contraste, Campuni/fallback sans-serif, fotografia real, proteção de texto sobre fundos complexos e legibilidade sem microtexto.
 
+> **IMPORTANTE — status deste arquivo:** os prompts abaixo são registro histórico do que foi enviado no lote piloto. Restrições visuais específicas dentro deles (por exemplo, “laranja apenas como acento”) podem ter sido superadas. Ao regenerar qualquer peça, prevalecem `../04-moodboard/MOODBOARD.md` e o Design System canônico.
+>
 > **REGRA DE GERAÇÃO — REVISADA em 16/09/2026 (instrução direta do usuário):**
 > cada peça deve ser pedida em **UMA ÚNICA geração de imagem**, contendo **todos os slides do
 > carrossel dentro da mesma lâmina** (grade/sequência numerada, ex.: "SLIDE 1 / SLIDE 2 / ..."),
