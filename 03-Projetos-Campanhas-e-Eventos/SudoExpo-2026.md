@@ -6,7 +6,7 @@ tipo: projeto
 status: em_revisao
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '3.0'
+versao_conteudo: '3.1'
 idioma: pt-BR
 data_criacao: '2026-06-17'
 ultima_revisao: '2026-09-22'
@@ -22,6 +22,7 @@ fontes_documentais:
 - '[[Fonte - Reunioes de Junho 2026]]'
 - '[[Fonte - Notas Operacionais]]'
 - '[[Contexto-Mega-Relatorio-Pos-SudoExpo]]'
+- '000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (6).json'
 notas_relacionadas:
 - '[[Organizacao-SudoExpo-09-06-2026]]'
 - '[[Fluxo-Macro-de-Eventos]]'
@@ -31,6 +32,7 @@ notas_relacionadas:
 - '[[SudoExpo-Match]]'
 - '[[Qualidade-dos-Dados-de-Marketing]]'
 - '[[Pesquisa-e-Aprendizado-de-Marketing]]'
+- '[[Evolucao-da-Operacao-de-Marketing-2026]]'
 confidencialidade: interno
 subtipo: evento
 ---
@@ -179,6 +181,28 @@ A fonte mensal atualizada registra:
 Esses dados mensais são úteis como contexto, mas precisam ser reconciliados com as planilhas de Insights antes de qualquer conclusão causal sobre conteúdo ou evento.
 
 Ver [[Historico-de-KPIs-Mensais]] e [[Qualidade-dos-Dados-de-Marketing]].
+
+## Trajetória operacional vista pelo SCRUM
+
+Os snapshots do board ACIRV + VCOM: SCRUM acrescentam uma camada que os briefings isolados não mostravam tão bem: **quanto a SudoExpo passou a ocupar a rotina semanal conforme a feira se aproximava**.
+
+Usando uma classificação conservadora por títulos de cards que mencionam SudoExpo, Conecta SudoExpo ou Fórum de IA:
+
+- 13–17/07: 6 de 27 cards finalizados (~22%);
+- 10–14/08: 6 de 44 (~14%);
+- 31/08–04/09: 7 de 30 (~23%);
+- 06–12/09: 14 de 32 (~44%);
+- 14–19/09: 3 de 18 (~17%).
+
+A heurística por título não é taxonomia oficial e pode deixar tarefas relacionadas de fora. Ainda assim, ela mostra uma tendência coerente: a feira deixa de ser apenas pauta em preparação e se torna uma frente dominante na semana de execução.
+
+No snapshot mais recente, depois da feira, os itens abertos mudam de natureza para relatório, reuniões de prestação de contas e organização de evidências/fotos. Isso reforça a narrativa:
+
+**preparar → executar → registrar → explicar → avaliar.**
+
+Ver [[Evolucao-da-Operacao-de-Marketing-2026]].
+
+> Fonte: 000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (6).json — blob 4997fef9b93dcd1fd751ac7817bdf09bbf384b89.
 
 ## Aprendizado operacional
 
