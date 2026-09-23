@@ -6,10 +6,10 @@ tipo: estrategia
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-17'
+ultima_revisao: '2026-09-22'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -20,6 +20,8 @@ tags:
 fontes_documentais:
 - '[[Fonte - Reunioes de Junho 2026]]'
 - '[[Fonte - Notas Operacionais]]'
+- '000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Documentos/Relatório de métrica Março parte 1 de 2.txt'
+- '000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Documentos/Relatório de métrica Março parte 2 de 2.txt'
 notas_relacionadas:
 - '[[Ritual-Semanal-de-Priorizacao]]'
 - '[[Quadro-Operacional-Kanban]]'
@@ -36,6 +38,20 @@ subtipo: metodo_decisao
 ## Pontuação
 
 Avalie de 0 a 3: alinhamento estratégico, impacto no público, urgência real, evidência disponível, capacidade, dependências e reaproveitamento. Uma demanda urgente sem informação ou aprovador não recebe prioridade automática.
+
+## Por que a priorização precisa ser compartilhada
+
+Uma transcrição de março de 2026 documenta a origem prática do problema: demandas simultâneas chegavam por **múltiplos solicitantes**, cada um olhando para objetivos e entregas diferentes. Quando cada solicitante declara a própria demanda como urgente, o executor individual vira o ponto onde prioridades incompatíveis colidem.
+
+A fonte chegou a propor uma pontuação conjunta por **prioridade, dificuldade e tempo**. Essa fórmula numérica era uma hipótese de trabalho daquele momento e **não substitui** a matriz atual desta nota.
+
+O aprendizado permanente é:
+
+> **priorização não pode depender apenas de quem cobrou por último; conflito entre solicitantes precisa ser resolvido por um critério visível e compartilhado.**
+
+Ao mudar uma prioridade, registrar qual item perdeu capacidade e por quê.
+
+> Fontes históricas: `000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Documentos/Relatório de métrica Março parte 1 de 2.txt` — blob `5e02622a0af5fe4b4cf81ebef7c31b73ef870beb`; `000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Documentos/Relatório de métrica Março parte 2 de 2.txt` — blob `96d0b18ae5f7f8d9259ae11608c252f65d73742b`.
 
 ## Classes
 
