@@ -6,10 +6,10 @@ tipo: moc
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -43,7 +43,9 @@ subtipo: moc
 
 ## Capacidade
 
-[[Gestao-de-Capacidade-e-WIP]], [[Ritual-Semanal-de-Priorizacao]], [[Quadro-Operacional-Kanban]].
+[[Gestao-de-Capacidade-e-WIP]], [[Ritual-Semanal-de-Priorizacao]], [[Quadro-Operacional-Kanban]] e [[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]].
+
+A trajetória que conecta o problema de prioridades concorrentes, o registro semanal do SCRUM e a concentração operacional da SudoExpo está em [[Evolucao-da-Operacao-de-Marketing-2026]].
 
 ## Checklists de execução
 

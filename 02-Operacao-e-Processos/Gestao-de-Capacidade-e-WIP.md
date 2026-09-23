@@ -6,10 +6,10 @@ tipo: processo
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.2'
+versao_conteudo: '1.3'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -21,10 +21,13 @@ fontes_documentais:
 - '[[Fonte - Reunioes de Junho 2026]]'
 - '[[Fonte - Notas Operacionais]]'
 - '000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Documentos/Relatório de métrica Março parte 2 de 2.txt'
+- '000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (6).json'
 notas_relacionadas:
 - '[[Criterios-de-Priorizacao-de-Marketing]]'
 - '[[Quadro-Operacional-Kanban]]'
 - '[[Ritual-Semanal-de-Priorizacao]]'
+- '[[Evolucao-da-Operacao-de-Marketing-2026]]'
+- '[[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]]'
 confidencialidade: interno
 subtipo: processo
 ---
@@ -36,7 +39,21 @@ subtipo: processo
 
 ## Sinal observado
 
-O planejamento de junho registra grande variação de volume concluído por semana, de oito a 52 cards, sugerindo mistura de granularidade, sazonalidade e pressão operacional. O número de cards, sozinho, não mede produtividade.
+A série preservada no SCRUM mostra semanas com listas de finalizados variando de **8 a 52 cards** entre abril e setembro. A variação é compatível com mistura de granularidade, sazonalidade e pressão operacional — especialmente no ciclo da SudoExpo. O número de cards, sozinho, **não mede produtividade**.
+
+A leitura longitudinal e seus limites estão em [[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]].
+
+## Evidência longitudinal do SCRUM
+
+O snapshot mais recente do board **ACIRV + VCOM: SCRUM** registra **23 listas semanais de finalização entre 13/04 e 19/09**, somando **644 cards**. A variação semanal vai de **8 a 52 cards**, com média simples de 28.
+
+Essa série confirma que o volume de cards varia muito ao longo do calendário, mas **não autoriza usar quantidade de cards como produtividade**: as unidades têm granularidades diferentes.
+
+O valor do board é principalmente tornar fluxo, temas e ciclos de fechamento observáveis.
+
+A narrativa completa está em [[Evolucao-da-Operacao-de-Marketing-2026]].
+
+> Fonte: 000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (6).json — blob 4997fef9b93dcd1fd751ac7817bdf09bbf384b89.
 
 ## Limites propostos
 

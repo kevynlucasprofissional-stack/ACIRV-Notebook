@@ -6,10 +6,10 @@ tipo: metrica
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-22'
 grau_confianca: alto
 camadas_evidencia:
 - dado_calculado
@@ -23,6 +23,7 @@ notas_relacionadas:
 - '[[Instagram]]'
 - '[[Carrosseis]]'
 - '[[Reels-e-Video-Curto]]'
+- '[[Diagnostico-Longitudinal-Instagram-2025-2026]]'
 confidencialidade: interno
 subtipo: analise
 ---
@@ -30,7 +31,13 @@ subtipo: analise
 # Diagnostico-de-84-Posts
 
 > [!summary] Síntese
-> Análise descritiva de 84 posts do Instagram para identificar concentração, formatos e sinais de baixa resposta.
+> Análise descritiva histórica de 84 posts do Instagram para identificar concentração, formatos e sinais de baixa resposta. A nota é preservada como baseline metodológico e não representa mais a cobertura mais ampla disponível.
+
+## Estado da análise
+
+Esta amostra continua válida dentro de sua própria metodologia, mas não deve ser tratada como a base principal atual. O export Meta posteriormente normalizado contém 200 registros entre 22/04/2025 e 10/04/2026; ver [[Diagnostico-Longitudinal-Instagram-2025-2026]].
+
+Os números das duas análises não devem ser fundidos sem chave de publicação e reconciliação de schema.
 
 ## Volume
 
@@ -57,6 +64,7 @@ Classificar top e bottom por pilar, tema, CTA, mídia, data e objetivo; repetir 
 - [[Instagram]] — é o canal analisado.
 - [[Carrosseis]] — é formato com maior média na amostra.
 - [[Reels-e-Video-Curto]] — é formato com média intermediária.
+- [[Diagnostico-Longitudinal-Instagram-2025-2026]] — amplia a cobertura sem apagar esta amostra.
 
 ## Fontes e rastreabilidade
 
@@ -64,7 +72,7 @@ Classificar top e bottom por pilar, tema, CTA, mídia, data e objetivo; repetir 
 
 ## Limitações e revisão
 
-Esta nota deve ser revisada quando a fonte, o responsável, a data, a metodologia ou o estado operacional mudar.
+Preservar como amostra histórica. Novas análises devem preferir a base longitudinal quando a pergunta for compatível com seu schema.
 
 ## Dados disponíveis nas fontes
 
