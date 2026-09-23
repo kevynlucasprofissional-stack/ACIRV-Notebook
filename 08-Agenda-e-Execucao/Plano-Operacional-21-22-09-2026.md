@@ -6,10 +6,10 @@ tipo: operacao
 status: ativo
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-09-22'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -140,6 +140,36 @@ O pedido de 22/09 contém duas correções:
 - [ ] Validar formato de treinamento interno/rodízio de reuniões.
 - [ ] Confirmar calendário comercial da Oficina Raphael.
 - [ ] Corrigir fotos e descrição de mesas no catálogo.
+
+## Expansão operacional — 23/09/2026
+
+O briefing de 23/09 amplia o plano para uma **carteira de pesquisa orientada às metas de 2026** e explicita o Hermes Work como ferramenta de execução.
+
+Novas frentes:
+- pesquisa imediata com comunidade Builders/IA e formação gradual de painel de aproximadamente 400 pessoas;
+- pesquisa do Fórum de IA sobre eventos pagos, financiamento coletivo, mensalidade/comunidade, benefícios e disposição a pagar;
+- instrumento específico para o evento de 08/10;
+- pesquisa estratégica com associados por WhatsApp e e-mail;
+- base atualizada de associados como fonte institucional para segmentação;
+- linha própria de pesquisa de aquisição;
+- pesquisa interna das ACIRVETES antes de propor treinamento e rodízio à Janaine;
+- Sympla como direção preferida para inscrição/check-in, com camada analítica própria;
+- revisão da telemetria e das interfaces do ASPMed;
+- pesquisa recorrente pós-relatório diário;
+- estudo de métricas de atendimento, conexão e trabalho humano;
+- uso do Hermes Work para questionários, bases, contatos, análise, cruzamento e transformação de resultados em ações.
+
+Ver [[Roadmap-de-Pesquisas-Q4-2026]], [[Pesquisa-Pos-Relatorio-Diario]] e [[Telemetria-do-Trabalho-Humano]].
+
+### Trello aberto em 23/09
+
+Foram adicionados ao `Repositório GERAL`:
+- **Desenhar métricas do trabalho humano: atendimento, conexão e operação**;
+- **Criar pesquisa pós-relatório diário e ciclo de aprendizado operacional**.
+
+### Regra para Hermes e Samara
+
+Passar o restante do planejamento anual para a Samara pode ser executado pelo Hermes Work, mas o pacote atual preserva o gate: briefings posteriores a 05/10 só podem ser sincronizados quando estiverem fechados editorialmente no GitHub.
 
 ## Fontes e rastreabilidade
 
