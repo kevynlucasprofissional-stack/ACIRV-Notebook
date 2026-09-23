@@ -1,245 +1,417 @@
-# ACIRV-MOOD-v1 — Direção visual oficial para referências do Social Media Q4 2026
+# ACIRV-MOOD-v1 — projeção operacional do Design System canônico
 
-Status: `READY`
+Status: `READY`  
+Perfil operacional: `ACIRV-MOOD-v1`  
+Última sincronização semântica: `2026-09-23`  
+Fonte canônica: `01-Estrategia-e-Marca/Design-System-ACIRV.md`  
+Fonte primária imutável: `000-Arquivos-originais/DESIGN SYSTEM.md`
 
-Data de inicialização: `2026-09-16`
+> Este arquivo **precisa continuar existindo neste caminho** porque integra o fluxo de automação do Hermes. Ele não é uma segunda fonte de verdade: é a projeção operacional, orientada a Social Media e geração de referências visuais, do Design System canônico da ACIRV.
 
-Fonte: moodboard composto fornecido pelo usuário em 16/09/2026. A leitura deste documento deve respeitar a regra explícita do usuário: **quanto maior a peça no moodboard, maior o peso dela como referência visual**.
+## 0. Contrato de autoridade
 
-> Este arquivo materializa a leitura visual do moodboard para uso duradouro pelo Hermes. Ele orienta as referências conceituais das peças; não é um template rígido e não substitui manual de marca, arquivos oficiais ou validação da designer.
+- Para decisões visuais vigentes, a autoridade semântica é `01-Estrategia-e-Marca/Design-System-ACIRV.md`.
+- Este arquivo deve permanecer alinhado ao canônico e pode conter apenas especializações operacionais do Hermes.
+- A fonte em `000-Arquivos-originais/` é evidência histórica e **não deve ser modificada**.
+- Quando uma regra visual nova surgir no fluxo do Hermes, ela deve ser promovida ao canônico antes de virar regra permanente aqui.
+- O nome `ACIRV-MOOD-v1` permanece ativo para compatibilidade com automações, briefings e prompts existentes.
 
-## 1. Regra de peso das referências
+---
 
-Ao criar qualquer referência visual, usar esta hierarquia:
+## 1. Identidade operacional
 
-- `PESO 4 — ÂNCORA`: peças grandes do moodboard. Devem determinar principalmente hierarquia, ritmo, contraste, tratamento de imagem e sensação geral.
-- `PESO 2 — FORTE`: peças médias. Servem para ampliar repertório sem competir com as âncoras.
-- `PESO 1 — COMPLEMENTAR`: peças pequenas. Podem fornecer soluções específicas, mas não devem redefinir a identidade geral.
+A ACIRV deve parecer:
+- institucional e confiável;
+- humana e próxima;
+- contemporânea e viva;
+- empresarial sem rigidez;
+- organizada, mas energética;
+- variada sem perder reconhecimento.
 
-Não fazer média simples entre todas as peças. Uma solução presente apenas em um card pequeno não deve prevalecer sobre padrões recorrentes das peças grandes.
+Tema: **Conectar para Crescer**.  
+Conceito: **Tradição em Movimento**.
 
-## 2. Referências âncora — PESO 4
+Arquétipos:
+- **Sábio:** autoridade, clareza, credibilidade;
+- **Conector:** proximidade, rede, articulação e movimento.
 
-### A. “A força da ACIRV tem nome: O SEU!”
-Características a preservar:
-- fundo fotográfico real com forte banho/overlay azul;
-- tipografia muito grande e direta;
-- combinação de branco + verde-limão como hierarquia principal;
-- bloco laranja como contraste pontual;
-- composição simples, com grande área de respiro;
-- logo ACIRV discreta e claramente separada do título;
-- mensagem institucional humana, não burocrática.
+A arte deve ser entendida rapidamente no celular. A profundidade fica na legenda; a arte entrega **gancho, estrutura, contexto essencial e ação**.
 
-### B. “08 Mar — Dia Internacional da Mulher”
-Características a preservar:
-- azul como campo dominante;
-- título de alta escala, com contraste branco/verde-limão;
-- fotografia de pessoas reais como protagonista;
-- linguagem de colagem editorial: recortes, flores/elementos gráficos e camadas;
-- acentos laranja e verde usados para energia, não como fundo permanente;
-- aparência humana, contemporânea e celebratória sem parecer peça genérica de data comemorativa.
+---
 
-### C. Campanha “Conectar para Crescer” no gradiente azul/roxo/verde
-Características a preservar:
-- fundos de alta saturação e gradientes luminosos;
-- mensagens muito curtas no centro da composição;
-- uma ou duas palavras-chave destacadas em verde/amarelo;
-- curvas/linhas orgânicas discretas sugerindo movimento e conexão;
-- sensação digital, viva e contemporânea;
-- CTA pequeno e separado do gancho principal.
+## 2. Tokens essenciais
 
-### D. Série do Dia do Comerciante / comércio local
-Características a preservar:
-- fotografia documental com overlay azul profundo;
-- frases curtas e emocionais ligadas ao cotidiano real do empresário;
-- palavras ou trechos destacados por marca-texto/blocos em verde, laranja ou amarelo;
-- composição em camadas, mas legível;
-- prioridade para história e significado, não para ornamentação.
+Tokens oficiais:
+- azul institucional: `#0E1EB2`;
+- azul-claro: `#039DE3`;
+- laranja: `#FF7C31`;
+- verde: `#27E300`;
+- amarelo: `#EAFF00`;
+- branco: `#FFFFFF`;
+- texto escuro: `#101828`.
 
-## 3. Referências fortes — PESO 2
+Aproximações visuais do moodboard, úteis apenas como referência:
+- azul elétrico ~`#003DC5`;
+- azul profundo ~`#000EB4`;
+- azul-marinho ~`#080890`;
+- verde neon ~`#2DDE24`;
+- laranja percebido ~`#DE733A`;
+- ciano ~`#027AB0` a `#129CDF`;
+- roxo permitido em transições.
 
-### Conteúdo associativista
-Exemplos visuais do moodboard incluem “Você NÃO constrói uma cidade forte sozinho”, “Associativismo é justamente isso” e “Quando empresários se unem...”.
+### Papéis das cores
 
-Usar como repertório para:
-- fundo azul com foto coletiva ou institucional;
-- título branco com palavra-chave verde;
-- listas muito curtas com ícones simples;
-- linhas/conexões discretas no fundo;
-- tom visual de rede, movimento e ação coletiva.
+- azul = estrutura, autoridade, identidade;
+- ciano = comunicação/digital;
+- laranja = conexão/ação;
+- verde = crescimento/progresso;
+- amarelo = destaque/conquista;
+- roxo = transição/gradiente auxiliar.
 
-### Serviços e benefícios
-Cards de Certificado Digital, Câmara de Mediação e Arbitragem, associação e locação de espaços mostram um segundo modo visual:
-- azul-marinho como base;
-- recortes de objetos/fotos com contorno claro ou amarelo;
-- título branco/amarelo/verde;
-- pequenos blocos informativos;
-- CTA compacto em faixa ou botão visual;
-- uso de verde-limão e laranja para separar informação.
+**O azul é a âncora.** Evitar todos os acentos com a mesma intensidade.
 
-### Campanhas SudoExpo
-Os cards em laranja, verde, azul-claro e amarelo mostram que a identidade pode aceitar fundos extremamente saturados quando há uma campanha/evento com linguagem própria.
+---
 
-Regra: tratar esta solução como **variação de campanha**, não como padrão universal do feed da ACIRV.
+## 3. Sistema de backgrounds
 
-## 4. Referências complementares — PESO 1
+A regra atual **permite e incentiva variedade controlada de gradientes**. A orientação antiga de evitar gradientes multicoloridos de forma geral foi superada pela decisão de 23/09/2026.
 
-As peças menores de fundo branco, como conteúdos de CNPJ/CPF, A1/A3 e aniversário de Rio Verde, mostram que existe espaço para um modo mais leve e informativo.
+### Opção A — sólido
+Um único tom da paleta.
 
-Usar principalmente quando:
-- o conteúdo precisa de comparação objetiva;
-- há produto/serviço com informação técnica;
-- o excesso de azul prejudicaria a leitura;
-- a sequência do feed pede respiro visual.
+Uso: mensagem curta, gráfica, direta, alta saturação, outdoors e campanhas.
 
-Não transformar o branco no padrão principal: no moodboard, a identidade predominante continua sendo azul, intensa e contrastada.
+### Opção B — degradê monocromático
+Tons claros/escuros da mesma cor.
 
-## 5. Paleta percebida
+Uso: profundidade sem ruído cromático.
 
-Valores abaixo são aproximações visuais extraídas do moodboard e servem para direção de referência, não como substitutos de tokens oficiais da marca.
+### Opção C — degradê fluido clássico
+Principalmente azul + verde.
 
-### Base
-- Azul real/elétrico: `#003DC5`
-- Azul profundo: `#000EB4`
-- Azul-marinho: `#080890`
-- Azul escuro: `#000974`
+Uso: conexão, crescimento, movimento e energia digital.
 
-### Acentos
-- Verde neon: aproximadamente `#2DDE24` a verde-limão mais amarelado
-- Amarelo ácido: usar próximo de amarelo-limão de alta saturação
-- Laranja: aproximadamente `#DE733A` / laranja vivo
-- Ciano/azul claro: aproximadamente `#027AB0` a `#129CDF`
-- Roxo: permitido em gradientes e transições, sobretudo junto do azul
-- Branco: principal cor de leitura sobre fundos escuros
+### Opção D — degradê experimental
+Azul + uma ou mais cores secundárias controladas, como laranja, ciano, verde, amarelo ou roxo.
 
-### Regra de cor
-O azul é a âncora. Verde-limão, amarelo e laranja são acentos de hierarquia. Evitar usar todos os acentos com a mesma intensidade na mesma peça.
+Regras:
+- manter eixo dominante;
+- preservar leitura;
+- não virar arco-íris;
+- variar direção e incidência;
+- usar cor com função.
 
-## 6. Hierarquia tipográfica
+**Azul + laranja** é combinação validada para alto contraste quando bem equilibrada.
 
-A linguagem aparente do moodboard é de sans-serif contemporânea, limpa e majoritariamente pesada.
+---
+
+## 4. Tipografia e legibilidade
+
+Fonte principal: **Campuni**.  
+Fallback: Montserrat → Arial → sans-serif.
 
 Preservar:
-- títulos grandes e de leitura imediata;
-- contraste forte entre pesos/tamanhos;
-- uso de caixa alta seletiva para ênfase;
-- uma palavra ou expressão principal podendo ocupar grande parte da composição;
-- destaques cromáticos dentro da própria frase;
+- títulos grandes;
+- contraste forte entre pesos e tamanhos;
+- caixa alta seletiva;
+- palavras-chave cromaticamente destacadas;
 - blocos tipo marca-texto quando agregarem significado.
 
 Evitar:
 - parágrafos longos na arte;
 - muitas famílias tipográficas;
-- cinco ou seis níveis de hierarquia na mesma lâmina;
-- texto miúdo como elemento dominante.
+- muitos níveis de hierarquia;
+- microtexto.
 
-A legenda deve carregar a profundidade; a arte deve entregar gancho, estrutura e ação.
+### Regra crítica
 
-## 7. Fotografia e pessoas
+> **Contraste bom não compensa fonte pequena.**
 
-Prioridade visual:
-1. pessoas reais da ACIRV, associados, empresários, equipe e eventos;
-2. cenas documentais de comércio, encontros e negócios;
-3. recortes fotográficos/editoriais para datas ou histórias especiais;
-4. objetos/produtos quando o assunto for serviço técnico.
+Antes de liberar referência:
+1. visualizar em escala semelhante ao feed mobile;
+2. ler título, subtítulo, data/local e CTA sem zoom;
+3. se houver esforço, aumentar fonte, reduzir copy ou mudar composição.
 
-Tratamentos recorrentes:
-- overlay azul forte;
-- duotone/banho cromático;
-- recorte limpo sobre fundo saturado;
-- colagem editorial para peças humanas e comemorativas;
-- contraste suficiente para o texto permanecer dominante.
+Rodapé ilegível não é aceitável.
 
-Evitar fotografia genérica de banco de imagens quando houver registro real disponível.
+---
 
-## 8. Elementos gráficos recorrentes
+## 5. Fotografia e proteção de texto
 
-Podem ser usados, sem obrigação de aparecer juntos:
-- linhas curvas/ondas finas;
-- conexões e redes abstratas;
-- blocos de marca-texto;
-- faixas retangulares de cor;
-- recortes e colagens;
-- contorno amarelo/verde em objetos;
+Prioridade:
+1. pessoas reais da ACIRV;
+2. associados/empresários;
+3. equipe/parceiros;
+4. eventos e comércio local;
+5. objetos/produtos em pauta técnica.
+
+Tratamentos:
+- overlay azul;
+- duotone;
+- recorte;
+- colagem;
+- foto cheia com área negativa;
+- fundo saturado;
+- gradiente sobre imagem.
+
+### Fundo fotográfico detalhado
+
+Se houver muitos detalhes atrás do texto, usar:
+- caixa de texto;
+- faixa/bloco cromático;
+- overlay forte;
+- gradiente localizado;
+- desfoque seletivo;
+- reposicionamento para área negativa;
+- recorte.
+
+Não colocar texto pequeno diretamente sobre fundo complexo.
+
+---
+
+## 6. Regra de peso das referências
+
+**Quanto maior a peça no moodboard composto, maior o peso dela como referência visual.**
+
+- `PESO 4 — ÂNCORA`: define hierarquia, ritmo, contraste, imagem e sensação geral.
+- `PESO 2 — FORTE`: amplia repertório.
+- `PESO 1 — COMPLEMENTAR`: fornece soluções específicas.
+
+Não fazer média simples entre todas as peças.
+
+---
+
+## 7. Referências âncora — PESO 4
+
+### A. “A força da ACIRV tem nome: O SEU!”
+- foto real com overlay azul;
+- título muito grande;
+- branco + verde-limão;
+- acento laranja;
+- muito respiro;
+- logo separado do título;
+- mensagem humana.
+
+### B. “08 Mar — Dia Internacional da Mulher”
+- azul dominante;
+- título grande;
+- pessoas reais;
+- colagem editorial;
+- acentos verde/laranja;
+- aparência contemporânea.
+
+### C. “Conectar para Crescer”
+- gradientes luminosos;
+- mensagens curtas;
+- palavras-chave em verde/amarelo;
+- linhas curvas discretas;
+- sensação de rede/movimento;
+- CTA secundário.
+
+### D. Dia do Comerciante / comércio local
+- fotografia documental;
+- overlay azul profundo;
+- frases curtas ligadas ao empresário real;
+- marca-texto/blocos coloridos;
+- história acima de ornamentação.
+
+---
+
+## 8. Referências fortes — PESO 2
+
+### Associativismo
+- fundo azul com foto coletiva;
+- título branco + palavra-chave verde;
+- listas curtas;
+- linhas/conexões discretas;
+- sensação de rede e ação coletiva.
+
+### Serviços e benefícios
+- azul-marinho;
+- recortes de objetos/fotos;
+- contornos claros/amarelos;
+- título branco/amarelo/verde;
+- pequenos blocos informativos;
+- CTA compacto.
+
+### SudoExpo
+Fundos laranja, verde, azul-claro e amarelo altamente saturados são válidos como **variação de campanha**, não padrão universal do feed.
+
+---
+
+## 9. Referências complementares — PESO 1
+
+Fundo branco/claro é útil quando:
+- há comparação objetiva;
+- o conteúdo é técnico;
+- o excesso de azul prejudica a leitura;
+- o feed precisa de respiro.
+
+Não transformar o branco no modo dominante.
+
+---
+
+## 10. Padrões recentes validados
+
+### “SudoExpo acabou. E agora?”
+Referência positiva para:
+- hierarquia forte;
+- degradê experimental;
+- azul + laranja;
+- estrutura simples;
+- leitura imediata.
+
+### “Amanhã a casa abre”
+Referência positiva para:
+- foto de evento;
+- overlay/degradê;
+- bloco informativo;
+- boa hierarquia.
+
+Aprendizado: não replicar o microtexto final em tamanho difícil de ler.
+
+---
+
+## 11. Elementos gráficos
+
+Podem ser usados:
+- linhas/ondas;
+- redes e nós;
+- marca-texto;
+- faixas;
+- recortes;
+- colagem;
+- contornos;
 - texturas discretas;
-- pequenos ícones funcionais;
-- gradientes azul → roxo → verde/ciano.
+- ícones funcionais;
+- gradientes.
 
-Não transformar esses elementos em decoração gratuita. Eles devem reforçar conexão, movimento, destaque ou organização.
+Devem organizar, conectar ou enfatizar. Não decorar gratuitamente.
 
-## 9. Composição por formato
+---
 
-### Post de 1 slide
+## 12. Composição por formato
+
+### 1 slide
 - 1 gancho dominante;
 - 1 imagem/ideia central;
-- 1 assinatura/CTA secundário;
-- respiro suficiente para o título ser lido rapidamente.
+- 1 CTA/assinatura secundária;
+- respiro.
 
-### Post extra de 2 slides — IDs 045–060
-**Slide 1 — capa:**
-- gancho curto e forte;
-- solução visual de alto contraste;
-- não antecipar toda a legenda.
-
-**Slide 2 — CTA:**
-- fechar a ideia com uma ação clara;
-- composição ainda mais simples que a capa;
-- não inserir um terceiro bloco de conteúdo apenas para “encher” a arte.
+### 2 slides
+**Capa:** gancho curto, alto contraste, força de peça única.  
+**CTA:** fechamento simples, ação clara, menos densidade que a capa.
 
 ### Carrossel
-- capa com força de peça única;
-- miolo alternando texto, fotografia, listas curtas e respiro;
-- manter um sistema consistente de margens, cores e assinatura;
-- último slide com CTA inequívoco.
+- capa forte;
+- miolo alternando texto, foto, listas e respiro;
+- margens/cores/assinatura consistentes;
+- último slide com CTA claro.
 
-## 10. O que deve permanecer consistente
+---
 
-- predominância do azul;
-- alto contraste;
-- mensagem curta na arte;
-- palavras-chave visualmente destacadas;
-- logo ACIRV com área de respiro;
-- linguagem contemporânea e energética;
-- pessoas e histórias reais quando disponíveis;
-- sensação de conexão, movimento e rede;
-- identidade empresarial sem aparência burocrática.
+## 13. Consistência versus variação
 
-## 11. O que pode variar
+### Deve permanecer
+- reconhecimento ACIRV;
+- azul como âncora;
+- contraste alto;
+- mensagem curta;
+- tipografia forte;
+- logo com respiro;
+- pessoas/histórias reais;
+- conexão, movimento e rede;
+- qualidade institucional;
+- legibilidade mobile.
 
-- uso de fundo branco em peças técnicas;
-- gradiente versus fotografia;
-- colagem versus foto cheia;
-- laranja, verde, amarelo ou ciano como acento principal;
+### Pode variar
+- sólido/foto/degradê/branco;
+- cor de acento;
 - posição do logo;
-- alinhamento central ou assimétrico;
-- quantidade de elementos decorativos;
-- linguagem especial de campanhas/eventos.
+- alinhamento;
+- colagem/foto cheia;
+- densidade de elementos;
+- linguagem de campanha.
 
-A variedade é desejada, desde que a peça continue reconhecível como ACIRV.
+---
 
-## 12. Antipadrões
+## 14. Antipadrões
 
 Não gerar referências que:
 - pareçam template corporativo genérico;
-- usem azul sem contraste ou hierarquia;
+- usem microtexto para informação importante;
+- coloquem texto pequeno sobre fundo detalhado;
 - lotem a lâmina de texto;
-- copiem literalmente uma peça do moodboard;
+- copiem literalmente uma referência;
 - repitam sempre a mesma composição;
-- transformem neon em ruído visual;
-- usem imagens genéricas quando existirem fotos reais;
-- façam a identidade depender de uma única campanha, como SudoExpo;
-- coloquem estética acima da clareza da mensagem.
+- repitam sempre o mesmo degradê;
+- transformem neon/gradiente em ruído;
+- usem todas as cores com mesma intensidade;
+- usem imagens genéricas quando houver fotos reais;
+- coloquem estética acima da clareza.
 
-## 13. Prompt-base para referências visuais
+---
 
-> Crie uma referência visual conceitual para uma publicação da ACIRV usando `ACIRV-MOOD-v1` como direção. Respeite a regra de peso: as referências âncora (PESO 4) devem influenciar mais que as peças menores. Preserve predominância de azul, contraste alto, tipografia sans-serif forte, palavras-chave destacadas, linguagem humana/contemporânea e uso inteligente de verde-limão, amarelo, laranja ou ciano. Adapte a composição ao briefing em vez de copiar uma peça existente. Priorize pessoas/fotografia real quando o tema permitir. A arte deve ser legível rapidamente e conter apenas o texto essencial; a profundidade fica na legenda. Briefing: [INSERIR BRIEFING]. Gere uma única proposta clara para orientar a designer, não uma arte final.
+## 15. Decisão rápida de fundo
 
-## 14. Contrato operacional do Hermes
+1. Curta e gráfica? → **A**.
+2. Profundidade sem nova cor? → **B**.
+3. Movimento/crescimento? → **C**.
+4. Campanha/alto impacto? → **D**.
+5. Foto real forte? → foto tratada.
+6. Fundo detalhado? → proteger texto antes de reduzir fonte.
 
-- Versão ativa: `ACIRV-MOOD-v1`.
+---
+
+## 16. Checklist operacional
+
+- [ ] Título lido imediatamente?
+- [ ] Subtítulo e detalhes legíveis sem zoom?
+- [ ] Fundo pertence a uma família clara?
+- [ ] Foto detalhada tem superfície de leitura?
+- [ ] Azul funciona como âncora?
+- [ ] Acentos têm função?
+- [ ] Sem microtexto?
+- [ ] Logo com respiro?
+- [ ] Varia em relação às peças recentes?
+- [ ] Continua reconhecível como ACIRV?
+- [ ] Estética reforça a mensagem?
+
+---
+
+## 17. Prompt-base
+
+> Crie uma referência visual conceitual para uma publicação da ACIRV usando `ACIRV-MOOD-v1`, projeção operacional do Design System canônico. Respeite a hierarquia de peso das referências. Preserve azul como âncora, contraste alto, tipografia forte, palavras-chave destacadas, linguagem humana e contemporânea e uso intencional de verde-limão, amarelo, laranja ou ciano. Escolha conscientemente entre sólido, degradê monocromático, azul+verde, degradê experimental ou fotografia tratada. Se houver fundo complexo, crie superfície de leitura. Garanta leitura real no celular e evite microtexto. Adapte ao briefing; não copie literalmente uma peça existente.
+
+---
+
+## 18. Contrato operacional do Hermes
+
+- Perfil ativo: `ACIRV-MOOD-v1`.
 - Estado: `READY`.
-- O moodboard deixa de bloquear `REFERENCIA_VISUAL_CRIADA`.
-- Cada referência visual deve registrar qual `post_id` atende.
-- A referência deve ser anexada/vinculada ao card correspondente no Trello quando o fluxo estiver habilitado.
-- O Hermes não deve alterar texto factual, dados, preços, horários ou promessas para “caber” na estética.
-- Se uma pauta pedir linguagem visual incompatível com estas regras, preservar o objetivo da pauta e registrar a exceção em vez de forçar o template.
+- Este arquivo continua sendo o ponto de leitura do fluxo de referência visual.
+- A autoridade visual de longo prazo é o canônico `01-Estrategia-e-Marca/Design-System-ACIRV.md`.
+- Cada referência deve registrar o `post_id`.
+- A referência deve ser vinculada ao card correspondente quando o fluxo Trello estiver habilitado.
+- O Hermes não deve alterar fatos, preços, horários ou promessas para “caber” na estética.
+- Se uma pauta pedir exceção visual, preservar o objetivo, registrar a exceção e não redefinir o sistema silenciosamente.
+- Se a exceção virar padrão recorrente, promover a decisão ao Design System canônico.
+
+---
+
+## 19. Regra de sincronização
+
+Este arquivo não precisa reproduzir componentes web, padrões de tela e tokens que o Hermes não usa para Social Media. Porém, tudo que ele disser sobre:
+
+- cor;
+- tipografia;
+- backgrounds;
+- fotografia;
+- hierarquia;
+- referências;
+- legibilidade;
+- antipadrões;
+
+deve ser semanticamente compatível com o documento canônico.
+
+**Não criar nova regra permanente apenas aqui.**
