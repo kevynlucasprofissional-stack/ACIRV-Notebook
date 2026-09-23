@@ -3,10 +3,10 @@ id: backlog-canonico-acirv
 titulo: Backlog Canônico ACIRV
 tipo: operacao
 status: em_construcao
-versao_conteudo: '0.2'
+versao_conteudo: '0.3'
 idioma: pt-BR
 data_criacao: '2026-09-17'
-ultima_revisao: '2026-09-17'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio_alto
 camadas_evidencia:
   - fato_documentado
@@ -32,7 +32,7 @@ confidencialidade: interno
 - Checkbox marcado como concluído não é usado como prova definitiva do estado atual; é preservado como evidência histórica da própria fonte.
 - A deduplicação desta etapa foi conservadora: apenas equivalências textuais inequívocas foram consolidadas automaticamente.
 - Formulações parecidas, mas não idênticas, foram preservadas separadamente.
-- O Trello não foi consultado nesta etapa.
+- A captura original desta nota não consultou o Trello. Em 23/09/2026, snapshots do SCRUM passaram a estar disponíveis e foram auditados, mas **os 405 itens abaixo ainda não foram reconciliados card a card**.
 - Reuniões, planejamentos narrativos e demais documentos fora deste recorte não foram minerados nesta etapa.
 
 ## Estrutura dos registros
@@ -2822,13 +2822,31 @@ Cada linha registra: descrição normalizada; tipo; área/projeto; fonte princip
 | 2651 | Nós temos que trabalhar mais | decisão com ação | Comunicação e marketing | `Transcrição na integra do discurso do Senador Vanderlan no dia 080526.md` | 11/05/2026 | mai-jun/2026 | 336 | trecho narrativo com intenção operacional | `não_reconciliado` |
 | 2652 | Vamos fazer um acerto que vai ser por obra só, trabalha quantas horas quiser | decisão com ação | Comunicação e marketing | `Transcrição na integra do discurso do Senador Vanderlan no dia 080526.md` | 11/05/2026 | mai-jun/2026 | 392 | trecho narrativo com intenção operacional | `não_reconciliado` |
 | 2653 | uma boa métrica para avaliar automação de marketing não é _“quantas peças a IA produziu?”_ | investigação | Métricas e relatórios | `Uma boa métrica para avaliar automação de marketing.md` |  | residual/sem data | 1 | trecho narrativo com intenção operacional | `não_reconciliado` |
+## SCRUM disponível para reconciliação
+
+O repositório agora contém snapshots do board **ACIRV + VCOM: SCRUM**, com histórico observável até 22/09/2026.
+
+Isso cria uma nova fonte de reconciliação, mas exige semântica cuidadosa:
+
+- listas “Finalizado” representam conclusão por **movimento de lista**, mesmo quando o atributo `closed` do card continua falso;
+- listas de dias da semana preservam cards históricos fechados;
+- “A fazer” também contém cards antigos já fechados;
+- “Repositório GERAL” mistura backlog, ideias, projetos e referências;
+- portanto, `closed = false` não equivale automaticamente a “pendente atual”.
+
+A próxima etapa não deve simplesmente cruzar nomes. Deve reconciliar **identidade da tarefa + lista + estado + data de atividade + histórico disponível**.
+
+Ver [[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]].
+
+Fonte mais recente: `000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (6).json` — blob `4997fef9b93dcd1fd751ac7817bdf09bbf384b89`.
+
 ## Ambiguidades e limites desta etapa
 
 1. **Backlog histórico ≠ backlog atual.** Há itens de 2025 e do primeiro semestre de 2026, inclusive alguns marcados como concluídos nas próprias fontes. Nenhum foi eliminado por idade ou aparente conclusão.
 2. **`backlog_tarefas_de_verdade.md` já era uma síntese derivada dentro da pasta de originais.** Ele aponta para origens como `A fazer`, diários e relatórios. Essas referências foram preservadas no contexto quando explícitas, mas os documentos narrativos citados não foram reabertos nesta etapa.
 3. **Itens vagos foram preservados.** Entradas como "Demanda Vivi", nomes isolados de depoimentos ou pedidos genéricos permanecem porque esta fase privilegia recall sobre limpeza.
 4. **Possíveis duplicatas sem equivalência textual inequívoca foram mantidas separadas.** Exemplos: "criar destaque Depoimentos" versus "Destaque Depoimentos"; "estruturar ideia do vídeo da Mônica" versus "pensar em como fazer o vídeo da Mônica".
-5. **`080626 Próximos passos.md` contém observações históricas sobre Trello**, mas o Trello não foi consultado nesta etapa e nenhum estado atual foi inferido delas.
+5. **`080626 Próximos passos.md` contém observações históricas sobre Trello.** O SCRUM foi consultado posteriormente em 23/09, mas a reconciliação dos 405 registros desta nota ainda permanece pendente.
 6. **`TAREFAS.md` não contém tarefas materializadas**, apenas uma consulta do plugin Tasks.
 7. **`tarefas_esquecidas_a_fazer.md` e `tarefas_esquecidas_dos_diarios.md` estão vazios** na versão atual do repositório.
 8. Esta é apenas a primeira camada de captura. Reuniões, planejamentos, briefings e outras fontes ainda poderão acrescentar ações que nunca chegaram a estes inventários.

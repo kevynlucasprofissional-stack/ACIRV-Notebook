@@ -6,10 +6,10 @@ tipo: processo
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -19,10 +19,12 @@ tags:
 - operacao
 fontes_documentais:
 - '[[Fonte - Reunioes de Junho 2026]]'
+- '000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (6).json'
 notas_relacionadas:
 - '[[Quadro-Operacional-Kanban]]'
 - '[[Calendario-Editorial-e-de-Eventos]]'
 - '[[Registro-de-Decisoes]]'
+- '[[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]]'
 confidencialidade: interno
 subtipo: ritual
 ---
@@ -42,6 +44,18 @@ Calendário de 21 dias, quadro Kanban, eventos ativos, aprovações pendentes, d
 10 min: P0/P1 e datas.  
 10 min: bloqueios, aprovações e capacidade.  
 5 min: decisões, responsáveis e comunicação.
+
+## Evidência de uso real
+
+O export do board **ACIRV + VCOM: SCRUM**, com atividade até 22/09/2026, mostra que o ritual deixou de existir apenas como desenho de processo.
+
+Em várias semanas aparecem cards explícitos como **“Organizar SCRUM”** e **“Reunião de SCRUM”**, além de listas semanais de finalizados desde abril. Isso sustenta que havia uma prática recorrente de organizar a semana, revisar o quadro e preservar memória de execução.
+
+A evidência não prova que a reunião sempre seguiu a agenda de 30 minutos desta nota. Ela prova a existência do ritual e do uso recorrente do board.
+
+Ver [[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]].
+
+> Fonte: `000-Arquivos-originais/SCRUM da ACIRV + Vcom/GDM8ZE3r - acirv-vcom-scrum (6).json` — blob `4997fef9b93dcd1fd751ac7817bdf09bbf384b89`.
 
 ## Saída
 

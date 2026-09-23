@@ -6,10 +6,10 @@ tipo: estrategia
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -26,6 +26,7 @@ notas_relacionadas:
 - '[[Ritual-Semanal-de-Priorizacao]]'
 - '[[Quadro-Operacional-Kanban]]'
 - '[[Gestao-de-Capacidade-e-WIP]]'
+- '[[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]]'
 confidencialidade: interno
 subtipo: metodo_decisao
 ---
@@ -50,6 +51,8 @@ O aprendizado permanente é:
 > **priorização não pode depender apenas de quem cobrou por último; conflito entre solicitantes precisa ser resolvido por um critério visível e compartilhado.**
 
 Ao mudar uma prioridade, registrar qual item perdeu capacidade e por quê.
+
+A trajetória que conecta esse diagnóstico ao SCRUM e à governança posterior está em [[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]].
 
 > Fontes históricas: `000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Documentos/Relatório de métrica Março parte 1 de 2.txt` — blob `5e02622a0af5fe4b4cf81ebef7c31b73ef870beb`; `000-Arquivos-originais/HD-ACIRV/03-Metricas-e-Relatorios/KEVYN-DADOS-ACIRV/Documentos/Relatório de métrica Março parte 2 de 2.txt` — blob `96d0b18ae5f7f8d9259ae11608c252f65d73742b`.
 

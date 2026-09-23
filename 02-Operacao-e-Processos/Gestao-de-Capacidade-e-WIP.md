@@ -9,7 +9,7 @@ versao_schema: '1.0'
 versao_conteudo: '1.3'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-09-23'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -27,6 +27,7 @@ notas_relacionadas:
 - '[[Quadro-Operacional-Kanban]]'
 - '[[Ritual-Semanal-de-Priorizacao]]'
 - '[[Evolucao-da-Operacao-de-Marketing-2026]]'
+- '[[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]]'
 confidencialidade: interno
 subtipo: processo
 ---
@@ -38,7 +39,9 @@ subtipo: processo
 
 ## Sinal observado
 
-O planejamento de junho registra grande variação de volume concluído por semana, de oito a 52 cards, sugerindo mistura de granularidade, sazonalidade e pressão operacional. O número de cards, sozinho, não mede produtividade.
+A série preservada no SCRUM mostra semanas com listas de finalizados variando de **8 a 52 cards** entre abril e setembro. A variação é compatível com mistura de granularidade, sazonalidade e pressão operacional — especialmente no ciclo da SudoExpo. O número de cards, sozinho, **não mede produtividade**.
+
+A leitura longitudinal e seus limites estão em [[Evolucao-do-Sistema-de-Priorizacao-e-Execucao]].
 
 ## Evidência longitudinal do SCRUM
 
