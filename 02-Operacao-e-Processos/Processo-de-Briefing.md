@@ -6,10 +6,10 @@ tipo: processo
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-23'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -20,6 +20,7 @@ tags:
 fontes_documentais:
 - '[[Fonte - Notas Operacionais]]'
 notas_relacionadas:
+- '[[Manual-Canonico-de-Briefing-e-Direcao-Visual-ACIRV]]'
 - '[[Template-Briefing]]'
 - '[[Criterios-de-Priorizacao-de-Marketing]]'
 - '[[Governanca-de-Aprovacoes]]'
@@ -39,6 +40,12 @@ Solicitante; objetivo; público; mensagem principal; entrega; canal; data de pub
 ## Perguntas de diagnóstico
 
 O que precisa mudar no público? O que é fato e qual é a fonte? O que acontece se o prazo não for cumprido? Quem consolida feedback? Qual é a versão final?
+
+## Briefing visual e de produção
+
+Para peças gráficas, social media, campanhas e entregas destinadas à designer ou a geração de referências visuais, usar [[Manual-Canonico-de-Briefing-e-Direcao-Visual-ACIRV]] como padrão completo.
+
+Ele substitui a necessidade de combinar manualmente o processo genérico desta nota com o Design System e com o antigo padrão operacional do Hermes.
 
 ## Critério de pronto
 
