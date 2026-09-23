@@ -6,10 +6,10 @@ tipo: metrica
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-06-18'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-09-22'
 grau_confianca: medio_alto
 tags:
 - metricas
@@ -26,7 +26,27 @@ subtipo: consolidacao
 
 # Métricas Consolidadas por Fonte
 
-> [!summary] Índice de fontes contendo dados quantitativos de métricas da ACIRV.
+> [!summary] Índice de fontes quantitativas e do estado de sua promoção. A lista histórica por regex continua preservada, mas Instagram agora possui fontes estruturadas e bases derivadas rastreáveis.
+
+## Instagram — fontes estruturadas atuais
+
+| Fonte | Grão / período | Estado |
+|---|---|---|
+| `past_instagram_insights/audience_insights.json` | audiência, 10/01–09/04/2026 | curado |
+| `content_interactions.json` | interações, 10/01–09/04/2026 | curado |
+| `profiles_reached.json` | alcance/funil, 10/01–09/04/2026 | curado |
+| `past_instagram_insights/posts.json` | 200 publicações, 22/04/2025–10/04/2026 | normalizado |
+| `instagram_acirvoficial_insights_agosto_2026.xlsx` | 52 publicações, agosto | fonte preservada |
+| `instagram_acirvoficial_insights_agosto_2026_MASTER(1).xlsx` | 52 publicações, agosto | **fonte preferida por publicação** |
+| `instagram_acirvoficial_insights_setembro_2026.xlsx` | 86 publicações, 01–14/09 | curado como parcial |
+
+## Bases derivadas de Instagram
+
+- `85-Bases-e-Consultas/Instagram-Publicacoes-Export-Meta-2025-2026.csv` — 200 linhas;
+- `85-Bases-e-Consultas/Instagram-Publicacoes-2026-08-09.csv` — 138 linhas;
+- [[Perfil-da-Audiencia-Instagram]];
+- [[Diagnostico-Longitudinal-Instagram-2025-2026]];
+- [[Diagnostico-Instagram-Agosto-Setembro-2026]].
 
 ## Fontes de métricas identificadas em Dados ACIRV
 
@@ -55,13 +75,14 @@ subtipo: consolidacao
 
 ## Status da extração
 
-15 fontes de métricas identificadas. Extração automática detectou valores numéricos, mas requer validação humana para contexto e unidade.
+15 fontes legadas continuam inventariadas por regex. Para Instagram, a extração estruturada foi promovida e reconciliada com preservação de grão, período, valor bruto, fonte e SHA. Validação humana continua necessária quando a semântica da própria fonte é ambígua.
 
 ## Relações justificadas
 
 - [[Historico-de-KPIs-Mensais]] — série oficial.
 - [[Qualidade-dos-Dados-de-Marketing]] — avalia confiabilidade.
+- [[Diagnostico-Instagram-Agosto-Setembro-2026]] — documenta a reconciliação atual.
 
 ## Limitações e revisão
 
-Dados extraídos por padrão regex. Valores precisam de contexto (período, unidade, campanha) para uso em decisão.
+A seção legada continua sujeita às limitações da extração por regex. As novas bases de Instagram têm schema explícito, mas ainda exigem leitura de período, unidade, disponibilidade de campo e mudança metodológica antes de comparação.

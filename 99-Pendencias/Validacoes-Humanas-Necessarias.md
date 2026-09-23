@@ -6,7 +6,7 @@ tipo: pendencia
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.4'
+versao_conteudo: '1.5'
 idioma: pt-BR
 data_criacao: '2026-06-17'
 ultima_revisao: '2026-09-22'
@@ -97,20 +97,18 @@ Analisar e documentar:
 
 Não descartar respostas silenciosamente.
 
-## Instagram julho–setembro
+## Instagram — pendências remanescentes
 
-Reconciliar:
+A reconciliação de agosto original × MASTER × setembro foi concluída em 22/09/2026 e está documentada em [[Diagnostico-Instagram-Agosto-Setembro-2026]].
 
-- agosto original;
-- agosto MASTER;
-- setembro;
-- relatório mensal;
-- definição de “Seguidores”;
-- orgânico × promovido;
-- coautoria;
-- recorte pré-feira × feira × pós-feira.
+Permanecem pendentes:
 
-Não atribuir causalidade à SudoExpo apenas pela coincidência temporal.
+- confirmar semanticamente o rótulo mensal **“Seguidores”** usado como 366 em julho e 473 em agosto;
+- obter/fechar dados de **15–30/09/2026** antes de tratar setembro como mês completo;
+- se houver necessidade de análise de mídia paga por publicação em setembro, confirmar a identidade e os campos completos do único post marcado como promovido no controle;
+- revisar futuras capturas porque a plataforma já apresentou quebra de schema em alcance.
+
+A associação temporal entre 09–12/09 e maior volume de visualizações não deve ser convertida em causalidade da SudoExpo.
 
 ## Evento Raphael — 08/10/2026
 

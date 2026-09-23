@@ -6,7 +6,7 @@ tipo: metrica
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
 ultima_revisao: '2026-09-22'
@@ -25,6 +25,7 @@ notas_relacionadas:
 - '[[Dicionario-de-KPIs]]'
 - '[[Qualidade-dos-Dados-de-Marketing]]'
 - '[[Painel-Executivo]]'
+- '[[Diagnostico-Instagram-Agosto-Setembro-2026]]'
 confidencialidade: interno
 subtipo: serie_indicador
 ---
@@ -72,34 +73,32 @@ subtipo: serie_indicador
 
 Agosto teve **mais que o dobro de visualizações de julho**, mas **menos interações**. Isso impede uma leitura simplista de “mais alcance = melhor desempenho em tudo”.
 
-Hipóteses a investigar nas planilhas de Insights:
+A reconciliação por publicação esclarece parte do salto de agosto: no MASTER, 10 dos 52 posts foram promovidos e concentraram 93,4% das visualizações somadas nas linhas. Ao mesmo tempo, os 42 posts não promovidos concentraram 85,5% das interações e 83,3% dos seguidores atribuídos no arquivo.
 
-- maior distribuição de conteúdos com consumo passivo;
-- peso de mídia promovida;
-- diferença entre formatos;
-- efeito de coautorias;
-- concentração de visualizações em poucos posts;
-- mudança na origem das visualizações;
-- participação do período pré-SudoExpo no total de agosto.
+Isso é evidência descritiva do conjunto, não prova causal. O total mensal da conta continua distinto da soma das publicações.
 
-Essas hipóteses não são resultados até serem testadas.
+## Reconciliação do grão de agosto
+
+O MASTER auditado de agosto soma **1.912.836 visualizações** e **4.629 interações** nas 52 publicações. O relatório mensal registra **3.340.052 visualizações** e **6.103 interações**.
+
+A diferença é preservada porque as fontes têm grãos diferentes. O MASTER é referência por publicação; o relatório mensal é referência para o agregado da conta. Não substituir nem somar os dois.
 
 ## Contexto operacional
 
 O mesmo relatório mensal registra aumento de **4 para 12 eventos** e de **8 para 10 reuniões** entre julho e agosto, além de três eventos ACIRV em agosto. Esse aumento de intensidade operacional pode ser usado como contexto, mas não prova causalidade sobre o desempenho do Instagram.
 
-## Regra para setembro/SudoExpo
+## Estado de setembro/SudoExpo
 
-As planilhas de setembro devem ser analisadas separando:
+A fonte disponível de setembro cobre **01–14/09/2026**, portanto ainda não fecha o mês. Ela contém 86 posts, 445.217 visualizações e 17.172 interações no próprio resumo do workbook.
 
-- pré-feira;
-- 09–12/09;
-- pós-feira;
-- orgânico × promovido quando disponível;
-- publicação × dia;
-- coautoria quando disponível.
+O painel de setembro também mudou de schema e deixou de expor “Alcance/Contas alcançadas” de forma equivalente. Por isso:
 
-Qualquer efeito atribuído à SudoExpo precisa ser apresentado como associação temporal, salvo desenho causal adicional.
+- não adicionar setembro como mês fechado nesta série;
+- não fabricar alcance para manter continuidade;
+- manter pré-feira, 09–12/09 e pós-feira como recortes analíticos;
+- tratar qualquer “efeito SudoExpo” como associação temporal.
+
+Ver [[Diagnostico-Instagram-Agosto-Setembro-2026]].
 
 ## Limitações
 
@@ -107,7 +106,9 @@ Qualquer efeito atribuído à SudoExpo precisa ser apresentado como associação
 - a série mistura fontes mensais e janelas de plataforma;
 - “ganhos” e “seguidores” podem ter semântica diferente por fonte;
 - totais mensais não explicam distribuição por publicação;
-- o salto de abril/maio e o novo salto de agosto exigem reconciliação de metodologia.
+- o salto de abril/maio exige revisão histórica de método;
+- agosto já foi reconciliado no grão por publicação, mas não é semanticamente igual ao total da conta;
+- setembro disponível é parcial (01–14/09) e apresenta quebra de schema.
 
 ## Uso
 
@@ -129,8 +130,11 @@ Antes de atualizar:
 ## Fontes e rastreabilidade
 
 - `000-Arquivos-originais/Relatório de Agosto.md` — blob atual `8a148b35af2b2990f99b4690ae707032c9db7da6`.
+- `.../instagram_acirvoficial_insights_agosto_2026_MASTER(1).xlsx` — blob `ccc1d627be0468abb41c650b18974161b6f741b1`.
+- `.../instagram_acirvoficial_insights_setembro_2026.xlsx` — blob `993eb1eaab95589148903864c883937571951848`.
+- [[Diagnostico-Instagram-Agosto-Setembro-2026]].
 - [[Fonte - Dados Marketing]] — série histórica anterior.
 
 ## Limitações e revisão
 
-A próxima revisão deve reconciliar as planilhas de Insights de agosto e setembro com o relatório mensal antes de fechar definições de “seguidores”, orgânico/promovido e atribuição do pico de visualizações.
+A reconciliação por publicação de agosto foi concluída. Permanecem pendentes a semântica exata do rótulo mensal “Seguidores” (366/473) e o fechamento completo de setembro após 30/09.
