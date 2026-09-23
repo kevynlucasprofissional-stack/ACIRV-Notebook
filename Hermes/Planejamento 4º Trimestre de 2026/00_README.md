@@ -59,7 +59,8 @@ Existe uma duplicidade arquivada conhecida do post 005; o mapa indica qual card 
 - **Padrão Trello:** `03-integracoes/PADRAO_DESCRICAO_CARTOES_TRELLO.md`.
 - **Mapa do lote piloto:** `03-integracoes/LOTE_PILOTO_TRELLO_SYNC.md`.
 - **Reconciliação histórica:** `03-integracoes/RECONCILIACAO_TRELLO_INICIAL.md`.
-- **Moodboard:** `04-moodboard/MOODBOARD.md` — `ACIRV-MOOD-v1`, status `READY`.
+- **Autoridade visual canônica:** `../../01-Estrategia-e-Marca/Design-System-ACIRV.md` — fonte principal para identidade visual e sistema de design.
+- **Projeção operacional visual:** `04-moodboard/MOODBOARD.md` — perfil `ACIRV-MOOD-v1`, status `READY`, semanticamente sincronizado ao canônico.
 - **Auditoria:** `05-auditoria/`.
 
 ## Ordem de leitura do Hermes
@@ -74,7 +75,7 @@ Existe uma duplicidade arquivada conhecida do post 005; o mapa indica qual card 
 8. `02-estado/execution_state_v2.json`
 9. `03-integracoes/trello_destination.json`
 10. `03-integracoes/PADRAO_DESCRICAO_CARTOES_TRELLO.md`
-11. `04-moodboard/MOODBOARD.md`.
+11. `04-moodboard/MOODBOARD.md` — projeção operacional; em caso de dúvida semântica, prevalece `../../01-Estrategia-e-Marca/Design-System-ACIRV.md`.
 
 ## Invariantes
 
@@ -86,6 +87,6 @@ Existe uma duplicidade arquivada conhecida do post 005; o mapa indica qual card 
 - O Hermes não reescreve briefings fechados.
 - IDs 045–060 permanecem com exatamente 2 slides.
 - Dados voláteis não são inventados.
-- Toda referência visual usa `ACIRV-MOOD-v1`.
+- Toda referência visual usa `ACIRV-MOOD-v1` a partir de `04-moodboard/MOODBOARD.md`, sem contradizer `../../01-Estrategia-e-Marca/Design-System-ACIRV.md`.
 - O Hermes persiste estado imediatamente após cada mutação externa.
 - Não avançar para posts posteriores a 05/10 enquanto eles não tiverem briefing canônico fechado.
