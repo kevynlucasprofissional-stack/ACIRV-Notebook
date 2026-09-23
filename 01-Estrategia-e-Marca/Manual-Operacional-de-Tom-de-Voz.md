@@ -19,7 +19,7 @@ tags:
 - linguagem
 fontes_documentais:
 - '[[Fonte - Manual de Tom de Voz]]'
-- '000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Como melhorar o novo tom de voz da ACIRV.md'
+- '000-Arquivos-originais/Como melhorar o novo tom de voz da ACIRV.md'
 - '000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Dados sobre o novo tom de voz e planejamento de 2026.md'
 notas_relacionadas:
 - '[[Processo-de-Briefing]]'
@@ -65,7 +65,21 @@ Uma nota de evolução do manual, marcada como concluída em março de 2026, exp
 
 Essas regras não significam proibição absoluta de uma palavra ou sinal gráfico. Funcionam como **alertas contra automatismos de estilo**.
 
-> Fonte: `000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Como melhorar o novo tom de voz da ACIRV.md` — blob `fb479d390643b78375bf91e8b78822274afd6fd6`.
+> Fonte principal mais completa: `000-Arquivos-originais/Como melhorar o novo tom de voz da ACIRV.md` — blob `bb05f3bd177b87f4eb516e67d48f08e0a4a72c9e`. A cópia recuperada do HD (`fb479d39...`) é uma versão anterior.
+
+## Evolução ainda não concluída
+
+A versão mais recente da nota de melhoria (27/05/2026) também registra itens **ainda abertos**, que não devem ser misturados com as regras já consolidadas:
+
+- tornar o gancho inicial mais objetivo e persuasivo;
+- revisar a combinação de playbooks de persuasão;
+- fazer a futura V6 combinar fluidez da V4.5 com escaneabilidade/lógica de lema da V5;
+- reduzir legendas quando a postagem já é autoexplicativa;
+- proposta de reduzir a meta de caracteres de 600 para 450.
+
+Esses itens descrevem direção de evolução da **V6**, não regra vigente automaticamente. Isso é coerente com a validação humana de 17/09: V4.5 e V5 estão em uso; V6 permanece visão futura.
+
+A mesma fonte registra como concluída a intenção de inserir **#ConectarParaCrescer** de forma menos forçada e mais natural.
 
 ## Teste de voz
 
@@ -86,7 +100,7 @@ As versões **V4.5** e **V5** são as referências operacionais vigentes em uso 
 ## Fontes e rastreabilidade
 
 - [[Fonte - Manual de Tom de Voz]]
-- `000-Arquivos-originais/HD-ACIRV/13-Documentos-Institucionais/KEVYN-DADOS-ACIRV/Notas/Como melhorar o novo tom de voz da ACIRV.md` — blob `fb479d390643b78375bf91e8b78822274afd6fd6`.
+- `000-Arquivos-originais/Como melhorar o novo tom de voz da ACIRV.md` — blob `bb05f3bd177b87f4eb516e67d48f08e0a4a72c9e`.
 - `000-Arquivos-originais/HD-ACIRV/09-Planejamentos/KEVYN-DADOS-ACIRV/Notas/Dados sobre o novo tom de voz e planejamento de 2026.md` — blob `bca5a88494e3b1ab5da69b857a37d343558badf2`.
 
 ## Limitações e revisão
