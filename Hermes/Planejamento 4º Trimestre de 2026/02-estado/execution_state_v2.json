@@ -2,7 +2,7 @@
   "schema_version": "2.2",
   "version": "2026-Q4-social-v2.2.0",
   "active_plan": "../01-planejamento/v2/README.md",
-  "status": "PILOT_BRIEFINGS_READY_TRELLO_SYNC_PENDING",
+  "status": "PILOT_TRELLO_DESCRIPTIONS_AND_DUE_SYNCED",
   "counters": {
     "planned_total": 60,
     "original_posts": 44,
@@ -12,7 +12,8 @@
     "pilot_briefings_production_ready": 12,
     "pilot_trello_cards_canonical": 12,
     "pilot_duplicate_cards_archived": 1,
-    "pilot_trello_descriptions_synced_v2_2": 0,
+    "pilot_trello_descriptions_synced_v2_2": 12,
+    "pilot_trello_native_due_set": 8,
     "visual_references_created": 0,
     "completed": 0
   },
@@ -54,7 +55,7 @@
     "briefings_ready": 12,
     "canonical_cards_present": 12,
     "remaining_cards_to_create": 0,
-    "remaining_descriptions_to_sync": 12,
+    "remaining_descriptions_to_sync": 0,
     "future_posts_blocked_until_editorial_briefing": true,
     "post_ids": [
       "ACIRV-SM-2026-001",
@@ -79,12 +80,12 @@
       "copy_complete": true,
       "visual_direction_complete": true,
       "asset_pending": "QR Code/link definitivo do formulário",
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaadd7ab17c112faab2ffad",
         "card_url": "https://trello.com/c/SUXu5o63",
         "list_id": "69370019555b10bb6ad19e30",
-        "native_due": null,
+        "native_due": "2026-09-16T05:06:00.000Z",
         "publication_date_custom_field": {
           "id": "622e83228d717e4a16d7896d",
           "value": "2026-09-16T15:00:00.000Z"
@@ -97,11 +98,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae33bc6b94da53dd48656",
         "card_url": "https://trello.com/c/YgUcrpAM",
-        "native_due": null
+        "native_due": "2026-09-17T05:06:00.000Z"
       }
     },
     "ACIRV-SM-2026-002": {
@@ -110,11 +111,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae36664ae41c101f1cbd9",
         "card_url": "https://trello.com/c/vQA88NJ0",
-        "native_due": null
+        "native_due": "2026-09-18T05:06:00.000Z"
       }
     },
     "ACIRV-SM-2026-003": {
@@ -123,11 +124,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae36960696fadef29705f",
         "card_url": "https://trello.com/c/IaKmvPz7",
-        "native_due": null
+        "native_due": "2026-09-21T18:00:00.000Z"
       }
     },
     "ACIRV-SM-2026-004": {
@@ -136,11 +137,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae36cd20909f93b51ae3a",
         "card_url": "https://trello.com/c/b5DCNeqw",
-        "native_due": null
+        "native_due": "2026-09-18T17:00:00.000Z"
       }
     },
     "ACIRV-SM-2026-046": {
@@ -149,11 +150,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae36f466385ab176fdd97",
         "card_url": "https://trello.com/c/hVRma9lN",
-        "native_due": null
+        "native_due": "2026-09-22T05:07:00.000Z"
       }
     },
     "ACIRV-SM-2026-005": {
@@ -162,11 +163,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae372ed3904fb709c751b",
         "card_url": "https://trello.com/c/8K8TPekj",
-        "native_due": null
+        "native_due": "2026-09-22T04:09:00.000Z"
       },
       "known_duplicate": {
         "card_object_id": "6aaae37bd2bf0a8c4ef4edad",
@@ -181,11 +182,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae37e1cd356158b810378",
         "card_url": "https://trello.com/c/UvcwnAFK",
-        "native_due": null
+        "native_due": "2026-09-23T04:10:00.000Z"
       }
     },
     "ACIRV-SM-2026-007": {
@@ -194,11 +195,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae381f06b16b952801039",
         "card_url": "https://trello.com/c/6PVVFLwt",
-        "native_due": null
+        "native_due": "2026-09-25T04:10:00.000Z"
       }
     },
     "ACIRV-SM-2026-008": {
@@ -207,11 +208,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae3cb1eb71dc68df8bb2f",
         "card_url": "https://trello.com/c/i4MUHERX",
-        "native_due": null
+        "native_due": "2026-09-28T04:10:00.000Z"
       }
     },
     "ACIRV-SM-2026-047": {
@@ -220,11 +221,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae3cd864963c0e5965586",
         "card_url": "https://trello.com/c/01E2Oicn",
-        "native_due": null
+        "native_due": "2026-09-30T04:10:00.000Z"
       }
     },
     "ACIRV-SM-2026-009": {
@@ -233,11 +234,11 @@
       "editorial_status": "PRODUÇÃO_PRONTA",
       "copy_complete": true,
       "visual_direction_complete": true,
-      "trello_description_synced": false,
+      "trello_description_synced": true,
       "trello": {
         "card_object_id": "6aaae3cfe012d4bd9e1c2435",
         "card_url": "https://trello.com/c/1B3pbnDG",
-        "native_due": null
+        "native_due": "2026-09-28T05:05:00.000Z"
       }
     }
   },
@@ -252,7 +253,20 @@
   "local_work_checkpoint": {
     "note": "Scripts e payloads criados localmente em sessão anterior podem conter o modelo antigo de briefing. Não usar esses payloads como fonte editorial. A fonte canônica agora são os blocos DESCRIÇÃO CANÔNICA PARA O TRELLO dos arquivos mensais no GitHub. Preservar arquivos locais não commitados, mas não deixar que sobrescrevam o planejamento v2.2."
   },
-  "resume_rule": "Ao retomar, não criar cards do lote piloto. Validar board/list, abrir LOTE_PILOTO_TRELLO_SYNC.md, e para cada um dos 12 cards copiar integralmente a DESCRIÇÃO CANÔNICA PARA O TRELLO do arquivo mensal, salvar, verificar persistência e registrar trello_description_synced=true. Não reescrever copy. Parar em 05/10.",
+  "trello_sync_run": {
+    "date": "2026-09-24",
+    "descriptions_verified": 12,
+    "descriptions_mismatch": 0,
+    "verification_method": "sha256 do texto normalizado (sem espacos e sem escapes de markdown do Trello) comparado ao bloco DESCRICAO CANONICA PARA O TRELLO",
+    "native_due_scope_rule": "somente cards com PUBLICACAO >= 2026-09-23 (decisao do usuario)",
+    "native_due_scope_posts": ["ACIRV-SM-2026-004", "ACIRV-SM-2026-046", "ACIRV-SM-2026-005", "ACIRV-SM-2026-006", "ACIRV-SM-2026-007", "ACIRV-SM-2026-008", "ACIRV-SM-2026-047", "ACIRV-SM-2026-009"],
+    "native_due_set": 8,
+    "native_due_source": "DATA DE ENTREGA PARA SAMARA de cada bloco canonico",
+    "out_of_scope_completed_posts": ["ACIRV-SM-2026-001", "ACIRV-SM-2026-045", "ACIRV-SM-2026-002", "ACIRV-SM-2026-003"],
+    "out_of_scope_note": "Cards concluidos (dueComplete=true) nao foram alterados; seus native_due registram o valor existente no Trello (data de publicacao), nao a data de entrega.",
+    "write_path": "UI nativa do Trello (API PUT responde 403 CSRF); verificacao por GET autenticado fields=desc,due"
+  },
+  "resume_rule": "Ao retomar, nao criar cards do lote piloto. Descricoes dos 12 cards do lote piloto sincronizadas e verificadas em 2026-09-24 (hash normalizado identico ao canonico). Vencimento nativo (due) definido nos 8 cards com PUBLICACAO >= 23/09, igual a DATA DE ENTREGA PARA SAMARA: 004=18/09, 046=22/09, 005=22/09, 006=23/09, 007=25/09, 008=28/09, 047=30/09, 009=28/09. Cards 001/045/002/003 estao concluidos (dueComplete) e fora do escopo: nao alterar. Nao reescrever copy. Parar em 05/10.",
   "checkpoint_source": "Trello export fornecido pelo usuário em 2026-09-16 + planejamento editorial v2.2 fechado no GitHub.",
-  "updated_at": "2026-09-16T17:29:00-03:00"
+  "updated_at": "2026-09-24T01:12:49-0300"
 }
