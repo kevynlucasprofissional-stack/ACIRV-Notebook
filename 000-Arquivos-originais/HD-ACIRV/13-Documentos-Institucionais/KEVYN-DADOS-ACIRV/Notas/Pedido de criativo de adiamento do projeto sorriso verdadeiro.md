@@ -1,0 +1,9 @@
+---
+Modificado:
+  - sexta-feira 346 12/12/2025
+Criado: sexta-feira 346 12/12/2025
+---
+Vivi, tudo bem amiga? Deixa eu te falar, eu já tô avisando aqui no individual os parceiros, mas a ação desse domingo do Sorriso Verdadeiro realmente foi odiada. A gente conversou com o professor Gilmar e ele confirmou que vai ter chuva, bastante chuva, chuva forte. Então pra evitar, né, não ter público, o nosso medo é público, principalmente põe em risco as pessoas ali, né. A gente decidiu odiar por outro dia 21. O que nós estamos fazendo? No Sorriso Verdadeiro nós estamos colocando como se fosse uma tag bem grande, eu vi até alguns eventos esses dias foram adiados, que o pessoal fez assim, colocando que foi adiado por causa de previsão de temporal de chuva. A minha sugestão é que naquela publicação da CIRV, a gente arquiva aquela e coloca um outro também dizendo que foi adiado, já colocando a data que vai acontecer, sabe? Data local. Então, vai ser do próximo domingo 21, às 13 horas e não 15, no ginásio. Eu vou te mandar as informações todinha, mas se você quiser pedir sua turma para ir adiantando a arte, depois eu vou colocar no grupo da diretoria também, informando que já foi adiado e tudo mais, e os motivos.
+
+
+Kevin o projeto Sorriso Verdadeiro estava marcado para quatro projetos para quatro dia 14 agora domingo foi adiado aí o áudio da Uene explicando os motivos já organiza esse esse card aí. E tá de adiado assim destaque aí eu tô esperando ela me passar o novo endereço e a data, mas a data ela falei também, dia 21, se não me engano, né? Tá, mas já solicita esse briefing já pro designer, pra ele já ir pensando nisso.

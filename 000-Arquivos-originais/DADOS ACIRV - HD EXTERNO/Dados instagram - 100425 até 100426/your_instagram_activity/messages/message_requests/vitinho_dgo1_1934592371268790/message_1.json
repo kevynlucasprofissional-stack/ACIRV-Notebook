@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "vitinho_dgo1"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "vitinho_dgo1",
+      "timestamp_ms": 1772840957191,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3783952902763983655"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "vitinho_dgo1",
+  "is_still_participant": true,
+  "thread_path": "message_requests/vitinho_dgo1_1934592371268790",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Fabio Trancolin Duarte"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabio Trancolin Duarte",
+      "timestamp_ms": 1772654193362,
+      "content": "Fabio enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabio Trancolin Duarte",
+      "timestamp_ms": 1766497893523,
+      "content": "\u00f0\u009f\u00a4\u009c\u00f0\u009f\u008f\u00bb\u00e2\u009c\u00a8\u00f0\u009f\u00a4\u009b\u00f0\u009f\u008f\u00bb",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3793972449306828520"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1766496786191,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3793972449306828520"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fabio Trancolin Duarte",
+  "is_still_participant": true,
+  "thread_path": "inbox/fabiotrancolinduarte_573264527401588",
+  "magic_words": [
+    
+  ]
+}

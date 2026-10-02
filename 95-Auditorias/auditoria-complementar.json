@@ -1,0 +1,199 @@
+{
+  "data": "2026-06-17",
+  "metodo": "verificação complementar estática; originais brutos excluídos do parse de Markdown",
+  "metricas": {
+    "notas_markdown_auditadas": 132,
+    "tipos_de_nota": 17,
+    "palavras_total": 19526,
+    "palavras_mediana": 141.5,
+    "palavras_min": 63,
+    "palavras_max": 307,
+    "bases": 4,
+    "canvas": 3,
+    "json_configuracao": 4,
+    "fontes_recebidas": 391,
+    "grupos_duplicados_fonte": 4,
+    "arquivos_vazios_fonte": 1,
+    "pdfs_inspecionados": 18,
+    "pacotes_zip_inspecionados": 14,
+    "linhas_inventario": 554
+  },
+  "notas_por_tipo": {
+    "auditoria": 3,
+    "canal": 13,
+    "consulta": 2,
+    "documentacao": 5,
+    "estrategia": 8,
+    "fonte": 15,
+    "infraestrutura": 8,
+    "metrica": 9,
+    "moc": 8,
+    "operacao": 4,
+    "pendencia": 4,
+    "processo": 12,
+    "projeto": 15,
+    "reuniao": 5,
+    "stakeholder": 9,
+    "template": 8,
+    "trilha": 4
+  },
+  "achados": {
+    "schema_erros": [],
+    "ids_duplicados": {},
+    "links_frontmatter_erros": [],
+    "bases_erros": [],
+    "json_canvas_erros": [],
+    "bpmn_erros": [],
+    "segredos_em_notas_curadas": [],
+    "duplicatas_exatas_de_corpo": [],
+    "notas_abaixo_120_palavras": [
+      {
+        "arquivo": "03-Projetos-Campanhas-e-Eventos/Congresso-Regional-da-Empreendedora-Mulher.md",
+        "palavras": 113
+      },
+      {
+        "arquivo": "06-Pessoas-e-Stakeholders/Diretoria-e-Presidencia.md",
+        "palavras": 103
+      },
+      {
+        "arquivo": "06-Pessoas-e-Stakeholders/FACIEG-e-Rede-Associativa.md",
+        "palavras": 110
+      },
+      {
+        "arquivo": "06-Pessoas-e-Stakeholders/Janaine-Gerencia.md",
+        "palavras": 98
+      },
+      {
+        "arquivo": "06-Pessoas-e-Stakeholders/Jose-Carlos-Cintra.md",
+        "palavras": 117
+      },
+      {
+        "arquivo": "06-Pessoas-e-Stakeholders/Raphael-Valongo.md",
+        "palavras": 107
+      },
+      {
+        "arquivo": "06-Pessoas-e-Stakeholders/VCOM.md",
+        "palavras": 100
+      },
+      {
+        "arquivo": "06-Pessoas-e-Stakeholders/Vivianne-VCOM.md",
+        "palavras": 113
+      },
+      {
+        "arquivo": "07-Reunioes-e-Decisoes/Organizacao-SudoExpo-09-06-2026.md",
+        "palavras": 115
+      },
+      {
+        "arquivo": "08-Agenda-e-Execucao/Checklist-de-Publicacao.md",
+        "palavras": 107
+      },
+      {
+        "arquivo": "80-MOCs-e-Trilhas/MOC-Conteudo-e-Canais.md",
+        "palavras": 101
+      },
+      {
+        "arquivo": "80-MOCs-e-Trilhas/MOC-Estrategia-e-Marca.md",
+        "palavras": 92
+      },
+      {
+        "arquivo": "80-MOCs-e-Trilhas/MOC-Metricas-e-Decisao.md",
+        "palavras": 103
+      },
+      {
+        "arquivo": "80-MOCs-e-Trilhas/MOC-Operacao-e-Processos.md",
+        "palavras": 116
+      },
+      {
+        "arquivo": "80-MOCs-e-Trilhas/MOC-Pessoas-e-Stakeholders.md",
+        "palavras": 89
+      },
+      {
+        "arquivo": "80-MOCs-e-Trilhas/MOC-Projetos-e-Eventos.md",
+        "palavras": 110
+      },
+      {
+        "arquivo": "80-MOCs-e-Trilhas/Trilha-de-Campanha.md",
+        "palavras": 107
+      },
+      {
+        "arquivo": "80-MOCs-e-Trilhas/Trilha-de-Evento.md",
+        "palavras": 105
+      },
+      {
+        "arquivo": "80-MOCs-e-Trilhas/Trilha-de-Fechamento-Mensal.md",
+        "palavras": 105
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Briefing do projeto.md",
+        "palavras": 102
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Conversas WhatsApp.md",
+        "palavras": 119
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Diagnostico de Stakeholders.md",
+        "palavras": 64
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Fluxo Macro de Eventos.md",
+        "palavras": 97
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Manual de Tom de Voz.md",
+        "palavras": 97
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Notas Operacionais.md",
+        "palavras": 102
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Planejamento Estrategico 2026.md",
+        "palavras": 76
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Playbook Cafe Entre Amigos.md",
+        "palavras": 63
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Playbook de Releases.md",
+        "palavras": 66
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Relatorios Mensais de Marketing.md",
+        "palavras": 89
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Relatorios de Trafego Pago.md",
+        "palavras": 76
+      },
+      {
+        "arquivo": "97-Fontes-Brutas/01-Indices/Fonte - Reunioes de Junho 2026.md",
+        "palavras": 97
+      }
+    ],
+    "pacotes_com_erro": [],
+    "copias_nao_identicas": [],
+    "pdfs_com_erro": [],
+    "tipos_fora_vocabulario": []
+  },
+  "vocabulario_tipos": [
+    "auditoria",
+    "canal",
+    "consulta",
+    "documentacao",
+    "estrategia",
+    "fonte",
+    "infraestrutura",
+    "metrica",
+    "moc",
+    "operacao",
+    "pendencia",
+    "processo",
+    "projeto",
+    "reuniao",
+    "stakeholder",
+    "template",
+    "trilha"
+  ]
+}

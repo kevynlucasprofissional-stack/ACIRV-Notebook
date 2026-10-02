@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Dardane Cabral | Fot\u00c3\u00b3grafa"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dardane Cabral | Fot\u00c3\u00b3grafa",
+      "timestamp_ms": 1774563292622,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774562371639,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dardane Cabral | Fot\u00c3\u00b3grafa"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861631465826440337"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774561644351,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861625215659224952"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dardane Cabral | Fot\u00c3\u00b3grafa",
+      "timestamp_ms": 1774558820656,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dardane Cabral | Fot\u00c3\u00b3grafa",
+      "timestamp_ms": 1764907590295,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dardane Cabral | Fot\u00c3\u00b3grafa",
+      "timestamp_ms": 1764877684351,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dardane Cabral | Fot\u00c3\u00b3grafa",
+  "is_still_participant": true,
+  "thread_path": "inbox/dardanecabralfotografa_1853700472691314",
+  "magic_words": [
+    
+  ]
+}

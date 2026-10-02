@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Dr. Frederico Bernardes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dr. Frederico Bernardes",
+      "timestamp_ms": 1753439953254,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1753410520504,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dr. Frederico Bernardes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3684196898827505365"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dr. Frederico Bernardes",
+      "timestamp_ms": 1753387305703,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dr. Frederico Bernardes",
+  "is_still_participant": true,
+  "thread_path": "inbox/drfredericobernardes_1732054851522544",
+  "magic_words": [
+    
+  ]
+}

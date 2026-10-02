@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"n1","type":"file","file":"02-Operacao-e-Processos/Processo-de-Briefing.md","x":0,"y":80,"width":340,"height":240},
+		{"id":"n2","type":"file","file":"02-Operacao-e-Processos/Fluxo-Macro-de-Eventos.md","x":440,"y":80,"width":340,"height":240},
+		{"id":"n3","type":"file","file":"02-Operacao-e-Processos/RACI-de-Eventos.md","x":880,"y":-100,"width":340,"height":240},
+		{"id":"n4","type":"file","file":"02-Operacao-e-Processos/Checklist-de-Evento.md","x":880,"y":260,"width":340,"height":240},
+		{"id":"n5","type":"file","file":"02-Operacao-e-Processos/Processo-de-Release.md","x":1320,"y":-100,"width":340,"height":240},
+		{"id":"n6","type":"file","file":"04-Conteudo-Canais-e-Imprensa/Regulamento-de-Captura-e-Postagem.md","x":1320,"y":260,"width":340,"height":240},
+		{"id":"n7","type":"file","file":"05-Metricas-e-Decisao/Registro-de-Decisoes.md","x":1760,"y":80,"width":340,"height":240},
+		{"id":"t1","type":"text","text":"Canvas operacional; as arestas são relações, não prova causal.","x":500,"y":-320,"width":850,"height":100}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"n1","toNode":"n2","fromSide":"right","toSide":"left","label":"inicia"},
+		{"id":"e2","fromNode":"n2","toNode":"n3","fromSide":"right","toSide":"left","label":"atribui"},
+		{"id":"e3","fromNode":"n2","toNode":"n4","fromSide":"right","toSide":"left","label":"operacionaliza"},
+		{"id":"e4","fromNode":"n3","toNode":"n5","fromSide":"right","toSide":"left","label":"define responsáveis"},
+		{"id":"e5","fromNode":"n4","toNode":"n6","fromSide":"right","toSide":"left","label":"inclui cobertura"},
+		{"id":"e6","fromNode":"n5","toNode":"n7","fromSide":"right","toSide":"left","label":"registra resultado"},
+		{"id":"e7","fromNode":"n6","toNode":"n7","fromSide":"right","toSide":"left","label":"documenta"}
+	]
+}

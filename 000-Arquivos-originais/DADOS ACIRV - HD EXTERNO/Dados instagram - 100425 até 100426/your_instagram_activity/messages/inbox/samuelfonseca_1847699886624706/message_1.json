@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Samuel Fonseca"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Samuel Fonseca",
+      "timestamp_ms": 1764247019314,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Samuel Fonseca",
+  "is_still_participant": true,
+  "thread_path": "inbox/samuelfonseca_1847699886624706",
+  "magic_words": [
+    
+  ]
+}

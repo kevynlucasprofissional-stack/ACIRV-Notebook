@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Giceli Rech"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Giceli Rech",
+      "timestamp_ms": 1758229150307,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758204920199,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758201098959,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3724383190715799640"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758201082485,
+      "content": "Agradecemos a presen\u00c3\u00a7a e te esperamos na pr\u00c3\u00b3xima! \u00e2\u0098\u0095\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Giceli Rech"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758199806394,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758196043876,
+      "content": "Oi! Sou o Rioverdense, o assistente da ACIRV. Como posso te ajudar hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giceli Rech",
+      "timestamp_ms": 1758195974047,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Giceli Rech",
+  "is_still_participant": true,
+  "thread_path": "inbox/gicelirech_1779444313457982",
+  "magic_words": [
+    
+  ]
+}

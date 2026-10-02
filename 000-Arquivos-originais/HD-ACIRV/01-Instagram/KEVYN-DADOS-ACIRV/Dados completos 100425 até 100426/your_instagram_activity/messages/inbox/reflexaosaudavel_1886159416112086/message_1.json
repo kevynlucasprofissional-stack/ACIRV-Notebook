@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Reflex\u00c3\u00a3o saud\u00c3\u00a1vel"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768328703628,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3809339526452510863"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Reflex\u00c3\u00a3o saud\u00c3\u00a1vel",
+      "timestamp_ms": 1768258863776,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Reflex\u00c3\u00a3o saud\u00c3\u00a1vel",
+  "is_still_participant": true,
+  "thread_path": "inbox/reflexaosaudavel_1886159416112086",
+  "magic_words": [
+    
+  ]
+}

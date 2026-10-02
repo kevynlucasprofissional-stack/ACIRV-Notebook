@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Marcos Arias"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764277397192,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3775354695503227387"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764157418658,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DRhLIILDeBP/?id=3774346899756015695_6027695835",
+        "share_text": "Nesta quinta-feira (27/11) as 10h da manh\u00c3\u00a3 teremos na ACIRV a presen\u00c3\u00a7a do ilustre Marcos Arias.\n\nEvento 100% gratuito onde voc\u00c3\u00aa ir\u00c3\u00a1 sair sabendo qual o caminho mais curto para sua loja vender online.\n\n#acirveventos #acirv",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764014652699,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcos Arias",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcosarias_1845489460179082",
+  "magic_words": [
+    
+  ]
+}

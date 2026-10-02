@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Rio Verde Agora"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772126088497,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/rioverdeagora_1927555661972461/videos/1138590474958134.mp4",
+          "creation_timestamp": 1772126071
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772126085658,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DVOpUjCDUqa/?carousel_share_child_media_id=3841188774319854104_6027695835",
+        "share_text": "",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772126057587,
+      "content": "Tenho uma sugest\u00c3\u00a3o de pauta para voc\u00c3\u00aas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772126046712,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rio Verde Agora",
+  "is_still_participant": true,
+  "thread_path": "inbox/rioverdeagora_1927555661972461",
+  "magic_words": [
+    
+  ]
+}

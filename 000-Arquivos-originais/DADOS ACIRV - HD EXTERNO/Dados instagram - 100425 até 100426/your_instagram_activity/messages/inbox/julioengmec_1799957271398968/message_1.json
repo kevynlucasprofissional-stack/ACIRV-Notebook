@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "julioengmec"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759957730632,
+      "content": "Not everyone can message this profile.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759957721362,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3739118722381341883"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "julioengmec",
+  "is_still_participant": true,
+  "thread_path": "inbox/julioengmec_1799957271398968",
+  "magic_words": [
+    
+  ]
+}

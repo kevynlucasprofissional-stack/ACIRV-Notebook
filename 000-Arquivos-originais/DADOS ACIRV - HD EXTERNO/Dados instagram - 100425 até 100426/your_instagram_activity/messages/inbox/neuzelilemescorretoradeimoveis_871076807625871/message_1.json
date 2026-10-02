@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Neuzeli Lemes - Corretora de im\u00c3\u00b3veis"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758210006558,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758206150749,
+      "content": "Oi! Eu sou o Rioverdense, assistente da ACIRV. Como posso ajudar voc\u00c3\u00aa hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neuzeli Lemes - Corretora de im\u00c3\u00b3veis",
+      "timestamp_ms": 1758206147116,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neuzeli Lemes - Corretora de im\u00c3\u00b3veis",
+      "timestamp_ms": 1758205869019,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neuzeli Lemes - Corretora de im\u00c3\u00b3veis",
+      "timestamp_ms": 1749227393299,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neuzeli Lemes - Corretora de im\u00c3\u00b3veis",
+      "timestamp_ms": 1749227361663,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1749211021867,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Neuzeli Lemes - Corretora de im\u00c3\u00b3veis"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3648968833029999013"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neuzeli Lemes - Corretora de im\u00c3\u00b3veis",
+      "timestamp_ms": 1749168771492,
+      "share": {
+        "link": "https://www.instagram.com/stories/neuzelilemes/3648614417236428725"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Neuzeli Lemes - Corretora de im\u00c3\u00b3veis",
+  "is_still_participant": true,
+  "thread_path": "inbox/neuzelilemescorretoradeimoveis_871076807625871",
+  "magic_words": [
+    
+  ]
+}

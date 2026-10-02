@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "livia martins"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "livia martins",
+      "timestamp_ms": 1751084153735,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664597628822526922"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "livia martins",
+      "timestamp_ms": 1751084139445,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664584770814606806"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "livia martins",
+  "is_still_participant": true,
+  "thread_path": "inbox/liviamartins_1708718937189469",
+  "magic_words": [
+    
+  ]
+}

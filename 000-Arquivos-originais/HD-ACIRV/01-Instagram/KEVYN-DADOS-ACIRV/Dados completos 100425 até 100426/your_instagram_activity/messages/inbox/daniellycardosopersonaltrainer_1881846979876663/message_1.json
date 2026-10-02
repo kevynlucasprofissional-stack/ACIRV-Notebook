@@ -1,0 +1,125 @@
+{
+  "participants": [
+    {
+      "name": "Danielly Cardoso | Personal trainer"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Danielly Cardoso | Personal trainer",
+      "timestamp_ms": 1770208739647,
+      "share": {
+        "link": "https://www.instagram.com/stories/daniellycardosopersonal/3825110412925236000"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Danielly Cardoso | Personal trainer",
+      "timestamp_ms": 1769605107219,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769603916901,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3820036908366275852"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769082500491,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3815662816783622733"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Danielly Cardoso | Personal trainer",
+      "timestamp_ms": 1769033519659,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Danielly Cardoso | Personal trainer"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Danielly Cardoso | Personal trainer",
+      "timestamp_ms": 1768477674521,
+      "content": "Reacted \u00f0\u009f\u0098\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768477480314,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Danielly Cardoso | Personal trainer"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3810587724177278228"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Danielly Cardoso | Personal trainer",
+      "timestamp_ms": 1768425975765,
+      "share": {
+        "link": "https://www.instagram.com/stories/daniellycardosopersonal/3810155665072182018"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Danielly Cardoso | Personal trainer",
+      "timestamp_ms": 1767796450404,
+      "share": {
+        "link": "https://www.instagram.com/stories/daniellycardosopersonal/3804874733188415023"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Danielly Cardoso | Personal trainer",
+      "timestamp_ms": 1767796435121,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1767789609553,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Danielly Cardoso | Personal trainer"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3804817372331505570"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Danielly Cardoso | Personal trainer",
+  "is_still_participant": true,
+  "thread_path": "inbox/daniellycardosopersonaltrainer_1881846979876663",
+  "magic_words": [
+    
+  ]
+}

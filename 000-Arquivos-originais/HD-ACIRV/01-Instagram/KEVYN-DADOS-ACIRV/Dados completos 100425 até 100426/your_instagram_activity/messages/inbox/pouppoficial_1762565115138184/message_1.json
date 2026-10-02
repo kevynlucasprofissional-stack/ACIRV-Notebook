@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "poupp.oficial"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761338126234,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQNKGANEn4P/",
+        "share_text": "A ACIRV tem mais uma parceira que chegou para gerar economia e sustentabilidade!\n\nSeja bem-vinda, Poupp Energia (@poupp.oficial): a nossa mais nova\u00c2\u00a0especialista em reduzir os custos de energia el\u00c3\u00a9trica de empresas e resid\u00c3\u00aancias.\n\nEla traz solu\u00c3\u00a7\u00c3\u00b5es inteligentes que podem ajudar a\u00c2\u00a0diminuir at\u00c3\u00a9 30% da sua fatura de luz, sem complica\u00c3\u00a7\u00c3\u00a3o. \n\nMais economia, mais efici\u00c3\u00aancia, mais energia para investir no que importa!\n\n#ACIRVassociados #ACIRVePouppEnergia #EnergiaInteligente #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "poupp.oficial",
+      "timestamp_ms": 1756470108740,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756393205466,
+      "content": "Agradecemos a presen\u00c3\u00a7a e te esperamos no pr\u00c3\u00b3ximo evento! \u00f0\u009f\u00ab\u00b1\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u00ab\u00b2\u00f0\u009f\u008f\u00be",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "poupp.oficial"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756392630884,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709212660786337918"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "poupp.oficial",
+      "timestamp_ms": 1756388285893,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "poupp.oficial",
+  "is_still_participant": true,
+  "thread_path": "inbox/pouppoficial_1762565115138184",
+  "magic_words": [
+    
+  ]
+}

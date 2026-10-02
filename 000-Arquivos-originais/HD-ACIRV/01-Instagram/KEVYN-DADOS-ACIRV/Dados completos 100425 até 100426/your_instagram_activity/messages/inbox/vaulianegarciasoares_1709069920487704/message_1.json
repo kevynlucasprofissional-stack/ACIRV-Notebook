@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Vauliane Garcia Soares"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761935233472,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755707354647001470"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vauliane Garcia Soares",
+      "timestamp_ms": 1761871224736,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vauliane Garcia Soares",
+      "timestamp_ms": 1761871095886,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761869245365,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vauliane Garcia Soares"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755153809338116566"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vauliane Garcia Soares",
+      "timestamp_ms": 1761863394539,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vauliane Garcia Soares",
+      "timestamp_ms": 1751129752052,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751128605018,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vauliane Garcia Soares"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3665054810357903487"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vauliane Garcia Soares",
+      "timestamp_ms": 1751115266511,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vauliane Garcia Soares",
+  "is_still_participant": true,
+  "thread_path": "inbox/vaulianegarciasoares_1709069920487704",
+  "magic_words": [
+    
+  ]
+}

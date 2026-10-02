@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Evaristo Lira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756225412428,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Evaristo Lira",
+  "is_still_participant": true,
+  "thread_path": "inbox/evaristolira_1384327572961942",
+  "magic_words": [
+    
+  ]
+}

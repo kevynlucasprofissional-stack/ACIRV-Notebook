@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758127507394,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758123846748,
+      "content": "Ol\u00c3\u00a1! Eu sou o Rioverdense, seu assistente da ACIRV. Como posso ajudar voc\u00c3\u00aa hoje? Se tiver alguma d\u00c3\u00bavida ou pergunta, fique \u00c3\u00a0 vontade para compartilhar!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1758123838905,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3723713335108905359"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "inbox/usuariodoinstagram_1779870223407673",
+  "magic_words": [
+    
+  ]
+}

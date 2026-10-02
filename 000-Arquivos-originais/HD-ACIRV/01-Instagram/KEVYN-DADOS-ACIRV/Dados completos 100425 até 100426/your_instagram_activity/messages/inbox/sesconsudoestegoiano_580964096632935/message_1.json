@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sescon Sudoeste Goiano"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760443128395,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DPyfBQzDcFF/?carousel_share_child_media_id=3743190666496033093_6027695835",
+        "share_text": "Reunir diferentes setores em torno de objetivos comuns \u00c3\u00a9 uma das miss\u00c3\u00b5es da ACIRV.\n\nDiante disso, nesta manh\u00c3\u00a3, membros da ACIRV dialogou com dois importantes representantes regionais: Alessandro Gil, presidente da OAB-GO Subse\u00c3\u00a7\u00c3\u00a3o de Rio Verde e F\u00c3\u00a1bio Matheus Salom\u00c3\u00a3o, presidente do Sescon Sudoeste Goiano.\n\nO encontro foi pautado pela busca de parcerias que contribuam para o fortalecimento das empresas locais, especialmente em temas jur\u00c3\u00addicos e cont\u00c3\u00a1beis.\n\n#ACIRVreuni\u00c3\u00b5es #OABRioVerde #SesconSudoesteGoiano #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sescon Sudoeste Goiano",
+  "is_still_participant": true,
+  "thread_path": "inbox/sesconsudoestegoiano_580964096632935",
+  "magic_words": [
+    
+  ]
+}

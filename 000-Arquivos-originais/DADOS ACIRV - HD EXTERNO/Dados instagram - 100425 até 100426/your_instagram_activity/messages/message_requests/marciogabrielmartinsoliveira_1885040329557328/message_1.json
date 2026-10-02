@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "M\u00c3\u00a1rcio Gabriel Martins Oliveira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M\u00c3\u00a1rcio Gabriel Martins Oliveira",
+      "timestamp_ms": 1768134323878,
+      "share": {
+        "link": "https://www.instagram.com/stories/marciog_martins/3807708967166051222"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "M\u00c3\u00a1rcio Gabriel Martins Oliveira",
+  "is_still_participant": true,
+  "thread_path": "message_requests/marciogabrielmartinsoliveira_1885040329557328",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

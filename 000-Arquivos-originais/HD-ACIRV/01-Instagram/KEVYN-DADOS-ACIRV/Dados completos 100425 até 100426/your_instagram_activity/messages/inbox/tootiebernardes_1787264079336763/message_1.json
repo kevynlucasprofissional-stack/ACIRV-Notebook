@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Tootie Bernardes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756137171804,
+      "content": "Ol\u00c3\u00a1, boa tarde! Agradecemos o interesse no nosso festival infantil. Infelizmente, n\u00c3\u00a3o temos a faixa et\u00c3\u00a1ria da sua filha inclusa, dentro do nosso regulamento, dispon\u00c3\u00advel nos nossos festivais. Mas daqui alguns anos ela poder\u00c3\u00a1 se inscrever e participar! Contamos com a inscri\u00c3\u00a7\u00c3\u00a3o dela nas pr\u00c3\u00b3ximas seletivas! Abra\u00c3\u00a7os e seguimos \u00c3\u00a0 disposi\u00c3\u00a7\u00c3\u00a3o.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tootie Bernardes",
+      "timestamp_ms": 1755881674706,
+      "content": "Minha filha fez 13 anos em junho, n\u00c3\u00a3o tem modalidade pra ela no festival, n\u00c3\u00a9?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tootie Bernardes",
+  "is_still_participant": true,
+  "thread_path": "inbox/tootiebernardes_1787264079336763",
+  "magic_words": [
+    
+  ]
+}

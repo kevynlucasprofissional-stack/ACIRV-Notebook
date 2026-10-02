@@ -1,0 +1,108 @@
+{
+  "participants": [
+    {
+      "name": "Advogada Trabalhista"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Advogada Trabalhista",
+      "timestamp_ms": 1758242814089,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758204337560,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758200535933,
+      "content": "Agradecemos a presen\u00c3\u00a7a e te esperamos na pr\u00c3\u00b3xima! \u00e2\u0098\u0095\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Advogada Trabalhista"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758198036941,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758194158068,
+      "content": "Por favor, compartilhe sua d\u00c3\u00bavida ou quest\u00c3\u00a3o!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Advogada Trabalhista",
+      "timestamp_ms": 1758194153289,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751128493254,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3665053867730228219"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Advogada Trabalhista",
+      "timestamp_ms": 1751121007214,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Advogada Trabalhista",
+      "timestamp_ms": 1751088114407,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751079755498,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Advogada Trabalhista"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664644937954570698"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Advogada Trabalhista",
+      "timestamp_ms": 1751067772525,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Advogada Trabalhista",
+  "is_still_participant": true,
+  "thread_path": "inbox/advogadatrabalhista_1708567107204652",
+  "magic_words": [
+    
+  ]
+}

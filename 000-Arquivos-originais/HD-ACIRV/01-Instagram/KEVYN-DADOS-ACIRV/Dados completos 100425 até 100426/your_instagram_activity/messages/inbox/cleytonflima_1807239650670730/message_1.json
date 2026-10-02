@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Cleyton FLima"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760613612855,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760609909912,
+      "content": "Desculpe, mas n\u00c3\u00a3o posso fazer marca\u00c3\u00a7\u00c3\u00b5es diretamente. Voc\u00c3\u00aa pode repostar as fotos que encontrar nas nossas redes sociais e nos marcar! Assim, poderemos compartilhar tamb\u00c3\u00a9m.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cleyton FLima",
+      "timestamp_ms": 1760609905262,
+      "content": "Ou vcs me marquem por favor que reposto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760609896890,
+      "content": "\u00c3\u0093timo! Voc\u00c3\u00aa pode encontrar fotos do evento nas redes sociais da ACIRV. Isso \u00c3\u00a9 uma boa maneira de compartilhar com seus seguidores!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cleyton FLima",
+      "timestamp_ms": 1760609890054,
+      "content": "Vou repostar nas minhas redes sociais",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760609880180,
+      "content": "Desculpe, mas as fotos do evento de ontem n\u00c3\u00a3o est\u00c3\u00a3o dispon\u00c3\u00adveis na nossa base de dados. Para obter informa\u00c3\u00a7\u00c3\u00b5es ou fotos, sugiro verificar a nossa p\u00c3\u00a1gina do Instagram ou entrar em contato diretamente com a ACIRV.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cleyton FLima",
+      "timestamp_ms": 1760609874821,
+      "content": "Me manda as fotos de ontem do evento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760609868764,
+      "content": "Por favor, me diga qual informa\u00c3\u00a7\u00c3\u00a3o voc\u00c3\u00aa gostaria de saber!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cleyton FLima",
+      "timestamp_ms": 1760609859138,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/cleytonflima_1807239650670730/photos/1521853772180155.jpg",
+          "creation_timestamp": 1760609857
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760609856555,
+      "content": "Bom dia! Estou aqui para ajudar. Como posso te ajudar hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cleyton FLima",
+      "timestamp_ms": 1760609849809,
+      "content": "Bom dia tudo bem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cleyton FLima",
+  "is_still_participant": true,
+  "thread_path": "inbox/cleytonflima_1807239650670730",
+  "magic_words": [
+    
+  ]
+}

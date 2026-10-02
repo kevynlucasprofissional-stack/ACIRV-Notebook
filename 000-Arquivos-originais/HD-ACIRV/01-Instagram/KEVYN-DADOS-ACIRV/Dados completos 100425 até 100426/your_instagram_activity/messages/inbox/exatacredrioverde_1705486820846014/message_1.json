@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "EXATA CRED Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "EXATA CRED Rio Verde",
+      "timestamp_ms": 1750781972453,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1750781718431,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "EXATA CRED Rio Verde"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DLSjJdPujwE/?id=3662144028511190020_6027695835",
+        "share_text": "QUER ORGANIZAR, PLANEJAR E MELHORAR O FINANCEIRO DE SUA EMPRESA?  Ent\u00c3\u00a3o \u00c3\u00a9 s\u00c3\u00b3 entrar em contato com a nossa nova Associada, a EXATACRED ASSESSORIA FINANCEIRA. A empresa, que tem como s\u00c3\u00b3cias a Amanda Teixeira e a Leda Grac\u00c3\u00adlia (na foto com a nossa Rakil\u00c3\u00a2ndia Medeiros), tem como objetivo ajudar pessoas e empresas a organizarem, planejarem e melhorarem sua vida financeira. Dentre os servi\u00c3\u00a7os oferecidos pela EXATACRED est\u00c3\u00a3o o Limpa Nome; Suspens\u00c3\u00a3o de Multas de Tr\u00c3\u00a2nsito; Recupera\u00c3\u00a7\u00c3\u00a3o de CNH; Empr\u00c3\u00a9stimo CLT com taxas atrativas; Empr\u00c3\u00a9stimo Bolsa Fam\u00c3\u00adlia; Empr\u00c3\u00a9stimo Aposentado e Pensionista com taxas competitivas; Empr\u00c3\u00a9stimo r\u00c3\u00a1pido e f\u00c3\u00a1cil via Cart\u00c3\u00a3o de Cr\u00c3\u00a9dito e Saque FGTS. Quer saber mais? https://www.instagram.com/exata.cred/ Fone 64 99654-5019 e o endere\u00c3\u00a7o \u00c3\u00a9 na Rua Major Oscar Campos, N\u00c2\u00ba 548, Sala 04- Galeria Ouro Preto, Centro (Pr\u00c3\u00b3ximo ao Hospital Evang\u00c3\u00a9lico) PARAB\u00c3\u0089NS E SEJA MUITO BEM-VINDA \u00c3\u0080 ACIRV, EXATACRED ASSESSORIA FINANCEIRA! \u00f0\u009f\u0091\u008f\u00f0\u009f\u0091\u008f",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "EXATA CRED Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/exatacredrioverde_1705486820846014",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Mariana Perdomo"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1750876390724,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3662938952919871943"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mariana Perdomo",
+      "timestamp_ms": 1750859084569,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mariana Perdomo",
+      "timestamp_ms": 1750818132081,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mariana Perdomo",
+      "timestamp_ms": 1750813796987,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mariana Perdomo",
+      "timestamp_ms": 1750812974986,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mariana Perdomo",
+      "timestamp_ms": 1750811011515,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mariana Perdomo",
+      "timestamp_ms": 1750810269036,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mariana Perdomo",
+      "timestamp_ms": 1750810161373,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mariana Perdomo",
+      "timestamp_ms": 1750809851623,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mariana Perdomo",
+  "is_still_participant": true,
+  "thread_path": "inbox/marianaperdomo_1705747660819930",
+  "magic_words": [
+    
+  ]
+}

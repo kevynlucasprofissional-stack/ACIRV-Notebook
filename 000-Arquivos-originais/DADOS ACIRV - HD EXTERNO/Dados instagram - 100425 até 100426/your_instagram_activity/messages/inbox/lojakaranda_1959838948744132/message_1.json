@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Loja Karand\u00c3\u00a1"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Loja Karand\u00c3\u00a1",
+      "timestamp_ms": 1775499217527,
+      "content": "S\u00c3\u00b3 passando pra confirmar se voc\u00c3\u00aa chegou a ver minha mensagem anterior.\nPreparei aquele exemplo com a logo de voc\u00c3\u00aas porque achei que poderia ser \u00c3\u00batil\npra alguma a\u00c3\u00a7\u00c3\u00a3o futura.\nVoc\u00c3\u00aa \u00c3\u00a9 quem cuida dessa parte por a\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Loja Karand\u00c3\u00a1",
+      "timestamp_ms": 1774888135244,
+      "content": "Poderia por favor me ajudar com o contato da pessoa respons\u00c3\u00a1vel pela demanda de brindes ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Loja Karand\u00c3\u00a1",
+      "timestamp_ms": 1774888126875,
+      "content": "Sou a Giovana, do time comercial da Karand\u00c3\u00a1. Trabalhamos com brindes corporativos personalizados e acredito que podemos agregar bastante nas a\u00c3\u00a7\u00c3\u00b5es de voc\u00c3\u00aas.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Loja Karand\u00c3\u00a1",
+      "timestamp_ms": 1774888105283,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/lojakaranda_1959838948744132/photos/2197155757768322.png",
+          "creation_timestamp": 1774888103
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Loja Karand\u00c3\u00a1",
+      "timestamp_ms": 1774887904441,
+      "content": "Boa tarde, tudo bem ??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Loja Karand\u00c3\u00a1",
+  "is_still_participant": true,
+  "thread_path": "inbox/lojakaranda_1959838948744132",
+  "magic_words": [
+    
+  ]
+}

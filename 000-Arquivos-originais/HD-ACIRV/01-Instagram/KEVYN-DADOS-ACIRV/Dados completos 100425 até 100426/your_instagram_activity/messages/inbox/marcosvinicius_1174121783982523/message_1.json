@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Marcos Vinicius"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcos Vinicius",
+      "timestamp_ms": 1751726872874,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3669527784621584711"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Vinicius",
+      "timestamp_ms": 1751129283188,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Vinicius",
+      "timestamp_ms": 1751129267485,
+      "content": "Reacted \u00f0\u009f\u0091\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751128571976,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008f",
+          "actor": "Marcos Vinicius"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Vinicius",
+      "timestamp_ms": 1751117227183,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcos Vinicius",
+      "timestamp_ms": 1751116927300,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664643694804843881"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcos Vinicius",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcosvinicius_1174121783982523",
+  "magic_words": [
+    
+  ]
+}

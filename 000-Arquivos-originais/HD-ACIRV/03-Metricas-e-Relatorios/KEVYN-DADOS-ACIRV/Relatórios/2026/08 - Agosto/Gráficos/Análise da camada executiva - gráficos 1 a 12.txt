@@ -1,0 +1,464 @@
+O **Nível 01 — Painel Executivo** já conta uma história bastante coerente. Os 12 gráficos, quando lidos em conjunto, deixam de ser análises isoladas e passam a formar praticamente um **modelo de funcionamento do Instagram da ACIRV em agosto**.
+
+A síntese mais importante é:
+
+> **A mídia paga foi extremamente eficiente em comprar distribuição e descoberta; o conteúdo orgânico foi muito mais eficiente em transformar atenção em comportamento, relacionamento e crescimento.**
+
+E existe uma terceira peça: **nem todo orgânico funciona igualmente**. O resultado está fortemente concentrado em alguns tipos específicos de conteúdo.
+
+## O que aconteceu em agosto
+
+A ACIRV publicou **52 conteúdos: 42 orgânicos e 10 promovidos**. Apesar de representarem só 19,2% das publicações, os promovidos produziram **93,4% de todas as visualizações**.
+
+Mas essa dominância desaparece quando saímos da métrica de exposição:
+
+| Resultado           |  Orgânico | Promovido |
+| ------------------- | --------: | --------: |
+| Visualizações       |      6,6% | **93,4%** |
+| Interações          | **85,5%** |     14,5% |
+| Novos seguidores    | **83,3%** |     16,7% |
+| Atividade do perfil | **55,4%** |     44,6% |
+
+Esse é provavelmente o resultado executivo mais importante de todo o estudo.
+
+**A mídia paga está comprando olhos. O orgânico está conquistando reações.**
+
+Isso não significa que promover seja ruim. Significa que **alcance e impacto são fenômenos diferentes** e precisam ser tratados como tal.
+
+---
+
+# 1. Existe uma espécie de “abismo” entre alcance e qualidade da atenção
+
+O gráfico **Visualizações × Ressonância** torna isso visualmente muito claro.
+
+Os posts promovidos foram jogados para a extrema direita: dezenas ou centenas de milhares de visualizações.
+
+Mas quase todos permanecem próximos da base do gráfico, com baixa ressonância.
+
+Já os conteúdos realmente excepcionais aparecem no alto — e são orgânicos.
+
+Os grandes exemplos são:
+
+**Homenagem à Kênia Leite:** ressonância extraordinária mesmo com alcance relativamente pequeno.
+
+**Sorteio Andréa Vermont:** combina algo muito mais raro — **alcance muito alto + ressonância muito alta**.
+
+**Inscrição antecipada da SudoExpo e sorteio Paul Cabannes:** também conseguem equilibrar distribuição e comportamento.
+
+Portanto, existe uma distinção que deveria entrar no vocabulário de marketing da ACIRV:
+
+**Alcance = quantas pessoas vimos.
+Ressonância = o quanto aquilo significou para quem viu.**
+
+E uma publicação excepcional precisa idealmente conseguir os dois.
+
+---
+
+# 2. Andréa Vermont não foi apenas o maior post. Foi um outlier estrutural
+
+O Pareto demonstra a dimensão disso.
+
+O post sozinho respondeu por aproximadamente:
+
+**37,2% de todas as interações**,
+**48,9% de todos os compartilhamentos**,
+**67,1% de todos os novos seguidores.**
+
+Em novos seguidores, **um único conteúdo ultrapassou sozinho os 50% do resultado mensal**.
+
+É uma concentração enorme.
+
+Isso gera duas conclusões simultaneamente.
+
+A primeira é muito positiva: **foi encontrada uma fórmula capaz de produzir resultado excepcional.**
+
+A segunda é um alerta: **agosto é muito dependente desse único caso.**
+
+Então não podemos olhar para as médias de agosto e assumir que aquilo representa a operação normal.
+
+A pergunta estratégica passa a ser:
+
+> **O que havia no post da Andréa que podemos reproduzir sem depender da Andréa?**
+
+Provavelmente uma combinação de:
+
+**pessoa reconhecível + benefício excepcional + experiência exclusiva + mecânica participativa + CTA explícito + Collab + incentivo ao compartilhamento.**
+
+O Nível 02 deve decompor exatamente isso.
+
+---
+
+# 3. O padrão vencedor não é simplesmente “post viral”
+
+O Índice de Impacto mostra algo mais interessante.
+
+Os primeiros lugares incluem:
+
+1. Andréa Vermont — **98,0**
+2. Inscrição antecipada SudoExpo — **89,4**
+3. Paul Cabannes — **87,3**
+4. Finalistas Pirulito & Violão — **78,3**
+5. Stand-up Paul Cabannes — **77,0**
+6. Kênia Leite — **75,1**
+7. Workshop Lei do Triunfo — **72,7**
+8. “ACIRV também é para o seu negócio” — **72,0**
+
+Esses conteúdos são bastante diferentes visualmente e tematicamente.
+
+Mas quase todos possuem pelo menos uma destas propriedades:
+
+**pessoa**,
+**benefício**,
+**experiência**,
+**participação**,
+**convite**,
+**utilidade concreta**,
+**identificação com um grupo**.
+
+Isso é mais profundo que “faça sorteios”.
+
+O padrão parece ser:
+
+> **Quanto mais facilmente uma pessoa consegue responder “o que isso tem a ver comigo?”, maior a capacidade de o conteúdo gerar comportamento.**
+
+---
+
+# 4. A melhor máquina de crescimento foi o orgânico
+
+O gráfico de seguidores por 1.000 visualizações deixa isso brutalmente claro.
+
+### Orgânico
+
+Andréa Vermont:
+
+**4,73 seguidores / 1.000 views**
+
+Finalistas Pirulito & Violão:
+
+**1,57**
+
+Conecta 2 anos:
+
+**1,36**
+
+Paul Cabannes:
+
+**1,11**
+
+Inscrição antecipada:
+
+**1,03**
+
+### Promovido
+
+O grande destaque é:
+
+**“A ACIRV também é para o seu negócio” — 0,78 seguidores / 1.000 views**
+
+Depois disso, a eficiência despenca.
+
+Campanhas com 100 mil, 200 mil, 300 mil e até **556 mil visualizações** converteram proporcionalmente pouquíssimos seguidores.
+
+Então existe um sinal muito interessante:
+
+> **O conteúdo institucional genérico pode comprar exposição em escala, mas exposição não é necessariamente afinidade.**
+
+Já “ACIRV também é para o seu negócio” provavelmente fala diretamente para identidade/pertencimento.
+
+Esse promovido merece ser estudado profundamente porque é uma exceção dentro do comportamento da mídia paga.
+
+---
+
+# 5. Descoberta e conversão são duas competências diferentes
+
+Os gráficos de **Seguidores × Não seguidores** e **Descoberta × Conversão** fecham essa questão.
+
+Os promovidos tiveram uma mediana de aproximadamente:
+
+**98,2% de visualizações vindas de não seguidores.**
+
+Ou seja: como ferramenta de descoberta, a mídia paga funcionou extraordinariamente bem.
+
+Nos orgânicos, a mediana é cerca de:
+
+**29,7%.**
+
+Portanto:
+
+**Pago = encontrar desconhecidos.**
+
+Mas aí vem a segunda etapa:
+
+**esses desconhecidos viraram seguidores?**
+
+Na maior parte dos anúncios, quase não.
+
+Esse é talvez o principal gargalo identificado no painel:
+
+> **A ACIRV conseguiu comprar descoberta, mas ainda não conseguiu sistematicamente transformar essa descoberta paga em relacionamento.**
+
+Há uma exceção clara:
+
+**“ACIRV também é para o seu negócio.”**
+
+Ele combina **87,9% de não seguidores** com **0,78 seguidores/1.000 views**, desempenho muito superior aos demais promovidos.
+
+É provavelmente o melhor exemplo de **aquisição paga qualificada** do mês.
+
+---
+
+# 6. Existe também descoberta orgânica — e isso é muito valioso
+
+Andréa Vermont teve:
+
+**73% de visualizações de não seguidores.**
+
+O Fórum de IA:
+
+**65,8%.**
+
+Kênia Leite:
+
+**63,5%.**
+
+Outros conteúdos orgânicos também ultrapassaram 50%.
+
+Isso é importante porque demonstra que **a ACIRV não depende necessariamente de investimento para escapar da própria bolha**.
+
+Há um mecanismo de distribuição orgânica funcionando quando o conteúdo possui determinadas características.
+
+E o gráfico de origem das visualizações confirma isso.
+
+---
+
+# 7. “De outra pessoa” é uma das métricas mais interessantes de todo o painel
+
+Nos promovidos, a mediana da distribuição por **“De outra pessoa”** foi aproximadamente **72%**.
+
+Nos orgânicos:
+
+**15,2%.**
+
+Mas alguns orgânicos fugiram completamente desse padrão:
+
+**Andréa Vermont: 73,4%**
+
+**Fórum de IA: 62,8%**
+
+**Workshop Lei do Triunfo: 62,2%**
+
+Isso sugere conteúdos que adquiriram circulação fora do fluxo normal da própria audiência da ACIRV.
+
+Em contraste, vários conteúdos institucionais ficaram quase inteiramente dependentes de:
+
+**Página inicial + Perfil.**
+
+Alguns tiveram aproximadamente **0,1%** de distribuição externa.
+
+Essa métrica talvez seja uma das melhores proxies disponíveis para responder:
+
+> **“Esse conteúdo circulou ou apenas foi consumido por quem já estava perto de nós?”**
+
+---
+
+# 8. Collab provavelmente é uma alavanca real de distribuição
+
+Essa é uma das conclusões mais robustas porque permanece mesmo removendo Andréa Vermont.
+
+Sem o outlier:
+
+### Visualizações medianas
+
+Collab: **3.452**
+
+Não Collab: **1.662**
+
+**Lift ≈ +108%.**
+
+### Ressonância
+
+Collab: **3,52**
+
+Não Collab: **1,71**
+
+**Lift ≈ +106%.**
+
+Isso é muito forte.
+
+Só existe uma nuance:
+
+em **interações totais por 1.000 views**, não-Collab ficou um pouco acima.
+
+Isso sugere que Collab talvez não torne cada visualizador necessariamente mais propenso a apertar “curtir”.
+
+O efeito parece ser mais sofisticado:
+
+> **Collab aumenta distribuição e exposição a públicos novos sem destruir a qualidade do conteúdo — e ainda aumenta bastante as ações profundas representadas pela ressonância.**
+
+Então Collab deveria ser tratada menos como “feature do Instagram” e mais como **instrumento de distribuição editorial**.
+
+---
+
+# 9. Curtida parece ser uma métrica muito menos informativa do que parece
+
+A matriz de correlações mostra um fenômeno importante.
+
+Nos orgânicos:
+
+**Curtidas × Contas com engajamento ≈ 1,00.**
+
+Interações também estão quase perfeitamente correlacionadas com várias métricas.
+
+Isso significa que uma série de indicadores está medindo quase o mesmo fenômeno.
+
+Então colocar num relatório:
+
+**likes**,
+**interações**,
+**contas engajadas**
+
+como se fossem três evidências independentes pode gerar uma falsa sensação de riqueza analítica.
+
+Provavelmente deveríamos reduzir o painel operacional a menos métricas, escolhendo indicadores de comportamentos diferentes:
+
+**Exposição → views/alcance**
+**Ressonância → compartilhamentos + comentários + salvamentos**
+**Intenção → perfil/clique**
+**Aquisição → seguidores**
+
+Isso deixa a leitura muito mais limpa.
+
+---
+
+# 10. A mídia paga tem um comportamento interno bastante diferente
+
+Nos posts promovidos, **visualizações e interações têm correlação de apenas ~0,23**.
+
+Isso é extremamente revelador.
+
+Comprar mais visualizações **não está proporcionalmente comprando mais interação**.
+
+Mais estranho ainda:
+
+**Visualizações × novos seguidores ≈ -0,16.**
+
+Não interpreto isso como “mais views causam menos seguidores”; a amostra é pequena.
+
+Mas certamente significa:
+
+> **O volume de mídia não explica a conversão.**
+
+Em contrapartida:
+
+**Visualizações × cliques externos ≈ 0,96.**
+
+Isso sugere que algumas campanhas pagas podem estar desempenhando melhor como mecanismos de **tráfego/ação externa** do que como ferramentas de comunidade.
+
+É uma diferença crucial de objetivo.
+
+Não deveríamos cobrar da mesma campanha simultaneamente:
+
+**awareness + engajamento + seguidores + clique + inscrição.**
+
+---
+
+# 11. Há pelo menos quatro tipos distintos de “conteúdo bom”
+
+O Nível 01 permite montar esta taxonomia:
+
+| Tipo             | Exemplo              | Função                 |
+| ---------------- | -------------------- | ---------------------- |
+| **Amplificador** | campanhas promovidas | Distribuição           |
+| **Conquistador** | Andréa Vermont       | Descoberta + conversão |
+| **Ressonante**   | Kênia Leite          | Reação profunda        |
+| **Intencional**  | Inscrição antecipada | Ação/perfil/clique     |
+
+Isso é importante porque elimina uma pergunta ruim:
+
+**“Qual é o melhor post?”**
+
+A pergunta correta passa a ser:
+
+**“Melhor para quê?”**
+
+---
+
+# 12. A estratégia ideal não é “orgânico OU pago”
+
+É:
+
+## **Orgânico → prova de qualidade**
+
+## **Pago → amplificação seletiva**
+
+Ou seja, em vez de criar um conteúdo e imediatamente promover porque queremos alcance, a ACIRV poderia implementar uma lógica como:
+
+**publicar organicamente → observar sinais iniciais → identificar conteúdo com alta ressonância/conversão → promover os vencedores.**
+
+Isso reduz o risco de colocar dinheiro em conteúdos que conseguem exposição mas não provocam nada.
+
+Seria uma estratégia de:
+
+> **“Earn the right to scale.”**
+
+O conteúdo primeiro demonstra que merece distribuição; então recebe mídia.
+
+---
+
+# O modelo estratégico que emerge
+
+Os 12 gráficos juntos permitem imaginar a operação como quatro etapas:
+
+**1. DESCOBERTA**
+Quantos não seguidores alcançamos?
+
+↓
+
+**2. RESSONÂNCIA**
+Essas pessoas fizeram algo além de olhar?
+
+↓
+
+**3. INTENÇÃO**
+Foram conhecer a ACIRV, visitar o perfil ou clicar?
+
+↓
+
+**4. AQUISIÇÃO**
+Decidiram continuar conectadas seguindo o perfil?
+
+Essa é provavelmente uma arquitetura melhor para o analytics da ACIRV do que simplesmente acompanhar:
+
+> views → likes → seguidores.
+
+---
+
+# Uma ressalva importante sobre o gráfico 12
+
+A **“Cascata de comportamento”** anexada precisa ser regenerada antes de entrar num relatório oficial.
+
+Ela apresenta **74 posts orgânicos e 18 promovidos**, mas a base real contém **42 orgânicos e 10 promovidos**. Além disso, alguns valores mostrados nela não correspondem às taxas que calculamos anteriormente.
+
+Portanto, **eu não usaria os números daquele gráfico nas conclusões**.
+
+A ideia da Cascata é excelente; a renderização atual está incorreta.
+
+Os outros gráficos são suficientes para sustentar as principais conclusões acima.
+
+---
+
+# O diagnóstico executivo final
+
+Se eu tivesse que apresentar agosto para diretoria em cinco frases:
+
+> **1. A mídia paga fez a ACIRV aparecer para muita gente nova, mas exposição sozinha raramente virou relacionamento.**
+
+> **2. O crescimento real veio principalmente de conteúdos orgânicos capazes de gerar participação, identificação, experiência ou benefício claro.**
+
+> **3. O resultado está excessivamente concentrado em poucos posts — especialmente Andréa Vermont — portanto precisamos transformar os elementos desses sucessos em um sistema reproduzível.**
+
+> **4. Collabs são uma das evidências mais fortes de alavanca editorial: aproximadamente dobraram alcance mediano e ressonância mesmo removendo o maior outlier.**
+
+> **5. A próxima evolução não é buscar mais views; é aumentar a porcentagem de pessoas que atravessa descoberta → ressonância → intenção → aquisição.**
+
+E isso define exatamente a função do **Nível 02 — Laboratório Editorial**: o Nível 01 descobriu **onde estão os fenômenos**; agora precisamos descobrir **quais características dos conteúdos causam ou predizem esses fenômenos**.

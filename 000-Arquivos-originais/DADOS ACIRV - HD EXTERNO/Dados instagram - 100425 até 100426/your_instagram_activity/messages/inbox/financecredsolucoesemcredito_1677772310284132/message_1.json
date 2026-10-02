@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Finance Cred | Solu\u00c3\u00a7\u00c3\u00b5es em Cr\u00c3\u00a9dito"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747914196884,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3638090392533413243"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Finance Cred | Solu\u00c3\u00a7\u00c3\u00b5es em Cr\u00c3\u00a9dito",
+      "timestamp_ms": 1747912300027,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Finance Cred | Solu\u00c3\u00a7\u00c3\u00b5es em Cr\u00c3\u00a9dito",
+  "is_still_participant": true,
+  "thread_path": "inbox/financecredsolucoesemcredito_1677772310284132",
+  "magic_words": [
+    
+  ]
+}

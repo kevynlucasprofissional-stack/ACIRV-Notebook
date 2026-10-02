@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Geneilton Assis"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759446146924,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3734827296017426785"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756229027442,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3707840107271858409"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Geneilton Assis",
+  "is_still_participant": true,
+  "thread_path": "inbox/geneiltonassis_1760927108635318",
+  "magic_words": [
+    
+  ]
+}

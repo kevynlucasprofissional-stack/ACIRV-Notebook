@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Heitor Carrijo"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Heitor Carrijo",
+      "timestamp_ms": 1757034685252,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757034598440,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3714597685363047571"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Heitor Carrijo",
+      "timestamp_ms": 1757030422805,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757028450288,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3714545926728929813"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756134462498,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3707046899373205670"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Heitor Carrijo",
+      "timestamp_ms": 1755879938274,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755878071149,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3704896000091486268"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Heitor Carrijo",
+  "is_still_participant": true,
+  "thread_path": "inbox/heitorcarrijo_1478713266856705",
+  "magic_words": [
+    
+  ]
+}

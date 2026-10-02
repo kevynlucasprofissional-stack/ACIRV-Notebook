@@ -1,0 +1,44 @@
+{
+  "shortcode": "DcrgQC6gknC",
+  "url": "https://www.instagram.com/acirvoficial/p/DcrgQC6gknC/",
+  "data_publicacao": "2026-08-30",
+  "hora_publicacao": "18:43:38",
+  "tipo_midia": "foto",
+  "autor": "acirvoficial",
+  "legenda": "10 mil pessoas acompanhando, participando e fortalecendo a ACIRV! 💚 Obrigado a cada um que faz parte dessa comunidade. Seguimos juntos, trabalhando por quem empreende e faz Rio Verde crescer.",
+  "status_data": "CONFIRMADA",
+  "status_insights": "OK",
+  "erro": null,
+  "coletado_em": "2026-09-04T00:47:00-03:00",
+  "fonte": "instagram.com/insights/media/3975412936213678530/",
+  "secoes": [
+    {"secao": "Visualizações", "metricas": [
+      ["Visualizações", "439"],
+      ["Seguidores", "82%"],
+      ["Não seguidores", "18%"],
+      ["Na página inicial", "263"],
+      ["De outra pessoa", "106"],
+      ["No perfil", "70"],
+      ["Visualizadores", "245"]
+    ]},
+    {"secao": "Interações", "metricas": [
+      ["Interações", "18"],
+      ["Seguidores", "94.4%"],
+      ["Não seguidores", "5.6%"],
+      ["Interações com posts", "18"],
+      ["Curtidas", "14"],
+      ["Comentários", "3"],
+      ["Compartilhamentos", "1"],
+      ["Salvamentos", "0"],
+      ["Contas com engajamento", "14"]
+    ]},
+    {"secao": "Perfil", "metricas": [
+      ["Atividade do perfil", "5"],
+      ["Visitas ao perfil", "5"],
+      ["Toques em links externos", "0"],
+      ["Toques no endereço comercial", "0"],
+      ["Seguidores", "0"]
+    ]}
+  ],
+  "nota": "Curtidas publicas no post = 3. On-post like count 3."
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Dra Nayanne - Fisioterapia P\u00c3\u00a9lvica"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dra Nayanne - Fisioterapia P\u00c3\u00a9lvica",
+      "timestamp_ms": 1755014039529,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dra Nayanne - Fisioterapia P\u00c3\u00a9lvica",
+  "is_still_participant": true,
+  "thread_path": "inbox/dranayannefisioterapiapelvica_1748394393221923",
+  "magic_words": [
+    
+  ]
+}

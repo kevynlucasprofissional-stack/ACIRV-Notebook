@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Wander Iwata Locutor"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755645501606,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wander Iwata Locutor",
+      "timestamp_ms": 1755635401916,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wander Iwata Locutor",
+  "is_still_participant": true,
+  "thread_path": "inbox/wanderiwatalocutor_1754836379244391",
+  "magic_words": [
+    
+  ]
+}

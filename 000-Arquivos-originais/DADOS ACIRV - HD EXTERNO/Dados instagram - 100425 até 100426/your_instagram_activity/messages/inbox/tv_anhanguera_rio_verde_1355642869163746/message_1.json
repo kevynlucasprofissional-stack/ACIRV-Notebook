@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "tv_anhanguera_rio_verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1749211244235,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DKjv5zyu7p3/",
+        "share_text": "EM VISITA \u00c3\u0080 TV ANHANGUERA, o pr\u00c3\u00b3ximo presidente da ACIRV, Jos\u00c3\u00a9 Carlos Cintra buscou ratificar a parceria da entidade com a tradicional emissora de TV de Rio Verde, a qual muito tem ajudado na divulga\u00c3\u00a7\u00c3\u00a3o das a\u00c3\u00a7\u00c3\u00b5es da Associa\u00c3\u00a7\u00c3\u00a3o. \n\nConforme explicou, a ideia \u00c3\u00a9 fortalecer essa liga\u00c3\u00a7\u00c3\u00a3o com todos os meios de comunica\u00c3\u00a7\u00c3\u00a3o locais, como r\u00c3\u00a1dios, Tvs, jornais e demais \u00c3\u00b3rg\u00c3\u00a3os de imprensa. \n\nL\u00c3\u00a1, Jos\u00c3\u00a9 Carlos Cintra, que assumir\u00c3\u00a1 a presid\u00c3\u00aancia da ACIRV em 27 de junho pr\u00c3\u00b3ximo, foi recebido pelo Gerente da Regional de Rio Verde, J\u00c3\u00a9ferson Prospero, pelo Gerente de Jornalismo, Taffareu Tarc\u00c3\u00adsio e pelos executivos comerciais Marco e Kamila Muniz. VEM MAIS COISA BOA POR A\u00c3\u008d!! \u00e2\u009c\u00a8\u00e2\u009c\u00a8 \u00f0\u009f\u009a\u0080\u00f0\u009f\u008c\u009f",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "tv_anhanguera_rio_verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/tv_anhanguera_rio_verde_1355642869163746",
+  "magic_words": [
+    
+  ]
+}

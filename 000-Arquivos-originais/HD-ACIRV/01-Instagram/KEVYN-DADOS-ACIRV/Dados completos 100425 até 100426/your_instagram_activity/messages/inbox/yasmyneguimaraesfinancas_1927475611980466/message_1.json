@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Yasmyne Guimar\u00c3\u00a3es | Finan\u00c3\u00a7as"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772120918497,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3841151080067832302"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yasmyne Guimar\u00c3\u00a3es | Finan\u00c3\u00a7as",
+      "timestamp_ms": 1772119260542,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yasmyne Guimar\u00c3\u00a3es | Finan\u00c3\u00a7as",
+  "is_still_participant": true,
+  "thread_path": "inbox/yasmyneguimaraesfinancas_1927475611980466",
+  "magic_words": [
+    
+  ]
+}

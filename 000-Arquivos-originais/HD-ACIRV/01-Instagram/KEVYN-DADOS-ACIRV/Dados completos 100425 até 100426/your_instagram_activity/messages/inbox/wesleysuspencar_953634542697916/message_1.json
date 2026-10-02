@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Wesley Suspencar"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1769171612257,
+      "content": "Ol\u00c3\u00a1, bom dia! Demanda recebida :)\n\nEntre em contato conosco pelo telefone 36200199 para caso queira marcar uma reuni\u00c3\u00a3o presencial para conversamos sobre a sua demanda.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wesley Suspencar",
+      "timestamp_ms": 1769102917710,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wesley Suspencar",
+  "is_still_participant": true,
+  "thread_path": "inbox/wesleysuspencar_953634542697916",
+  "magic_words": [
+    
+  ]
+}

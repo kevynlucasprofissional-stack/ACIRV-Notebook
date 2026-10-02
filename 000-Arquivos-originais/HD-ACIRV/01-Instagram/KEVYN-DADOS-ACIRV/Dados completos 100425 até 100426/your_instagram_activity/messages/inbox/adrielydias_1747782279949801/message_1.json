@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Adriely Dias"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770386901954,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DUa1RDhjQ3C/?carousel_share_child_media_id=3826605101884968386_6027695835",
+        "share_text": "Gerir sa\u00c3\u00bade exige precis\u00c3\u00a3o cl\u00c3\u00adnica, mas tamb\u00c3\u00a9m vis\u00c3\u00a3o de mercado. O N\u00c3\u00bacleo da Sa\u00c3\u00bade demonstrou ter vis\u00c3\u00a3o estrat\u00c3\u00a9gica ao realizar ontem o planejamento que ser\u00c3\u00a1 o alicerce que sustentar\u00c3\u00a1 o ano todo.\n\nO N\u00c3\u00bacleo Setorial da Sa\u00c3\u00bade se reuniu na #ACIRV para transformar demandas comuns em pauta executiva. A prioridade definida \u00c3\u00a9 clara: reestruturar a estrat\u00c3\u00a9gia de parceria entre cl\u00c3\u00adnicas e planos de sa\u00c3\u00bade, provando que #ConectarParaCrescer \u00c3\u00a9 o m\u00c3\u00a9todo mais eficiente para ganhar for\u00c3\u00a7a de negocia\u00c3\u00a7\u00c3\u00a3o e sustentabilidade.\n\nAl\u00c3\u00a9m dessa frente, j\u00c3\u00a1 foi mapeado o impacto da Reforma Tribut\u00c3\u00a1ria e as adequa\u00c3\u00a7\u00c3\u00b5es da #NR1. Com a agenda travada para toda primeira quinta-feira do m\u00c3\u00aas, \u00c3\u00a0s 07h30, o recado \u00c3\u00a9 claro: a gest\u00c3\u00a3o de sa\u00c3\u00bade em Rio Verde est\u00c3\u00a1 organizada e proativa.\n\nAqui, ningu\u00c3\u00a9m cresce isolado. A gente cresce conectado.",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1754955432258,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3697156563765034673"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adriely Dias",
+      "timestamp_ms": 1754954275933,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adriely Dias",
+  "is_still_participant": true,
+  "thread_path": "inbox/adrielydias_1747782279949801",
+  "magic_words": [
+    
+  ]
+}

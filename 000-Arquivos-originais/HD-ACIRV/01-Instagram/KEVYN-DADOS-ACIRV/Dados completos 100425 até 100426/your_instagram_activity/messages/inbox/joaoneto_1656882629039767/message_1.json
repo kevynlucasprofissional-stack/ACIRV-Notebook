@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Jo\u00c3\u00a3o Neto"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755646176798,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3702950955079660511"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Neto",
+      "timestamp_ms": 1755645209586,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755643983443,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3702932476427286576"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Neto",
+      "timestamp_ms": 1755642519618,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Neto",
+      "timestamp_ms": 1750191005353,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1745670350257,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3619267399984094482"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo\u00c3\u00a3o Neto",
+      "timestamp_ms": 1745666595656,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo\u00c3\u00a3o Neto",
+  "is_still_participant": true,
+  "thread_path": "inbox/joaoneto_1656882629039767",
+  "magic_words": [
+    
+  ]
+}

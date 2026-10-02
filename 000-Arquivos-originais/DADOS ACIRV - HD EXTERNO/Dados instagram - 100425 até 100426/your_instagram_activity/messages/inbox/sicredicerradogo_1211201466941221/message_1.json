@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Sicredi Cerrado GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1745953849548,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1745952947887,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DJCpMkIyVNK/",
+        "share_text": "O Presidente da Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde (ACIRV), Eduardo L\u00c3\u00b4bo, participou da reuni\u00c3\u00a3o do Conselho do Sicredi Cerrado, onde ministrou palestra com o tema \u00e2\u0080\u009cA For\u00c3\u00a7a da Uni\u00c3\u00a3o: Como a Sociedade Organizada Impulsiona Rio Verde\u00e2\u0080\u009d. \n\nEm sua fala, destacou o papel fundamental da sociedade civil organizada e sua contribui\u00c3\u00a7\u00c3\u00a3o para o desenvolvimento de um munic\u00c3\u00adpio, utilizando-se de experi\u00c3\u00aancias adquiridas nas entidades pelas quais passou, al\u00c3\u00a9m disso, citou o exemplo da ACIRV nas a\u00c3\u00a7\u00c3\u00b5es voltadas a defesas de demandas da classe empresarial, bem como da participa\u00c3\u00a7\u00c3\u00a3o da entidade no desenvolvimento econ\u00c3\u00b4mico e social do munic\u00c3\u00adpio, al\u00c3\u00a9m de apresentar as iniciativas do CODERV, voltadas ao desenvolvimento estrat\u00c3\u00a9gico do munic\u00c3\u00adpio. \n\nEduardo ressaltou ainda a import\u00c3\u00a2ncia do associativismo e da atua\u00c3\u00a7\u00c3\u00a3o da sociedade civil organizada como pilares essenciais para o crescimento sustent\u00c3\u00a1vel de Rio Verde, refor\u00c3\u00a7ando que a uni\u00c3\u00a3o de esfor\u00c3\u00a7os entre institui\u00c3\u00a7\u00c3\u00b5es e cidad\u00c3\u00a3os \u00c3\u00a9 o caminho para uma cidade, estado e pa\u00c3\u00ads, mais forte e pr\u00c3\u00b3spero.",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sicredi Cerrado GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/sicredicerradogo_1211201466941221",
+  "magic_words": [
+    
+  ]
+}

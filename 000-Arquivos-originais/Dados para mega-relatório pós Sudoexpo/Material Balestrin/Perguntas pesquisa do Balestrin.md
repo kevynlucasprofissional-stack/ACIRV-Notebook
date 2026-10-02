@@ -1,0 +1,228 @@
+# iGPRO.AI — Perguntas do Diagnóstico
+
+Total: 100 perguntas
+
+## Dimensão 1 — Estratégica (Ambição e Visão)
+
+1. A liderança tem uma visão escrita e aprovada que define onde a IA criará valor (de negócio ou de missão pública) nos próximos dois a três anos.
+
+2. A estratégia de IA está formalmente conectada ao plano estratégico da organização e é revisada ao menos a cada seis meses.
+
+3. Cada iniciativa de IA tem meta de impacto definida no início e revisada periodicamente pela liderança.
+
+4. A alta direção dedica tempo formal de agenda à pauta de IA, com decisões registradas em ata.
+
+5. Existe um plano plurianual de IA com priorização explícita de onde investir e, igualmente, de onde não investir.
+
+6. A organização realiza, ao menos uma vez por ano, leitura estruturada dos movimentos de IA do seu setor e essa leitura efetivamente altera o plano.
+
+7. A visão de IA distingue claramente ambições de eficiência (fazer melhor o que já se faz) de ambições de transformação (novos modelos de valor).
+
+8. A liderança comunica de forma consistente, interna e externamente, o posicionamento e os princípios da organização quanto ao uso de IA.
+
+9. Existe apetite a risco definido para IA (o que a organização aceita e não aceita assumir), aprovado pela liderança.
+
+10. A estratégia considera explicitamente cenários de ruptura do setor causados por IA, inclusive por concorrentes ou novos entrantes.
+
+## Dimensão 2 — Governança (Estrutura e Decisão)
+
+1. Existe um comitê (ou instância) de governança de IA com participação multidisciplinar e mandato formal para priorizar, aprovar e encerrar iniciativas.
+
+2. Existe um responsável formal pela IA na organização (ou papel equivalente), com mandato, recursos próprios e reporte à alta liderança.
+
+3. Em cada iniciativa estão definidos quem patrocina, quem responde pelo negócio/missão, quem lidera tecnicamente e quem responde pelos dados.
+
+4. O comitê acompanha periodicamente o portfólio de IA (resultados, custos e riscos) e decide formalmente descontinuar as iniciativas que não entregam valor.
+
+5. Há avaliação independente e periódica da governança e dos controles de IA (auditoria interna ou externa) e seus resultados são revisados pela alta liderança.
+
+6. Existe um inventário atualizado de todos os sistemas e usos de IA, com informação mínima sobre cada um: finalidade, responsável, dados utilizados e nível de risco.
+
+7. Há um fluxo formal de aprovação que toda nova solução de IA precisa percorrer antes de entrar em produção.
+
+8. Cada aplicação de IA é classificada por nível de risco segundo critérios formais que consideram o impacto sobre pessoas e a criticidade para o negócio e estão em conformidade aos normativos aplicáveis à sua organização.
+
+9. As decisões sobre IA de terceiros e IA generativa, incluindo ferramentas adotadas pelas áreas, passam por governança, evitando uso não-sancionado (shadow AI).
+
+10. As responsabilidades por uma eventual falha de um sistema de IA estão formalmente atribuídas, inclusive quando o sistema é de fornecedor externo.
+
+## Dimensão 3 — Integridade (Ética, Legal e Compliance)
+
+1. Existe uma política de uso responsável de IA, aprovada pela liderança, conhecida pelos colaboradores e mantida atualizada conforme a evolução das normas aplicáveis.
+
+2. A organização comprova, com documentação, a conformidade com a LGPD e demais normas aplicáveis ao uso de IA.
+
+3. Há avaliação de viés e de impactos discriminatórios nos modelos antes da entrada em produção.
+
+4. A organização documenta e consegue explicar como seus sistemas de IA chegam a decisões que afetam pessoas (explicabilidade).
+
+5. Antes de implantar uma solução de IA, a organização avalia e documenta seus impactos sobre pessoas e direitos (riscos éticos, reputacionais e a grupos vulneráveis) e revisa essa avaliação ao longo do uso.
+
+6. Existe processo definido para que pessoas afetadas por decisões automatizadas possam contestá-las e obter revisão humana.
+
+7. O uso de IA generativa segue regras claras de propriedade intelectual e direitos autorais, tanto do conteúdo gerado quanto da origem dos dados usados para treinar ou ajustar os modelos.
+
+8. Antes de colocar um uso de IA em operação, a organização verifica formalmente que ele não incorre em práticas proibidas por lei (por exemplo: manipulação que cause dano, discriminação ilícita ou vigilância indevida).
+
+9. A utilização de IA em interações, decisões e produção de conteúdo é informada ao usuário de forma clara e transparente, sempre que relevante.
+
+## Dimensão 4 — Segurança (Cibersegurança e Resiliência)
+
+1. Os sistemas de IA têm, no mínimo, os mesmos controles de segurança aplicados aos demais sistemas críticos da organização.
+
+2. Existem controles específicos contra ataques próprios de IA (manipulação de entradas, envenenamento de dados, extração de modelo).
+
+3. A organização tem controles para impedir o vazamento de dados sensíveis em prompts e interações com modelos de terceiros.
+
+4. Existe um plano de resposta a incidentes que cobre falhas e abusos de sistemas de IA, testado periodicamente, que prevê comunicar autoridades e pessoas afetadas quando a gravidade ou a regulação exigir.
+
+5. Profissionais de Segurança da Informação participam dos projetos de IA desde a concepção (security by design).
+
+6. A organização testa periodicamente seus sistemas de IA contra cenários de ataque (red team / testes adversariais).
+
+7. Há controle de acesso, registro (log) e rastreabilidade de quem usa, treina e altera os modelos de IA.
+
+8. A organização avalia a segurança e a confiabilidade dos fornecedores e modelos de terceiros antes de incorporá-los.
+
+## Dimensão 5 — Cultural (Mindset e Mudança)
+
+1. A cultura organizacional é aberta à experimentação, tolerante a erros bem-intencionados e orientada a dados.
+
+2. Existe um programa estruturado e financiado de gestão da mudança para a adoção de IA, com patrocínio da alta administração.
+
+3. A organização mede periodicamente o engajamento e a adoção de IA pelos colaboradores e age sobre os resultados.
+
+4. A liderança promove ativamente, pelo exemplo, o uso responsável e o aprendizado contínuo em IA.
+
+5. Há canais de comunicação interna que desmistificam a IA e promovem o letramento.
+
+6. Os colaboradores se sentem seguros para apontar erros, riscos ou usos inadequados de IA sem temor de represália.
+
+7. A organização trata abertamente os receios legítimos sobre IA (impacto no emprego, autonomia, vigilância), em vez de ignorá-los.
+
+8. A organização oferece ambientes e tempo dedicados para que as pessoas testem e proponham usos de IA em seu trabalho.
+
+9. Os reconhecimentos e incentivos valorizam o uso responsável e produtivo da IA, evitando sua adoção acrítica ou sem propósito definido.
+
+## Dimensão 6 — Dados (Qualidade e Gestão)
+
+1. Existe um catálogo de dados com dono definido, origem rastreável e classificação por nível de sigilo.
+
+2. Há governança de dados formal, com políticas de uso, qualidade e controle de acesso.
+
+3. Existem metas e medições de qualidade de dados (completude, atualidade, consistência), acompanhadas pelas áreas de negócio.
+
+4. Os dados são disponibilizados de forma automatizada e no tempo adequado aos sistemas que deles dependem e esse fluxo é continuamente monitorado pela organização.
+
+5. Os dados relevantes estão estruturados e padronizados para uso por modelos de IA.
+
+6. A organização sabe quais dados pode e não pode usar para IA, respeitando base legal, consentimento e finalidade.
+
+7. Existe gestão de dados não estruturados (documentos, textos, imagens, áudio) relevantes para casos de uso de IA generativa.
+
+8. Há controles de privacidade aplicados aos dados usados em IA (minimização, anonimização ou pseudonimização quando cabível).
+
+9. A organização monitora e trata mudanças no padrão dos dados (risco de deriva) que alimentam modelos de IA em produção.
+
+10. É possível rastrear a origem e o percurso dos dados (linhagem dos dados), desde sua coleta até o resultado produzido pelo modelo.
+
+11. A organização avalia e mitiga vieses presentes nos próprios dados e não apenas nos modelos.
+
+12. Existe estratégia para acesso a dados externos e para compartilhamento de dados em parcerias, com regras claras.
+
+## Dimensão 7 — Investimento (Recursos e Financiamento)
+
+1. Existe orçamento próprio e plurianual para IA, aprovado pela liderança e distinto do orçamento corrente de TI.
+
+2. A organização usa critérios claros de retorno (financeiro ou de valor público) para priorizar iniciativas de IA.
+
+3. Há avaliação dos custos visíveis e dos custos ocultos (integração, dados, mudança, sustentação) das iniciativas de IA.
+
+4. A organização acompanha periodicamente o custo de IA em operação, incluindo o custo de uso de modelos (ex.: consumo de tokens/serviços).
+
+5. Os investimentos em IA são comparados a referências (benchmarks) do setor e revistos conforme os resultados.
+
+## Dimensão 8 — Tecnológica (Infraestrutura e Plataformas)
+
+1. A infraestrutura (nuvem, processamento, armazenamento) suporta as cargas atuais e as projetadas para os próximos anos.
+
+2. Existe uma plataforma corporativa de orquestração de IA que integra ferramentas e padroniza a construção, implantação e o monitoramento de soluções em produção.
+
+3. A arquitetura permite integrar modelos de IA aos sistemas de negócio e administrativos existentes.
+
+4. Para cada iniciativa, a organização decide conscientemente entre construir, comprar ou integrar, com critérios documentados.
+
+5. A organização tem capacidade de processamento adequada (própria ou em nuvem) para treinamento e inferência de modelos.
+
+6. Existe um ambiente seguro e governado para uso de IA generativa e de modelos de fundação, com acesso controlado a modelos de linguagem (LLMs) e suas integrações.
+
+7. A organização evita dependência excessiva de um único fornecedor/modelo e tem estratégia de portabilidade e continuidade.
+
+8. Existe padronização tecnológica e reaproveitamento de componentes entre iniciativas, evitando soluções isoladas e duplicadas.
+
+## Dimensão 9 — Humana (Talentos e Competências)
+
+1. Todos os colaboradores passaram, ou passarão em prazo definido, por letramento básico em IA.
+
+2. A organização tem profissionais técnicos qualificados em IA em quantidade adequada ao portfólio (próprios ou contratados).
+
+3. Existe programa contínuo de capacitação em IA com trilhas por perfil (executivo, gestor, especialista, usuário final).
+
+4. A organização tem estratégia formal para atrair, desenvolver e reter talentos de IA.
+
+5. Para os colaboradores cujas funções serão mais impactadas pela IA, há plano de requalificação em execução, com metas e investimento.
+
+6. Existe letramento específico sobre uso seguro e crítico de IA generativa (limites, risco de alucinação e verificação de saídas).
+
+7. A organização desenvolve competências de liderança para gerir equipes e processos apoiados por IA.
+
+8. Há clareza sobre como os papéis e as descrições de função evoluem com a adoção de IA.
+
+9. O conhecimento sobre IA é compartilhado e retido institucionalmente (comunidades de prática, documentação), reduzindo dependência de indivíduos.
+
+## Dimensão 10 — Projetual (Projetos e P&D)
+
+1. A organização possui uma metodologia definida para o ciclo de vida das iniciativas de IA, da concepção à entrada em produção e à sustentação.
+
+2. Há um portfólio priorizado de casos de uso de IA, com critérios claros de seleção, valor e risco.
+
+3. Os processos críticos estão mapeados e documentados, permitindo identificar oportunidades de IA.
+
+4. As iniciativas de IA são desenvolvidas por times multifuncionais (negócio/missão e área técnica), de forma colaborativa e iterativa.
+
+5. Existe prática de prova de conceito com critérios de sucesso definidos e decisão explícita de escalar ou encerrar, evitando pilotos eternos.
+
+## Dimensão 11 — Relacional (Ecossistema e Parcerias)
+
+1. A organização mantém parcerias estratégicas em IA (universidades, startups, centros de pesquisa ou empresas de tecnologia).
+
+2. Há participação ativa em comunidades, fóruns ou consórcios de IA do seu setor.
+
+3. A organização codesenvolve soluções de IA com parceiros externos.
+
+4. Existem mecanismos estruturados de absorção de conhecimento externo (hackathons, inovação aberta, convênios).
+
+5. A organização avalia soluções de IA de terceiros (APIs, agentes, plataformas) com critérios documentados de aderência, risco, custo e dependência, antes de adotá-las.
+
+## Dimensão 12 — Operacional (Sustentação e Avaliação)
+
+1. As soluções de IA em produção geram impacto mensurável no negócio ou na missão da organização.
+
+2. Existem indicadores (KPIs) específicos para medir o valor entregue pelas soluções de IA.
+
+3. A IA está integrada ao núcleo operacional da organização e não apenas em pilotos isolados.
+
+4. A organização monitora continuamente os modelos em produção (acurácia, vieses, deriva e desempenho).
+
+5. Há processo definido para retreinar, atualizar ou desativar modelos quando o desempenho cai.
+
+6. Existem mecanismos de supervisão humana proporcionais ao risco, inclusive para agentes de IA com autonomia de ação.
+
+7. A organização controla a qualidade e a confiabilidade das saídas de IA generativa antes de seu uso em decisões ou no atendimento.
+
+8. Os resultados das iniciativas de IA são comunicados aos públicos internos e, quando aplicável, a públicos externos relevantes (clientes, cidadãos, reguladores, parceiros).
+
+9. Existe um processo de melhoria contínua que incorpora os aprendizados, inclusive os decorrentes de falhas, às iniciativas futuras.
+
+10. A organização sustenta a operação de IA com papéis e processos definidos de suporte e não de forma improvisada.
+

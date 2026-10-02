@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "NATHAN REI MOTORS"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761869316834,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755154412957198024"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761869311591,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755154356627672561"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NATHAN REI MOTORS",
+      "timestamp_ms": 1761868324390,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NATHAN REI MOTORS",
+      "timestamp_ms": 1761867297971,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "NATHAN REI MOTORS",
+  "is_still_participant": true,
+  "thread_path": "inbox/nathanreimotors_1864496878278585",
+  "magic_words": [
+    
+  ]
+}

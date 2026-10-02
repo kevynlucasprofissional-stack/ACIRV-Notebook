@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Biohigix"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761328921781,
+      "content": "https://www.sympla.com.br/evento/1-forum-de-ia-da-acirv--rio-verdego/3169899",
+      "share": {
+        "link": "https://www.sympla.com.br/evento/1-forum-de-ia-da-acirv--rio-verdego/3169899",
+        "share_text": "https://www.sympla.com.br/evento/1-forum-de-ia-da-acirv--rio-verdego/3169899"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761328916099,
+      "content": "Segue o link para inscri\u00c3\u00a7\u00c3\u00a3o do F\u00c3\u0093RUM DE IA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761328903058,
+      "content": "Boa tarde!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Biohigix",
+  "is_still_participant": true,
+  "thread_path": "inbox/biohigix_1186595696068465",
+  "magic_words": [
+    
+  ]
+}

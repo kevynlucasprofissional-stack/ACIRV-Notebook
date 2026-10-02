@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Caldeira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Caldeira",
+      "timestamp_ms": 1764879847331,
+      "content": "Tenho sim",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764873788521,
+      "content": "Ainda tem interesse?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Caldeira",
+      "timestamp_ms": 1764873680865,
+      "content": "Boa tarde n\u00c3\u00a3o consegui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764872482635,
+      "content": "Boa tarde, Daniel! \nVoc\u00c3\u00aa conseguiu fazer sua inscri\u00c3\u00a7\u00c3\u00a3o ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Caldeira",
+      "timestamp_ms": 1764782837792,
+      "content": "Preciso saber melhor na inscri\u00c3\u00a7\u00c3\u00a3o da sa\u00c3\u00bade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel Caldeira",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielcaldeira_1852818652779496",
+  "magic_words": [
+    
+  ]
+}

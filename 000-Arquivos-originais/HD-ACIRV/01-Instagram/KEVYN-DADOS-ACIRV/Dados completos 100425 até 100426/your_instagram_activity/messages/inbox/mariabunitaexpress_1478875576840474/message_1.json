@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "mariabunitaexpress"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758204026216,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758200151722,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3724375134649022562"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758197130722,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "mariabunitaexpress",
+      "timestamp_ms": 1758193518560,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758193471916,
+      "content": "Para se associar \u00c3\u00a0 ACIRV, voc\u00c3\u00aa pode visitar o site e clicar no link 'Me associar'. Isso levar\u00c3\u00a1 voc\u00c3\u00aa a um formul\u00c3\u00a1rio onde voc\u00c3\u00aa precisar\u00c3\u00a1 preencher seus dados cadastrais e aceitar os Termos e Condi\u00c3\u00a7\u00c3\u00b5es de Uso. Voc\u00c3\u00aa j\u00c3\u00a1 conseguiu acessar o site?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "mariabunitaexpress"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "mariabunitaexpress",
+      "timestamp_ms": 1758193465922,
+      "content": "Como funciona para se associar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758193023586,
+      "content": "Por favor, me diga qual \u00c3\u00a9 a sua pergunta ou o que voc\u00c3\u00aa gostaria de saber sobre a ACIRV ou a Sudoexpo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "mariabunitaexpress",
+      "timestamp_ms": 1758193015969,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "mariabunitaexpress",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariabunitaexpress_1478875576840474",
+  "magic_words": [
+    
+  ]
+}

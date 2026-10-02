@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Play loca\u00c3\u00a7\u00c3\u00b5es | Mesas | Climatizadores | Bistro | Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Play loca\u00c3\u00a7\u00c3\u00b5es | Mesas | Climatizadores | Bistro | Rio Verde",
+      "timestamp_ms": 1761935466780,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Play loca\u00c3\u00a7\u00c3\u00b5es | Mesas | Climatizadores | Bistro | Rio Verde",
+      "timestamp_ms": 1761935466368,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Play loca\u00c3\u00a7\u00c3\u00b5es | Mesas | Climatizadores | Bistro | Rio Verde",
+      "timestamp_ms": 1761935422365,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761935187878,
+      "content": "Clarooooo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Play loca\u00c3\u00a7\u00c3\u00b5es | Mesas | Climatizadores | Bistro | Rio Verde"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761935172253,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Play loca\u00c3\u00a7\u00c3\u00b5es | Mesas | Climatizadores | Bistro | Rio Verde"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755075926045671839"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Play loca\u00c3\u00a7\u00c3\u00b5es | Mesas | Climatizadores | Bistro | Rio Verde",
+      "timestamp_ms": 1761871721194,
+      "content": "Pode mencionar a gente ? Hehehehe obg \u00f0\u009f\u0098\u008a",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755075926045671839"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760742006382,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760738244917,
+      "content": "Se voc\u00c3\u00aa quiser fazer uma pergunta sobre a ACIRV ou sobre os servi\u00c3\u00a7os que oferecemos, estou aqui para ajudar! Qual \u00c3\u00a9 a sua d\u00c3\u00bavida?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Play loca\u00c3\u00a7\u00c3\u00b5es | Mesas | Climatizadores | Bistro | Rio Verde",
+      "timestamp_ms": 1760738237599,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Play loca\u00c3\u00a7\u00c3\u00b5es | Mesas | Climatizadores | Bistro | Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/playlocacoesmesasclimatizadoresbistrorioverde_1011641416896119",
+  "magic_words": [
+    
+  ]
+}

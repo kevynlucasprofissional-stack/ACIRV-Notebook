@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Krisley Cruvinel"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756468466676,
+      "content": "Sim! Inscri\u00c3\u00a7\u00c3\u00b5es est\u00c3\u00a3o abertas e se encerram na segunda-feira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756468432877,
+      "content": "Bom dia!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krisley Cruvinel",
+      "timestamp_ms": 1756468423371,
+      "content": "Vai ter festival pirulito esse ano?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756468413038,
+      "content": "Krisley Cruvinel replied to an ad. View ad(https://www.instagram.com/p/DNqaDr5A6e4/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krisley Cruvinel",
+      "timestamp_ms": 1756468412109,
+      "content": "Voc\u00c3\u00aa pode me informar sobre eventos futuros?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Krisley Cruvinel",
+  "is_still_participant": true,
+  "thread_path": "inbox/krisleycruvinel_1760044792056883",
+  "magic_words": [
+    
+  ]
+}

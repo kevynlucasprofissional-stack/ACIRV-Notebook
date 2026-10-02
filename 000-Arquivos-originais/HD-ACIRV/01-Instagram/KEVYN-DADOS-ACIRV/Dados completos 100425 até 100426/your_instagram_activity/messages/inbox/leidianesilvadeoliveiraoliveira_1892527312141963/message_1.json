@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Leidiane Silva De Oliveira Oliveira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768998952229,
+      "content": "Como vai voc\u00c3\u00aa? Posso te ajudar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768998945118,
+      "content": "Bom dia!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leidiane Silva De Oliveira Oliveira",
+      "timestamp_ms": 1768920064081,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Leidiane Silva De Oliveira Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/leidianesilvadeoliveiraoliveira_1892527312141963",
+  "magic_words": [
+    
+  ]
+}

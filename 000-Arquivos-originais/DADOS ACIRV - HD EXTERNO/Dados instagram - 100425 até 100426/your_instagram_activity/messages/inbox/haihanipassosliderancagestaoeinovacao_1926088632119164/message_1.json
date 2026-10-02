@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "HAIHANI PASSOS | LIDERAN\u00c3\u0087A, GEST\u00c3\u0083O E INOVA\u00c3\u0087\u00c3\u0083O"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "HAIHANI PASSOS | LIDERAN\u00c3\u0087A, GEST\u00c3\u0083O E INOVA\u00c3\u0087\u00c3\u0083O",
+      "timestamp_ms": 1772032949785,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772013979865,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "HAIHANI PASSOS | LIDERAN\u00c3\u0087A, GEST\u00c3\u0083O E INOVA\u00c3\u0087\u00c3\u0083O"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HAIHANI PASSOS | LIDERAN\u00c3\u0087A, GEST\u00c3\u0083O E INOVA\u00c3\u0087\u00c3\u0083O",
+      "timestamp_ms": 1771990917713,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "HAIHANI PASSOS | LIDERAN\u00c3\u0087A, GEST\u00c3\u0083O E INOVA\u00c3\u0087\u00c3\u0083O",
+  "is_still_participant": true,
+  "thread_path": "inbox/haihanipassosliderancagestaoeinovacao_1926088632119164",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "rafael souza"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "rafael souza",
+      "timestamp_ms": 1748029316222,
+      "content": "A data est\u00c3\u00a1 errado, 2035",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3639032904392676920"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "rafael souza",
+  "is_still_participant": true,
+  "thread_path": "message_requests/rafaelsouza_1678947110166652",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

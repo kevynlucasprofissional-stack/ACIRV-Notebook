@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Grupo Acelerador"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1748343783335,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DKJ5WjTNN2Z/",
+        "share_text": "\u00f0\u009f\u0093\u00a2 Aten\u00c3\u00a7\u00c3\u00a3o, empres\u00c3\u00a1rio de Rio Verde!\nO Grupo Acelerador e Marcus Marques est\u00c3\u00a3o trazendo o Workshop Acelere sua\nEmpresa pela primeira vez em Rio Verde \u00e2\u0080\u0093 *e n\u00c3\u00b3s garantimos 20% de desconto\npara associados ACIRV.*\nEsse evento \u00c3\u00a9 focado em empres\u00c3\u00a1rios com mais de 10 colaboradores que querem:\n\u00e2\u009c\u0085 Aumentar o faturamento\n\u00e2\u009c\u0085 Melhorar a performance do time\n\u00e2\u009c\u0085 Desenvolver a postura de dono na equipe\n\u00e2\u009c\u0085 Fazer networking com empres\u00c3\u00a1rios da regi\u00c3\u00a3o\n\u00f0\u009f\u0093\u008d Se voc\u00c3\u00aa quer fazer parte dessa transforma\u00c3\u00a7\u00c3\u00a3o, garanta agora sua vaga com 20% OFF:\nFa\u00c3\u00a7a sua inscri\u00c3\u00a7\u00c3\u00a3o no https://link.aceleradorempresarial.com.br/jvw",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Grupo Acelerador",
+  "is_still_participant": true,
+  "thread_path": "inbox/grupoacelerador_1681860489875314",
+  "magic_words": [
+    
+  ]
+}

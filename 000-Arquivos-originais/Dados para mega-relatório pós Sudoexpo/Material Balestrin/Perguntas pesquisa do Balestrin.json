@@ -1,0 +1,692 @@
+{
+  "extracted_at": "2026-09-21T07:59:48.895Z",
+  "total_questions": 100,
+  "dimensions": [
+    {
+      "id": 1,
+      "nome": "Estratégica",
+      "nome_completo": "Estratégica (Ambição e Visão)",
+      "peso": 10,
+      "critica": false
+    },
+    {
+      "id": 2,
+      "nome": "Governança",
+      "nome_completo": "Governança (Estrutura e Decisão)",
+      "peso": 10,
+      "critica": true
+    },
+    {
+      "id": 3,
+      "nome": "Integridade",
+      "nome_completo": "Integridade (Ética, Legal e Compliance)",
+      "peso": 9,
+      "critica": true
+    },
+    {
+      "id": 4,
+      "nome": "Segurança",
+      "nome_completo": "Segurança (Cibersegurança e Resiliência)",
+      "peso": 8,
+      "critica": true
+    },
+    {
+      "id": 5,
+      "nome": "Cultural",
+      "nome_completo": "Cultural (Mindset e Mudança)",
+      "peso": 9,
+      "critica": false
+    },
+    {
+      "id": 6,
+      "nome": "Dados",
+      "nome_completo": "Dados (Qualidade e Gestão)",
+      "peso": 12,
+      "critica": true
+    },
+    {
+      "id": 7,
+      "nome": "Investimento",
+      "nome_completo": "Investimento (Recursos e Financiamento)",
+      "peso": 5,
+      "critica": false
+    },
+    {
+      "id": 8,
+      "nome": "Tecnológica",
+      "nome_completo": "Tecnológica (Infraestrutura e Plataformas)",
+      "peso": 8,
+      "critica": false
+    },
+    {
+      "id": 9,
+      "nome": "Humana",
+      "nome_completo": "Humana (Talentos e Competências)",
+      "peso": 9,
+      "critica": false
+    },
+    {
+      "id": 10,
+      "nome": "Projetual",
+      "nome_completo": "Projetual (Projetos e P&D)",
+      "peso": 5,
+      "critica": false
+    },
+    {
+      "id": 11,
+      "nome": "Relacional",
+      "nome_completo": "Relacional (Ecossistema e Parcerias)",
+      "peso": 5,
+      "critica": false
+    },
+    {
+      "id": 12,
+      "nome": "Operacional",
+      "nome_completo": "Operacional (Sustentação e Avaliação)",
+      "peso": 10,
+      "critica": false
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 1,
+      "texto": "A liderança tem uma visão escrita e aprovada que define onde a IA criará valor (de negócio ou de missão pública) nos próximos dois a três anos."
+    },
+    {
+      "id": 2,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 2,
+      "texto": "A estratégia de IA está formalmente conectada ao plano estratégico da organização e é revisada ao menos a cada seis meses."
+    },
+    {
+      "id": 3,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 3,
+      "texto": "Cada iniciativa de IA tem meta de impacto definida no início e revisada periodicamente pela liderança."
+    },
+    {
+      "id": 4,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 4,
+      "texto": "A alta direção dedica tempo formal de agenda à pauta de IA, com decisões registradas em ata."
+    },
+    {
+      "id": 5,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 5,
+      "texto": "Existe um plano plurianual de IA com priorização explícita de onde investir e, igualmente, de onde não investir."
+    },
+    {
+      "id": 6,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 6,
+      "texto": "A organização realiza, ao menos uma vez por ano, leitura estruturada dos movimentos de IA do seu setor e essa leitura efetivamente altera o plano."
+    },
+    {
+      "id": 7,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 7,
+      "texto": "A visão de IA distingue claramente ambições de eficiência (fazer melhor o que já se faz) de ambições de transformação (novos modelos de valor)."
+    },
+    {
+      "id": 8,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 8,
+      "texto": "A liderança comunica de forma consistente, interna e externamente, o posicionamento e os princípios da organização quanto ao uso de IA."
+    },
+    {
+      "id": 9,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 9,
+      "texto": "Existe apetite a risco definido para IA (o que a organização aceita e não aceita assumir), aprovado pela liderança."
+    },
+    {
+      "id": 10,
+      "dimension_id": 1,
+      "ordem_na_dimensao": 10,
+      "texto": "A estratégia considera explicitamente cenários de ruptura do setor causados por IA, inclusive por concorrentes ou novos entrantes."
+    },
+    {
+      "id": 11,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 1,
+      "texto": "Existe um comitê (ou instância) de governança de IA com participação multidisciplinar e mandato formal para priorizar, aprovar e encerrar iniciativas."
+    },
+    {
+      "id": 12,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 2,
+      "texto": "Existe um responsável formal pela IA na organização (ou papel equivalente), com mandato, recursos próprios e reporte à alta liderança."
+    },
+    {
+      "id": 13,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 3,
+      "texto": "Em cada iniciativa estão definidos quem patrocina, quem responde pelo negócio/missão, quem lidera tecnicamente e quem responde pelos dados."
+    },
+    {
+      "id": 14,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 4,
+      "texto": "O comitê acompanha periodicamente o portfólio de IA (resultados, custos e riscos) e decide formalmente descontinuar as iniciativas que não entregam valor."
+    },
+    {
+      "id": 15,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 5,
+      "texto": "Há avaliação independente e periódica da governança e dos controles de IA (auditoria interna ou externa) e seus resultados são revisados pela alta liderança."
+    },
+    {
+      "id": 16,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 6,
+      "texto": "Existe um inventário atualizado de todos os sistemas e usos de IA, com informação mínima sobre cada um: finalidade, responsável, dados utilizados e nível de risco."
+    },
+    {
+      "id": 17,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 7,
+      "texto": "Há um fluxo formal de aprovação que toda nova solução de IA precisa percorrer antes de entrar em produção."
+    },
+    {
+      "id": 18,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 8,
+      "texto": "Cada aplicação de IA é classificada por nível de risco segundo critérios formais que consideram o impacto sobre pessoas e a criticidade para o negócio e estão em conformidade aos normativos aplicáveis à sua organização."
+    },
+    {
+      "id": 19,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 9,
+      "texto": "As decisões sobre IA de terceiros e IA generativa, incluindo ferramentas adotadas pelas áreas, passam por governança, evitando uso não-sancionado (shadow AI)."
+    },
+    {
+      "id": 20,
+      "dimension_id": 2,
+      "ordem_na_dimensao": 10,
+      "texto": "As responsabilidades por uma eventual falha de um sistema de IA estão formalmente atribuídas, inclusive quando o sistema é de fornecedor externo."
+    },
+    {
+      "id": 21,
+      "dimension_id": 3,
+      "ordem_na_dimensao": 1,
+      "texto": "Existe uma política de uso responsável de IA, aprovada pela liderança, conhecida pelos colaboradores e mantida atualizada conforme a evolução das normas aplicáveis."
+    },
+    {
+      "id": 22,
+      "dimension_id": 3,
+      "ordem_na_dimensao": 2,
+      "texto": "A organização comprova, com documentação, a conformidade com a LGPD e demais normas aplicáveis ao uso de IA."
+    },
+    {
+      "id": 23,
+      "dimension_id": 3,
+      "ordem_na_dimensao": 3,
+      "texto": "Há avaliação de viés e de impactos discriminatórios nos modelos antes da entrada em produção."
+    },
+    {
+      "id": 24,
+      "dimension_id": 3,
+      "ordem_na_dimensao": 4,
+      "texto": "A organização documenta e consegue explicar como seus sistemas de IA chegam a decisões que afetam pessoas (explicabilidade)."
+    },
+    {
+      "id": 25,
+      "dimension_id": 3,
+      "ordem_na_dimensao": 5,
+      "texto": "Antes de implantar uma solução de IA, a organização avalia e documenta seus impactos sobre pessoas e direitos (riscos éticos, reputacionais e a grupos vulneráveis) e revisa essa avaliação ao longo do uso."
+    },
+    {
+      "id": 26,
+      "dimension_id": 3,
+      "ordem_na_dimensao": 6,
+      "texto": "Existe processo definido para que pessoas afetadas por decisões automatizadas possam contestá-las e obter revisão humana."
+    },
+    {
+      "id": 27,
+      "dimension_id": 3,
+      "ordem_na_dimensao": 7,
+      "texto": "O uso de IA generativa segue regras claras de propriedade intelectual e direitos autorais, tanto do conteúdo gerado quanto da origem dos dados usados para treinar ou ajustar os modelos."
+    },
+    {
+      "id": 28,
+      "dimension_id": 3,
+      "ordem_na_dimensao": 8,
+      "texto": "Antes de colocar um uso de IA em operação, a organização verifica formalmente que ele não incorre em práticas proibidas por lei (por exemplo: manipulação que cause dano, discriminação ilícita ou vigilância indevida)."
+    },
+    {
+      "id": 29,
+      "dimension_id": 3,
+      "ordem_na_dimensao": 9,
+      "texto": "A utilização de IA em interações, decisões e produção de conteúdo é informada ao usuário de forma clara e transparente, sempre que relevante."
+    },
+    {
+      "id": 30,
+      "dimension_id": 4,
+      "ordem_na_dimensao": 1,
+      "texto": "Os sistemas de IA têm, no mínimo, os mesmos controles de segurança aplicados aos demais sistemas críticos da organização."
+    },
+    {
+      "id": 31,
+      "dimension_id": 4,
+      "ordem_na_dimensao": 2,
+      "texto": "Existem controles específicos contra ataques próprios de IA (manipulação de entradas, envenenamento de dados, extração de modelo)."
+    },
+    {
+      "id": 32,
+      "dimension_id": 4,
+      "ordem_na_dimensao": 3,
+      "texto": "A organização tem controles para impedir o vazamento de dados sensíveis em prompts e interações com modelos de terceiros."
+    },
+    {
+      "id": 33,
+      "dimension_id": 4,
+      "ordem_na_dimensao": 4,
+      "texto": "Existe um plano de resposta a incidentes que cobre falhas e abusos de sistemas de IA, testado periodicamente, que prevê comunicar autoridades e pessoas afetadas quando a gravidade ou a regulação exigir."
+    },
+    {
+      "id": 34,
+      "dimension_id": 4,
+      "ordem_na_dimensao": 5,
+      "texto": "Profissionais de Segurança da Informação participam dos projetos de IA desde a concepção (security by design)."
+    },
+    {
+      "id": 35,
+      "dimension_id": 4,
+      "ordem_na_dimensao": 6,
+      "texto": "A organização testa periodicamente seus sistemas de IA contra cenários de ataque (red team / testes adversariais)."
+    },
+    {
+      "id": 36,
+      "dimension_id": 4,
+      "ordem_na_dimensao": 7,
+      "texto": "Há controle de acesso, registro (log) e rastreabilidade de quem usa, treina e altera os modelos de IA."
+    },
+    {
+      "id": 37,
+      "dimension_id": 4,
+      "ordem_na_dimensao": 8,
+      "texto": "A organização avalia a segurança e a confiabilidade dos fornecedores e modelos de terceiros antes de incorporá-los."
+    },
+    {
+      "id": 38,
+      "dimension_id": 5,
+      "ordem_na_dimensao": 1,
+      "texto": "A cultura organizacional é aberta à experimentação, tolerante a erros bem-intencionados e orientada a dados."
+    },
+    {
+      "id": 39,
+      "dimension_id": 5,
+      "ordem_na_dimensao": 2,
+      "texto": "Existe um programa estruturado e financiado de gestão da mudança para a adoção de IA, com patrocínio da alta administração."
+    },
+    {
+      "id": 40,
+      "dimension_id": 5,
+      "ordem_na_dimensao": 3,
+      "texto": "A organização mede periodicamente o engajamento e a adoção de IA pelos colaboradores e age sobre os resultados."
+    },
+    {
+      "id": 41,
+      "dimension_id": 5,
+      "ordem_na_dimensao": 4,
+      "texto": "A liderança promove ativamente, pelo exemplo, o uso responsável e o aprendizado contínuo em IA."
+    },
+    {
+      "id": 42,
+      "dimension_id": 5,
+      "ordem_na_dimensao": 5,
+      "texto": "Há canais de comunicação interna que desmistificam a IA e promovem o letramento."
+    },
+    {
+      "id": 43,
+      "dimension_id": 5,
+      "ordem_na_dimensao": 6,
+      "texto": "Os colaboradores se sentem seguros para apontar erros, riscos ou usos inadequados de IA sem temor de represália."
+    },
+    {
+      "id": 44,
+      "dimension_id": 5,
+      "ordem_na_dimensao": 7,
+      "texto": "A organização trata abertamente os receios legítimos sobre IA (impacto no emprego, autonomia, vigilância), em vez de ignorá-los."
+    },
+    {
+      "id": 45,
+      "dimension_id": 5,
+      "ordem_na_dimensao": 8,
+      "texto": "A organização oferece ambientes e tempo dedicados para que as pessoas testem e proponham usos de IA em seu trabalho."
+    },
+    {
+      "id": 46,
+      "dimension_id": 5,
+      "ordem_na_dimensao": 9,
+      "texto": "Os reconhecimentos e incentivos valorizam o uso responsável e produtivo da IA, evitando sua adoção acrítica ou sem propósito definido."
+    },
+    {
+      "id": 47,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 1,
+      "texto": "Existe um catálogo de dados com dono definido, origem rastreável e classificação por nível de sigilo."
+    },
+    {
+      "id": 48,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 2,
+      "texto": "Há governança de dados formal, com políticas de uso, qualidade e controle de acesso."
+    },
+    {
+      "id": 49,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 3,
+      "texto": "Existem metas e medições de qualidade de dados (completude, atualidade, consistência), acompanhadas pelas áreas de negócio."
+    },
+    {
+      "id": 50,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 4,
+      "texto": "Os dados são disponibilizados de forma automatizada e no tempo adequado aos sistemas que deles dependem e esse fluxo é continuamente monitorado pela organização."
+    },
+    {
+      "id": 51,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 5,
+      "texto": "Os dados relevantes estão estruturados e padronizados para uso por modelos de IA."
+    },
+    {
+      "id": 52,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 6,
+      "texto": "A organização sabe quais dados pode e não pode usar para IA, respeitando base legal, consentimento e finalidade."
+    },
+    {
+      "id": 53,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 7,
+      "texto": "Existe gestão de dados não estruturados (documentos, textos, imagens, áudio) relevantes para casos de uso de IA generativa."
+    },
+    {
+      "id": 54,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 8,
+      "texto": "Há controles de privacidade aplicados aos dados usados em IA (minimização, anonimização ou pseudonimização quando cabível)."
+    },
+    {
+      "id": 55,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 9,
+      "texto": "A organização monitora e trata mudanças no padrão dos dados (risco de deriva) que alimentam modelos de IA em produção."
+    },
+    {
+      "id": 56,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 10,
+      "texto": "É possível rastrear a origem e o percurso dos dados (linhagem dos dados), desde sua coleta até o resultado produzido pelo modelo."
+    },
+    {
+      "id": 57,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 11,
+      "texto": "A organização avalia e mitiga vieses presentes nos próprios dados e não apenas nos modelos."
+    },
+    {
+      "id": 58,
+      "dimension_id": 6,
+      "ordem_na_dimensao": 12,
+      "texto": "Existe estratégia para acesso a dados externos e para compartilhamento de dados em parcerias, com regras claras."
+    },
+    {
+      "id": 59,
+      "dimension_id": 7,
+      "ordem_na_dimensao": 1,
+      "texto": "Existe orçamento próprio e plurianual para IA, aprovado pela liderança e distinto do orçamento corrente de TI."
+    },
+    {
+      "id": 60,
+      "dimension_id": 7,
+      "ordem_na_dimensao": 2,
+      "texto": "A organização usa critérios claros de retorno (financeiro ou de valor público) para priorizar iniciativas de IA."
+    },
+    {
+      "id": 61,
+      "dimension_id": 7,
+      "ordem_na_dimensao": 3,
+      "texto": "Há avaliação dos custos visíveis e dos custos ocultos (integração, dados, mudança, sustentação) das iniciativas de IA."
+    },
+    {
+      "id": 62,
+      "dimension_id": 7,
+      "ordem_na_dimensao": 4,
+      "texto": "A organização acompanha periodicamente o custo de IA em operação, incluindo o custo de uso de modelos (ex.: consumo de tokens/serviços)."
+    },
+    {
+      "id": 63,
+      "dimension_id": 7,
+      "ordem_na_dimensao": 5,
+      "texto": "Os investimentos em IA são comparados a referências (benchmarks) do setor e revistos conforme os resultados."
+    },
+    {
+      "id": 64,
+      "dimension_id": 8,
+      "ordem_na_dimensao": 1,
+      "texto": "A infraestrutura (nuvem, processamento, armazenamento) suporta as cargas atuais e as projetadas para os próximos anos."
+    },
+    {
+      "id": 65,
+      "dimension_id": 8,
+      "ordem_na_dimensao": 2,
+      "texto": "Existe uma plataforma corporativa de orquestração de IA que integra ferramentas e padroniza a construção, implantação e o monitoramento de soluções em produção."
+    },
+    {
+      "id": 66,
+      "dimension_id": 8,
+      "ordem_na_dimensao": 3,
+      "texto": "A arquitetura permite integrar modelos de IA aos sistemas de negócio e administrativos existentes."
+    },
+    {
+      "id": 67,
+      "dimension_id": 8,
+      "ordem_na_dimensao": 4,
+      "texto": "Para cada iniciativa, a organização decide conscientemente entre construir, comprar ou integrar, com critérios documentados."
+    },
+    {
+      "id": 68,
+      "dimension_id": 8,
+      "ordem_na_dimensao": 5,
+      "texto": "A organização tem capacidade de processamento adequada (própria ou em nuvem) para treinamento e inferência de modelos."
+    },
+    {
+      "id": 69,
+      "dimension_id": 8,
+      "ordem_na_dimensao": 6,
+      "texto": "Existe um ambiente seguro e governado para uso de IA generativa e de modelos de fundação, com acesso controlado a modelos de linguagem (LLMs) e suas integrações."
+    },
+    {
+      "id": 70,
+      "dimension_id": 8,
+      "ordem_na_dimensao": 7,
+      "texto": "A organização evita dependência excessiva de um único fornecedor/modelo e tem estratégia de portabilidade e continuidade."
+    },
+    {
+      "id": 71,
+      "dimension_id": 8,
+      "ordem_na_dimensao": 8,
+      "texto": "Existe padronização tecnológica e reaproveitamento de componentes entre iniciativas, evitando soluções isoladas e duplicadas."
+    },
+    {
+      "id": 72,
+      "dimension_id": 9,
+      "ordem_na_dimensao": 1,
+      "texto": "Todos os colaboradores passaram, ou passarão em prazo definido, por letramento básico em IA."
+    },
+    {
+      "id": 73,
+      "dimension_id": 9,
+      "ordem_na_dimensao": 2,
+      "texto": "A organização tem profissionais técnicos qualificados em IA em quantidade adequada ao portfólio (próprios ou contratados)."
+    },
+    {
+      "id": 74,
+      "dimension_id": 9,
+      "ordem_na_dimensao": 3,
+      "texto": "Existe programa contínuo de capacitação em IA com trilhas por perfil (executivo, gestor, especialista, usuário final)."
+    },
+    {
+      "id": 75,
+      "dimension_id": 9,
+      "ordem_na_dimensao": 4,
+      "texto": "A organização tem estratégia formal para atrair, desenvolver e reter talentos de IA."
+    },
+    {
+      "id": 76,
+      "dimension_id": 9,
+      "ordem_na_dimensao": 5,
+      "texto": "Para os colaboradores cujas funções serão mais impactadas pela IA, há plano de requalificação em execução, com metas e investimento."
+    },
+    {
+      "id": 77,
+      "dimension_id": 9,
+      "ordem_na_dimensao": 6,
+      "texto": "Existe letramento específico sobre uso seguro e crítico de IA generativa (limites, risco de alucinação e verificação de saídas)."
+    },
+    {
+      "id": 78,
+      "dimension_id": 9,
+      "ordem_na_dimensao": 7,
+      "texto": "A organização desenvolve competências de liderança para gerir equipes e processos apoiados por IA."
+    },
+    {
+      "id": 79,
+      "dimension_id": 9,
+      "ordem_na_dimensao": 8,
+      "texto": "Há clareza sobre como os papéis e as descrições de função evoluem com a adoção de IA."
+    },
+    {
+      "id": 80,
+      "dimension_id": 9,
+      "ordem_na_dimensao": 9,
+      "texto": "O conhecimento sobre IA é compartilhado e retido institucionalmente (comunidades de prática, documentação), reduzindo dependência de indivíduos."
+    },
+    {
+      "id": 81,
+      "dimension_id": 10,
+      "ordem_na_dimensao": 1,
+      "texto": "A organização possui uma metodologia definida para o ciclo de vida das iniciativas de IA, da concepção à entrada em produção e à sustentação."
+    },
+    {
+      "id": 82,
+      "dimension_id": 10,
+      "ordem_na_dimensao": 2,
+      "texto": "Há um portfólio priorizado de casos de uso de IA, com critérios claros de seleção, valor e risco."
+    },
+    {
+      "id": 83,
+      "dimension_id": 10,
+      "ordem_na_dimensao": 3,
+      "texto": "Os processos críticos estão mapeados e documentados, permitindo identificar oportunidades de IA."
+    },
+    {
+      "id": 84,
+      "dimension_id": 10,
+      "ordem_na_dimensao": 4,
+      "texto": "As iniciativas de IA são desenvolvidas por times multifuncionais (negócio/missão e área técnica), de forma colaborativa e iterativa."
+    },
+    {
+      "id": 85,
+      "dimension_id": 10,
+      "ordem_na_dimensao": 5,
+      "texto": "Existe prática de prova de conceito com critérios de sucesso definidos e decisão explícita de escalar ou encerrar, evitando pilotos eternos."
+    },
+    {
+      "id": 86,
+      "dimension_id": 11,
+      "ordem_na_dimensao": 1,
+      "texto": "A organização mantém parcerias estratégicas em IA (universidades, startups, centros de pesquisa ou empresas de tecnologia)."
+    },
+    {
+      "id": 87,
+      "dimension_id": 11,
+      "ordem_na_dimensao": 2,
+      "texto": "Há participação ativa em comunidades, fóruns ou consórcios de IA do seu setor."
+    },
+    {
+      "id": 88,
+      "dimension_id": 11,
+      "ordem_na_dimensao": 3,
+      "texto": "A organização codesenvolve soluções de IA com parceiros externos."
+    },
+    {
+      "id": 89,
+      "dimension_id": 11,
+      "ordem_na_dimensao": 4,
+      "texto": "Existem mecanismos estruturados de absorção de conhecimento externo (hackathons, inovação aberta, convênios)."
+    },
+    {
+      "id": 90,
+      "dimension_id": 11,
+      "ordem_na_dimensao": 5,
+      "texto": "A organização avalia soluções de IA de terceiros (APIs, agentes, plataformas) com critérios documentados de aderência, risco, custo e dependência, antes de adotá-las."
+    },
+    {
+      "id": 91,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 1,
+      "texto": "As soluções de IA em produção geram impacto mensurável no negócio ou na missão da organização."
+    },
+    {
+      "id": 92,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 2,
+      "texto": "Existem indicadores (KPIs) específicos para medir o valor entregue pelas soluções de IA."
+    },
+    {
+      "id": 93,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 3,
+      "texto": "A IA está integrada ao núcleo operacional da organização e não apenas em pilotos isolados."
+    },
+    {
+      "id": 94,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 4,
+      "texto": "A organização monitora continuamente os modelos em produção (acurácia, vieses, deriva e desempenho)."
+    },
+    {
+      "id": 95,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 5,
+      "texto": "Há processo definido para retreinar, atualizar ou desativar modelos quando o desempenho cai."
+    },
+    {
+      "id": 96,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 6,
+      "texto": "Existem mecanismos de supervisão humana proporcionais ao risco, inclusive para agentes de IA com autonomia de ação."
+    },
+    {
+      "id": 97,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 7,
+      "texto": "A organização controla a qualidade e a confiabilidade das saídas de IA generativa antes de seu uso em decisões ou no atendimento."
+    },
+    {
+      "id": 98,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 8,
+      "texto": "Os resultados das iniciativas de IA são comunicados aos públicos internos e, quando aplicável, a públicos externos relevantes (clientes, cidadãos, reguladores, parceiros)."
+    },
+    {
+      "id": 99,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 9,
+      "texto": "Existe um processo de melhoria contínua que incorpora os aprendizados, inclusive os decorrentes de falhas, às iniciativas futuras."
+    },
+    {
+      "id": 100,
+      "dimension_id": 12,
+      "ordem_na_dimensao": 10,
+      "texto": "A organização sustenta a operação de IA com papéis e processos definidos de suporte e não de forma improvisada."
+    }
+  ]
+}

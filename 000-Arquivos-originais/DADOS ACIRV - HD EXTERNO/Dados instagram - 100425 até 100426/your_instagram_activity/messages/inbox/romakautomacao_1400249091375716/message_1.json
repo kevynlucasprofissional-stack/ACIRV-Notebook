@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Romak Automac\u00cc\u00a7a\u00cc\u0083o"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1752668043074,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3677968460944564176"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Romak Automac\u00cc\u00a7a\u00cc\u0083o",
+  "is_still_participant": true,
+  "thread_path": "inbox/romakautomacao_1400249091375716",
+  "magic_words": [
+    
+  ]
+}

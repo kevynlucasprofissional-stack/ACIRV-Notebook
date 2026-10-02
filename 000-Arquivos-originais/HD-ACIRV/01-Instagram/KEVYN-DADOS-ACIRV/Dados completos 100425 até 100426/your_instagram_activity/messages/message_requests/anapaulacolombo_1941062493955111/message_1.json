@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Ana Paula Colombo"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ana Paula Colombo",
+      "timestamp_ms": 1773514914996,
+      "content": "Ana enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DV0233JjdcI/",
+        "share_text": "\u00f0\u009f\u008f\u0083\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f\u00e2\u009c\u00a8 Vem a\u00c3\u00ad a 1\u00c2\u00ba Corrida Training Kids!\n\nUm evento realizado especialmente para incentivar as crian\u00c3\u00a7as a se movimentarem, se divertirem e desenvolverem o amor pelo esporte desde cedo.\nEsporte na inf\u00c3\u00a2ncia, vit\u00c3\u00b3ria  para a vida inteira. \n\nPrepare-se para uma manh\u00c3\u00a3 cheia de energia, alegria e supera\u00c3\u00a7\u00c3\u00a3o! \u00f0\u009f\u008f\u0085\n\n\u00f0\u009f\u0093\u00a2 Fiquem atentos: em breve divulgaremos as inscri\u00c3\u00a7\u00c3\u00b5es!",
+        "original_content_owner": "joaoparana_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ana Paula Colombo",
+  "is_still_participant": true,
+  "thread_path": "message_requests/anapaulacolombo_1941062493955111",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

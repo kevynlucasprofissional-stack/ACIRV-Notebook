@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Associativismo | Network | ESG | Empreendedorismo"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Associativismo | Network | ESG | Empreendedorismo",
+      "timestamp_ms": 1772043701343,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772031861026,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3840402729957432101"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Associativismo | Network | ESG | Empreendedorismo",
+  "is_still_participant": true,
+  "thread_path": "inbox/associativismonetworkesgempreendedorismo_1486775319383833",
+  "magic_words": [
+    
+  ]
+}

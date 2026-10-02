@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "DOM GABRIEL Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756415128369,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DN6cMjwksQe/?id=3709401251424945182_6027695835",
+        "share_text": "O Caf\u00c3\u00a9 Entre Amigos da ACIRV \u00e2\u0098\u0095\u00e2\u009c\u00a8 reuniu empres\u00c3\u00a1rios em um momento de conex\u00c3\u00a3o, networking e bons neg\u00c3\u00b3cios! \n\nAgradecemos ao Conquista Supermercados pelo patroc\u00c3\u00adnio do caf\u00c3\u00a9 e \u00c3\u00a0 Dom Gabriel Acabamentos pelo brinde especial sorteado \u00f0\u009f\u0092\u0099\n\nSeguimos fortalecendo o empreendedorismo local!\n\n#ACIRV #Caf\u00c3\u00a9EntreAmigos #Networking #ParceriasQueTransformam",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756383857341,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709139067427686853"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756379399206,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3709100744986397663"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DOM GABRIEL Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/domgabrielrioverde_1762464385148257",
+  "magic_words": [
+    
+  ]
+}

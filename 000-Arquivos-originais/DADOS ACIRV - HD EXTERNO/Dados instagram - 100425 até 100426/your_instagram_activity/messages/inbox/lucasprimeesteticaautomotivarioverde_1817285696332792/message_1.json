@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Lucas | Prime Est\u00c3\u00a9tica Automotiva | Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucas | Prime Est\u00c3\u00a9tica Automotiva | Rio Verde",
+      "timestamp_ms": 1763472756878,
+      "content": "Ol\u00c3\u00a1 bom dia, preenchi o formul\u00c3\u00a1rio e ainda n\u00c3\u00a3o tive retorno.\n\u00c3\u0089 demorado mesmo ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761417702155,
+      "content": "Voc\u00c3\u00aa tamb\u00c3\u00a9m pode fazer seu cadastro pelo  link: \n\nhttps://docs.google.com/forms/d/1GPD3uVuR214sd6M8ihlbyD42VaapRLGkp7GKGSwys8c/edit?usp=drivesdk",
+      "share": {
+        "link": "https://docs.google.com/forms/d/1GPD3uVuR214sd6M8ihlbyD42VaapRLGkp7GKGSwys8c/edit?usp=drivesdk",
+        "share_text": "Voc\u00c3\u00aa tamb\u00c3\u00a9m pode fazer seu cadastro pelo  link: \n\nhttps://docs.google.com/forms/d/1GPD3uVuR214sd6M8ihlbyD42VaapRLGkp7GKGSwys8c/edit?usp=drivesdk"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761416295775,
+      "content": "No nosso site voc\u00c3\u00aa encontra todos os nossos servi\u00c3\u00a7os e benef\u00c3\u00adcios de ser um associado. \n\nwww.acirv.com.br",
+      "share": {
+        "link": "http://www.acirv.com.br/",
+        "share_text": "No nosso site voc\u00c3\u00aa encontra todos os nossos servi\u00c3\u00a7os e benef\u00c3\u00adcios de ser um associado. \n\nwww.acirv.com.br"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761416236774,
+      "content": "Boa tarde, tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas | Prime Est\u00c3\u00a9tica Automotiva | Rio Verde",
+      "timestamp_ms": 1761398170860,
+      "content": "Aguardo retorno!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas | Prime Est\u00c3\u00a9tica Automotiva | Rio Verde",
+      "timestamp_ms": 1761398164087,
+      "content": "Ol\u00c3\u00a1 como fa\u00c3\u00a7o para me associar a Acirv e quais as vantagens e benef\u00c3\u00adcios de um associado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas | Prime Est\u00c3\u00a9tica Automotiva | Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasprimeesteticaautomotivarioverde_1817285696332792",
+  "magic_words": [
+    
+  ]
+}

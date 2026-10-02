@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Adriana Francoise Barbosa Dias"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adriana Francoise Barbosa Dias",
+      "timestamp_ms": 1772454910657,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adriana Francoise Barbosa Dias",
+      "timestamp_ms": 1745665513372,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adriana Francoise Barbosa Dias",
+  "is_still_participant": true,
+  "thread_path": "inbox/adrianafrancoisebarbosadias_1656871265707570",
+  "magic_words": [
+    
+  ]
+}

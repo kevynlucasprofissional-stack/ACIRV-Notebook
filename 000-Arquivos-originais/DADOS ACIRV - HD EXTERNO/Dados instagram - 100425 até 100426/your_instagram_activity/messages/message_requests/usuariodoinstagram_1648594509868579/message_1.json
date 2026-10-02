@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1744823750000,
+      "content": "Ol\u00c3\u00a1, sou o gerente de neg\u00c3\u00b3cios da Plataforma PG GAMES estamos recrutando novos Blogueiros(as). Seu perfil se encaixa perfeitamente com oque procuramos!\nconvido voc\u00c3\u00aa a fazer parte da nossa equipe, Preparamos 5 milh\u00c3\u00b5es de reais para Novas parcerias para publicidades, Oferecemos altas comiss\u00c3\u00b5es que variam de R$1.000 a R$10.000 por dia. Telegram\u00ef\u00bc\u009a \n https://t.me/oidw789",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "message_requests/usuariodoinstagram_1648594509868579",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

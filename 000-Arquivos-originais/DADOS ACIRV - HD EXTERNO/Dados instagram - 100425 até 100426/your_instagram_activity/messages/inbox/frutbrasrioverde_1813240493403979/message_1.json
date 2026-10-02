@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Frutbras Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761167158504,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DQID7hYkS0L/",
+        "share_text": "Temos novidade boa por aqui!\n\nTrata-se da Frutbras Pescados (@frutbras), uma empresa que une variedade, qualidade e praticidade em um s\u00c3\u00b3 lugar: peixes frescos, polpas de frutas e uma linha completa de produtos orientais pra dar aquele toque especial \u00c3\u00a0s suas receitas.\n\nUma peixaria e emp\u00c3\u00b3rio que tem tudo para facilitar o seu dia a dia com muito sabor.\n\nSeja bem-vinda, equipe Frutbras Pescados, \u00c3\u00a0 fam\u00c3\u00adlia ACIRV!\n\n#ACIRVassociados #ACIRVeFrutbrasPescados #PeixariaeEmp\u00c3\u00b3rio #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Frutbras Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/frutbrasrioverde_1813240493403979",
+  "magic_words": [
+    
+  ]
+}

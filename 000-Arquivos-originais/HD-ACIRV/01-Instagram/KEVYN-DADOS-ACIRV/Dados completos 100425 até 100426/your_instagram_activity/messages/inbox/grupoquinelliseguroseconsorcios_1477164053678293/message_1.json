@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Grupo Quinelli | Seguros e Cons\u00c3\u00b3rcios"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Grupo Quinelli | Seguros e Cons\u00c3\u00b3rcios",
+      "timestamp_ms": 1753913537355,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grupo Quinelli | Seguros e Cons\u00c3\u00b3rcios",
+      "timestamp_ms": 1753913286379,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Grupo Quinelli | Seguros e Cons\u00c3\u00b3rcios",
+  "is_still_participant": true,
+  "thread_path": "inbox/grupoquinelliseguroseconsorcios_1477164053678293",
+  "magic_words": [
+    
+  ]
+}

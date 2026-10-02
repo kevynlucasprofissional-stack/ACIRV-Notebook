@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Arandu - Microverdes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arandu - Microverdes",
+      "timestamp_ms": 1765923951833,
+      "content": "Reacted \u00f0\u009f\u00ab\u00a1 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760725201748,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760721331949,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arandu - Microverdes",
+      "timestamp_ms": 1760721324650,
+      "content": "Se tiver como marcar a gente \u00f0\u009f\u0092\u009a",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3745391600433188331"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760721307590,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arandu - Microverdes",
+      "timestamp_ms": 1760721300969,
+      "content": "Se tiver como marcar a gente \u00f0\u009f\u0092\u009a",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3745338069638533694"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760721240958,
+      "content": "Por favor, me diga qual \u00c3\u00a9 a sua pergunta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arandu - Microverdes",
+      "timestamp_ms": 1760721213570,
+      "share": {
+        "link": "https://www.instagram.com/stories/arandu_microverdes/3745523145299288622"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arandu - Microverdes",
+  "is_still_participant": true,
+  "thread_path": "inbox/arandumicroverdes_1808484473879581",
+  "magic_words": [
+    
+  ]
+}

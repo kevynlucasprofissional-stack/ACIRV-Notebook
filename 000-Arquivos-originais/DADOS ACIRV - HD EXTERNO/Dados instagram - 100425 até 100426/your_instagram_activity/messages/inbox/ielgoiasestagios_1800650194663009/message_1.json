@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "IEL Goi\u00c3\u00a1s Est\u00c3\u00a1gios"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768395440594,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DTfe2qqDXam/?carousel_share_child_media_id=3809899507828487846_6027695835",
+        "share_text": "#ConectarParaCrescer \u00c3\u00a9 trazer quem tem as melhores ferramentas para sentar \u00c3\u00a0 mesa conosco.\n\nA #ACIRV recebeu Humberto de Oliveira, Superintendente do IEL Goi\u00c3\u00a1s, junto \u00c3\u00a0 sua equipe t\u00c3\u00a9cnica. O encontro serviu para planejar solu\u00c3\u00a7\u00c3\u00b5es que beneficiam diretamente o empres\u00c3\u00a1rio local.\n\nO di\u00c3\u00a1logo focou em trazer a expertise do IEL, reconhecido pela excel\u00c3\u00aancia em educa\u00c3\u00a7\u00c3\u00a3o executiva e desenvolvimento de carreiras, para dentro da realidade do nosso associado. O objetivo \u00c3\u00a9 claro: criar um corredor de acesso facilitado a ferramentas que aumentam a maturidade de gest\u00c3\u00a3o e a efici\u00c3\u00aancia operacional das empresas locais.\n\nA ACIRV atua aqui como a ponte necess\u00c3\u00a1ria: conectamos o nosso com\u00c3\u00a9rcio e ind\u00c3\u00bastria com a intelig\u00c3\u00aancia t\u00c3\u00a9cnica de quem \u00c3\u00a9 refer\u00c3\u00aancia em qualifica\u00c3\u00a7\u00c3\u00a3o.",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760018851181,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3739631471431590650"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "IEL Goi\u00c3\u00a1s Est\u00c3\u00a1gios",
+  "is_still_participant": true,
+  "thread_path": "inbox/ielgoiasestagios_1800650194663009",
+  "magic_words": [
+    
+  ]
+}

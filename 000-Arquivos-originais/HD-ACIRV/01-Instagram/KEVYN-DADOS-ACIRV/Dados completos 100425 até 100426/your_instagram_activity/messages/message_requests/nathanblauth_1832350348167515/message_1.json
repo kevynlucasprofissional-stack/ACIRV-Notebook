@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Nathan Blauth"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nathan Blauth",
+      "timestamp_ms": 1767970271611,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nathan Blauth",
+  "is_still_participant": true,
+  "thread_path": "message_requests/nathanblauth_1832350348167515",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

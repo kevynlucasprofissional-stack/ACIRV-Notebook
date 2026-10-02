@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "MBRF"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MBRF",
+      "timestamp_ms": 1753968055181,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1753965508412,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "MBRF"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3688852090617739370"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MBRF",
+  "is_still_participant": true,
+  "thread_path": "inbox/mbrf_1491665868894778",
+  "magic_words": [
+    
+  ]
+}

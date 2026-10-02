@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "ContaTudo Contabilidade"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764893150738,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3780480832897931202"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ContaTudo Contabilidade",
+  "is_still_participant": true,
+  "thread_path": "inbox/contatudocontabilidade_1853822569345771",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "@grazy"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757075732000,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3714942882387187147"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "@grazy",
+      "timestamp_ms": 1757065274341,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "@grazy",
+  "is_still_participant": true,
+  "thread_path": "inbox/grazy_1769283501133012",
+  "magic_words": [
+    
+  ]
+}

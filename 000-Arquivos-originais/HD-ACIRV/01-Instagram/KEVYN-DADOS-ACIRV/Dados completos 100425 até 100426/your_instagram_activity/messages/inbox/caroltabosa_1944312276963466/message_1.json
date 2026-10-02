@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Carol Tabosa"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773865964077,
+      "content": "Kevyn Lucas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Tabosa",
+      "timestamp_ms": 1773865682874,
+      "content": "Que maravilha! Com quem falo, por favor?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773860250498,
+      "content": "Eu sou da equipe de Marketing :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773860227464,
+      "content": "Ol\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Tabosa",
+      "timestamp_ms": 1773842385542,
+      "content": "Consegue me ajudar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Tabosa",
+      "timestamp_ms": 1773842372472,
+      "content": "Preciso do telefone da equipe de marketing, por gentileza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Tabosa",
+      "timestamp_ms": 1773842329828,
+      "content": "Me chamo Caroline, sou executiva comercial da LedWave. Trabalhamos com pain\u00c3\u00a9is de LED em alta defini\u00c3\u00a7\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Tabosa",
+      "timestamp_ms": 1773842259484,
+      "content": "Bom dia! Tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carol Tabosa",
+  "is_still_participant": true,
+  "thread_path": "inbox/caroltabosa_1944312276963466",
+  "magic_words": [
+    
+  ]
+}

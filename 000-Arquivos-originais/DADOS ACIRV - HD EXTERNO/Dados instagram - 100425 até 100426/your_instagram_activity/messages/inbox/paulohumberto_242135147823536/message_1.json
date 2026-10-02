@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Paulo Humberto"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paulo Humberto",
+      "timestamp_ms": 1765493477262,
+      "content": "Imaginei rsrs sem problemas.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0099\u008c",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765492493805,
+      "content": "Paulo, tivemos que arquivar o v\u00c3\u00addeo por hora. Motivos institucionais.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paulo Humberto",
+      "timestamp_ms": 1765491608375,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765488071729,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Paulo Humberto"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Paulo Humberto",
+  "is_still_participant": true,
+  "thread_path": "inbox/paulohumberto_242135147823536",
+  "magic_words": [
+    
+  ]
+}

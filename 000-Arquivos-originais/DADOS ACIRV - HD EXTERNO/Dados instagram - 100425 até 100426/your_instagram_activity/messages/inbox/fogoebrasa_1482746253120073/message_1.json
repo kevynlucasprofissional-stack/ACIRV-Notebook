@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Fogo e Brasa \u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759781117267,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DPewWAvki8s/",
+        "share_text": "Seja bem-vinda, Fogo e Brasa Buffet!\n\nAgora \u00c3\u00a9 oficial: a Fogo e Brasa Buffet (@fogoebrasa_buffet) \u00c3\u00a9 a mais nova associada da ACIRV!\n\nCom atua\u00c3\u00a7\u00c3\u00a3o em Rio Verde e regi\u00c3\u00a3o, a empresa oferece buffet, churrasco e defumados, com o sabor que marca os melhores momentos da vida.\n\nEstamos felizes em fortalecer ainda mais nossa rede com empreendedores que entregam excel\u00c3\u00aancia. \n\nVamos juntos nessa! \n\n#ACIRVassociados #FogoEBrasaBuffet #SetorAliment\u00c3\u00adcio #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fogo e Brasa \u00f0\u009f\u0094\u00a5",
+  "is_still_participant": true,
+  "thread_path": "inbox/fogoebrasa_1482746253120073",
+  "magic_words": [
+    
+  ]
+}

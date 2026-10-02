@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Esther Santos"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Esther Santos",
+      "timestamp_ms": 1768570748273,
+      "content": "Obrigadaaa!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768570177450,
+      "content": "19:00 ter\u00c3\u00a7o \n19:30 missa\nLogo ap\u00c3\u00b3s a missa leil\u00c3\u00a3o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Esther Santos",
+      "timestamp_ms": 1768569142777,
+      "content": "Bom dia!! Qual hor\u00c3\u00a1rio, por favor",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3810831541208234755"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Esther Santos",
+  "is_still_participant": true,
+  "thread_path": "inbox/esthersantos_1889156912479003",
+  "magic_words": [
+    
+  ]
+}

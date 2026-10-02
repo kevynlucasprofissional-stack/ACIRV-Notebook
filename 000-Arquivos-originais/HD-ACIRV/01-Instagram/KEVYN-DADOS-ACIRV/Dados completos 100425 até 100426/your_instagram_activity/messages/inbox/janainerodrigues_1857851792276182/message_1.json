@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Janaine Rodrigues"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Janaine Rodrigues",
+      "timestamp_ms": 1765288035473,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Janaine Rodrigues",
+  "is_still_participant": true,
+  "thread_path": "inbox/janainerodrigues_1857851792276182",
+  "magic_words": [
+    
+  ]
+}

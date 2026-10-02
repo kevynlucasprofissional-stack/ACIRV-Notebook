@@ -1,0 +1,39 @@
+{
+  "post_id": "ACIRV-SM-2026-001",
+  "publication_date": "2026-09-16",
+  "delivery_date": "2026-09-16",
+  "prioridade": "",
+  "pilar_estrategico": "Proximidade",
+  "campanha_frente": "SUDOEXPO-POS",
+  "servico_beneficio": "",
+  "metrica_principal": "",
+  "reconciliacao_trello": "REFERENCE_ONLY",
+  "referencias_historicas": [
+    {
+      "nome": "[ACIRV] Criativos de agradecimento",
+      "url": "https://trello.com/c/Kit1KpSE/4535-acirv-criativos-de-agradecimento"
+    },
+    {
+      "nome": "[ACIRV] Carrossel manifesto estande",
+      "url": "https://trello.com/c/JJjqWakW/4420-acirv-carrossel-manifesto-estande"
+    },
+    {
+      "nome": "[ACIRV] Destaque: SudoExpo",
+      "url": "https://trello.com/c/fxqxET3B/4371-acirv-destaque-sudoexpo"
+    }
+  ],
+  "observacoes_internas": [
+    "Nenhum cartão existente corresponde a esta pauta: o pedido é novo (pesquisa de avaliação do estande).",
+    "Coordenação obrigatória com '[ACIRV] Criativos de agradecimento' (EM PRODUÇÃO), que já cobre peças de fechamento da SudoExpo, para evitar encerramento redundante."
+  ],
+  "dados_a_validar": [
+    "Link/QR do formulário de avaliação (pesquisa de 1 minuto) precisa ser fornecido antes da arte final."
+  ],
+  "dedupe_key": "ACIRV-SM-2026-001|2026-09-16|avalie-o-estande-da-acirv-na-sudoexpo",
+  "fontes_internas": "2026-09.md",
+  "formato": "Carrossel 2 slides — 2 slide(s)",
+  "slides": 2,
+  "requer_2_slides": false,
+  "extra_leve": "não",
+  "legend_len": 322
+}

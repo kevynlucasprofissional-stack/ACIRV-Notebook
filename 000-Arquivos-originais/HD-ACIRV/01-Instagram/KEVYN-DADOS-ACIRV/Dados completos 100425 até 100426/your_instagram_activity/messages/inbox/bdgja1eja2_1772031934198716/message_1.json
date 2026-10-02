@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "BDG, JA1 e JA2"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756234794345,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3707888457403737105"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "BDG, JA1 e JA2",
+  "is_still_participant": true,
+  "thread_path": "inbox/bdgja1eja2_1772031934198716",
+  "magic_words": [
+    
+  ]
+}

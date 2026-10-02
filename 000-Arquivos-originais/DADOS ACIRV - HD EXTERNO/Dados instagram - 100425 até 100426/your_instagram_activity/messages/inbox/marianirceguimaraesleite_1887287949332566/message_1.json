@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Maria Nirce Guimar\u00c3\u00a3es Leite"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria Nirce Guimar\u00c3\u00a3es Leite",
+      "timestamp_ms": 1768382012262,
+      "content": "Maria enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DTdY9M4DYl-/?carousel_share_child_media_id=3809310607439388154_6027695835",
+        "share_text": "",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria Nirce Guimar\u00c3\u00a3es Leite",
+  "is_still_participant": true,
+  "thread_path": "inbox/marianirceguimaraesleite_1887287949332566",
+  "magic_words": [
+    
+  ]
+}

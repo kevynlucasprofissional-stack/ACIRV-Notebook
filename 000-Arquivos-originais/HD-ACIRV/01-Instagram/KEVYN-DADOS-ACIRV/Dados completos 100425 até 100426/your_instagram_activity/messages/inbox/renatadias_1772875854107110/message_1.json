@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Renata Dias"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757439308137,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757435530612,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757435523589,
+      "content": "Por favor, me diga qual \u00c3\u00a9 a sua pergunta!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renata Dias",
+      "timestamp_ms": 1757435518664,
+      "content": "Bancos tamb\u00c3\u00a9m faz parte da negocia\u00c3\u00a7\u00c3\u00a3o.\nCaixa econ\u00c3\u00b4mica federal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renata Dias",
+      "timestamp_ms": 1757435517802,
+      "content": "Renata enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Renata Dias",
+  "is_still_participant": true,
+  "thread_path": "inbox/renatadias_1772875854107110",
+  "magic_words": [
+    
+  ]
+}

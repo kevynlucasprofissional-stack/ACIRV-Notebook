@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Polliana Santos"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Polliana Santos",
+      "timestamp_ms": 1749130204905,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Polliana Santos",
+  "is_still_participant": true,
+  "thread_path": "message_requests/pollianasantos_1689583372436359",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

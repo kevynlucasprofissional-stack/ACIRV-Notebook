@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Jon"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756481571256,
+      "content": "O link: \n\nhttps://linktr.ee/acirv.festivais?utm_source=linktree_profile_share&ltsid=48413acd-975a-4a48-8105-a5457453c8d5",
+      "share": {
+        "link": "https://linktr.ee/acirv.festivais?utm_source=linktree_profile_share&ltsid=48413acd-975a-4a48-8105-a5457453c8d5",
+        "share_text": "O link: \n\nhttps://linktr.ee/acirv.festivais?utm_source=linktree_profile_share&ltsid=48413acd-975a-4a48-8105-a5457453c8d5"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jon",
+      "timestamp_ms": 1756480575418,
+      "content": "Musica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jon",
+      "timestamp_ms": 1756480572142,
+      "content": "De adulto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756478354971,
+      "content": "Ol\u00c3\u00a1, bom dia! Agradecemos o contato. No caso, qual festival pretende participar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jon",
+      "timestamp_ms": 1756474244737,
+      "content": "Qualquer um pode participar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jon",
+  "is_still_participant": true,
+  "thread_path": "inbox/jon_1763397591721603",
+  "magic_words": [
+    
+  ]
+}

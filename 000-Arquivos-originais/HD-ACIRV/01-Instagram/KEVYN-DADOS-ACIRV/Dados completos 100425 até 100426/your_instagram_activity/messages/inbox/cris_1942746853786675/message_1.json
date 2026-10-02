@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u008d\u0080Cris\u00f0\u009f\u008d\u0080"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u008d\u0080Cris\u00f0\u009f\u008d\u0080",
+      "timestamp_ms": 1773750506133,
+      "content": "Ah t\u00c3\u00a1 obg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773749548380,
+      "content": "N\u00c3\u00a3o, n\u00c3\u00a3o \u00c3\u00a9 este evento.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773749542038,
+      "content": "Opa, bom dia!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008d\u0080Cris\u00f0\u009f\u008d\u0080",
+      "timestamp_ms": 1773681941551,
+      "content": "Esse evento q vai ter a palestrante Lorena dona da Glossy l\u00c3\u00a1 de Goi\u00c3\u00a2nia ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u008d\u0080Cris\u00f0\u009f\u008d\u0080",
+      "timestamp_ms": 1773681729416,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3854075972161472039",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u008d\u0080Cris\u00f0\u009f\u008d\u0080",
+  "is_still_participant": true,
+  "thread_path": "inbox/cris_1942746853786675",
+  "magic_words": [
+    
+  ]
+}

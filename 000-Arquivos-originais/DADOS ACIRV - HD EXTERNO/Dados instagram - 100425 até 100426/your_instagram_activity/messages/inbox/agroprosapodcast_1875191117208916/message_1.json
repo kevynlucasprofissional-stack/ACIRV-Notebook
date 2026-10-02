@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Agro & Prosa PodCast"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Agro & Prosa PodCast",
+      "timestamp_ms": 1767111611091,
+      "content": "Agro enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DS4jgZqChbI/?id=3798942443887007432_28886952746",
+        "share_text": "Em entrevista ao Agro e Prosa, Jos\u00c3\u00a9 Carlos Cintra, presidente da ACIRV, destaca que o crescimento de Rio Verde est\u00c3\u00a1 diretamente ligado \u00c3\u00a0 atua\u00c3\u00a7\u00c3\u00a3o conjunta das entidades representativas do agro e do setor produtivo.\n\nEle relembra o papel decisivo da Associa\u00c3\u00a7\u00c3\u00a3o Comercial na instala\u00c3\u00a7\u00c3\u00a3o da Perdig\u00c3\u00a3o em Rio Verde, atuando como mediadora em um momento em que governo municipal e estadual n\u00c3\u00a3o dialogavam.\n\nSegundo Cintra, cooperativa forte, associa\u00c3\u00a7\u00c3\u00a3o comercial forte e sindicato rural atuante s\u00c3\u00a3o pilares que fazem de Rio Verde uma refer\u00c3\u00aancia em Goi\u00c3\u00a1s inclusive com a cria\u00c3\u00a7\u00c3\u00a3o pioneira do CODERV, conselho que re\u00c3\u00bane mais de 40 entidades para pensar o desenvolvimento do munic\u00c3\u00adpio.\n\n#AgroEProsa #RioVerdeGO #Agroneg\u00c3\u00b3cio #DesenvolvimentoRegional #ACIRV #EntidadesFortes #AgroQueTransforma #Economia #Cooperativismo #ProsaQueConstr\u00c3\u00b3i",
+        "original_content_owner": "agroeprosa"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Agro & Prosa PodCast",
+  "is_still_participant": true,
+  "thread_path": "inbox/agroprosapodcast_1875191117208916",
+  "magic_words": [
+    
+  ]
+}

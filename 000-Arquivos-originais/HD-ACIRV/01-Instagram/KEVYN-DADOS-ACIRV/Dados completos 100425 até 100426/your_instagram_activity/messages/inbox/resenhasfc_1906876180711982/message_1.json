@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Resenhas FC"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Resenhas FC",
+      "timestamp_ms": 1765890085619,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765890038305,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Resenhas FC"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DSUuyaRjeIi/?carousel_share_child_media_id=3788858960850575906_6027695835",
+        "share_text": "O esporte feminino segue fazendo hist\u00c3\u00b3ria em Goi\u00c3\u00a1s! \u00e2\u009a\u00bd\u00e2\u009c\u00a8\n\nO Resenhas FC conquista o Pentacampeonato Goiano 2025, resultado de talento, dedica\u00c3\u00a7\u00c3\u00a3o e trabalho em equipe.\n\nA ACIRV parabeniza o time e reafirma seu apoio a iniciativas que promovem representatividade, desenvolvimento social e inspira\u00c3\u00a7\u00c3\u00a3o para toda a comunidade. \u00f0\u009f\u0092\u0099\u00f0\u009f\u0092\u009b\u00f0\u009f\u008f\u0086\n\nAgradecimento especial \u00c3\u00a0 @keniasleite, presidente do @resenhasfc10, pela lideran\u00c3\u00a7a, vis\u00c3\u00a3o e compromisso com o fortalecimento do futebol feminino de Rio Verde.\n\n#ACIRVapoia #rioverde #futebolfeminino #associe",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Resenhas FC",
+  "is_still_participant": true,
+  "thread_path": "inbox/resenhasfc_1906876180711982",
+  "magic_words": [
+    
+  ]
+}

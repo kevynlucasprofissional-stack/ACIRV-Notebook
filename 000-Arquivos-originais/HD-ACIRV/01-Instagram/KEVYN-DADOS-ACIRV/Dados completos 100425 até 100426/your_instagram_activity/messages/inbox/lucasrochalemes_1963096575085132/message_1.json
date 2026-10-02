@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Rocha Lemes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768328688763,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3809339417920667880"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Rocha Lemes",
+      "timestamp_ms": 1768328213516,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1768308547937,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3809170418868009315"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucas Rocha Lemes",
+      "timestamp_ms": 1768305111689,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas Rocha Lemes",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucasrochalemes_1963096575085132",
+  "magic_words": [
+    
+  ]
+}

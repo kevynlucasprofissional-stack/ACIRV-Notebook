@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Geraldo Garcia De Andrade"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751110619415,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664903666759547173"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751110578266,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664903592612586819"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geraldo Garcia De Andrade",
+      "timestamp_ms": 1751082169793,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geraldo Garcia De Andrade",
+      "timestamp_ms": 1751081995749,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Geraldo Garcia De Andrade",
+  "is_still_participant": true,
+  "thread_path": "inbox/geraldogarciadeandrade_754512702615744",
+  "magic_words": [
+    
+  ]
+}

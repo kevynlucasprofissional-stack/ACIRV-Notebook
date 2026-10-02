@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "ALERGFIT"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751079842291,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664645499412343395"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ALERGFIT",
+      "timestamp_ms": 1751066204412,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ALERGFIT",
+      "timestamp_ms": 1751065751997,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ALERGFIT",
+  "is_still_participant": true,
+  "thread_path": "inbox/alergfit_1083324533062249",
+  "magic_words": [
+    
+  ]
+}

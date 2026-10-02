@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "ESPA\u00c3\u0087O CAPITAL COWORKING"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ESPA\u00c3\u0087O CAPITAL COWORKING",
+      "timestamp_ms": 1772040795673,
+      "content": "ESPA\u00c3\u0087O enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DVMHGjtEQh2/?id=3840475819219683446_7808659123",
+        "share_text": "Mar\u00c3\u00a7o \u00c3\u00a9 delas. E o palco tamb\u00c3\u00a9m.\u00f0\u009f\u008c\u00b8\u00e2\u009c\u00a8\n\nSe voc\u00c3\u00aa \u00c3\u00a9 mulher e lidera um projeto, palestra, workshop ou encontro que transforma vidas em Rio Verde \u00e2\u0080\u0093 GO, o nosso audit\u00c3\u00b3rio pode ser o espa\u00c3\u00a7o que faltava para sua ideia ganhar movimento! \u00f0\u009f\u0092\u009a\n\nSer\u00c3\u00a3o selecionados at\u00c3\u00a9 3 eventos gratuitos ao longo do m\u00c3\u00aas de mar\u00c3\u00a7o.\n\n\u00e2\u009a\u00a0\u00ef\u00b8\u008f Exclusivo para eventos liderados por mulheres.\n\u00f0\u009f\u0097\u0093\u00ef\u00b8\u008f Inscri\u00c3\u00a7\u00c3\u00b5es at\u00c3\u00a9 15 de mar\u00c3\u00a7o de 2026.\n\u00f0\u009f\u0094\u0097 Inscreva-se pelo link na bio.\n\n\u00e2\u009c\u00a8 Porque quando uma mulher ocupa o espa\u00c3\u00a7o certo, ela transforma tudo ao redor.\n\n#mesdamulher #mulheresqueinspiram #espa\u00c3\u00a7ocapital #rioverdegoias #eventosrioverde",
+        "original_content_owner": "espaco_capital"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1746807802377,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3628809291075845867"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ESPA\u00c3\u0087O CAPITAL COWORKING",
+      "timestamp_ms": 1746801814235,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ESPA\u00c3\u0087O CAPITAL COWORKING",
+  "is_still_participant": true,
+  "thread_path": "inbox/espacocapitalcoworking_566379804756727",
+  "magic_words": [
+    
+  ]
+}

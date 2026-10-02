@@ -1,0 +1,17 @@
+{
+  "monetization_content_appreciation": [
+    {
+      "string_map_data": {
+        "Hora de aceitar os Termos de Servi\u00c3\u00a7o": {
+          "timestamp": 1755958823
+        },
+        "O usu\u00c3\u00a1rio viu a tela da pr\u00c3\u00a9via de integra\u00c3\u00a7\u00c3\u00a3o": {
+          "value": "Verdadeiro"
+        },
+        "Data e hora de visualiza\u00c3\u00a7\u00c3\u00a3o da tela de confirma\u00c3\u00a7\u00c3\u00a3o da integra\u00c3\u00a7\u00c3\u00a3o": {
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

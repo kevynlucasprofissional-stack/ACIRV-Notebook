@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Adriana Melo | Mimos da Dri"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761864664226,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3755115183824769870"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adriana Melo | Mimos da Dri",
+      "timestamp_ms": 1761862082290,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Adriana Melo | Mimos da Dri",
+      "timestamp_ms": 1750198317090,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adriana Melo | Mimos da Dri",
+  "is_still_participant": true,
+  "thread_path": "inbox/adrianamelomimosdadri_1699962721398424",
+  "magic_words": [
+    
+  ]
+}

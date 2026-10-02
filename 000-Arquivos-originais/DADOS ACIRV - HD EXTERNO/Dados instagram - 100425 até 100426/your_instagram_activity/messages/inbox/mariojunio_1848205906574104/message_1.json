@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "M\u00c3\u00a1rio J\u00c3\u00banio"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M\u00c3\u00a1rio J\u00c3\u00banio",
+      "timestamp_ms": 1764299576004,
+      "share": {
+        "link": "https://www.instagram.com/stories/soumariojunio/3775540780237356038"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "M\u00c3\u00a1rio J\u00c3\u00banio",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariojunio_1848205906574104",
+  "magic_words": [
+    
+  ]
+}

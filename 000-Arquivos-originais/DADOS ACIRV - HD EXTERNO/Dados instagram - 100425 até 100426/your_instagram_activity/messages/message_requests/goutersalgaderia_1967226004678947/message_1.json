@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "GO\u00c3\u009bTER  -   \u00f0\u009f\u00a5\u0090 salgaderia \u00f0\u009f\u00a5\u0090"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GO\u00c3\u009bTER  -   \u00f0\u009f\u00a5\u0090 salgaderia \u00f0\u009f\u00a5\u0090",
+      "timestamp_ms": 1771003352115,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GO\u00c3\u009bTER  -   \u00f0\u009f\u00a5\u0090 salgaderia \u00f0\u009f\u00a5\u0090",
+      "timestamp_ms": 1771003350831,
+      "content": "Ol\u00c3\u00a1...\nSomos a Go\u00c3\u00bbter - salgaderia -\n\nOferecemos diversos sabores de mini salgadinhos fritos e assados para festas de anivers\u00c3\u00a1rio, reuni\u00c3\u00b5es, cofee break e confraterniza\u00c3\u00a7\u00c3\u00b5es diversas ... Tudo feito com ingredientes de qualidade, higiene e sabores incr\u00c3\u00adveis! \nContate - nos : (64) 99290 - 4425\n\"Go\u00c3\u00bbter... afagos de poesia em forma de sabores \"\nhttps://www.instagram.com/gouter.deliceria.go?igsh=MTViN3hrMjV5YzV0MA==",
+      "share": {
+        "link": "https://www.instagram.com/_u/gouter.deliceria.go",
+        "profile_share_username": "gouter.deliceria.go",
+        "profile_share_name": "GO\u00c3\u009bTER  -   \u00f0\u009f\u00a5\u0090 salgaderia \u00f0\u009f\u00a5\u0090"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GO\u00c3\u009bTER  -   \u00f0\u009f\u00a5\u0090 salgaderia \u00f0\u009f\u00a5\u0090",
+  "is_still_participant": true,
+  "thread_path": "message_requests/goutersalgaderia_1967226004678947",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

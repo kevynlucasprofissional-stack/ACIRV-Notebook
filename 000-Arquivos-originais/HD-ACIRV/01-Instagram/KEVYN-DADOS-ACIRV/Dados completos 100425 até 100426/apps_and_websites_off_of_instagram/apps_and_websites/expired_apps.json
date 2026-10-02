@@ -1,0 +1,32 @@
+{
+  "apps_and_websites_expired_apps": [
+    {
+      "title": "Reportei-IG",
+      "string_map_data": {
+        "Expired on": {
+          "timestamp": 1770257591
+        },
+        "Last active on": {
+          "timestamp": 1762481591
+        },
+        "App user ID": {
+          "value": "25601563126116145"
+        }
+      }
+    },
+    {
+      "title": "Akece-IG",
+      "string_map_data": {
+        "Expired on": {
+          "timestamp": 1768938853
+        },
+        "Last active on": {
+          "timestamp": 1761162853
+        },
+        "App user ID": {
+          "value": "23957598473910460"
+        }
+      }
+    }
+  ]
+}

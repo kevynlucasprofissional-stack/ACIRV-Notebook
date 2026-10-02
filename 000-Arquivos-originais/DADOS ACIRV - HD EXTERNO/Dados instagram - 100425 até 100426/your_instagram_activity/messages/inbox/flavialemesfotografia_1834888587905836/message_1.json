@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Fl\u00c3\u00a1via Lemes  FOTOGRAFIA"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772045347800,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3840517142911993142"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772045342735,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3840517101153528443"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fl\u00c3\u00a1via Lemes  FOTOGRAFIA",
+      "timestamp_ms": 1772044744336,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fl\u00c3\u00a1via Lemes  FOTOGRAFIA",
+      "timestamp_ms": 1772044718651,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762953615531,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3764250173858712086"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fl\u00c3\u00a1via Lemes  FOTOGRAFIA",
+      "timestamp_ms": 1762952094765,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fl\u00c3\u00a1via Lemes  FOTOGRAFIA",
+  "is_still_participant": true,
+  "thread_path": "inbox/flavialemesfotografia_1834888587905836",
+  "magic_words": [
+    
+  ]
+}

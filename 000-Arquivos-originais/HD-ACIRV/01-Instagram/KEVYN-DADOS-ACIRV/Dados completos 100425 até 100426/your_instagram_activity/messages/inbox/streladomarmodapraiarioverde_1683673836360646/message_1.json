@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Strela do Mar Moda Praia | Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1748531916982,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3643272195758008392"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Strela do Mar Moda Praia | Rio Verde",
+      "timestamp_ms": 1748529376384,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Strela do Mar Moda Praia | Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/streladomarmodapraiarioverde_1683673836360646",
+  "magic_words": [
+    
+  ]
+}

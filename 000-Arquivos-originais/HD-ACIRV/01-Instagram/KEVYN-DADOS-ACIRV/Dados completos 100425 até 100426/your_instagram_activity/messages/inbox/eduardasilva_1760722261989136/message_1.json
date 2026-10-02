@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Eduarda Silva"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756216170509,
+      "content": "Ol\u00c3\u00a1, bom dia! Vou te passar o contato do departamento respons\u00c3\u00a1vel para que voc\u00c3\u00aa possa fazer seu agendamento. O telefone \u00c3\u00a9 (64) 99233-2708 e a pessoa que ir\u00c3\u00a1 te atender \u00c3\u00a9 a nossa colaboradora Naiara. Abra\u00c3\u00a7os e seguimos \u00c3\u00a0 disposi\u00c3\u00a7\u00c3\u00a3o.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduarda Silva",
+      "timestamp_ms": 1756212106974,
+      "content": "Voc\u00c3\u00aas tem hor\u00c3\u00a1rio \u00c3\u00a0s 13:20?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduarda Silva",
+      "timestamp_ms": 1756212100950,
+      "content": "Eu estou precisando fazer um certificado digital.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduarda Silva",
+      "timestamp_ms": 1756212092164,
+      "content": "Ol\u00c3\u00a1, bom dia. \nTudo bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eduarda Silva",
+  "is_still_participant": true,
+  "thread_path": "inbox/eduardasilva_1760722261989136",
+  "magic_words": [
+    
+  ]
+}

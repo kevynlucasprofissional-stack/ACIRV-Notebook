@@ -1,0 +1,44 @@
+{
+  "shortcode": "DcmUAaAG3Pi",
+  "url": "https://www.instagram.com/acirvoficial/p/DcmUAaAG3Pi/",
+  "data_publicacao": "2026-08-28",
+  "hora_publicacao": "18:19:43",
+  "tipo_midia": "foto",
+  "autor": "acirvoficial",
+  "legenda": "O registro marca a entrega do convite oficial à BRF. Ter a MBRF como visitante da #SudoExpo irá enriquecer o evento e ampliar o impacto positivo que a feira irá trazer para a cidade. Agradecemos a confiança. Aqui tudo vira negócio.",
+  "status_data": "CONFIRMADA",
+  "status_insights": "OK",
+  "erro": null,
+  "coletado_em": "2026-09-04T00:50:00-03:00",
+  "fonte": "instagram.com/insights/media/3973951710050350050/",
+  "secoes": [
+    {"secao": "Visualizações", "metricas": [
+      ["Visualizações", "2.783"],
+      ["Seguidores", "70.3%"],
+      ["Não seguidores", "29.7%"],
+      ["Na página inicial", "2.602"],
+      ["No perfil", "179"],
+      ["De outra pessoa", "2"],
+      ["Visualizadores", "1.483"]
+    ]},
+    {"secao": "Interações", "metricas": [
+      ["Interações", "75"],
+      ["Seguidores", "48%"],
+      ["Não seguidores", "52%"],
+      ["Interações com posts", "75"],
+      ["Curtidas", "71"],
+      ["Salvamentos", "2"],
+      ["Compartilhamentos", "1"],
+      ["Comentários", "0"],
+      ["Contas com engajamento", "73"]
+    ]},
+    {"secao": "Perfil", "metricas": [
+      ["Atividade do perfil", "31"],
+      ["Visitas ao perfil", "26"],
+      ["Toques em links externos", "5"],
+      ["Toques no endereço comercial", "0"],
+      ["Seguidores", "0"]
+    ]}
+  ],
+  "nota": "71 likes publicos no post."
+}

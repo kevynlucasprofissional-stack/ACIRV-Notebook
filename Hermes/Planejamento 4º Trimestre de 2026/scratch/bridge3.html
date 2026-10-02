@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head><meta charset="utf-8"><title>cards-bridge</title></head>
+<body>
+<p id="s">carregando…</p>
+<script>
+(async () => {
+  const s = document.getElementById('s');
+  const f = new URLSearchParams(location.search).get('f') || 'cards_payload.json';
+  try {
+    const r = await fetch('/' + f, {cache: 'no-store'});
+    const j = await r.json();
+    const payload = '__CARDS__' + JSON.stringify(j);
+    window.name = payload;
+    s.textContent = 'OK window.name=' + payload.length + ' chars | itens=' + (Array.isArray(j) ? j.length : Object.keys(j).length);
+  } catch (e) {
+    s.textContent = 'ERRO: ' + e.message;
+  }
+})();
+</script>
+</body>
+</html>

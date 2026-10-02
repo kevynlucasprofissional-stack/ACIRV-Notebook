@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Frank"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772541314017,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3844657950745293253"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772541270364,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3844657950745293253"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Frank",
+  "is_still_participant": true,
+  "thread_path": "inbox/frank_1813173866752989",
+  "magic_words": [
+    
+  ]
+}

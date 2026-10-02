@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Dequalita Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755270207176,
+      "content": "Ol\u00c3\u00a1, bom dia! A ACIRV est\u00c3\u00a1 apenas ajudando na divulga\u00c3\u00a7\u00c3\u00a3o do evento, que \u00c3\u00a9 organizado pela ACIJ, em Jata\u00c3\u00ad. Entre em contato com a equipe deles, que poder\u00c3\u00a3o lhe tirar d\u00c3\u00bavidas. O perfil deles \u00c3\u00a9: @acijoficial. Bom evento!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dequalita Rio Verde",
+      "timestamp_ms": 1755203974798,
+      "content": "Obrigado!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dequalita Rio Verde",
+      "timestamp_ms": 1755203972607,
+      "content": "como ir\u00c3\u00a1 funcionar o summit expo jatai?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dequalita Rio Verde",
+      "timestamp_ms": 1755203952366,
+      "content": "boa tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dequalita Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/dequalitarioverde_1750332849694744",
+  "magic_words": [
+    
+  ]
+}

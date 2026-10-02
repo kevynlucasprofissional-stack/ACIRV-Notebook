@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"n1","type":"file","file":"06-Pessoas-e-Stakeholders/Mapa-de-Stakeholders.md","x":600,"y":120,"width":360,"height":260},
+		{"id":"n2","type":"file","file":"06-Pessoas-e-Stakeholders/Kevyn-Comunicacao.md","x":0,"y":-160,"width":340,"height":240},
+		{"id":"n3","type":"file","file":"06-Pessoas-e-Stakeholders/VCOM.md","x":0,"y":200,"width":340,"height":240},
+		{"id":"n4","type":"file","file":"06-Pessoas-e-Stakeholders/Diretoria-e-Presidencia.md","x":1200,"y":-160,"width":340,"height":240},
+		{"id":"n5","type":"file","file":"06-Pessoas-e-Stakeholders/FACIEG-e-Rede-Associativa.md","x":1200,"y":200,"width":340,"height":240},
+		{"id":"n6","type":"file","file":"02-Operacao-e-Processos/Governanca-de-Aprovacoes.md","x":600,"y":-260,"width":360,"height":240},
+		{"id":"n7","type":"file","file":"04-Conteudo-Canais-e-Imprensa/WhatsApp-e-Comunicacao-Segmentada.md","x":600,"y":500,"width":360,"height":240},
+		{"id":"t1","type":"text","text":"O mapa mostra funções de relacionamento; não hierarquia pessoal.","x":430,"y":-500,"width":720,"height":100}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"n2","toNode":"n1","fromSide":"right","toSide":"left","label":"opera"},
+		{"id":"e2","fromNode":"n3","toNode":"n1","fromSide":"right","toSide":"left","label":"participa"},
+		{"id":"e3","fromNode":"n1","toNode":"n4","fromSide":"right","toSide":"left","label":"contextualiza"},
+		{"id":"e4","fromNode":"n1","toNode":"n5","fromSide":"right","toSide":"left","label":"contextualiza"},
+		{"id":"e5","fromNode":"n6","toNode":"n1","fromSide":"right","toSide":"left","label":"governa"},
+		{"id":"e6","fromNode":"n1","toNode":"n7","fromSide":"right","toSide":"left","label":"segmenta"}
+	]
+}

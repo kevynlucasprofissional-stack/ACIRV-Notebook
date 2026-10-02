@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0091\u00b3\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0093\u00f0\u009d\u0092\u0082 \u00f0\u009d\u0091\u00ba\u00f0\u009d\u0092\u0090\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0093\u00f0\u009d\u0092\u0086\u00f0\u009d\u0092\u0094 \u00e2\u0099\u00a1"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770902246476,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3830928121357236574"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00b3\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0093\u00f0\u009d\u0092\u0082 \u00f0\u009d\u0091\u00ba\u00f0\u009d\u0092\u0090\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0093\u00f0\u009d\u0092\u0086\u00f0\u009d\u0092\u0094 \u00e2\u0099\u00a1",
+      "timestamp_ms": 1770900685559,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0091\u00b3\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0093\u00f0\u009d\u0092\u0082 \u00f0\u009d\u0091\u00ba\u00f0\u009d\u0092\u0090\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0093\u00f0\u009d\u0092\u0086\u00f0\u009d\u0092\u0094 \u00e2\u0099\u00a1",
+  "is_still_participant": true,
+  "thread_path": "inbox/larasoares_1914179079976786",
+  "magic_words": [
+    
+  ]
+}

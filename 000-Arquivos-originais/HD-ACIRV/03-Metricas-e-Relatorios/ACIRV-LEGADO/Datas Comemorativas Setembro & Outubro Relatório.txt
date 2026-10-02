@@ -1,0 +1,135 @@
+Relatório de pacote
+
+-----------------------------------------------------------------------------
+Documento:
+Nome: Datas Comemorativas Setembro & Outubro.ai
+Modo de cor: Cor RGB
+Perfil de cor: sRGB IEC61966-2.1
+Unidades da régua: pixels
+Dimensões da prancheta: 1080 px x 1080 px
+Mostrar imagens no modo de contorno: DESATIVADO
+Realçar fontes substituídas: DESATIVADO
+Realçar glifos substituídos: DESATIVADO
+Preservar capacidade de edição do texto
+Simular papel colorido: DESATIVADO
+
+-----------------------------------------------------------------------------
+Objetos de cor especial:
+
+-----------------------------------------------------------------------------
+Fontes ausentes:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes protegidas que não foram empacotadas:
+Adore You Slanted (Fontes da Adobe)
+
+-----------------------------------------------------------------------------
+Fontes:
+Alessio (OTF)
+Lil Johnny PERSONAL USE ONLY Regular (TrueType)
+Myriad Pro (OTF)
+Azo Sans Bold (OTF)
+Azo Sans Black (OTF)
+Azo Sans Medium (OTF)
+Azo Sans Light (OTF)
+Azo Sans Regular (OTF)
+
+-----------------------------------------------------------------------------
+Fontes incorporadas:
+NENHUM
+
+-----------------------------------------------------------------------------
+Vínculos ausentes:
+NENHUM
+
+-----------------------------------------------------------------------------
+Imagens vinculadas:
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Links\BG 02.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 8100K, 1080 por 1920 pixels
+Dimensões: 1080 por 1920 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Datas Comemorativas Setembro & Outubro\LINKS\BG 08.psd
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 8100K, 1080 por 1920 pixels
+Dimensões: 1080 por 1920 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Datas Comemorativas Setembro & Outubro\LINKS\BG 04.psd
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 6075K, 1080 por 1920 pixels
+Dimensões: 1080 por 1920 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Datas Comemorativas Setembro & Outubro\LINKS\Background 02.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 8100K, 1080 por 1920 pixels
+Dimensões: 1080 por 1920 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Datas Comemorativas Setembro & Outubro\LINKS\Background.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Datas Comemorativas Setembro & Outubro\LINKS\BG 03.psd
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 3417K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Datas Comemorativas Setembro & Outubro\LINKS\BG 01.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Datas Comemorativas Setembro & Outubro\LINKS\BG 02.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 8100K, 1080 por 1920 pixels
+Dimensões: 1080 por 1920 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Datas Comemorativas Setembro & Outubro\LINKS\BG 03.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada
+
+
+C:\Users\User\Documents\PEDRO\2023\ACIRV\Datas Comemorativas\Links\BG 01.png
+Tipo: RGB transparente
+Bits por pixel: 32
+Canais: 4
+Tamanho: 4556K, 1080 por 1080 pixels
+Dimensões: 1080 por 1080 pontos 
+Resolução: 72 por 72 pixels por polegada

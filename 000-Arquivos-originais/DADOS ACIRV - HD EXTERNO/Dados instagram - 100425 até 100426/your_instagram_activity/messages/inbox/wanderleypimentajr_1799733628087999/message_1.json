@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Wanderley Pimenta Jr."
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759952705225,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759949049237,
+      "content": "Oi, sou o Rioverdense, o assistente da ACIRV. Como posso ajudar voc\u00c3\u00aa hoje? Qual \u00c3\u00a9 a sua pergunta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wanderley Pimenta Jr.",
+      "timestamp_ms": 1759949044938,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759942503194,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759938707497,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados. Sugiro que voc\u00c3\u00aa entre em contato com a ACIRV para verificar se h\u00c3\u00a1 alguma chance de reabertura de vagas.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wanderley Pimenta Jr.",
+      "timestamp_ms": 1759938699525,
+      "content": "Ol\u00c3\u00a1 vim escutando a reportagem do conecta por\u00c3\u00a9m quando fui fazer a inscri\u00c3\u00a7\u00c3\u00a3o j\u00c3\u00a1 foram encerradas , h\u00c3\u00a1 possibilidade para abrir alguma vaga ? Caso seja poss\u00c3\u00advel favor me informar \nWanderley - Alvo Agr\u00c3\u00adcola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wanderley Pimenta Jr.",
+  "is_still_participant": true,
+  "thread_path": "inbox/wanderleypimentajr_1799733628087999",
+  "magic_words": [
+    
+  ]
+}

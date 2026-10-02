@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    },
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "Lucas Bezerra"
+    },
+    {
+      "name": "Leonardo jose da Silva"
+    },
+    {
+      "name": "Gustavo De Assis"
+    },
+    {
+      "name": "Viviane Lorencato"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1765653876382,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1765653875752,
+      "content": "Ol\u00c3\u00a1, sou gerente na  W1-777\u00f0\u009f\u008e\u00b0. Estamos em busca de excelentes parceiros para promover nossa plataforma. Convidamos voc\u00c3\u00aa a se ju de pagamento de r $900 a r $1500.  Ent\u00c3\u00a3o eu estou entrando em contato agora atrav\u00c3\u00a9s do instagram.  Est\u00c3\u00a1s interessado?  Contacte-nos pelo WhatsApp :+17207992210",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1765653874182,
+      "content": "A contact created the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram, Lucas Bezerra, Leonardo jose da Silva and 2 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/usuariodoinstagramlucasbezerraleonardojosedasilvaand2others_1421094976298717",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbbZ40zuBUcoUtyp/"
+  },
+  "is_pending": true
+}

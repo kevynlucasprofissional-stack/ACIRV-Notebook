@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "C & A Tintas"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758118856989,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758118853673,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DOtNxL4jbyI/",
+        "share_text": "Mais uma empresa que chega para somar!\n\n\u00c3\u0089 com alegria que recebemos a\u00c2\u00a0Solu\u00c3\u00a7\u00c3\u00b5es Pinturas (@cea_tintasrv)\u00c2\u00a0como mais nova associada da ACIRV!\n\nCom uma equipe dedicada e apaixonada pelo que faz, a empresa atua no segmento de pintura\u00c2\u00a0residencial, comercial e industrial, oferecendo solu\u00c3\u00a7\u00c3\u00b5es completas com qualidade e aten\u00c3\u00a7\u00c3\u00a3o aos detalhes. \u00c3\u0089 aquela empresa que transforma ambientes e supera expectativas!\n\nSejam muito bem-vindos! Estamos felizes em caminhar juntos por mais desenvolvimento e conex\u00c3\u00b5es s\u00c3\u00b3lidas.\n\n#ACIRVNovoAssociado #Solu\u00c3\u00a7\u00c3\u00b5esPinturas #Pinturas #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "C & A Tintas",
+  "is_still_participant": true,
+  "thread_path": "inbox/catintas_1779809593413736",
+  "magic_words": [
+    
+  ]
+}

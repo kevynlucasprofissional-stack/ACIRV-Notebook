@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Senac Goi\u00c3\u00a1s - Perfil Oficial"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755522763785,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3701908619063182013"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747137695129,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DJl87P7NT1R/",
+        "share_text": "CONVITE ESPECIAL \n\nParticipe do 1\u00c2\u00ba I.A.R.V. \u00e2\u0080\u0093 Senac Infinite, o primeiro evento de intelig\u00c3\u00aancia artificial promovido pelo Senac Rio Verde!\n\nData: Sexta-feira, 23 de maio\nHor\u00c3\u00a1rio: A partir das 18h (credenciamento)\nLocal: Audit\u00c3\u00b3rio Senac Rio Verde\nEvento gratuito \u00e2\u0080\u0093 Vagas limitadas!\n\nPrograma\u00c3\u00a7\u00c3\u00a3o:\n\t\u00e2\u0080\u00a2\tPalestra 1: Intelig\u00c3\u00aancia Artificial para Neg\u00c3\u00b3cios\n\t\u00e2\u0080\u00a2\tPalestra 2: Crie sua Pr\u00c3\u00b3pria Ferramenta de IA\n\nInscreva-se agora pelo link:\n[https://forms.office.com/r/EHgHiAigct\n\n\u00f0\u009f\u008c\u009fN\u00c3\u00a3o perca essa oportunidade de mergulhar no universo da tecnologia e inova\u00c3\u00a7\u00c3\u00a3o!",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Senac Goi\u00c3\u00a1s - Perfil Oficial",
+  "is_still_participant": true,
+  "thread_path": "inbox/senacgoiasperfiloficial_813207823407256",
+  "magic_words": [
+    
+  ]
+}

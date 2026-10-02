@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Lara Ribeiro"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lara Ribeiro",
+      "timestamp_ms": 1761491800386,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lara Ribeiro",
+  "is_still_participant": true,
+  "thread_path": "inbox/lararibeiro_1818600449534650",
+  "magic_words": [
+    
+  ]
+}

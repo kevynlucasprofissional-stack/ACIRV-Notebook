@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "LOJA DE BIQU\u00c3\u008dNIS"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LOJA DE BIQU\u00c3\u008dNIS",
+      "timestamp_ms": 1761829234746,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LOJA DE BIQU\u00c3\u008dNIS",
+      "timestamp_ms": 1761824320553,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LOJA DE BIQU\u00c3\u008dNIS",
+  "is_still_participant": true,
+  "thread_path": "inbox/lojadebiquinis_1821946302533398",
+  "magic_words": [
+    
+  ]
+}

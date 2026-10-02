@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jucil\u00c3\u00a9ia Garcia"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765575594253,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3786244745648564571"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jucil\u00c3\u00a9ia Garcia",
+      "timestamp_ms": 1765565363125,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jucil\u00c3\u00a9ia Garcia",
+  "is_still_participant": true,
+  "thread_path": "inbox/jucileiagarcia_1860580835336611",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "CM Ve\u00c3\u00adculos | Rio Verde Goi\u00c3\u00a1s"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CM Ve\u00c3\u00adculos | Rio Verde Goi\u00c3\u00a1s",
+      "timestamp_ms": 1764699349217,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CM Ve\u00c3\u00adculos | Rio Verde Goi\u00c3\u00a1s",
+      "timestamp_ms": 1764699341035,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764248446482,
+      "content": "Vai, sim! Claro! \nTodos os novos associados\u00e2\u0080\u00a6\nVoc\u00c3\u00aas ser\u00c3\u00a3o convidados em breve. \u00f0\u009f\u0092\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1764248376405,
+      "content": "Bom dia! :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CM Ve\u00c3\u00adculos | Rio Verde Goi\u00c3\u00a1s",
+      "timestamp_ms": 1764107196402,
+      "content": "Vou ter esse momento ?",
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3773694448329686167"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760558908447,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DP172fqkvbg/",
+        "share_text": "Mais uma grande empresa chega para somar com a ACIRV!\n\nTrata-se da CM Ve\u00c3\u00adculos (@cmveiculos.rv), empresa que se destaca no mercado goiano pela oferta de seminovos cuidadosamente selecionados, com proced\u00c3\u00aancia comprovada e garantia.\n\nAl\u00c3\u00a9m disso, oferece atendimento em todo o estado e condi\u00c3\u00a7\u00c3\u00b5es facilitadas de financiamento para quem quer realizar o sonho do carro ideal.\n\nSeja muito bem-vinda, fam\u00c3\u00adlia CM Ve\u00c3\u00adculos! \n\n#ACIRVassociados #ACIRVeCMVe\u00c3\u00adculos #SetorAutomotivo #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CM Ve\u00c3\u00adculos | Rio Verde Goi\u00c3\u00a1s",
+  "is_still_participant": true,
+  "thread_path": "inbox/cmveiculosrioverdegoias_1780970746630954",
+  "magic_words": [
+    
+  ]
+}

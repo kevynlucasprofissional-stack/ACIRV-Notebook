@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Maristela Carvalho/Mary Kay Rio Verde"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774527873810,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861341895708742427"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774527294316,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861336928352588719"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774525142630,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861319173268133041"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maristela Carvalho/Mary Kay Rio Verde",
+      "timestamp_ms": 1774523602310,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maristela Carvalho/Mary Kay Rio Verde",
+      "timestamp_ms": 1774521230584,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maristela Carvalho/Mary Kay Rio Verde",
+      "timestamp_ms": 1750183234574,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maristela Carvalho/Mary Kay Rio Verde",
+      "timestamp_ms": 1750117424639,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maristela Carvalho/Mary Kay Rio Verde",
+      "timestamp_ms": 1750117178940,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maristela Carvalho/Mary Kay Rio Verde",
+      "timestamp_ms": 1750117000805,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maristela Carvalho/Mary Kay Rio Verde",
+      "timestamp_ms": 1749135727248,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maristela Carvalho/Mary Kay Rio Verde",
+  "is_still_participant": true,
+  "thread_path": "inbox/maristelacarvalhomarykayrioverde_1351404882927728",
+  "magic_words": [
+    
+  ]
+}

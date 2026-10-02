@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Central Sementes Brasil"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Central Sementes Brasil",
+      "timestamp_ms": 1764241891533,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756209894349,
+      "content": "Agradecemos a parceria firmada e esperamos que seja um conv\u00c3\u00aanio de grande sucesso!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Central Sementes Brasil",
+      "timestamp_ms": 1756165503747,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Central Sementes Brasil",
+  "is_still_participant": true,
+  "thread_path": "inbox/centralsementesbrasil_1760253582036004",
+  "magic_words": [
+    
+  ]
+}

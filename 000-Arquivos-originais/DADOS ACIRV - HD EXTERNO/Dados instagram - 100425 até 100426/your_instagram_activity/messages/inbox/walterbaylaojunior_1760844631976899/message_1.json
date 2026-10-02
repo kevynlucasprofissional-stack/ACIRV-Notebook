@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Walter Bayl\u00c3\u00a3o J\u00c3\u00banior"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756231460680,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756225501125,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3707810641555896585"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Bayl\u00c3\u00a3o J\u00c3\u00banior",
+      "timestamp_ms": 1756222613086,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Bayl\u00c3\u00a3o J\u00c3\u00banior",
+      "timestamp_ms": 1756222612163,
+      "content": "Ficou sem \u00c3\u00a1udio meu fot\u00c3\u00b3grafo vai repostar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756222091388,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Bayl\u00c3\u00a3o J\u00c3\u00banior",
+      "timestamp_ms": 1756222041009,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Walter Bayl\u00c3\u00a3o J\u00c3\u00banior",
+  "is_still_participant": true,
+  "thread_path": "inbox/walterbaylaojunior_1760844631976899",
+  "magic_words": [
+    
+  ]
+}

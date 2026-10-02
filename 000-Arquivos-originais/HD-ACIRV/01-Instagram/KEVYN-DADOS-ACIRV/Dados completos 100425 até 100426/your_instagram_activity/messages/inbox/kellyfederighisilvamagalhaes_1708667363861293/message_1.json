@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Kelly Federighi Silva Magalh\u00c3\u00a3es"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kelly Federighi Silva Magalh\u00c3\u00a3es",
+      "timestamp_ms": 1751080284445,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Federighi Silva Magalh\u00c3\u00a3es",
+      "timestamp_ms": 1751080270852,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751079803882,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kelly Federighi Silva Magalh\u00c3\u00a3es"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664645428461505242"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Federighi Silva Magalh\u00c3\u00a3es",
+      "timestamp_ms": 1751078894591,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kelly Federighi Silva Magalh\u00c3\u00a3es",
+  "is_still_participant": true,
+  "thread_path": "inbox/kellyfederighisilvamagalhaes_1708667363861293",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jefferson Limonge"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751128509575,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3665054013482087240"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jefferson Limonge",
+      "timestamp_ms": 1751118046157,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jefferson Limonge",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeffersonlimonge_570347097693331",
+  "magic_words": [
+    
+  ]
+}

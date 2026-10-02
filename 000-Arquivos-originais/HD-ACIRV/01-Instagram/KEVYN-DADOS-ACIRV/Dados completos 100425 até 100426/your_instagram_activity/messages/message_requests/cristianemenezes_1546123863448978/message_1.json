@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Cristiane Menezes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cristiane Menezes",
+      "timestamp_ms": 1771108156532,
+      "content": "Ol\u00c3\u00a1 !\n\nGostaria de compartilhar com voc\u00c3\u00aa meu novo cart\u00c3\u00a3o de visitas digital.\n\nNele voc\u00c3\u00aa vai encontrar links diretos para acessar conte\u00c3\u00bados incr\u00c3\u00adveis, e claro, meu Whatsapp para facilitar nosso contato.\n\nAcesse o link abaixo:\n\nhttps://short.natura.com/rez2cwK\n\nObrigada(o)!",
+      "share": {
+        "link": "https://short.natura.com/rez2cwK",
+        "share_text": "Ol\u00c3\u00a1 !\n\nGostaria de compartilhar com voc\u00c3\u00aa meu novo cart\u00c3\u00a3o de visitas digital.\n\nNele voc\u00c3\u00aa vai encontrar links diretos para acessar conte\u00c3\u00bados incr\u00c3\u00adveis, e claro, meu Whatsapp para facilitar nosso contato.\n\nAcesse o link abaixo:\n\nhttps://short.natura.com/rez2cwK\n\nObrigada(o)!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristiane Menezes",
+  "is_still_participant": true,
+  "thread_path": "message_requests/cristianemenezes_1546123863448978",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

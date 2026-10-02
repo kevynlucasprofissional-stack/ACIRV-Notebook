@@ -1,0 +1,337 @@
+{
+  "main": {
+    "id": "36a99ad726ea8999",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c838575099d6ed9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef271564738212d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/0926 Melhorias Hermes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0926 Melhorias Hermes"
+            }
+          },
+          {
+            "id": "8d32146e5a7cd8f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Pesquisas ACIRV e outros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pesquisas ACIRV e outros"
+            }
+          },
+          {
+            "id": "e6ac2b7b7ddd4ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/210926 Reunião com equipe de Marketing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "210926 Reunião com equipe de Marketing"
+            }
+          },
+          {
+            "id": "ede0b74a5c10afa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/220926 Alterações no catálogo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "220926 Alterações no catálogo"
+            }
+          },
+          {
+            "id": "7abee55ae7dd6ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Pesquisa gamificada/Projeto de criar uma pesquisa gamificada para a ACIRV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projeto de criar uma pesquisa gamificada para a ACIRV"
+            }
+          },
+          {
+            "id": "d650e7c640100eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Dados associados 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dados associados 2026"
+            }
+          },
+          {
+            "id": "c5cdbb1a22c6d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Logos 3D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logos 3D"
+            }
+          },
+          {
+            "id": "0d74f9eef98017e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mais alguns prompts voltados a engenharia de software"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c3727b5da40ece4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb5036fd239a6e1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6034eea8940cdf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "95fec85fb98176c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c4eb6bd40cd0f986",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da9f8680d2f57ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f02d4c044d3795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81806a185758f904",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08-Agenda-e-Execucao/Planejamento de conteúdo da ACIRV - Agosto de 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Planejamento de conteúdo da ACIRV - Agosto de 2026"
+            }
+          },
+          {
+            "id": "be0e402fb934beea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 - Notas/090726 Release da Assembleia Geral da ACIRV.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 090726 Release da Assembleia Geral da ACIRV"
+            }
+          },
+          {
+            "id": "ba4982ce51e96dea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1d915424fabc2dff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "de6227a6c58fcc06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.0999755859375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "0d74f9eef98017e2",
+  "lastOpenFiles": [
+    "05-Metricas-e-Decisao/Diagnostico-Instagram-Agosto-Setembro-2026.md",
+    "85-Bases-e-Consultas/Instagram-Publicacoes-2026-09.xlsx",
+    "05-Metricas-e-Decisao/Base-Instagram-Setembro-2026.md",
+    "Hermes/instagram-insights/captura/setembro-2026/_qa_setembro.py",
+    "85-Bases-e-Consultas/LEIA-ME-Instagram-Insights.md",
+    "97-Fontes-Brutas/01-Indices/Fonte - Instagram Insights.md",
+    "Hermes/instagram-insights/README.md",
+    "Hermes/instagram-insights/captura/setembro-2026/_setembro_2026_116.jsonl",
+    "Hermes/instagram-insights/captura/agosto-2026/_backup_schemaA/DcUSK-YAmSq.json",
+    "Hermes/instagram-insights/captura/agosto-2026/_backup_schemaA/DcUJGqJG3tO.json",
+    "Hermes/instagram-insights/captura/agosto-2026/_backup_schemaA/DcUEyDAgrbq.json",
+    "Hermes/instagram-insights/captura/agosto-2026/_backup_schemaA/DcrgQC6gknC.json",
+    "Hermes/instagram-insights/captura/agosto-2026/_backup_schemaA/DcO_l7tAO80.json",
+    "Hermes/instagram-insights/captura/agosto-2026/_backup_schemaA/DcmUAaAG3Pi.json",
+    "Hermes/instagram-insights/captura/agosto-2026/_backup_schemaA/DcmSbnuG9E-.json",
+    "000-Arquivos-originais/Relatório de Agosto.md",
+    "000-Arquivos-originais/Logos 3D.md",
+    "000-Arquivos-originais/0926 Melhorias Hermes.md",
+    "000-Arquivos-originais/Pesquisas ACIRV e outros.md",
+    "000-Arquivos-originais/210926 Reunião com equipe de Marketing.md",
+    "000-Arquivos-originais/220926 Alterações no catálogo.md",
+    "000-Arquivos-originais/Pesquisa gamificada/Projeto de criar uma pesquisa gamificada para a ACIRV.md",
+    "000-Arquivos-originais/Dados associados 2026.md",
+    "000-Arquivos-originais/Pesquisa gamificada/Nuvem de palavras Open Source.md",
+    "ChatGPT/Ingestao-Agendada.md",
+    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+    "000-Arquivos-originais/Sem título.canvas",
+    "08-Agenda-e-Execucao/Reconciliacao-Backlog-SCRUM.md",
+    "01-Estrategia-e-Marca/Design-System-ACIRV.md",
+    "000-Arquivos-originais/#PESQUISA - Um estudo sobre a questão das pesquisas dentro da ACIRV.md",
+    "000-Arquivos-originais/PESQUISA - Um estudo sobre a questão das pesquisas dentro da ACIRV.md",
+    "000-Arquivos-originais/Um estudo sobre a questão das pesquisas dentro da ACIRV.md",
+    "000-Arquivos-originais/ChatGPT-Localizar briefings iniciais-20260923-1503.md",
+    "000-Arquivos-originais/A ACIRV do futuro.md",
+    "000-Arquivos-originais/Acelerar o fluxo de feedback é acelerar o fluxo de evolução..md",
+    "000-Arquivos-originais/Futuro do Marketing da ACIRV.md",
+    "000-Arquivos-originais/Contas e Senhas.md",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/raquelcardosoborges_1701542767907086/photos/2091270038060388.jpg",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/8917750451646207.png",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/8126765880759650.png",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/7896491403752078.png",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/28909078858691589.png",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/27364909699766555.png",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/message_requests/leandrovieira_1670796460981717/photos/1870657637031962.jpg",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/patinhasonlinerioverdego_876503642954031/photos/687505883979944.jpg",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/lucasbarrosoleosessenciais_1847646209963407/photos/1585875729229739.jpg",
+    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/lojakaranda_1959838948744132/photos/2197155757768322.png"
+  ]
+}

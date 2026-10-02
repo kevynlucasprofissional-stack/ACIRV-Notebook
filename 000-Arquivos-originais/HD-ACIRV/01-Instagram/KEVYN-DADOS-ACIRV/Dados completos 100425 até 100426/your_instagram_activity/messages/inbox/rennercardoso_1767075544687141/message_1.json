@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Renner Cardoso"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756858834672,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756855069132,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados. Posso ajudar voc\u00c3\u00aa com informa\u00c3\u00a7\u00c3\u00b5es sobre os servi\u00c3\u00a7os que a ACIRV oferece ou qualquer outro assunto relacionado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renner Cardoso",
+      "timestamp_ms": 1756855062559,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756855016496,
+      "content": "Por favor, me diga qual \u00c3\u00a9 a sua d\u00c3\u00bavida ou o que voc\u00c3\u00aa gostaria de saber!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renner Cardoso",
+      "timestamp_ms": 1756855012697,
+      "content": "Claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756854342311,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3713084979099281384"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756850823047,
+      "content": "Voc\u00c3\u00aa poderia me dar mais detalhes ou fazer uma pergunta espec\u00c3\u00adfica sobre isso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renner Cardoso",
+      "timestamp_ms": 1756850795277,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Renner Cardoso",
+  "is_still_participant": true,
+  "thread_path": "inbox/rennercardoso_1767075544687141",
+  "magic_words": [
+    
+  ]
+}

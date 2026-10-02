@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usu\u00c3\u00a1rio do Instagram",
+      "timestamp_ms": 1744642306598,
+      "content": "Ol\u00c3\u00a1, sou uma empresa de jogos de propriedade da PG. Estou procurando blogueiros influentes e de qualidade para co-promover esta plataforma de jogos. Se voc\u00c3\u00aa estiver interessado, Al\u00c3\u00a9m disso, o recrutamento de agentes exige trabalho em tempo integral e voc\u00c3\u00aa pode ganhar muito dinheiro.Entre em contato conosco pelo Telegram\u00ef\u00bc\u009ahttps://t.me/jsnt003",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "message_requests/usuariodoinstagram_1646777190050311",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Anna Carolina Fonseca Bailoni"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761166512566,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761162893290,
+      "content": "Essa informa\u00c3\u00a7\u00c3\u00a3o n\u00c3\u00a3o est\u00c3\u00a1 dispon\u00c3\u00advel na base de dados. Se voc\u00c3\u00aa quiser, posso passar o n\u00c3\u00bamero de contato da ACIRV para que voc\u00c3\u00aa possa falar diretamente com eles. O telefone \u00c3\u00a9 (64) 3620-0199.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna Carolina Fonseca Bailoni",
+      "timestamp_ms": 1761162892205,
+      "content": "You missed an audio call",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna Carolina Fonseca Bailoni",
+      "timestamp_ms": 1761162891383,
+      "content": "carolbailoni1 started an audio call",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna Carolina Fonseca Bailoni",
+      "timestamp_ms": 1761162886881,
+      "content": "Gostaria de falar com o respons\u00c3\u00a1vel que organiza os eventos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761162857307,
+      "content": "Oi! Estou aqui para ajudar. Como posso te ajudar hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anna Carolina Fonseca Bailoni",
+      "timestamp_ms": 1761162850881,
+      "content": "Ol\u00c3\u00a1 tudo bem ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anna Carolina Fonseca Bailoni",
+  "is_still_participant": true,
+  "thread_path": "inbox/annacarolinafonsecabailoni_1813200193408009",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Ktataurv"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758847825119,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758844185973,
+      "content": "Parece que voc\u00c3\u00aa est\u00c3\u00a1 mencionando hist\u00c3\u00b3rias ou postagens das redes sociais. Se precisar de informa\u00c3\u00a7\u00c3\u00b5es sobre a ACIRV ou sobre alguma empresa associada, estou aqui para ajudar! Qual \u00c3\u00a9 a sua d\u00c3\u00bavida?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ktataurv",
+      "timestamp_ms": 1758844180602,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758843961614,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3729775810371744021"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758843936356,
+      "content": "Agradecemos por acreditar em nossa associa\u00c3\u00a7\u00c3\u00a3o e pela parceria. Esperamos que tenha ainda mais sucesso em seus neg\u00c3\u00b3cios! \u00f0\u009f\u00ab\u00b1\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u00ab\u00b2\u00f0\u009f\u008f\u00be",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758843681545,
+      "content": "Ol\u00c3\u00a1! Eu sou o Rioverdense, o assistente da ACIRV. Como posso ajudar voc\u00c3\u00aa hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ktataurv",
+      "timestamp_ms": 1758843674744,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ktataurv",
+  "is_still_participant": true,
+  "thread_path": "inbox/ktataurv_1787528592641836",
+  "magic_words": [
+    
+  ]
+}

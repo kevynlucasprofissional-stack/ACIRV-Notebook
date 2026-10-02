@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Emilly Oliveira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    },
+    {
+      "name": "Ana Paula | Corretora de Im\u00c3\u00b3veis"
+    },
+    {
+      "name": "Amanda Maria"
+    },
+    {
+      "name": "Tiago Textor"
+    },
+    {
+      "name": "Barbara Eleuterio Oliveira"
+    },
+    {
+      "name": "Matheus Henrique"
+    },
+    {
+      "name": "Roberto Hara"
+    },
+    {
+      "name": "Carol Ferreira \u00e2\u0080\u00a2 Comunicadora | Dicas de sa\u00c3\u00bade bucal"
+    },
+    {
+      "name": "\u00f0\u009f\u0092\u0098I love you\u00f0\u009f\u0092\u0098\u00f0\u009f\u008c\u00b9\u00f0\u009f\u008c\u00b9\u00f0\u009f\u008c\u00b9\u00f0\u009f\u008c\u00b9\u00f0\u009f\u008c\u00b9"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joice Cabral",
+      "timestamp_ms": 1775050996651,
+      "content": "Joice Cabral left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emilly Oliveira, Ana Paula | Corretora de Im\u00c3\u00b3veis, Amanda Maria and 6 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/emillyoliveiraanapaulacorretoradeimoveisamandamariaand6others_1573115117114755",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

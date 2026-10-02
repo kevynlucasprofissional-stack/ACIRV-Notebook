@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Cinthia Le\u00c3\u00a3o"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cinthia Le\u00c3\u00a3o",
+      "timestamp_ms": 1763507045331,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cinthia Le\u00c3\u00a3o",
+  "is_still_participant": true,
+  "thread_path": "inbox/cinthialeao_1148387049889330",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Automais Mec\u00c3\u00a2nica"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Automais Mec\u00c3\u00a2nica",
+      "timestamp_ms": 1744298726810,
+      "content": "Boa tarde sou mec\u00c3\u00a2nico de oficina mec\u00c3\u00a2nica de carro. Se precisar de um mec\u00c3\u00a2nico para seu carro s\u00c3\u00b3 chama estou a disposi\u00c3\u00a7\u00c3\u00a3o. 64992236454",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Automais Mec\u00c3\u00a2nica",
+  "is_still_participant": true,
+  "thread_path": "message_requests/automaismecanica_1643323793728984",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,104 @@
+{
+  "apps_and_websites_off_meta_activity": [
+    {
+      "name": "doity.com.br",
+      "events": [
+        {
+          "id": 299369417064887,
+          "type": "PAGE_VIEW",
+          "timestamp": 1770380280
+        }
+      ]
+    },
+    {
+      "name": "fotto.com.br",
+      "events": [
+        {
+          "id": 1186966399254705,
+          "type": "PAGE_VIEW",
+          "timestamp": 1768159140
+        }
+      ]
+    },
+    {
+      "name": "Brendi",
+      "events": [
+        {
+          "id": 388865239015809,
+          "type": "CUSTOM",
+          "timestamp": 1766266980
+        }
+      ]
+    },
+    {
+      "name": "TripAdvisor",
+      "events": [
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1764464400
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1762937760
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1762352880
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1762335960
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1762248660
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1761730980
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1760494800
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1755579840
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1755575760
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1755432780
+        },
+        {
+          "id": 547333922434412,
+          "type": "CUSTOM",
+          "timestamp": 1755431700
+        }
+      ]
+    },
+    {
+      "name": "Canva",
+      "events": [
+        {
+          "id": 844585682227065,
+          "type": "CUSTOM",
+          "timestamp": 1761840660
+        }
+      ]
+    }
+  ]
+}

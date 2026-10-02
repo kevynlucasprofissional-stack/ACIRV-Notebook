@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Otamira Santos | Reabilita\u00c3\u00a7\u00c3\u00a3o cabe\u00c3\u00a7a e pesco\u00c3\u00a7o"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774549020668,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861519478723316727"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Otamira Santos | Reabilita\u00c3\u00a7\u00c3\u00a3o cabe\u00c3\u00a7a e pesco\u00c3\u00a7o",
+      "timestamp_ms": 1774533631450,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Otamira Santos | Reabilita\u00c3\u00a7\u00c3\u00a3o cabe\u00c3\u00a7a e pesco\u00c3\u00a7o",
+  "is_still_participant": true,
+  "thread_path": "inbox/otamirasantosreabilitacaocabecaepescoco_1956176262443734",
+  "magic_words": [
+    
+  ]
+}

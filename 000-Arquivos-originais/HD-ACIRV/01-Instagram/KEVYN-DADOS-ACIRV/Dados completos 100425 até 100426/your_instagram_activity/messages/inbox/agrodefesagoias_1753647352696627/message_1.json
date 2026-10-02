@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Agrodefesa Goias"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755540608740,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DNgYQRFNs9y/?carousel_share_child_media_id=3702065564667531122_6027695835",
+        "share_text": "A ADIRV (Associa\u00c3\u00a7\u00c3\u00a3o dos Distribuidores de Insumos de Rio Verde) promoveu o Dia Nacional do Campo Limpo, que premiou alunos do munic\u00c3\u00adpio em um concurso de desenhos e reda\u00c3\u00a7\u00c3\u00b5es sobre sustentabilidade e preserva\u00c3\u00a7\u00c3\u00a3o ambiental. O evento, realizado no audit\u00c3\u00b3rio do Senac, reuniu autoridades, professores, pais e estudantes.\n\nA ACIRV esteve representada pelo presidente Jos\u00c3\u00a9 Carlos Cintra e pelo vice-presidente de Agroneg\u00c3\u00b3cio Oswaldo Abud. Cintra ressaltou que a entidade j\u00c3\u00a1 atua com um vi\u00c3\u00a9s sustent\u00c3\u00a1vel h\u00c3\u00a1 anos e destacou a import\u00c3\u00a2ncia de incentivar a consci\u00c3\u00aancia ambiental desde cedo. Abud, por sua vez, lembrou da forte responsabilidade ambiental que o Brasil carrega e refor\u00c3\u00a7ou o apoio da ACIRV a iniciativas que promovem o cuidado com o meio ambiente.\n\n#ACIRVeventos #MeioAmbiente #Educa\u00c3\u00a7\u00c3\u00a3o #RioVerde",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755522765555,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3701908619063182013"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Agrodefesa Goias",
+  "is_still_participant": true,
+  "thread_path": "inbox/agrodefesagoias_1753647352696627",
+  "magic_words": [
+    
+  ]
+}

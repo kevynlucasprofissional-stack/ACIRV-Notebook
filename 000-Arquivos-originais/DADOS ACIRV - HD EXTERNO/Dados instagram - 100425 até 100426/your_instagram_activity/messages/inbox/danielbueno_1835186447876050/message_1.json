@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Bueno"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Bueno",
+      "timestamp_ms": 1762979640517,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762978095912,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3764455531412069590"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel Bueno",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielbueno_1835186447876050",
+  "magic_words": [
+    
+  ]
+}

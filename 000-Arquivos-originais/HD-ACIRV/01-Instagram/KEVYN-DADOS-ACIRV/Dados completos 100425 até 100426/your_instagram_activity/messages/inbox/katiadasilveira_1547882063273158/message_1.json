@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "K\u00c3\u00a1tia da Silveira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1749146923901,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3648431243449177619"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "K\u00c3\u00a1tia da Silveira",
+      "timestamp_ms": 1749144578620,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "K\u00c3\u00a1tia da Silveira",
+      "timestamp_ms": 1749144430479,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1749139051971,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3648365208100640626"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "K\u00c3\u00a1tia da Silveira",
+      "timestamp_ms": 1749135885608,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "K\u00c3\u00a1tia da Silveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/katiadasilveira_1547882063273158",
+  "magic_words": [
+    
+  ]
+}

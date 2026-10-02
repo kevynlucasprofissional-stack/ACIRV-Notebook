@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Katiane Santos"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Katiane Santos",
+      "timestamp_ms": 1750849356323,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katiane Santos",
+      "timestamp_ms": 1750849066509,
+      "content": "Bom dia me envia por favor\nO link cadastrar \nO cv",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Katiane Santos",
+  "is_still_participant": true,
+  "thread_path": "inbox/katianesantos_1706103517451011",
+  "magic_words": [
+    
+  ]
+}

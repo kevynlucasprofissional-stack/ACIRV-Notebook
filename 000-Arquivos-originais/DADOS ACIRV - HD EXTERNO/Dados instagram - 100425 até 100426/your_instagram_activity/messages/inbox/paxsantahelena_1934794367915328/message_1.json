@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Pax Santa Helena"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770323738869,
+      "content": "Somente presencial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1770323731106,
+      "content": "Opa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pax Santa Helena",
+      "timestamp_ms": 1770323301271,
+      "content": "Ol\u00c3\u00a1 boa tarde. A palestra do dia 12 ser\u00c3\u00a1 apenas presencial ou ser\u00c3\u00a1 disponibilizado link para acesso on-line?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pax Santa Helena",
+  "is_still_participant": true,
+  "thread_path": "inbox/paxsantahelena_1934794367915328",
+  "magic_words": [
+    
+  ]
+}

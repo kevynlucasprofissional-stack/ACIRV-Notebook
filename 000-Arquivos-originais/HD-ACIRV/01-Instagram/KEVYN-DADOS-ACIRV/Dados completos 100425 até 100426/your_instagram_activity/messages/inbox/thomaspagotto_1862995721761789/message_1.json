@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Thomas Pagotto"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thomas Pagotto",
+      "timestamp_ms": 1774536111730,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774533293778,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3861387401969345476"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thomas Pagotto",
+      "timestamp_ms": 1773781154216,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1773778060512,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3855051608669934356"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thomas Pagotto",
+      "timestamp_ms": 1767729070195,
+      "content": "Thomas enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DTLn2wZkStM/",
+        "share_text": "Com muita alegria anunciamos: somos a ag\u00c3\u00aancia oficial da SudoExpo 2026! \nVamos juntos construir uma edi\u00c3\u00a7\u00c3\u00a3o hist\u00c3\u00b3rica, com criatividade, inova\u00c3\u00a7\u00c3\u00a3o e grandes conex\u00c3\u00b5es. \nVem com a Ag\u00c3\u00aancia Pagotto! \u00f0\u009f\u009a\u0080 \n#SudoExpo2026 #Ag\u00c3\u00aanciaPagotto #Comunica\u00c3\u00a7\u00c3\u00a3oEstrat\u00c3\u00a9gica #Marketing #Eventos Goias",
+        "original_content_owner": "pagottomarketing"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thomas Pagotto",
+      "timestamp_ms": 1766069648891,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1766066373504,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3790361780292544830"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thomas Pagotto",
+      "timestamp_ms": 1765828284467,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1765827530304,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3788346493607461930"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thomas Pagotto",
+  "is_still_participant": true,
+  "thread_path": "inbox/thomaspagotto_1862995721761789",
+  "magic_words": [
+    
+  ]
+}

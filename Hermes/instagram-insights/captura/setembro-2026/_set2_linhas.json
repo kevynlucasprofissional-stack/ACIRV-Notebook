@@ -1,0 +1,4248 @@
+[
+ {
+  "media_id": "3986722593602730351",
+  "shortcode": "DdTrxOJtvlv",
+  "url": "https://www.instagram.com/insights/media/3986722593602730351/",
+  "data_publicacao": "2026-09-15",
+  "hora_publicacao": "09:13:09",
+  "tipo_midia": "reel",
+  "vinculo": "colaboracao",
+  "parceiro": "copercana",
+  "colaborativo": true,
+  "coautores": [
+   "copercana"
+  ],
+  "dono_grid": "copercana",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 22,
+   "visualizacoes": 860,
+   "visualizadores": 665,
+   "interacoes": 27,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 3,
+   "contas_com_engajamento": 24,
+   "pct_seguidores_alcance": "38.1%",
+   "pct_nao_seguidores_alcance": "61.9%",
+   "pct_seguidores_interacoes": "46.2%",
+   "pct_nao_seguidores_interacoes": "53.8%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "novos_seguidores"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "1"
+   },
+   {
+    "secao": "",
+    "nome_original": "0:01",
+    "valor_original": ""
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "860"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "38.1%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "61.9%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "665"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "27"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "46.2%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "53.8%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com reels",
+    "valor_original": "27"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "22"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "3"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "24"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": ""
+   },
+   {
+    "secao": "Anúncio",
+    "nome_original": "Turbinar este reel",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=1; rotulo_sem_valor_numerico:novos_seguidores=53.8%; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n1\n0:01\nVisualizações\nVisualizações\n860\nSeguidores\n38.1%\nNão seguidores\n61.9%\nVisualizadores\n665\nInterações\nInterações\n27\nSeguidores\n46.2%\nNão seguidores\n53.8%\nInterações com reels\n27\nCurtidas\n22\nComentários\n1\nSalvamentos\n0\nCompartilhamentos\n3\nContas com engajamento\n24\nPerfil\nAtividade do perfil\n--\nSeguidores\nAnúncio\nTurbinar este reel\n4",
+  "arquivo_origem": "_raw2_b01.jsonl",
+  "coletado_em": "2026-10-02T10:42:29-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3986769402840893833",
+  "shortcode": "DdT2aYpukmJ",
+  "url": "https://www.instagram.com/insights/media/3986769402840893833/",
+  "data_publicacao": "2026-09-15",
+  "hora_publicacao": "10:46:09",
+  "tipo_midia": "reel",
+  "vinculo": "colaboracao",
+  "parceiro": "onofrearantes",
+  "colaborativo": true,
+  "coautores": [
+   "onofrearantes"
+  ],
+  "dono_grid": "onofrearantes",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 16,
+   "visualizacoes": 424,
+   "visualizadores": 316,
+   "interacoes": 22,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 1,
+   "contas_com_engajamento": 17,
+   "pct_seguidores_alcance": "65.5%",
+   "pct_nao_seguidores_alcance": "34.5%",
+   "pct_seguidores_interacoes": "100%",
+   "pct_nao_seguidores_interacoes": "0%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "novos_seguidores"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "0"
+   },
+   {
+    "secao": "",
+    "nome_original": "0:01",
+    "valor_original": ""
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "424"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "65.5%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "34.5%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "316"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "22"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "100%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "0%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com reels",
+    "valor_original": "22"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "16"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "17"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": ""
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=0; rotulo_sem_valor_numerico:novos_seguidores=0%; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n0\n0:01\nVisualizações\nVisualizações\n424\nSeguidores\n65.5%\nNão seguidores\n34.5%\nVisualizadores\n316\nInterações\nInterações\n22\nSeguidores\n100%\nNão seguidores\n0%\nInterações com reels\n22\nCurtidas\n16\nComentários\n0\nSalvamentos\n1\nCompartilhamentos\n1\nContas com engajamento\n17\nPerfil\nAtividade do perfil\n--\nSeguidores\nFacebook\nVisualizações\n6\nReações\n0\nComentários\n0\nAnúncio\nTurbinar este reel\n4",
+  "arquivo_origem": "_raw2_b01.jsonl",
+  "coletado_em": "2026-10-02T10:42:29-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3986846222019327017",
+  "shortcode": "DdUH4QFkfQp",
+  "url": "https://www.instagram.com/insights/media/3986846222019327017/",
+  "data_publicacao": "2026-09-15",
+  "hora_publicacao": "13:18:47",
+  "tipo_midia": "p",
+  "vinculo": "colaboracao",
+  "parceiro": "vcomunica",
+  "colaborativo": true,
+  "coautores": [
+   "vcomunica"
+  ],
+  "dono_grid": "vcomunica",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 37,
+   "visualizacoes": 1437,
+   "na_pagina_inicial": 1244,
+   "no_perfil": 141,
+   "de_outra_pessoa": 52,
+   "visualizadores": 497,
+   "interacoes": 45,
+   "interacoes_posts": 45,
+   "comentarios": 5,
+   "compartilhamentos": 3,
+   "salvamentos": 0,
+   "contas_com_engajamento": 39,
+   "pct_seguidores_alcance": "70.4%",
+   "pct_nao_seguidores_alcance": "29.6%",
+   "pct_seguidores_interacoes": "79.1%",
+   "pct_nao_seguidores_interacoes": "20.9%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "novos_seguidores"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "1.437"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "70.4%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "29.6%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "1.244"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "141"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "52"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "497"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "45"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "79.1%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "20.9%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "45"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "37"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "3"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "39"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": ""
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": ""
+   },
+   {
+    "secao": "Anúncio",
+    "nome_original": "Turbine este post",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=5; rotulo_sem_valor_numerico:novos_seguidores=20.9%; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n5\nVisualizações\nVisualizações\n1.437\nSeguidores\n70.4%\nNão seguidores\n29.6%\nNa página inicial\n1.244\nNo perfil\n141\nDe outra pessoa\n52\nVisualizadores\n497\nInterações\nInterações\n45\nSeguidores\n79.1%\nNão seguidores\n20.9%\nInterações com posts\n45\nCurtidas\n37\nComentários\n5\nCompartilhamentos\n3\nSalvamentos\n0\nContas com engajamento\n39\nPerfil\nAtividade do perfil\n--\nVisitas ao perfil\nSeguidores\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_b01.jsonl",
+  "coletado_em": "2026-10-02T10:42:29-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3987062464713702629",
+  "shortcode": "DdU5C_yjbzl",
+  "url": "https://www.instagram.com/insights/media/3987062464713702629/",
+  "data_publicacao": "2026-09-15",
+  "hora_publicacao": "20:28:25",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "visualizacoes": 2609,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 2442,
+   "no_perfil": 158,
+   "de_outra_pessoa": 9,
+   "visualizadores": 1162,
+   "interacoes": 43,
+   "interacoes_posts": 43,
+   "curtidas": 43,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 44,
+   "atividade_do_perfil": 0,
+   "visitas_ao_perfil": 0,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "76.7%",
+   "pct_nao_seguidores_alcance": "23.3%",
+   "pct_seguidores_interacoes": "72.7%",
+   "pct_nao_seguidores_interacoes": "27.3%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "43",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "2.609"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "76.7%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "23.3%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "2.442"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "158"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "1.162"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "43"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "72.7%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "27.3%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "43"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "43"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "44"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Anúncio",
+    "nome_original": "Turbine este post",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=43/0",
+  "insights_raw": "43\n0\nVisualizações\nVisualizações\n2.609\nSeguidores\n76.7%\nNão seguidores\n23.3%\nNa página inicial\n2.442\nNo perfil\n158\nDe outra pessoa\n9\nVisualizadores\n1.162\nInterações\nInterações\n43\nSeguidores\n72.7%\nNão seguidores\n27.3%\nInterações com posts\n43\nCurtidas\n43\nComentários\n0\nSalvamentos\n0\nCompartilhamentos\n0\nContas com engajamento\n44\nPerfil\nAtividade do perfil\n0\nVisitas ao perfil\n0\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_b01.jsonl",
+  "coletado_em": "2026-10-02T10:42:29-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3987063229360489740",
+  "shortcode": "DdU5OH7DcUM",
+  "url": "https://www.instagram.com/insights/media/3987063229360489740/",
+  "data_publicacao": "2026-09-15",
+  "hora_publicacao": "20:29:56",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "visualizacoes": 1149,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 1063,
+   "no_perfil": 83,
+   "de_outra_pessoa": 3,
+   "visualizadores": 470,
+   "interacoes": 20,
+   "interacoes_posts": 20,
+   "curtidas": 20,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 22,
+   "atividade_do_perfil": 4,
+   "visitas_ao_perfil": 4,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "95%",
+   "pct_nao_seguidores_alcance": "5%",
+   "pct_seguidores_interacoes": "95.5%",
+   "pct_nao_seguidores_interacoes": "4.5%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "20",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "1.149"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "95%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "5%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "1.063"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "83"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "3"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "470"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "20"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "95.5%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "4.5%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "20"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "20"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "22"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Anúncio",
+    "nome_original": "Turbine este post",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=20/0",
+  "insights_raw": "20\n0\nVisualizações\nVisualizações\n1.149\nSeguidores\n95%\nNão seguidores\n5%\nNa página inicial\n1.063\nNo perfil\n83\nDe outra pessoa\n3\nVisualizadores\n470\nInterações\nInterações\n20\nSeguidores\n95.5%\nNão seguidores\n4.5%\nInterações com posts\n20\nCurtidas\n20\nComentários\n0\nSalvamentos\n0\nCompartilhamentos\n0\nContas com engajamento\n22\nPerfil\nAtividade do perfil\n4\nVisitas ao perfil\n4\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_b01.jsonl",
+  "coletado_em": "2026-10-02T10:42:29-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3987102333427010619",
+  "shortcode": "DdVCHKbDEw7",
+  "url": "https://www.instagram.com/insights/media/3987102333427010619/",
+  "data_publicacao": "2026-09-15",
+  "hora_publicacao": "21:47:38",
+  "tipo_midia": "p",
+  "vinculo": "colaboracao",
+  "parceiro": "garvgo26",
+  "colaborativo": true,
+  "coautores": [
+   "garvgo26"
+  ],
+  "dono_grid": "garvgo26",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 75,
+   "visualizacoes": 2235,
+   "novos_seguidores": 4,
+   "na_pagina_inicial": 2000,
+   "no_perfil": 120,
+   "de_outra_pessoa": 115,
+   "visualizadores": 819,
+   "interacoes": 81,
+   "interacoes_posts": 81,
+   "comentarios": 2,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 76,
+   "pct_seguidores_alcance": "71.4%",
+   "pct_nao_seguidores_alcance": "28.6%",
+   "pct_seguidores_interacoes": "55.6%",
+   "pct_nao_seguidores_interacoes": "44.4%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "2.235"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "71.4%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "28.6%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "2.000"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "120"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "115"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "819"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "81"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "55.6%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "44.4%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "81"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "75"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "76"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": ""
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=2; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n2\nVisualizações\nVisualizações\n2.235\nSeguidores\n71.4%\nNão seguidores\n28.6%\nNa página inicial\n2.000\nNo perfil\n120\nDe outra pessoa\n115\nVisualizadores\n819\nInterações\nInterações\n81\nSeguidores\n55.6%\nNão seguidores\n44.4%\nInterações com posts\n81\nCurtidas\n75\nComentários\n2\nSalvamentos\n0\nCompartilhamentos\n0\nContas com engajamento\n76\nPerfil\nAtividade do perfil\n--\nVisitas ao perfil\nSeguidores\n4",
+  "arquivo_origem": "_raw2_b02.jsonl",
+  "coletado_em": "2026-10-02T10:43:06-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3987563426229054459",
+  "shortcode": "DdWq88juOv7",
+  "url": "https://www.instagram.com/insights/media/3987563426229054459/",
+  "data_publicacao": "2026-09-16",
+  "hora_publicacao": "13:03:44",
+  "tipo_midia": "reel",
+  "vinculo": "colaboracao",
+  "parceiro": "onofrearantes",
+  "colaborativo": true,
+  "coautores": [
+   "onofrearantes"
+  ],
+  "dono_grid": "onofrearantes",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 20,
+   "visualizacoes": 924,
+   "visualizadores": 719,
+   "interacoes": 25,
+   "comentarios": 1,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 20,
+   "pct_seguidores_alcance": "57.7%",
+   "pct_nao_seguidores_alcance": "42.3%",
+   "pct_seguidores_interacoes": "90.9%",
+   "pct_nao_seguidores_interacoes": "9.1%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "novos_seguidores"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "1"
+   },
+   {
+    "secao": "",
+    "nome_original": "0:01",
+    "valor_original": ""
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "924"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "57.7%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "42.3%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "719"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "25"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "90.9%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "9.1%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com reels",
+    "valor_original": "25"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "20"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "20"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": ""
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=1; rotulo_sem_valor_numerico:novos_seguidores=9.1%; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n1\n0:01\nVisualizações\nVisualizações\n924\nSeguidores\n57.7%\nNão seguidores\n42.3%\nVisualizadores\n719\nInterações\nInterações\n25\nSeguidores\n90.9%\nNão seguidores\n9.1%\nInterações com reels\n25\nCurtidas\n20\nComentários\n1\nSalvamentos\n1\nCompartilhamentos\n0\nContas com engajamento\n20\nPerfil\nAtividade do perfil\n--\nSeguidores\nFacebook\nVisualizações\n10\nReações\n0\nComentários\n0\nAnúncio\nTurbinar este reel\n4",
+  "arquivo_origem": "_raw2_b02.jsonl",
+  "coletado_em": "2026-10-02T10:43:06-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3987572934554240108",
+  "shortcode": "DdWtHT4EURs",
+  "url": "https://www.instagram.com/insights/media/3987572934554240108/",
+  "data_publicacao": "2026-09-16",
+  "hora_publicacao": "13:22:38",
+  "tipo_midia": "p",
+  "vinculo": "colaboracao",
+  "parceiro": "sudoexpo.oficial",
+  "colaborativo": true,
+  "coautores": [
+   "sudoexpo.oficial"
+  ],
+  "dono_grid": "sudoexpo.oficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 76,
+   "visualizacoes": 3945,
+   "na_pagina_inicial": 1876,
+   "de_outra_pessoa": 1829,
+   "no_perfil": 240,
+   "visualizadores": 1961,
+   "interacoes": 92,
+   "interacoes_posts": 92,
+   "compartilhamentos": 8,
+   "comentarios": 5,
+   "salvamentos": 3,
+   "contas_com_engajamento": 82,
+   "pct_seguidores_alcance": "72.4%",
+   "pct_nao_seguidores_alcance": "27.6%",
+   "pct_seguidores_interacoes": "78.3%",
+   "pct_nao_seguidores_interacoes": "21.7%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "novos_seguidores"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "3.945"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "72.4%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "27.6%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "1.876"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "1.829"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "240"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "1.961"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "92"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "78.3%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "21.7%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "92"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "76"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "8"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "3"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "82"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": ""
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": ""
+   },
+   {
+    "secao": "Anúncio",
+    "nome_original": "Turbine este post",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=5; rotulo_sem_valor_numerico:novos_seguidores=21.7%; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n5\nVisualizações\nVisualizações\n3.945\nSeguidores\n72.4%\nNão seguidores\n27.6%\nNa página inicial\n1.876\nDe outra pessoa\n1.829\nNo perfil\n240\nVisualizadores\n1.961\nInterações\nInterações\n92\nSeguidores\n78.3%\nNão seguidores\n21.7%\nInterações com posts\n92\nCurtidas\n76\nCompartilhamentos\n8\nComentários\n5\nSalvamentos\n3\nContas com engajamento\n82\nPerfil\nAtividade do perfil\n--\nVisitas ao perfil\nSeguidores\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_b02.jsonl",
+  "coletado_em": "2026-10-02T10:43:06-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3987789297133877877",
+  "shortcode": "DdXeTzOxPp1",
+  "url": "https://www.instagram.com/insights/media/3987789297133877877/",
+  "data_publicacao": "2026-09-16",
+  "hora_publicacao": "20:32:30",
+  "tipo_midia": "reel",
+  "vinculo": "colaboracao",
+  "parceiro": "gruposalus.rh",
+  "colaborativo": true,
+  "coautores": [
+   "gruposalus.rh"
+  ],
+  "dono_grid": "gruposalus.rh",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 74,
+   "visualizacoes": 2579,
+   "visualizadores": 1535,
+   "interacoes": 85,
+   "comentarios": 6,
+   "salvamentos": 1,
+   "compartilhamentos": 2,
+   "contas_com_engajamento": 77,
+   "pct_seguidores_alcance": "30.9%",
+   "pct_nao_seguidores_alcance": "69.1%",
+   "pct_seguidores_interacoes": "33.3%",
+   "pct_nao_seguidores_interacoes": "66.7%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "novos_seguidores"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "6"
+   },
+   {
+    "secao": "",
+    "nome_original": "0:01",
+    "valor_original": ""
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "2.579"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "30.9%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "69.1%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "1.535"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "85"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "33.3%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "66.7%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com reels",
+    "valor_original": "85"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "74"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "6"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "77"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": ""
+   },
+   {
+    "secao": "Anúncio",
+    "nome_original": "Turbinar este reel",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=6; rotulo_sem_valor_numerico:novos_seguidores=66.7%; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n6\n0:01\nVisualizações\nVisualizações\n2.579\nSeguidores\n30.9%\nNão seguidores\n69.1%\nVisualizadores\n1.535\nInterações\nInterações\n85\nSeguidores\n33.3%\nNão seguidores\n66.7%\nInterações com reels\n85\nCurtidas\n74\nComentários\n6\nSalvamentos\n1\nCompartilhamentos\n2\nContas com engajamento\n77\nPerfil\nAtividade do perfil\n--\nSeguidores\nAnúncio\nTurbinar este reel\n4",
+  "arquivo_origem": "_raw2_b02.jsonl",
+  "coletado_em": "2026-10-02T10:43:06-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3988213721872620109",
+  "shortcode": "DdY-z_kjlpN",
+  "url": "https://www.instagram.com/insights/media/3988213721872620109/",
+  "data_publicacao": "2026-09-17",
+  "hora_publicacao": "10:35:46",
+  "tipo_midia": "p",
+  "vinculo": "colaboracao",
+  "parceiro": "wederribeirocantor",
+  "colaborativo": true,
+  "coautores": [
+   "wederribeirocantor"
+  ],
+  "dono_grid": "wederribeirocantor",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 54,
+   "visualizacoes": 1627,
+   "na_pagina_inicial": 1179,
+   "de_outra_pessoa": 341,
+   "no_perfil": 107,
+   "visualizadores": 490,
+   "interacoes": 71,
+   "interacoes_posts": 71,
+   "comentarios": 15,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 56,
+   "pct_seguidores_alcance": "53.9%",
+   "pct_nao_seguidores_alcance": "46.1%",
+   "pct_seguidores_interacoes": "30.9%",
+   "pct_nao_seguidores_interacoes": "69.1%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "novos_seguidores"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "15"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "1.627"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "53.9%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "46.1%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "1.179"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "341"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "107"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "490"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "71"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "30.9%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "69.1%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "71"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "54"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "15"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "56"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": ""
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": ""
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=15; rotulo_sem_valor_numerico:novos_seguidores=69.1%; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n15\nVisualizações\nVisualizações\n1.627\nSeguidores\n53.9%\nNão seguidores\n46.1%\nNa página inicial\n1.179\nDe outra pessoa\n341\nNo perfil\n107\nVisualizadores\n490\nInterações\nInterações\n71\nSeguidores\n30.9%\nNão seguidores\n69.1%\nInterações com posts\n71\nCurtidas\n54\nComentários\n15\nSalvamentos\n1\nCompartilhamentos\n0\nContas com engajamento\n56\nPerfil\nAtividade do perfil\n--\nVisitas ao perfil\nSeguidores\nFacebook\nVisualizações\n327\nReações\n18\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_b02.jsonl",
+  "coletado_em": "2026-10-02T10:43:06-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3988250314091179614",
+  "shortcode": "DdZHIeuvq5e",
+  "url": "https://www.instagram.com/insights/media/3988250314091179614/",
+  "data_publicacao": "2026-09-17",
+  "hora_publicacao": "11:48:28",
+  "tipo_midia": "reel",
+  "vinculo": "colaboracao",
+  "parceiro": "mduartesemijoias",
+  "colaborativo": true,
+  "coautores": [
+   "mduartesemijoias"
+  ],
+  "dono_grid": "mduartesemijoias",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 9,
+   "visualizacoes": 442,
+   "visualizadores": 275,
+   "interacoes": 17,
+   "comentarios": 8,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 12,
+   "pct_seguidores_alcance": "70.9%",
+   "pct_nao_seguidores_alcance": "29.1%",
+   "pct_seguidores_interacoes": "50%",
+   "pct_nao_seguidores_interacoes": "50%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "novos_seguidores"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "8"
+   },
+   {
+    "secao": "",
+    "nome_original": "0:01",
+    "valor_original": ""
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "442"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "70.9%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "29.1%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "275"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "17"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "50%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "50%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com reels",
+    "valor_original": "17"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "8"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "12"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": ""
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=8; rotulo_sem_valor_numerico:novos_seguidores=50%; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n8\n0:01\nVisualizações\nVisualizações\n442\nSeguidores\n70.9%\nNão seguidores\n29.1%\nVisualizadores\n275\nInterações\nInterações\n17\nSeguidores\n50%\nNão seguidores\n50%\nInterações com reels\n17\nCurtidas\n9\nComentários\n8\nSalvamentos\n0\nCompartilhamentos\n0\nContas com engajamento\n12\nPerfil\nAtividade do perfil\n--\nSeguidores\nFacebook\nVisualizações\n15\nReações\n1\nComentários\n0\nAnúncio\nTurbinar este reel\n4",
+  "arquivo_origem": "_raw2_p10.jsonl",
+  "coletado_em": "2026-10-02T10:44:07-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3989070103606672091",
+  "shortcode": "DdcBh_Nmzrb",
+  "url": "https://www.instagram.com/insights/media/3989070103606672091/",
+  "data_publicacao": "2026-09-18",
+  "hora_publicacao": "14:57:14",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 2,
+   "visualizacoes": 276,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 220,
+   "no_perfil": 55,
+   "de_outra_pessoa": 1,
+   "visualizadores": 120,
+   "interacoes": 2,
+   "interacoes_posts": 2,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 2,
+   "atividade_do_perfil": 1,
+   "visitas_ao_perfil": 1,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "90.6%",
+   "pct_nao_seguidores_alcance": "9.4%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "276"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "90.6%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "9.4%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "220"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "55"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "120"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Anúncio",
+    "nome_original": "Turbine este post",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=0",
+  "insights_raw": "Curtidas\n0\nVisualizações\nVisualizações\n276\nSeguidores\n90.6%\nNão seguidores\n9.4%\nNa página inicial\n220\nNo perfil\n55\nDe outra pessoa\n1\nVisualizadores\n120\nInterações\nInterações\n2\nInterações com posts\n2\nCurtidas\n2\nComentários\n0\nSalvamentos\n0\nCompartilhamentos\n0\nContas com engajamento\n2\nPerfil\nAtividade do perfil\n1\nVisitas ao perfil\n1\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p11.jsonl",
+  "coletado_em": "2026-10-02T10:44:26-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3989137930292255806",
+  "shortcode": "DdcQ8_vG1w-",
+  "url": "https://www.instagram.com/insights/media/3989137930292255806/",
+  "data_publicacao": "2026-09-18",
+  "hora_publicacao": "17:12:00",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 8,
+   "visualizacoes": 505,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 316,
+   "de_outra_pessoa": 133,
+   "no_perfil": 56,
+   "visualizadores": 237,
+   "interacoes": 10,
+   "interacoes_posts": 10,
+   "salvamentos": 1,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 9,
+   "atividade_do_perfil": 1,
+   "visitas_ao_perfil": 1,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "93.7%",
+   "pct_nao_seguidores_alcance": "6.3%",
+   "pct_seguidores_interacoes": "90%",
+   "pct_nao_seguidores_interacoes": "10%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "505"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "93.7%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "6.3%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "316"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "133"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "56"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "237"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "10"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "90%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "10%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "10"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "8"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Anúncio",
+    "nome_original": "Turbine este post",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=0",
+  "insights_raw": "Curtidas\n0\nVisualizações\nVisualizações\n505\nSeguidores\n93.7%\nNão seguidores\n6.3%\nNa página inicial\n316\nDe outra pessoa\n133\nNo perfil\n56\nVisualizadores\n237\nInterações\nInterações\n10\nSeguidores\n90%\nNão seguidores\n10%\nInterações com posts\n10\nCurtidas\n8\nSalvamentos\n1\nComentários\n0\nCompartilhamentos\n0\nContas com engajamento\n9\nPerfil\nAtividade do perfil\n1\nVisitas ao perfil\n1\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p12.jsonl",
+  "coletado_em": "2026-10-02T10:44:34-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3991846289868194745",
+  "shortcode": "Ddl4w0JjgO5",
+  "url": "https://www.instagram.com/insights/media/3991846289868194745/",
+  "data_publicacao": "2026-09-22",
+  "hora_publicacao": "10:53:01",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 8,
+   "visualizacoes": 473,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 396,
+   "no_perfil": 72,
+   "de_outra_pessoa": 5,
+   "visualizadores": 210,
+   "interacoes": 10,
+   "interacoes_posts": 10,
+   "salvamentos": 1,
+   "comentarios": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 9,
+   "atividade_do_perfil": 2,
+   "visitas_ao_perfil": 2,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "94.3%",
+   "pct_nao_seguidores_alcance": "5.7%",
+   "pct_seguidores_interacoes": "100%",
+   "pct_nao_seguidores_interacoes": "0%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "473"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "94.3%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "5.7%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "396"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "72"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "210"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "10"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "100%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "0%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "10"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "8"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=0",
+  "insights_raw": "Curtidas\n0\nVisualizações\nVisualizações\n473\nSeguidores\n94.3%\nNão seguidores\n5.7%\nNa página inicial\n396\nNo perfil\n72\nDe outra pessoa\n5\nVisualizadores\n210\nInterações\nInterações\n10\nSeguidores\n100%\nNão seguidores\n0%\nInterações com posts\n10\nCurtidas\n8\nSalvamentos\n1\nComentários\n0\nCompartilhamentos\n0\nContas com engajamento\n9\nPerfil\nAtividade do perfil\n2\nVisitas ao perfil\n2\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n2\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p13.jsonl",
+  "coletado_em": "2026-10-02T10:44:41-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3991944726504169736",
+  "shortcode": "DdmPJQaRmEI",
+  "url": "https://www.instagram.com/insights/media/3991944726504169736/",
+  "data_publicacao": "2026-09-22",
+  "hora_publicacao": "14:08:36",
+  "tipo_midia": "reel",
+  "vinculo": "colaboracao",
+  "parceiro": "sudoexpo.oficial",
+  "colaborativo": true,
+  "coautores": [
+   "sudoexpo.oficial"
+  ],
+  "dono_grid": "sudoexpo.oficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 38,
+   "visualizacoes": 1635,
+   "visualizadores": 955,
+   "interacoes": 53,
+   "comentarios": 9,
+   "salvamentos": 0,
+   "compartilhamentos": 5,
+   "contas_com_engajamento": 42,
+   "pct_seguidores_alcance": "47.8%",
+   "pct_nao_seguidores_alcance": "52.2%",
+   "pct_seguidores_interacoes": "45.8%",
+   "pct_nao_seguidores_interacoes": "54.2%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "novos_seguidores"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "9"
+   },
+   {
+    "secao": "",
+    "nome_original": "0:01",
+    "valor_original": ""
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "1.635"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "47.8%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "52.2%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "955"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "53"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "45.8%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "54.2%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com reels",
+    "valor_original": "53"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "38"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "42"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": ""
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=9; rotulo_sem_valor_numerico:novos_seguidores=54.2%; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n9\n0:01\nVisualizações\nVisualizações\n1.635\nSeguidores\n47.8%\nNão seguidores\n52.2%\nVisualizadores\n955\nInterações\nInterações\n53\nSeguidores\n45.8%\nNão seguidores\n54.2%\nInterações com reels\n53\nCurtidas\n38\nComentários\n9\nSalvamentos\n0\nCompartilhamentos\n5\nContas com engajamento\n42\nPerfil\nAtividade do perfil\n--\nSeguidores\nFacebook\nVisualizações\n205\nReações\n0\nComentários\n0\nAnúncio\nTurbinar este reel\n4",
+  "arquivo_origem": "_raw2_p14.jsonl",
+  "coletado_em": "2026-10-02T10:44:48-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3992039758407366025",
+  "shortcode": "DdmkwJxG3WJ",
+  "url": "https://www.instagram.com/insights/media/3992039758407366025/",
+  "data_publicacao": "2026-09-22",
+  "hora_publicacao": "17:17:25",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 10,
+   "visualizacoes": 1377,
+   "novos_seguidores": 1,
+   "na_pagina_inicial": 781,
+   "de_outra_pessoa": 411,
+   "no_perfil": 185,
+   "visualizadores": 534,
+   "interacoes": 16,
+   "interacoes_posts": 16,
+   "compartilhamentos": 4,
+   "comentarios": 2,
+   "salvamentos": 0,
+   "contas_com_engajamento": 16,
+   "atividade_do_perfil": 21,
+   "visitas_ao_perfil": 11,
+   "toques_em_links_externos": 9,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "90.6%",
+   "pct_nao_seguidores_alcance": "9.4%",
+   "pct_seguidores_interacoes": "88.9%",
+   "pct_nao_seguidores_interacoes": "11.1%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "1.377"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "90.6%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "9.4%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "781"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "411"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "185"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "534"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "16"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "88.9%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "11.1%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "16"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "10"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "16"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "21"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "11"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "1"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=2",
+  "insights_raw": "Curtidas\n2\nVisualizações\nVisualizações\n1.377\nSeguidores\n90.6%\nNão seguidores\n9.4%\nNa página inicial\n781\nDe outra pessoa\n411\nNo perfil\n185\nVisualizadores\n534\nInterações\nInterações\n16\nSeguidores\n88.9%\nNão seguidores\n11.1%\nInterações com posts\n16\nCurtidas\n10\nCompartilhamentos\n4\nComentários\n2\nSalvamentos\n0\nContas com engajamento\n16\nPerfil\nAtividade do perfil\n21\nVisitas ao perfil\n11\nToques em links externos\n9\nToques no endereço comercial\n0\nSeguidores\n1\nFacebook\nVisualizações\n3\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p15.jsonl",
+  "coletado_em": "2026-10-02T10:44:15-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3993629906336312919",
+  "shortcode": "DdsOT2bjW5X",
+  "url": "https://www.instagram.com/insights/media/3993629906336312919/",
+  "data_publicacao": "2026-09-24",
+  "hora_publicacao": "21:56:45",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 49,
+   "visualizacoes": 1963,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 1306,
+   "de_outra_pessoa": 584,
+   "no_perfil": 73,
+   "visualizadores": 864,
+   "interacoes": 57,
+   "interacoes_posts": 57,
+   "compartilhamentos": 5,
+   "comentarios": 2,
+   "salvamentos": 1,
+   "contas_com_engajamento": 54,
+   "atividade_do_perfil": 14,
+   "visitas_ao_perfil": 14,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "74.9%",
+   "pct_nao_seguidores_alcance": "25.1%",
+   "pct_seguidores_interacoes": "93.2%",
+   "pct_nao_seguidores_interacoes": "6.8%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "1.963"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "74.9%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "25.1%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "1.306"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "584"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "73"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "864"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "57"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "93.2%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "6.8%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "57"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "49"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "54"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "14"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "14"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=2",
+  "insights_raw": "Curtidas\n2\nVisualizações\nVisualizações\n1.963\nSeguidores\n74.9%\nNão seguidores\n25.1%\nNa página inicial\n1.306\nDe outra pessoa\n584\nNo perfil\n73\nVisualizadores\n864\nInterações\nInterações\n57\nSeguidores\n93.2%\nNão seguidores\n6.8%\nInterações com posts\n57\nCurtidas\n49\nCompartilhamentos\n5\nComentários\n2\nSalvamentos\n1\nContas com engajamento\n54\nPerfil\nAtividade do perfil\n14\nVisitas ao perfil\n14\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n40\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p16.jsonl",
+  "coletado_em": "2026-10-02T10:44:26-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3994248081097581959",
+  "shortcode": "Ddua3eim2WH",
+  "url": "https://www.instagram.com/insights/media/3994248081097581959/",
+  "data_publicacao": "2026-09-25",
+  "hora_publicacao": "18:24:57",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 31,
+   "visualizacoes": 923,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 690,
+   "de_outra_pessoa": 177,
+   "no_perfil": 56,
+   "visualizadores": 413,
+   "interacoes": 34,
+   "interacoes_posts": 34,
+   "compartilhamentos": 2,
+   "salvamentos": 1,
+   "comentarios": 0,
+   "contas_com_engajamento": 31,
+   "atividade_do_perfil": 5,
+   "visitas_ao_perfil": 5,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "85.8%",
+   "pct_nao_seguidores_alcance": "14.2%",
+   "pct_seguidores_interacoes": "97.1%",
+   "pct_nao_seguidores_interacoes": "2.9%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "923"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "85.8%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "14.2%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "690"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "177"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "56"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "413"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "34"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "97.1%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "2.9%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "34"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "31"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "31"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=0",
+  "insights_raw": "Curtidas\n0\nVisualizações\nVisualizações\n923\nSeguidores\n85.8%\nNão seguidores\n14.2%\nNa página inicial\n690\nDe outra pessoa\n177\nNo perfil\n56\nVisualizadores\n413\nInterações\nInterações\n34\nSeguidores\n97.1%\nNão seguidores\n2.9%\nInterações com posts\n34\nCurtidas\n31\nCompartilhamentos\n2\nSalvamentos\n1\nComentários\n0\nContas com engajamento\n31\nPerfil\nAtividade do perfil\n5\nVisitas ao perfil\n5\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n8\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p17.jsonl",
+  "coletado_em": "2026-10-02T10:44:34-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3994856300929070267",
+  "shortcode": "DdwlKPZm7S7",
+  "url": "https://www.instagram.com/insights/media/3994856300929070267/",
+  "data_publicacao": "2026-09-26",
+  "hora_publicacao": "14:33:23",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 8,
+   "visualizacoes": 441,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 393,
+   "no_perfil": 42,
+   "de_outra_pessoa": 6,
+   "visualizadores": 165,
+   "interacoes": 12,
+   "interacoes_posts": 12,
+   "comentarios": 2,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 9,
+   "atividade_do_perfil": 7,
+   "visitas_ao_perfil": 7,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "95.7%",
+   "pct_nao_seguidores_alcance": "4.3%",
+   "pct_seguidores_interacoes": "91.7%",
+   "pct_nao_seguidores_interacoes": "8.3%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "441"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "95.7%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "4.3%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "393"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "42"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "6"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "165"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "12"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "91.7%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "8.3%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "12"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "8"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "7"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "7"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=2",
+  "insights_raw": "Curtidas\n2\nVisualizações\nVisualizações\n441\nSeguidores\n95.7%\nNão seguidores\n4.3%\nNa página inicial\n393\nNo perfil\n42\nDe outra pessoa\n6\nVisualizadores\n165\nInterações\nInterações\n12\nSeguidores\n91.7%\nNão seguidores\n8.3%\nInterações com posts\n12\nCurtidas\n8\nComentários\n2\nSalvamentos\n1\nCompartilhamentos\n0\nContas com engajamento\n9\nPerfil\nAtividade do perfil\n7\nVisitas ao perfil\n7\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n4\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p18.jsonl",
+  "coletado_em": "2026-10-02T10:44:41-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3994857554933656018",
+  "shortcode": "DdwlcfSGynS",
+  "url": "https://www.instagram.com/insights/media/3994857554933656018/",
+  "data_publicacao": "2026-09-26",
+  "hora_publicacao": "14:35:52",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "curtidas": 4,
+   "visualizacoes": 445,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 389,
+   "no_perfil": 53,
+   "de_outra_pessoa": 3,
+   "visualizadores": 193,
+   "interacoes": 4,
+   "interacoes_posts": 4,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 4,
+   "atividade_do_perfil": 1,
+   "visitas_ao_perfil": 1,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "94.4%",
+   "pct_nao_seguidores_alcance": "5.6%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "445"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "94.4%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "5.6%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "389"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "53"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "3"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "193"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=0",
+  "insights_raw": "Curtidas\n0\nVisualizações\nVisualizações\n445\nSeguidores\n94.4%\nNão seguidores\n5.6%\nNa página inicial\n389\nNo perfil\n53\nDe outra pessoa\n3\nVisualizadores\n193\nInterações\nInterações\n4\nInterações com posts\n4\nCurtidas\n4\nComentários\n0\nSalvamentos\n0\nCompartilhamentos\n0\nContas com engajamento\n4\nPerfil\nAtividade do perfil\n1\nVisitas ao perfil\n1\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n1\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p19.jsonl",
+  "coletado_em": "2026-10-02T10:44:48-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3994929861966367864",
+  "shortcode": "Ddw14sdGwx4",
+  "url": "https://www.instagram.com/insights/media/3994929861966367864/",
+  "data_publicacao": "2026-09-26",
+  "hora_publicacao": "16:59:32",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "visualizacoes": 933,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 849,
+   "no_perfil": 78,
+   "de_outra_pessoa": 6,
+   "visualizadores": 369,
+   "interacoes": 26,
+   "interacoes_posts": 26,
+   "curtidas": 25,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 25,
+   "atividade_do_perfil": 0,
+   "visitas_ao_perfil": 0,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "94.6%",
+   "pct_nao_seguidores_alcance": "5.4%",
+   "pct_seguidores_interacoes": "100%",
+   "pct_nao_seguidores_interacoes": "0%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "25",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "933"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "94.6%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "5.4%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "849"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "78"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "6"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "369"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "26"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "100%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "0%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "26"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "25"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "25"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=25/1",
+  "insights_raw": "25\n1\nVisualizações\nVisualizações\n933\nSeguidores\n94.6%\nNão seguidores\n5.4%\nNa página inicial\n849\nNo perfil\n78\nDe outra pessoa\n6\nVisualizadores\n369\nInterações\nInterações\n26\nSeguidores\n100%\nNão seguidores\n0%\nInterações com posts\n26\nCurtidas\n25\nComentários\n1\nSalvamentos\n0\nCompartilhamentos\n0\nContas com engajamento\n25\nPerfil\nAtividade do perfil\n0\nVisitas ao perfil\n0\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n1\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p20.jsonl",
+  "coletado_em": "2026-10-02T10:44:54-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3994939177196821519",
+  "shortcode": "Ddw4AP8G5wP",
+  "url": "https://www.instagram.com/insights/media/3994939177196821519/",
+  "data_publicacao": "2026-09-26",
+  "hora_publicacao": "17:18:02",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "visualizacoes": 1038,
+   "novos_seguidores": 1,
+   "na_pagina_inicial": 919,
+   "no_perfil": 110,
+   "de_outra_pessoa": 9,
+   "visualizadores": 446,
+   "interacoes": 13,
+   "interacoes_posts": 13,
+   "curtidas": 13,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 13,
+   "atividade_do_perfil": 2,
+   "visitas_ao_perfil": 1,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "93.8%",
+   "pct_nao_seguidores_alcance": "6.2%",
+   "pct_seguidores_interacoes": "100%",
+   "pct_nao_seguidores_interacoes": "0%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "13",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "1.038"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "93.8%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "6.2%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "919"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "110"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "446"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "13"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "100%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "0%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "13"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "13"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "13"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "1"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=13/0",
+  "insights_raw": "13\n0\nVisualizações\nVisualizações\n1.038\nSeguidores\n93.8%\nNão seguidores\n6.2%\nNa página inicial\n919\nNo perfil\n110\nDe outra pessoa\n9\nVisualizadores\n446\nInterações\nInterações\n13\nSeguidores\n100%\nNão seguidores\n0%\nInterações com posts\n13\nCurtidas\n13\nComentários\n0\nSalvamentos\n0\nCompartilhamentos\n0\nContas com engajamento\n13\nPerfil\nAtividade do perfil\n2\nVisitas ao perfil\n1\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n1\nFacebook\nVisualizações\n2\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p21.jsonl",
+  "coletado_em": "2026-10-02T10:45:00-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3994972135014251987",
+  "shortcode": "Ddw_f2TG73T",
+  "url": "https://www.instagram.com/insights/media/3994972135014251987/",
+  "data_publicacao": "2026-09-26",
+  "hora_publicacao": "18:23:31",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": true,
+  "metricas": {
+   "visualizacoes": 1873,
+   "novos_seguidores": 0,
+   "de_outra_pessoa": 976,
+   "na_pagina_inicial": 772,
+   "no_perfil": 125,
+   "contas_meta_alcancadas": 1343,
+   "interacoes": 9,
+   "interacoes_posts": 9,
+   "curtidas": 7,
+   "compartilhamentos": 2,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "contas_com_engajamento": 8,
+   "atividade_do_perfil": 13,
+   "visitas_ao_perfil": 12,
+   "toques_em_links_externos": 1,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "36.1%",
+   "pct_nao_seguidores_alcance": "63.9%",
+   "pct_seguidores_interacoes": "88.9%",
+   "pct_nao_seguidores_interacoes": "11.1%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "7",
+    "valor_original": "0"
+   },
+   {
+    "secao": "",
+    "nome_original": "Seus insights incluem dados de anúncios criadas ou excluídos no Instagram ou nas ferramentas de publicidade do Facebook.",
+    "valor_original": ""
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "1.873"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "36.1%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "63.9%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "976"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "772"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "125"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Contas Meta alcançadas",
+    "valor_original": "1.343"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "88.9%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "11.1%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "9"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "7"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "8"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "13"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "12"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=7/0",
+  "insights_raw": "7\n0\nSeus insights incluem dados de anúncios criadas ou excluídos no Instagram ou nas ferramentas de publicidade do Facebook.\nVisualizações\nVisualizações\n1.873\nSeguidores\n36.1%\nNão seguidores\n63.9%\nDe outra pessoa\n976\nNa página inicial\n772\nNo perfil\n125\nContas Meta alcançadas\n1.343\nInterações\nInterações\n9\nSeguidores\n88.9%\nNão seguidores\n11.1%\nInterações com posts\n9\nCurtidas\n7\nCompartilhamentos\n2\nComentários\n0\nSalvamentos\n0\nContas com engajamento\n8\nPerfil\nAtividade do perfil\n13\nVisitas ao perfil\n12\nToques em links externos\n1\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n3\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p22.jsonl",
+  "coletado_em": "2026-10-02T10:45:06-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3996231584948768922",
+  "shortcode": "Dd1d3QdEVCa",
+  "url": "https://www.instagram.com/insights/media/3996231584948768922/",
+  "data_publicacao": "2026-09-28",
+  "hora_publicacao": "12:05:49",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "visualizacoes": 2405,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 2316,
+   "no_perfil": 82,
+   "de_outra_pessoa": 7,
+   "visualizadores": 1115,
+   "interacoes": 28,
+   "interacoes_posts": 28,
+   "curtidas": 28,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "contas_com_engajamento": 29,
+   "atividade_do_perfil": 4,
+   "visitas_ao_perfil": 4,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "95.1%",
+   "pct_nao_seguidores_alcance": "4.9%",
+   "pct_seguidores_interacoes": "93.1%",
+   "pct_nao_seguidores_interacoes": "6.9%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "28",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "2.405"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "95.1%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "4.9%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "2.316"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "82"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "7"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "1.115"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "28"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "93.1%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "6.9%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "28"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "28"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "29"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=28/0",
+  "insights_raw": "28\n0\nVisualizações\nVisualizações\n2.405\nSeguidores\n95.1%\nNão seguidores\n4.9%\nNa página inicial\n2.316\nNo perfil\n82\nDe outra pessoa\n7\nVisualizadores\n1.115\nInterações\nInterações\n28\nSeguidores\n93.1%\nNão seguidores\n6.9%\nInterações com posts\n28\nCurtidas\n28\nComentários\n0\nSalvamentos\n0\nCompartilhamentos\n0\nContas com engajamento\n29\nPerfil\nAtividade do perfil\n4\nVisitas ao perfil\n4\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n6\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p23.jsonl",
+  "coletado_em": "2026-10-02T10:45:12-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3996261463325668857",
+  "shortcode": "Dd1kqC3G_X5",
+  "url": "https://www.instagram.com/insights/media/3996261463325668857/",
+  "data_publicacao": "2026-09-28",
+  "hora_publicacao": "13:05:11",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "visualizacoes": 847,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 396,
+   "de_outra_pessoa": 298,
+   "no_perfil": 153,
+   "visualizadores": 383,
+   "interacoes": 8,
+   "interacoes_posts": 8,
+   "curtidas": 5,
+   "compartilhamentos": 2,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "contas_com_engajamento": 6,
+   "atividade_do_perfil": 0,
+   "visitas_ao_perfil": 0,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "65.8%",
+   "pct_nao_seguidores_alcance": "34.2%",
+   "pct_seguidores_interacoes": "88.9%",
+   "pct_nao_seguidores_interacoes": "11.1%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "5",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "847"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "65.8%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "34.2%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "396"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "298"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "153"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "383"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "8"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "88.9%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "11.1%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "8"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "6"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=5/1",
+  "insights_raw": "5\n1\nVisualizações\nVisualizações\n847\nSeguidores\n65.8%\nNão seguidores\n34.2%\nNa página inicial\n396\nDe outra pessoa\n298\nNo perfil\n153\nVisualizadores\n383\nInterações\nInterações\n8\nSeguidores\n88.9%\nNão seguidores\n11.1%\nInterações com posts\n8\nCurtidas\n5\nCompartilhamentos\n2\nComentários\n1\nSalvamentos\n0\nContas com engajamento\n6\nPerfil\nAtividade do perfil\n0\nVisitas ao perfil\n0\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n43\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p24.jsonl",
+  "coletado_em": "2026-10-02T10:45:17-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3996337760524019366",
+  "shortcode": "Dd12AUKg6am",
+  "url": "https://www.instagram.com/insights/media/3996337760524019366/",
+  "data_publicacao": "2026-09-28",
+  "hora_publicacao": "15:36:46",
+  "tipo_midia": "reel",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": true,
+  "metricas": {
+   "visualizacoes": 13052,
+   "novos_seguidores": 21,
+   "contas_meta_alcancadas": 8520,
+   "interacoes": 340,
+   "curtidas": 167,
+   "comentarios": 58,
+   "salvamentos": 1,
+   "compartilhamentos": 110,
+   "contas_com_engajamento": 180,
+   "atividade_do_perfil": 21,
+   "pct_seguidores_alcance": "12.6%",
+   "pct_nao_seguidores_alcance": "87.4%",
+   "pct_seguidores_interacoes": "55%",
+   "pct_nao_seguidores_interacoes": "45%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "167",
+    "valor_original": "58"
+   },
+   {
+    "secao": "",
+    "nome_original": "0:03",
+    "valor_original": ""
+   },
+   {
+    "secao": "",
+    "nome_original": "As reproduções excluem dados de quando seu reel foi veiculado como um anúncio. Outros insights incluem dados de anúncios criados ou excluídos no Instagram ou nas ferramentas de publicidade do Facebook.",
+    "valor_original": ""
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "13.052"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "12.6%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "87.4%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Contas Meta alcançadas",
+    "valor_original": "8.520"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "340"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "55%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "45%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com reels",
+    "valor_original": "340"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "167"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "58"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "110"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "180"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "21"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "21"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=167/58",
+  "insights_raw": "167\n58\n0:03\nAs reproduções excluem dados de quando seu reel foi veiculado como um anúncio. Outros insights incluem dados de anúncios criados ou excluídos no Instagram ou nas ferramentas de publicidade do Facebook.\nVisualizações\nVisualizações\n13.052\nSeguidores\n12.6%\nNão seguidores\n87.4%\nContas Meta alcançadas\n8.520\nInterações\nInterações\n340\nSeguidores\n55%\nNão seguidores\n45%\nInterações com reels\n340\nCurtidas\n167\nComentários\n58\nSalvamentos\n1\nCompartilhamentos\n110\nContas com engajamento\n180\nPerfil\nAtividade do perfil\n21\nSeguidores\n21\nFacebook\nVisualizações\n209\nReações\n0\nComentários\n0\nAnúncio\nTurbinar este reel\n4",
+  "arquivo_origem": "_raw2_p25.jsonl",
+  "coletado_em": "2026-10-02T10:45:23-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3997142539845727017",
+  "shortcode": "Dd4s_ZUG3Mp",
+  "url": "https://www.instagram.com/insights/media/3997142539845727017/",
+  "data_publicacao": "2026-09-29",
+  "hora_publicacao": "18:15:44",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "visualizacoes": 2049,
+   "novos_seguidores": 2,
+   "na_pagina_inicial": 1854,
+   "no_perfil": 98,
+   "de_outra_pessoa": 97,
+   "visualizadores": 801,
+   "interacoes": 60,
+   "interacoes_posts": 60,
+   "curtidas": 55,
+   "compartilhamentos": 2,
+   "comentarios": 1,
+   "salvamentos": 1,
+   "contas_com_engajamento": 58,
+   "atividade_do_perfil": 6,
+   "visitas_ao_perfil": 4,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "90.7%",
+   "pct_nao_seguidores_alcance": "9.3%",
+   "pct_seguidores_interacoes": "92.1%",
+   "pct_nao_seguidores_interacoes": "7.9%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "55",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "2.049"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "90.7%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "9.3%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "1.854"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "98"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "97"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "801"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "60"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "92.1%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "7.9%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "60"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "55"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "2"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "58"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "6"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "4"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "2"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=55/1",
+  "insights_raw": "55\n1\nVisualizações\nVisualizações\n2.049\nSeguidores\n90.7%\nNão seguidores\n9.3%\nNa página inicial\n1.854\nNo perfil\n98\nDe outra pessoa\n97\nVisualizadores\n801\nInterações\nInterações\n60\nSeguidores\n92.1%\nNão seguidores\n7.9%\nInterações com posts\n60\nCurtidas\n55\nCompartilhamentos\n2\nComentários\n1\nSalvamentos\n1\nContas com engajamento\n58\nPerfil\nAtividade do perfil\n6\nVisitas ao perfil\n4\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n2\nFacebook\nVisualizações\n6\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p26.jsonl",
+  "coletado_em": "2026-10-02T10:45:29-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3997746293666153410",
+  "shortcode": "Dd62RK4GwPC",
+  "url": "https://www.instagram.com/insights/media/3997746293666153410/",
+  "data_publicacao": "2026-09-30",
+  "hora_publicacao": "14:15:17",
+  "tipo_midia": "p",
+  "vinculo": "proprio",
+  "parceiro": "",
+  "colaborativo": false,
+  "coautores": [],
+  "dono_grid": "acirvoficial",
+  "promovido": false,
+  "metricas": {
+   "visualizacoes": 1568,
+   "novos_seguidores": 0,
+   "na_pagina_inicial": 1392,
+   "de_outra_pessoa": 128,
+   "no_perfil": 48,
+   "visualizadores": 635,
+   "interacoes": 32,
+   "interacoes_posts": 32,
+   "curtidas": 26,
+   "comentarios": 3,
+   "compartilhamentos": 3,
+   "salvamentos": 0,
+   "contas_com_engajamento": 29,
+   "atividade_do_perfil": 5,
+   "visitas_ao_perfil": 5,
+   "toques_em_links_externos": 0,
+   "toques_no_endereco_comercial": 0,
+   "pct_seguidores_alcance": "90.3%",
+   "pct_nao_seguidores_alcance": "9.7%",
+   "pct_seguidores_interacoes": "80.6%",
+   "pct_nao_seguidores_interacoes": "19.4%"
+  },
+  "metricas_ausentes": [],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "26",
+    "valor_original": "3"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "1.568"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "90.3%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "9.7%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Na página inicial",
+    "valor_original": "1.392"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "128"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "No perfil",
+    "valor_original": "48"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizadores",
+    "valor_original": "635"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "32"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Seguidores",
+    "valor_original": "80.6%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Não seguidores",
+    "valor_original": "19.4%"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "32"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "26"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "3"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "3"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "29"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": "5"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques em links externos",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Toques no endereço comercial",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "0"
+   }
+  ],
+  "notas": "cabecalho_curtidas_comentarios=26/3",
+  "insights_raw": "26\n3\nVisualizações\nVisualizações\n1.568\nSeguidores\n90.3%\nNão seguidores\n9.7%\nNa página inicial\n1.392\nDe outra pessoa\n128\nNo perfil\n48\nVisualizadores\n635\nInterações\nInterações\n32\nSeguidores\n80.6%\nNão seguidores\n19.4%\nInterações com posts\n32\nCurtidas\n26\nComentários\n3\nCompartilhamentos\n3\nSalvamentos\n0\nContas com engajamento\n29\nPerfil\nAtividade do perfil\n5\nVisitas ao perfil\n5\nToques em links externos\n0\nToques no endereço comercial\n0\nSeguidores\n0\nFacebook\nVisualizações\n15\nReações\n0\nComentários\n0\nAnúncio\nTurbine este post\n4",
+  "arquivo_origem": "_raw2_p27.jsonl",
+  "coletado_em": "2026-10-02T10:45:34-03:00",
+  "status_data": "ok"
+ },
+ {
+  "media_id": "3997875435034841827",
+  "shortcode": "Dd7TobJgxLj",
+  "url": "https://www.instagram.com/insights/media/3997875435034841827/",
+  "data_publicacao": "2026-09-30",
+  "hora_publicacao": "18:31:52",
+  "tipo_midia": "p",
+  "vinculo": "colaboracao",
+  "parceiro": "carloswriter",
+  "colaborativo": true,
+  "coautores": [
+   "carloswriter"
+  ],
+  "dono_grid": "carloswriter",
+  "promovido": true,
+  "metricas": {
+   "curtidas": 68,
+   "visualizacoes": 2039,
+   "novos_seguidores": 4,
+   "de_outra_pessoa": 2039,
+   "interacoes_posts": 0,
+   "compartilhamentos": 147,
+   "comentarios": 27,
+   "salvamentos": 1,
+   "pct_seguidores_alcance": "69.7%",
+   "pct_nao_seguidores_alcance": "30.3%"
+  },
+  "metricas_ausentes": [
+   "atividade_do_perfil",
+   "contas_com_engajamento",
+   "contas_meta_alcancadas",
+   "interacoes"
+  ],
+  "metricas_brutas": [
+   {
+    "secao": "",
+    "nome_original": "Curtidas",
+    "valor_original": "27"
+   },
+   {
+    "secao": "",
+    "nome_original": "Seus insights incluem dados de anúncios criadas ou excluídos no Instagram ou nas ferramentas de publicidade do Facebook.",
+    "valor_original": ""
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Visualizações",
+    "valor_original": "2.039"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Seguidores",
+    "valor_original": "69.7%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Não seguidores",
+    "valor_original": "30.3%"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "De outra pessoa",
+    "valor_original": "2.039"
+   },
+   {
+    "secao": "Visualizações",
+    "nome_original": "Contas Meta alcançadas",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Interações com posts",
+    "valor_original": "0"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Compartilhamentos",
+    "valor_original": "147"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Curtidas",
+    "valor_original": "68"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Comentários",
+    "valor_original": "27"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Salvamentos",
+    "valor_original": "1"
+   },
+   {
+    "secao": "Interações",
+    "nome_original": "Contas com engajamento",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Atividade do perfil",
+    "valor_original": "--"
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Visitas ao perfil",
+    "valor_original": ""
+   },
+   {
+    "secao": "Perfil",
+    "nome_original": "Seguidores",
+    "valor_original": "4"
+   }
+  ],
+  "notas": "cabecalho_traz_comentarios=27; rotulo_sem_valor_numerico:contas_meta_alcancadas=--; rotulo_sem_valor_numerico:interacoes=--; rotulo_sem_valor_numerico:contas_com_engajamento=--; rotulo_sem_valor_numerico:atividade_do_perfil=--",
+  "insights_raw": "Curtidas\n27\nSeus insights incluem dados de anúncios criadas ou excluídos no Instagram ou nas ferramentas de publicidade do Facebook.\nVisualizações\nVisualizações\n2.039\nSeguidores\n69.7%\nNão seguidores\n30.3%\nDe outra pessoa\n2.039\nContas Meta alcançadas\n--\nInterações\nInterações\n--\nInterações com posts\n0\nCompartilhamentos\n147\nCurtidas\n68\nComentários\n27\nSalvamentos\n1\nContas com engajamento\n--\nPerfil\nAtividade do perfil\n--\nVisitas ao perfil\nSeguidores\n4",
+  "arquivo_origem": "_raw2_p28.jsonl",
+  "coletado_em": "2026-10-02T10:45:50-03:00",
+  "status_data": "ok"
+ }
+]

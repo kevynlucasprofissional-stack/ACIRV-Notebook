@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Ag\u00c3\u00aancia M\u00c3\u00a9trica | Rio Verde-GO"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772105963077,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3841025522495459819"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ag\u00c3\u00aancia M\u00c3\u00a9trica | Rio Verde-GO",
+      "timestamp_ms": 1772105036132,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ag\u00c3\u00aancia M\u00c3\u00a9trica | Rio Verde-GO",
+  "is_still_participant": true,
+  "thread_path": "inbox/agenciametricarioverdego_1927308351997192",
+  "magic_words": [
+    
+  ]
+}

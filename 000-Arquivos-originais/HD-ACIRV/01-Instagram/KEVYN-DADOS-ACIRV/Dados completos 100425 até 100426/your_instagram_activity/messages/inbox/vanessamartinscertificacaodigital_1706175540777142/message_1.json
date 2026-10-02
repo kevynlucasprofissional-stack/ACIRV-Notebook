@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Vanessa Martins | Certifica\u00c3\u00a7\u00c3\u00a3o Digital"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vanessa Martins | Certifica\u00c3\u00a7\u00c3\u00a3o Digital",
+      "timestamp_ms": 1761829950496,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vanessa Martins | Certifica\u00c3\u00a7\u00c3\u00a3o Digital",
+      "timestamp_ms": 1753798618325,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vanessa Martins | Certifica\u00c3\u00a7\u00c3\u00a3o Digital",
+      "timestamp_ms": 1750893043095,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vanessa Martins | Certifica\u00c3\u00a7\u00c3\u00a3o Digital",
+      "timestamp_ms": 1750855656614,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vanessa Martins | Certifica\u00c3\u00a7\u00c3\u00a3o Digital",
+  "is_still_participant": true,
+  "thread_path": "inbox/vanessamartinscertificacaodigital_1706175540777142",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Jocasta Im\u00c3\u00b3veis"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760467807596,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1760464037713,
+      "content": "Ol\u00c3\u00a1! Eu sou o Rioverdense, o assistente da ACIRV. Como posso te ajudar hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jocasta Im\u00c3\u00b3veis",
+      "timestamp_ms": 1760464034084,
+      "content": "Muito obrigada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758125126220,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758121258068,
+      "content": "O primeiro passo \u00c3\u00a9 entrar em contato com a ACIRV, seja pelo telefone ou pelo nosso site, para solicitar informa\u00c3\u00a7\u00c3\u00b5es detalhadas sobre a associa\u00c3\u00a7\u00c3\u00a3o. Voc\u00c3\u00aa gostaria de saber mais sobre como fazer isso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jocasta Im\u00c3\u00b3veis",
+      "timestamp_ms": 1758121250396,
+      "content": "Bom dia! \n\nO que \u00c3\u00a9 preciso pra ingressar com voc\u00c3\u00aas ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jocasta Im\u00c3\u00b3veis",
+  "is_still_participant": true,
+  "thread_path": "inbox/jocastaimoveis_1779838723410823",
+  "magic_words": [
+    
+  ]
+}

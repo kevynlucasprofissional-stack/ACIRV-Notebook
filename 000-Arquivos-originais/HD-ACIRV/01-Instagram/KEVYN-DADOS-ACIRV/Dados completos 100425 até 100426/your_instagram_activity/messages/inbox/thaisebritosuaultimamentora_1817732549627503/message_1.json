@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Thaise Brito | Sua \u00c3\u00baltima Mentora"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thaise Brito | Sua \u00c3\u00baltima Mentora",
+      "timestamp_ms": 1758749124020,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758740811267,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3728909602734956724"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thaise Brito | Sua \u00c3\u00baltima Mentora",
+      "timestamp_ms": 1754397046912,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thaise Brito | Sua \u00c3\u00baltima Mentora",
+  "is_still_participant": true,
+  "thread_path": "inbox/thaisebritosuaultimamentora_1817732549627503",
+  "magic_words": [
+    
+  ]
+}

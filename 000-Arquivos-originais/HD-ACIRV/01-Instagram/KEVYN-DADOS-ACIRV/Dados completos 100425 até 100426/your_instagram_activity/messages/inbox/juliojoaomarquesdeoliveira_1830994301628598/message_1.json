@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Julio Jo\u00c3\u00a3o Marques de Oliveira"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762636152922,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3761587104452323889"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jo\u00c3\u00a3o Marques de Oliveira",
+      "timestamp_ms": 1762635032629,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1762628064271,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3761519265418492972"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jo\u00c3\u00a3o Marques de Oliveira",
+      "timestamp_ms": 1762609020637,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Julio Jo\u00c3\u00a3o Marques de Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/juliojoaomarquesdeoliveira_1830994301628598",
+  "magic_words": [
+    
+  ]
+}

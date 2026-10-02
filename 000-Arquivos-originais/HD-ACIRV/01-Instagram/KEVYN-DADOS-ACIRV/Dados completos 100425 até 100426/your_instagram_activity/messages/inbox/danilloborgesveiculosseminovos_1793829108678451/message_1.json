@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "DANILLO BORGES | VE\u00c3\u008dCULOS SEMINOVOS"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759419914613,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759416078161,
+      "content": "Parece que danillo.reimotors te mencionou em uma hist\u00c3\u00b3ria! Voc\u00c3\u00aa gostaria de saber mais sobre a empresa ou algo relacionado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DANILLO BORGES | VE\u00c3\u008dCULOS SEMINOVOS",
+      "timestamp_ms": 1759416071152,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DANILLO BORGES | VE\u00c3\u008dCULOS SEMINOVOS",
+  "is_still_participant": true,
+  "thread_path": "inbox/danilloborgesveiculosseminovos_1793829108678451",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Nicole Castilho"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759151119795,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759147482588,
+      "content": "Eu n\u00c3\u00a3o consegui encontrar informa\u00c3\u00a7\u00c3\u00b5es espec\u00c3\u00adficas sobre a participa\u00c3\u00a7\u00c3\u00a3o de MEIs na ACIRV. Para saber mais, \u00c3\u00a9 melhor entrar em contato diretamente com a ACIRV.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicole Castilho",
+      "timestamp_ms": 1759147466843,
+      "content": "Quem \u00c3\u00a9 MEI n\u00c3\u00a3o consegue participar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1759147095406,
+      "content": "Para se associar \u00c3\u00a0 ACIRV, voc\u00c3\u00aa pode clicar no link 'Me associar' dispon\u00c3\u00advel no site da ACIRV e seguir as instru\u00c3\u00a7\u00c3\u00b5es. Al\u00c3\u00a9m disso, voc\u00c3\u00aa tamb\u00c3\u00a9m pode visitar a p\u00c3\u00a1gina 'Seja um Associado' para mais detalhes sobre o processo de associa\u00c3\u00a7\u00c3\u00a3o [[1](https://www.acirv.com.br/servicos/)] [[2](https://www.acirv.com.br/institucional/seja-um-associado/)].\n\nQuanto \u00c3\u00a0s vantagens, ser associado \u00c3\u00a0 ACIRV oferece acesso a eventos, capacita\u00c3\u00a7\u00c3\u00a3o, conv\u00c3\u00aanios e outros benef\u00c3\u00adcios que ajudam na representa\u00c3\u00a7\u00c3\u00a3o e crescimento da sua empresa. Essas vantagens s\u00c3\u00a3o essenciais para fortalecer a presen\u00c3\u00a7a no mercado local.",
+      "share": {
+        "link": "https://www.acirv.com.br/servicos/",
+        "share_text": "Para se associar \u00c3\u00a0 ACIRV, voc\u00c3\u00aa pode clicar no link 'Me associar' dispon\u00c3\u00advel no site da ACIRV e seguir as instru\u00c3\u00a7\u00c3\u00b5es. Al\u00c3\u00a9m disso, voc\u00c3\u00aa tamb\u00c3\u00a9m pode visitar a p\u00c3\u00a1gina 'Seja um Associado' para mais detalhes sobre o processo de associa\u00c3\u00a7\u00c3\u00a3o [[1](https://www.acirv.com.br/servicos/)] [[2](https://www.acirv.com.br/institucional/seja-um-associado/)].\n\nQuanto \u00c3\u00a0s vantagens, ser associado \u00c3\u00a0 ACIRV oferece acesso a eventos, capacita\u00c3\u00a7\u00c3\u00a3o, conv\u00c3\u00aanios e outros benef\u00c3\u00adcios que ajudam na representa\u00c3\u00a7\u00c3\u00a3o e crescimento da sua empresa. Essas vantagens s\u00c3\u00a3o essenciais para fortalecer a presen\u00c3\u00a7a no mercado local."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicole Castilho",
+      "timestamp_ms": 1759147081964,
+      "content": "Ol\u00c3\u00a1! Como posso me associar a Acirv e quais s\u00c3\u00a3o as vantagens para quem \u00c3\u00a9 associado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicole Castilho",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicolecastilho_1790754618985900",
+  "magic_words": [
+    
+  ]
+}

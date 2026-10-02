@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Revista Society"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1774300282497,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DWPb0b4D7Ml/?id=3859425756279976741_6027695835",
+        "share_text": "A maturidade de um mercado se mede pela capacidade dos seus l\u00c3\u00adderes de sentarem \u00c3\u00a0 mesma mesa para forjar alian\u00c3\u00a7as que movimentam a economia. O apoio institucional da #ACIRV ao High Society Network 2025/26 refor\u00c3\u00a7a a nossa vis\u00c3\u00a3o de que #ConectarParaCrescer impulsiona toda a Rio Verde. \n\nChancelar este espa\u00c3\u00a7o de networking \u00c3\u00a9 a demonstra\u00c3\u00a7\u00c3\u00a3o pr\u00c3\u00a1tica de que #ConectarParaCrescer atua como o m\u00c3\u00a9todo exato para unir e trazer impacto positivo para nosso ecossistem. Neste ambiente, nossos empreendedores transformam visibilidade em expans\u00c3\u00a3o de neg\u00c3\u00b3cios e constroem o alicerce para os pr\u00c3\u00b3ximos anos de mercado.\n\nAqui, ningu\u00c3\u00a9m cresce isolado. A gente cresce conectado.",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1771517197181,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3836084768664837740"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Revista Society",
+  "is_still_participant": true,
+  "thread_path": "inbox/revistasociety_570423751018999",
+  "magic_words": [
+    
+  ]
+}

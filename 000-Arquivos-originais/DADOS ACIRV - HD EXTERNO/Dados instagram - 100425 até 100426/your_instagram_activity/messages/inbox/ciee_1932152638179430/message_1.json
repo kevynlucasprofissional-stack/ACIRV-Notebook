@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "CIEE"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CIEE",
+      "timestamp_ms": 1772624555373,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CIEE",
+      "timestamp_ms": 1772574635453,
+      "content": "Oii, recebemos sua DM \u00f0\u009f\u0091\u0080\nEst\u00c3\u00a1 precisando de um atendimento?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772574628121,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CIEE"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3844956766610465130"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CIEE",
+  "is_still_participant": true,
+  "thread_path": "inbox/ciee_1932152638179430",
+  "magic_words": [
+    
+  ]
+}

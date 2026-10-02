@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Marcello Zocchio"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcello Zocchio",
+      "timestamp_ms": 1746564378340,
+      "content": "Ok obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1746557774911,
+      "content": "64  98418-9664\nRakil\u00c3\u00a2ndia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1746557755211,
+      "content": "Entre em contato com nosso comercial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1746557747985,
+      "content": "Boa tarde, tudo bem?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcello Zocchio",
+      "timestamp_ms": 1746557405625,
+      "content": "Boa tarde, aqui \u00c3\u00a9 o Marcello Zocchio do Grupo Acelerador Empresarial do Marcus Marques. Com quem eu posso falar sobre Parcerias Estrat\u00c3\u00a9gicas? Obrigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcello Zocchio",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcellozocchio_1665570828170947",
+  "magic_words": [
+    
+  ]
+}

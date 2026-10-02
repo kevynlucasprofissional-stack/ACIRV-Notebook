@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Wilson Roberto"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758894630023,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758890846750,
+      "content": "Oi! Eu sou o Rioverdense, seu assistente para quest\u00c3\u00b5es sobre a ACIRV e a Sudoexpo. Como posso te ajudar hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilson Roberto",
+      "timestamp_ms": 1758890843046,
+      "content": "N\u00c3\u00a3o consegui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758848125926,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758844327394,
+      "content": "Ol\u00c3\u00a1, boa noite. Conseguiu se inscrever para a Oficina do N\u00c3\u00bacleo de Sa\u00c3\u00bade de amanh\u00c3\u00a3? Seguimos \u00c3\u00a0 disposi\u00c3\u00a7\u00c3\u00a3o.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758714307827,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758710424511,
+      "content": "Voc\u00c3\u00aa pode verificar o site da ACIRV para informa\u00c3\u00a7\u00c3\u00b5es sobre a oficina da sa\u00c3\u00bade e outras atividades. Aqui est\u00c3\u00a1 o link: https://www.acirv.com.br/noticias/.",
+      "share": {
+        "link": "https://www.acirv.com.br/noticias/",
+        "share_text": "Voc\u00c3\u00aa pode verificar o site da ACIRV para informa\u00c3\u00a7\u00c3\u00b5es sobre a oficina da sa\u00c3\u00bade e outras atividades. Aqui est\u00c3\u00a1 o link: https://www.acirv.com.br/noticias/."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilson Roberto",
+      "timestamp_ms": 1758710417254,
+      "content": "Me envia o link de inscri\u00c3\u00a7\u00c3\u00a3o do planejamento estrat\u00c3\u00a9gico da oficina da sa\u00c3\u00bade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758710383800,
+      "content": "Eu sou o Rioverdense, assistente da ACIRV. Como posso ajudar voc\u00c3\u00aa hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilson Roberto",
+      "timestamp_ms": 1758710380067,
+      "content": "Bom dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wilson Roberto",
+  "is_still_participant": true,
+  "thread_path": "inbox/wilsonroberto_1786138002780895",
+  "magic_words": [
+    
+  ]
+}

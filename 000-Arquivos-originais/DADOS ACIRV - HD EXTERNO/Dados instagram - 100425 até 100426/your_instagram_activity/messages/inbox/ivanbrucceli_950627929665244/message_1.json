@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Ivan Brucceli"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ivan Brucceli",
+      "timestamp_ms": 1765874644697,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Brucceli",
+      "timestamp_ms": 1760985057996,
+      "content": "Ivan enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DQCmroMEUQF/?id=3747727963782726661_522726020",
+        "share_text": "Aten\u00c3\u00a7\u00c3\u00a3o no manejo da soja I2X, n\u00c3\u00a3o aplique Glufosinato e 2,4-D nela, use o xtend Can na pr\u00c3\u00a9 emerg\u00c3\u00aancia da soja.#ivanbrucceli #agro #soja #milho",
+        "original_content_owner": "ivanbrucceli"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Brucceli",
+      "timestamp_ms": 1760723013461,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Brucceli",
+      "timestamp_ms": 1759618174270,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Brucceli",
+      "timestamp_ms": 1753462676854,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Brucceli",
+      "timestamp_ms": 1752266789524,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ivan Brucceli",
+  "is_still_participant": true,
+  "thread_path": "inbox/ivanbrucceli_950627929665244",
+  "magic_words": [
+    
+  ]
+}

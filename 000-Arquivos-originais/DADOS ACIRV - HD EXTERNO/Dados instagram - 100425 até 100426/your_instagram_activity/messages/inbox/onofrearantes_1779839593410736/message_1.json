@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Onofre Arantes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Onofre Arantes",
+      "timestamp_ms": 1775510427268,
+      "content": "Onofre enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DWzg7tpjuDJ/?id=3869581345794482377_4841144328",
+        "share_text": "Tv Sucesso 2026\n1\u00c2\u00b0Dia Tecnoshow Recebe Milhares de Pessoas \n#TVSucesso #BandCidade #conexa\u00cc\u0083oagro #rioverde #goias",
+        "original_content_owner": "onofrearantes"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Onofre Arantes",
+      "timestamp_ms": 1772138296189,
+      "content": "Onofre enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DVPBo6Jkqxg/?id=3841296216433536096_4841144328",
+        "share_text": "Tv Sucesso 2026\nPlano de Aux\u00c3\u00adlio M\u00c3\u00batuo Prefeitura Municipal de Rio Verde GO \n#TVSucesso #BandCidade #rioverde #goias",
+        "original_content_owner": "onofrearantes"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Onofre Arantes",
+      "timestamp_ms": 1770844246461,
+      "content": "Onofre enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DUodYOPkoPI/?id=3830440690988516296_4841144328",
+        "share_text": "Tv Sucesso 2026\nSemin\u00c3\u00a1rio Capacita L\u00c3\u00adderes Sobre Estrat\u00c3\u00a9gia de Reten\u00c3\u00a7\u00c3\u00a3o e Responsabilidade Humana \n#TVSucesso #BandCidade #BrasilUrgente #rioverde #goias",
+        "original_content_owner": "onofrearantes"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1761837230654,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3754884501794061456"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758314329676,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3725319874186244915"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758121304957,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3723713335108905359"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Onofre Arantes",
+  "is_still_participant": true,
+  "thread_path": "inbox/onofrearantes_1779839593410736",
+  "magic_words": [
+    
+  ]
+}

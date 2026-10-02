@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Trocando em Mi\u00c3\u00bados"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Trocando em Mi\u00c3\u00bados",
+      "timestamp_ms": 1759374568033,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trocando em Mi\u00c3\u00bados",
+      "timestamp_ms": 1757649094901,
+      "share": {
+        "original_content_owner": "aparecida_rv12"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756733727873,
+      "content": "Poderia mencionar na publica\u00c3\u00a7\u00c3\u00a3o o nosso @ para repostarmos? Abra\u00c3\u00a7os!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1756733572694,
+      "content": "Bom dia. Agradecemos o apoio e divulga\u00c3\u00a7\u00c3\u00a3o de nossos projetos!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trocando em Mi\u00c3\u00bados",
+      "timestamp_ms": 1756676081306,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Trocando em Mi\u00c3\u00bados",
+  "is_still_participant": true,
+  "thread_path": "inbox/trocandoemmiudos_1765374668190562",
+  "magic_words": [
+    
+  ]
+}

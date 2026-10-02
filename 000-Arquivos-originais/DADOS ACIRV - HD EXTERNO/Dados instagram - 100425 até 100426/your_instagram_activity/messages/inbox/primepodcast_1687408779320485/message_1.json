@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Prime Podcast"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1749052609232,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3647640088578934288"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Prime Podcast",
+      "timestamp_ms": 1748988113579,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Prime Podcast",
+      "timestamp_ms": 1748911651859,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Prime Podcast",
+      "timestamp_ms": 1748911576055,
+      "content": "Prime enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DKa0VPSNQH7/",
+        "share_text": "Amanh\u00c3\u00a3 \u00c3\u00a0s 19h estaremos ao vivo com o novo presidente da @acirvoficial pra falarmos sobre a sua gest\u00c3\u00a3o 25/28! N\u00c3\u00a3o percam. \u00f0\u009f\u00a4\u00a9\u00e2\u009c\u00a8",
+        "original_content_owner": "primepodcastrv"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Prime Podcast",
+  "is_still_participant": true,
+  "thread_path": "inbox/primepodcast_1687408779320485",
+  "magic_words": [
+    
+  ]
+}

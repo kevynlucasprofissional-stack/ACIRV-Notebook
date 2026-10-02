@@ -1,0 +1,72 @@
+{
+  "organic_insights_reach": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Intervalo de datas": {
+          "href": "",
+          "value": "Jan 10 - Apr 9",
+          "timestamp": 0
+        },
+        "Contas alcan\u00c3\u00a7adas": {
+          "href": "",
+          "value": "211235",
+          "timestamp": 0
+        },
+        "Delta de contas alcan\u00c3\u00a7adas": {
+          "href": "",
+          "value": "+81.7% vs Oct 12 - Jan 9",
+          "timestamp": 0
+        },
+        "Seguidores": {
+          "href": "",
+          "value": "2.5%",
+          "timestamp": 0
+        },
+        "N\u00c3\u00a3o seguidores": {
+          "href": "",
+          "value": "97.5%",
+          "timestamp": 0
+        },
+        "Delta de n\u00c3\u00a3o seguidores": {
+          "href": "",
+          "value": "You reached +85.1% more accounts that weren't following you compared to Oct 12 - Jan 9.",
+          "timestamp": 0
+        },
+        "Impress\u00c3\u00b5es": {
+          "href": "",
+          "value": "657,084",
+          "timestamp": 0
+        },
+        "Delta de impress\u00c3\u00b5es": {
+          "href": "",
+          "value": "+7.9%",
+          "timestamp": 0
+        },
+        "Visitas ao perfil": {
+          "href": "",
+          "value": "8,841",
+          "timestamp": 0
+        },
+        "Delta de visitas ao perfil": {
+          "href": "",
+          "value": "+7.6%",
+          "timestamp": 0
+        },
+        "Toques em links externos": {
+          "href": "",
+          "value": "328",
+          "timestamp": 0
+        },
+        "Delta de toques em links externos": {
+          "href": "",
+          "value": "+22.3%",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

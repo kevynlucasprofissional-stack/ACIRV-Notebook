@@ -1,0 +1,30 @@
+{
+  "post_id": "ACIRV-SM-2026-006",
+  "publication_date": "2026-09-28",
+  "delivery_date": "2026-09-23",
+  "prioridade": "",
+  "pilar_estrategico": "Proximidade",
+  "campanha_frente": "SUDOEXPO-POS",
+  "servico_beneficio": "",
+  "metrica_principal": "",
+  "reconciliacao_trello": "REFERENCE_ONLY",
+  "referencias_historicas": [
+    {
+      "nome": "REELS - BASTIDORES DO PALCO",
+      "url": "https://trello.com/c/bxBu9Ja0/3305-reels-bastidores-do-palco"
+    }
+  ],
+  "observacoes_internas": [
+    "O card histórico é REEL — fora do escopo da Samara. Usar apenas como referência de ideia fotográfica; esta pauta é carrossel estático."
+  ],
+  "dados_a_validar": [
+    "Uso de imagem de pessoas e de bastidores exige autorização de imagem."
+  ],
+  "dedupe_key": "ACIRV-SM-2026-006|2026-09-28|bastidores-das-conexoes--o-trabalho-que-acontece-antes-de-um-encontro",
+  "fontes_internas": "2026-09.md",
+  "formato": "Carrossel fotográfico 3 slides — 3 slide(s)",
+  "slides": 3,
+  "requer_2_slides": false,
+  "extra_leve": "não",
+  "legend_len": 349
+}

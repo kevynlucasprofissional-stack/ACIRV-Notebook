@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Debora Pedroso Da Silva Peres"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1753915532704,
+      "content": "Agradecemos a sua sauda\u00c3\u00a7\u00c3\u00a3o, Debora! \u00f0\u009f\u00ab\u00b1\u00f0\u009f\u008f\u00bd\u00e2\u0080\u008d\u00f0\u009f\u00ab\u00b2\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Debora Pedroso Da Silva Peres",
+      "timestamp_ms": 1753800162996,
+      "content": "Parab\u00c3\u00a9ns",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3687375660871889351"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1753450377453,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Debora Pedroso Da Silva Peres",
+      "timestamp_ms": 1753444299412,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Debora Pedroso Da Silva Peres",
+  "is_still_participant": true,
+  "thread_path": "inbox/deborapedrosodasilvaperes_1732571741470855",
+  "magic_words": [
+    
+  ]
+}

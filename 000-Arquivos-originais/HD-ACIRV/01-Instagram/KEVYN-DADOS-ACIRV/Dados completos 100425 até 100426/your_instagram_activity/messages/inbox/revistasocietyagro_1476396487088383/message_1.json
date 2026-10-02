@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Revista Society Agro"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1772106270690,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3841028085718555568"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Revista Society Agro",
+      "timestamp_ms": 1772106166214,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Revista Society Agro",
+  "is_still_participant": true,
+  "thread_path": "inbox/revistasocietyagro_1476396487088383",
+  "magic_words": [
+    
+  ]
+}

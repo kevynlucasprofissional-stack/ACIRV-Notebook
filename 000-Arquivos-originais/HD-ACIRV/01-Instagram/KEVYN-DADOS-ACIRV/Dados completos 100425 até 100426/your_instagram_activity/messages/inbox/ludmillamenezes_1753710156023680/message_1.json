@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Ludmilla Menezes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1757606888001,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3719398159798860975"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1755527777900,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3701957368736934682"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ludmilla Menezes",
+  "is_still_participant": true,
+  "thread_path": "inbox/ludmillamenezes_1753710156023680",
+  "magic_words": [
+    
+  ]
+}

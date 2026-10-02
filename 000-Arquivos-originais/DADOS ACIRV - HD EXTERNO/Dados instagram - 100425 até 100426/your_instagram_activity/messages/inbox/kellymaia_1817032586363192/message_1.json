@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Kelly Maia"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1752587394083,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3677252459521756111"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kelly Maia",
+  "is_still_participant": true,
+  "thread_path": "inbox/kellymaia_1817032586363192",
+  "magic_words": [
+    
+  ]
+}

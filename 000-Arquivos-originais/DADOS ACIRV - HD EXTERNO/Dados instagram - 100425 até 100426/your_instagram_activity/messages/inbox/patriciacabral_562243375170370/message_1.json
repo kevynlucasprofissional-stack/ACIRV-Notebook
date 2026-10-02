@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Patr\u00c3\u00adcia Cabral"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747914165162,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3638090129927857640"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patr\u00c3\u00adcia Cabral",
+      "timestamp_ms": 1747913506412,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patr\u00c3\u00adcia Cabral",
+  "is_still_participant": true,
+  "thread_path": "inbox/patriciacabral_562243375170370",
+  "magic_words": [
+    
+  ]
+}

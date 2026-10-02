@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Duarte's Cake\u00c2\u00ae"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    },
+    {
+      "name": "Simple Talent | Gest\u00c3\u00a3o & Consultoria"
+    },
+    {
+      "name": "Usu\u00c3\u00a1rio do Instagram"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Duarte's Cake\u00c2\u00ae",
+      "timestamp_ms": 1757626047872,
+      "content": "Duarte's enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DOeevhEEnCX/?id=3719545548967145623_6905270282",
+        "share_text": "Simmm! O festival mais pedido estar\u00c3\u00a1 de volta\u00f0\u009f\u00a4\u00a9\n\nA partir de amanh\u00c3\u00a3 at\u00c3\u00a9 dia 14 de setembro ou enquanto durar nosso estoque\u00f0\u009f\u0098\u008d\n\n#festival #tortas #duartescake",
+        "original_content_owner": "duartescake_oficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Duarte's Cake\u00c2\u00ae, Simple Talent | Gest\u00c3\u00a3o & Consultoria and Usu\u00c3\u00a1rio do Instagram",
+  "is_still_participant": true,
+  "thread_path": "inbox/duartescakersimpletalentgestaoconsultoriaandusuariodoinstagram_8253204684769947",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://ig.me/j/AbYPn9MJ2O2juNI0/"
+  }
+}

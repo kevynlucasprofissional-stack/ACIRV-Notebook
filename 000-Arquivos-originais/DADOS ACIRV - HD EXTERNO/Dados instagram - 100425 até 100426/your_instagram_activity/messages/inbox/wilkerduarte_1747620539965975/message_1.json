@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Wilker Duarte"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wilker Duarte",
+      "timestamp_ms": 1754944467778,
+      "content": "Eu que agrade\u00c3\u00a7o!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilker Duarte",
+      "timestamp_ms": 1754944464596,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1754937772379,
+      "content": "Ol\u00c3\u00a1, Wilker! Agradecemos a parceria e divulga\u00c3\u00a7\u00c3\u00a3o dos nossos festivais. \u00f0\u009f\u00ab\u00b1\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u00ab\u00b2\u00f0\u009f\u008f\u00be\u00f0\u009f\u0093\u00ba",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wilker Duarte"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilker Duarte",
+      "timestamp_ms": 1754937415266,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1754937110896,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3697002581310737842"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wilker Duarte",
+  "is_still_participant": true,
+  "thread_path": "inbox/wilkerduarte_1747620539965975",
+  "magic_words": [
+    
+  ]
+}

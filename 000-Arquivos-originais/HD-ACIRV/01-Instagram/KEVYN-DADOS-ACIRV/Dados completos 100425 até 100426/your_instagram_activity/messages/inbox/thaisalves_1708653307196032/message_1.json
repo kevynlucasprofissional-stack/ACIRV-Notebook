@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Thais Alves"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751079779405,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664645238669337438"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thais Alves",
+      "timestamp_ms": 1751077306959,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thais Alves",
+  "is_still_participant": true,
+  "thread_path": "inbox/thaisalves_1708653307196032",
+  "magic_words": [
+    
+  ]
+}

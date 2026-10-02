@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Paulo Resende"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paulo Resende",
+      "timestamp_ms": 1751155875055,
+      "content": "Paulo enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DLdrOdVAcLD/?carousel_share_child_media_id=3665275757883601665_306994475",
+        "share_text": "",
+        "original_content_owner": "paulodanr_saosimao"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Paulo Resende",
+  "is_still_participant": true,
+  "thread_path": "inbox/pauloresende_1129861598408542",
+  "magic_words": [
+    
+  ]
+}

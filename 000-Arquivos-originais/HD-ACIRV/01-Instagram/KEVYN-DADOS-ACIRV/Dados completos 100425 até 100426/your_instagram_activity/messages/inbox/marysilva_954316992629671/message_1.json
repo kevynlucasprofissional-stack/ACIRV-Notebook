@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Mary Silva"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mary Silva",
+      "timestamp_ms": 1766344151341,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Silva",
+      "timestamp_ms": 1766344140167,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Silva",
+      "timestamp_ms": 1766344129788,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Silva",
+      "timestamp_ms": 1766344120070,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Silva",
+      "timestamp_ms": 1766344111031,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Silva",
+      "timestamp_ms": 1766344100495,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1763577087595,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3769480229573187558"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Silva",
+      "timestamp_ms": 1763559403032,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Silva",
+      "timestamp_ms": 1750807463753,
+      "share": {
+        "link": "https://www.instagram.com/stories/maryesteticaunissex2/3662343897675018313"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Silva",
+      "timestamp_ms": 1750807437918,
+      "share": {
+        "link": "https://www.instagram.com/stories/maryesteticaunissex2/3662257722444705170"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mary Silva",
+  "is_still_participant": true,
+  "thread_path": "inbox/marysilva_954316992629671",
+  "magic_words": [
+    
+  ]
+}

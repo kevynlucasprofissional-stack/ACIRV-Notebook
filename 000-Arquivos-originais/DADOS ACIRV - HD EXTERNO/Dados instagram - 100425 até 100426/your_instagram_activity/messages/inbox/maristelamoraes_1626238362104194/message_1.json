@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Maristela Moraes"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maristela Moraes",
+      "timestamp_ms": 1747956474439,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1747930391358,
+      "content": "Voc\u00c3\u00aa enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maristela Moraes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DJ9k3sGtaJ8/?carousel_share_child_media_id=3638226230588056188_6027695835",
+        "share_text": "EM \u00e2\u0080\u0098CAF\u00c3\u0089 ENTRE AMIGOS ESPECIAL\u00e2\u0080\u0099, PRESIDENTE EDUARDO LOBO D\u00c3\u0081 POSSE \u00c3\u0080 PRIMEIRA DIRETORIA DO CONSELHO EMPREGA ACIRV \n\nA posse dos diretores do Conselho aconteceu na manh\u00c3\u00a3 desta quinta-feira, 22, durante o Caf\u00c3\u00a9 Entre Amigos de maio. Em sua fala, o presidente Eduardo Lobo explicou os motivos que levaram a Associa\u00c3\u00a7\u00c3\u00a3o a criar o Emprega ACIRV. \n\nSegundo ele, o Conselho visa desenvolver a\u00c3\u00a7\u00c3\u00b5es voltadas para a cria\u00c3\u00a7\u00c3\u00a3o de empregos e oportunidades de trabalho para a popula\u00c3\u00a7\u00c3\u00a3o, ao mesmo tempo em que apoia empres\u00c3\u00a1rios locais no preenchimento das vagas dispon\u00c3\u00adveis. As empresas que desejarem fazer parte do grupo que integra o Conselho devem ser associadas. Contato ACIRV: fone/zap 64 3620 0199. \n\nDIRETORIA DO CONSELHO EMPREGA ACIRV: Coordenadora Executiva - Lorraine Castro Bueno; Vice-Coordenadora Executiva \u00e2\u0080\u0093 Maristela Moraes; Secret\u00c3\u00a1ria: Jaqueline Paiva; Coordenadores: Fausto Vieira (de Tecnologia); Janainne Calixto (Com\u00c3\u00a9rcio); Fabiana Cardoso (Ind\u00c3\u00bastria) e Hellen Luemy (Servi\u00c3\u00a7os).",
+        "original_content_owner": "acirvoficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1744807681390,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3612031058200432582"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maristela Moraes",
+      "timestamp_ms": 1744807643428,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maristela Moraes",
+  "is_still_participant": true,
+  "thread_path": "inbox/maristelamoraes_1626238362104194",
+  "magic_words": [
+    
+  ]
+}

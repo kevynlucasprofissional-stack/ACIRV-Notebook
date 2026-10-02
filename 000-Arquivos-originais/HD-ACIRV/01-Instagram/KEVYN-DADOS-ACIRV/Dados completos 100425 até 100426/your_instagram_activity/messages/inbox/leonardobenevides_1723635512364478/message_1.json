@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Leonardo Benevides"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1752598578657,
+      "content": "Ol\u00c3\u00a1, este \u00c3\u00a9 um teste.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leonardo Benevides",
+      "timestamp_ms": 1752513123279,
+      "content": "Oi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Leonardo Benevides",
+  "is_still_participant": true,
+  "thread_path": "inbox/leonardobenevides_1723635512364478",
+  "magic_words": [
+    
+  ]
+}

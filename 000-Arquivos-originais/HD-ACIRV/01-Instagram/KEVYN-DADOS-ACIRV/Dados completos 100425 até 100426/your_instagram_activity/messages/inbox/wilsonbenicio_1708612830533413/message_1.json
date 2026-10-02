@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Wilson Ben\u00c3\u00adcio"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1751079766378,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3664645112840130220"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilson Ben\u00c3\u00adcio",
+      "timestamp_ms": 1751073059822,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wilson Ben\u00c3\u00adcio",
+  "is_still_participant": true,
+  "thread_path": "inbox/wilsonbenicio_1708612830533413",
+  "magic_words": [
+    
+  ]
+}

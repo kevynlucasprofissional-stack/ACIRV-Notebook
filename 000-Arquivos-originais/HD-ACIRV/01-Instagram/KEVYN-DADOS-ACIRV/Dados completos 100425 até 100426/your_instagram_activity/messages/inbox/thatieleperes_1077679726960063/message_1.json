@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Thatiele Peres"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thatiele Peres",
+      "timestamp_ms": 1758988032507,
+      "content": "Reacted \u00f0\u009f\u0091\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758846023119,
+      "content": "At\u00c3\u00a9 aqui ent\u00c3\u00a3o, tudo OK? Se ficou alguma d\u00c3\u00bavida e/ou necessidade, estou a disposi\u00c3\u00a7\u00c3\u00a3o, blz? At\u00c3\u00a9 breve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758842284387,
+      "content": "Agradecemos  a presen\u00c3\u00a7a e esperamos que a experi\u00c3\u00aancia tenha sido excelente! Nos encontramos no nosso pr\u00c3\u00b3ximo evento?! \u00f0\u009f\u00ab\u00b1\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u00ab\u00b2\u00f0\u009f\u008f\u00be",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008f",
+          "actor": "Thatiele Peres"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758840537407,
+      "content": "Voc\u00c3\u00aa gostaria de saber algo espec\u00c3\u00adfico sobre a ACIRV ou outro assunto relacionado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thatiele Peres",
+      "timestamp_ms": 1758840507008,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1758840019455,
+      "content": "Oi! Eu sou o Rioverdense, assistente da ACIRV. Como posso te ajudar hoje?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thatiele Peres",
+      "timestamp_ms": 1758840014516,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thatiele Peres",
+      "timestamp_ms": 1746750364996,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thatiele Peres",
+      "timestamp_ms": 1746750362502,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thatiele Peres",
+      "timestamp_ms": 1746750362310,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Thatiele Peres",
+      "timestamp_ms": 1744802063012,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thatiele Peres",
+  "is_still_participant": true,
+  "thread_path": "inbox/thatieleperes_1077679726960063",
+  "magic_words": [
+    
+  ]
+}

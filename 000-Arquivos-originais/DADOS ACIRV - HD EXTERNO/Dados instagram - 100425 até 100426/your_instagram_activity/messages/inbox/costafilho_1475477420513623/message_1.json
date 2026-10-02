@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Costa Filho"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Costa Filho",
+      "timestamp_ms": 1754576373122,
+      "content": "Ol\u00c3\u00a1. Obrigado por me acompanhar no r\u00c3\u00a1dio e nas redes sociais. Para participa\u00c3\u00a7\u00c3\u00b5es no programa patrulha 97, envie sua mensagem para o WhatsApp da r\u00c3\u00a1dio Morada do Sol fm 3621 4433, de segunda a sexta-feira das 7h \u00c3\u00a0s 8h da manh\u00c3\u00a3.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1754576369427,
+      "content": "Agradecemos a divulga\u00c3\u00a7\u00c3\u00a3o dos nossos festivais! \u00f0\u009f\u00ab\u00b1\u00f0\u009f\u008f\u00bd\u00e2\u0080\u008d\u00f0\u009f\u00ab\u00b2\u00f0\u009f\u008f\u00bb\u00f0\u009f\u008e\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Costa Filho",
+      "timestamp_ms": 1754485897184,
+      "content": "Costa enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DNA8BXWRFaw/?id=3693215671023589040_47734383928",
+        "share_text": "Associa\u00c3\u00a7\u00c3\u00a3o Comercial Industrial de Rio Verde apresenta Barzinho e Viol\u00c3\u00a3o e tem uma rica premia\u00c3\u00a7\u00c3\u00a3o.\n\n@acirvoficial @raphael_valongo",
+        "original_content_owner": "coisasdocostafilho"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Costa Filho",
+  "is_still_participant": true,
+  "thread_path": "inbox/costafilho_1475477420513623",
+  "magic_words": [
+    
+  ]
+}

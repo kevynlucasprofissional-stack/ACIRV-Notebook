@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Bruna Lima Dias"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1750245326614,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3657645326866132467"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruna Lima Dias",
+      "timestamp_ms": 1750198556998,
+      "share": {
+        "link": "https://www.instagram.com/stories/brunas2lima/3657252996452623476"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruna Lima Dias",
+      "timestamp_ms": 1744805409832,
+      "share": {
+        "link": "https://www.instagram.com/stories/brunas2lima/3612011998096770276"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1744802161366,
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3611984752933182753"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruna Lima Dias",
+      "timestamp_ms": 1744801767018,
+      "share": {
+        "link": "https://www.instagram.com/stories/brunas2lima/3611981440167968368"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruna Lima Dias",
+  "is_still_participant": true,
+  "thread_path": "inbox/brunalimadias_1625935612134469",
+  "magic_words": [
+    
+  ]
+}

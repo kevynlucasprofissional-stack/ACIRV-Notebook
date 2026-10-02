@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Andressa Mascarello"
+    },
+    {
+      "name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andressa Mascarello",
+      "timestamp_ms": 1775817661288,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ACIRV - Associa\u00c3\u00a7\u00c3\u00a3o Comercial, Industrial e Servi\u00c3\u00a7os de Rio Verde",
+      "timestamp_ms": 1775817124759,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Andressa Mascarello"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/acirvoficial/3872157097433939486"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andressa Mascarello",
+      "timestamp_ms": 1775774453779,
+      "share": {
+        "link": "https://www.instagram.com/stories/andressa_mascarello/3871799127336178809"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andressa Mascarello",
+  "is_still_participant": true,
+  "thread_path": "inbox/andressamascarello_1969458747782152",
+  "magic_words": [
+    
+  ]
+}
