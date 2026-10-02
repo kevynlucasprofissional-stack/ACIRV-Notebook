@@ -60,7 +60,7 @@ As três fontes estruturadas foram abertas e reconciliadas:
 
 ### Agosto
 
-O MASTER contém 52 posts, 1.089 linhas de métricas brutas e uma aba adicional de auditoria. A auditoria conclui que os 52 posts da lista mestre estão completos para agosto e explica os falsos positivos de setembro causados por data de upload/agendamento.
+O MASTER contém 52 linhas (48 de agosto + 4 de julho), 1.089 linhas de métricas brutas e uma aba adicional de auditoria. A auditoria do próprio arquivo afirma que os 52 posts da lista mestre estariam completos para agosto — **afirmação retratada em 02/10/2026**: são 48 de agosto + 4 de 31/07 mal-rotulados, e o feed de agosto tem 62 publicações (faltam 14) e explica os falsos positivos de setembro causados por data de upload/agendamento.
 
 **Decisão:** usar o MASTER como fonte preferida no grão por publicação. O arquivo original continua preservado como proveniência.
 
@@ -79,7 +79,7 @@ O workbook cobre somente **01–14/09/2026**, com 86 posts. O próprio `Controle
 
 ### Bases derivadas
 
-- `85-Bases-e-Consultas/Instagram-Publicacoes-2026-08-09.csv` — 138 linhas, agosto MASTER + setembro parcial. O bloco de setembro (86 linhas, 01–14/09) está **superado** por `Instagram-Publicacoes-2026-09.csv`;
+- `85-Bases-e-Consultas/Instagram-Publicacoes-2026-08-09.csv` — 138 linhas (48 de agosto + 4 de julho + 86 de setembro parcial); a base de agosto está incompleta (o feed tinha 62). O bloco de setembro (86 linhas, 01–14/09) está **superado** por `Instagram-Publicacoes-2026-09.csv`;
 - `85-Bases-e-Consultas/Instagram-Publicacoes-2026-09.csv` — 116 linhas, setembro completo (60 próprios + 56 colaborações); ver [[Base-Instagram-Setembro-2026]];
 - `85-Bases-e-Consultas/Instagram-Publicacoes-Export-Meta-2025-2026.csv` — 200 linhas do export histórico `posts.json`.
 

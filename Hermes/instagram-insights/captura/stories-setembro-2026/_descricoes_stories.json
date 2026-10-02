@@ -1,0 +1,1913 @@
+{
+ "3976558768023620637": {
+  "descricao": "Card de contagem regressiva da SudoExpo 2026 com fundo escuro colorido e logotipo SudoExpo, informando que faltam 8 dias para o evento de 09 a 12 de setembro, com faixa de realização ACIRV e logos de parceiros na base.",
+  "texto_sobreposto": "FALTAM APENAS 8 DIAS / Está chegando o grande momento! / SUDO EXPO 2026 / 09 A 12 DE SETEMBRO / Realização: ACIRV",
+  "natureza": "arte",
+  "folha": "folha_01",
+  "idx": 1
+ },
+ "3976559390944710440": {
+  "descricao": "Card de divulgação do 2º Fórum de IA da ACIRV, em fundo roxo com logotipo Sudo Expo, convidando à inscrição pelo Sympla para o evento de 11 de setembro, com logos de realização e apoio na base.",
+  "texto_sobreposto": "INSCRIÇÕES / 2º FÓRUM DE IA DA ACIRV / Garanta sua participação no evento que vai discutir Inteligência Artificial, dados e decisões empresariais. / Inscrições pelo Sympla. Link na bio. / 11 de setembro / LOCAL: SUDO EXPO / Realização: ACIRV FIAP",
+  "natureza": "arte",
+  "folha": "folha_01",
+  "idx": 2
+ },
+ "3976787149537175452": {
+  "descricao": "Vídeo do presidente da ACIRV em pé num auditório de palco, gesticulando ao gravar um vídeo de divulgação; tarja verde com legenda na base e tarja azul com texto sobre a chamada para a SudoExpo.",
+  "texto_sobreposto": "Minuto ACIRV / Presidente da ACIRV grava uma chamada para todos participarem da Sudoexpo",
+  "natureza": "video",
+  "folha": "folha_01",
+  "idx": 3
+ },
+ "3978002156828530335": {
+  "descricao": "Vídeo de reunião da diretoria da ACIRV numa sala, com pessoas sentadas a uma mesa usando notebooks; uma mulher de óculos opera um notebook com adesivo SUDO, tarja verde com texto na base esquerda.",
+  "texto_sobreposto": "Agora na ACIRV / Reunião da diretoria reforça a importância da participação dos diretores para prestigiar e fortalecer a SudoExpo",
+  "natureza": "video",
+  "folha": "folha_01",
+  "idx": 4
+ },
+ "3978032601377214085": {
+  "descricao": "Card de contagem regressiva da SudoExpo 2026 (faltam 6 dias) em fundo escuro com letreiro colorido, informando o período de 09 a 12 de setembro e a realização ACIRV com logos de parceiros na base.",
+  "texto_sobreposto": "FALTAM APENAS 6 DIAS / Está chegando o grande momento! / SUDO EXPO 2026 / 09 A 12 DE SETEMBRO / Realização: ACIRV",
+  "natureza": "arte",
+  "folha": "folha_01",
+  "idx": 5
+ },
+ "3978203895896931415": {
+  "descricao": "Foto de grupo de mulheres posando numa sala de reunião, com faixa verde no topo e na base informando a participação da diretora da ACIRV na reunião do Pacto de enfrentamento à violência contra a mulher.",
+  "texto_sobreposto": "A diretora da ACIRV @suelyturra participou hoje da reunião do Pacto da Violência Contra a Mulher / Obrigado por representar a entidade Suely!",
+  "natureza": "foto",
+  "folha": "folha_01",
+  "idx": 6
+ },
+ "3979469993250135814": {
+  "descricao": "Vídeo do galpão/estrutura de montagem da SudoExpo ainda vazio, com banners pendurados no teto e piso de concreto; adesivo de emoji de choque sobreposto no canto.",
+  "texto_sobreposto": "VEJAM... / O tamanho da estrutura da nossa Sudoexpo",
+  "natureza": "video",
+  "folha": "folha_01",
+  "idx": 7
+ },
+ "3979542920901047645": {
+  "descricao": "Card de contagem regressiva da SudoExpo 2026 (faltam 4 dias) em fundo verde com letreiro colorido, informando o período de 09 a 12 de setembro e realização ACIRV com logos de parceiros na base.",
+  "texto_sobreposto": "FALTAM APENAS 4 DIAS / Falta pouco para o grande dia! / SUDO EXPO 2026 / 09 A 12 DE SETEMBRO / Realização: ACIRV",
+  "natureza": "arte",
+  "folha": "folha_01",
+  "idx": 8
+ },
+ "3980956393166533597": {
+  "descricao": "Card de contagem regressiva da SudoExpo 2026 (faltam 2 dias) em fundo escuro com letreiro neon colorido, informando o período de 09 a 12 de setembro e realização ACIRV com logos de parceiros na base.",
+  "texto_sobreposto": "FALTAM APENAS 2 DIAS / SUDO EXPO 2026 / 09 A 12 DE SETEMBRO / Realização: ACIRV",
+  "natureza": "arte",
+  "folha": "folha_01",
+  "idx": 9
+ },
+ "3981619924996087134": {
+  "descricao": "Peça gráfica de véspera da SudoExpo 2026, com o letreiro SUDO EXPO 2026, as datas do evento e logos de realização/patrocínio na base.",
+  "texto_sobreposto": "O GRANDE DIA É AMANHÃ / SUDO EXPO 2026 / 09 A 12 DE SETEMBRO / Realização: ACIRV / Patrocinadores / Apoio",
+  "natureza": "arte",
+  "folha": "folha_02",
+  "idx": 10
+ },
+ "3981720561612448183": {
+  "descricao": "Card de divulgação do programa de rádio/TV 'Sucesso no Campo', com foto de uma apresentadora e de um convidado identificado como presidente da ACIRV dentro de um círculo.",
+  "texto_sobreposto": "SUCESSO NO CAMPO / AS 12:00 AO VIVO / 08/09 / Fabíola Oliveira / JOSÉ CARLOS pres. ACIRV",
+  "natureza": "arte",
+  "folha": "folha_02",
+  "idx": 11
+ },
+ "3981725476589949022": {
+  "descricao": "Card de divulgação do 2º Fórum de IA da ACIRV, com chamada para palestrantes confirmados, data e local no SudoExpo.",
+  "texto_sobreposto": "2º FÓRUM DE IA DA ACIRV / Encontro com grandes nomes e temas discutindo o futuro da inteligência artificial / CONFIRA OS PALESTRANTES CONFIRMADOS / 11 de setembro / LOCAL: SUDO EXPO / REALIZAÇÃO: ACIRV FIAP / APOIO: UniRV",
+  "natureza": "arte",
+  "folha": "folha_02",
+  "idx": 12
+ },
+ "3981725483745530014": {
+  "descricao": "Card de palestrante confirmado do 2º Fórum de IA da ACIRV, com retrato do palestrante e o tema da sua apresentação.",
+  "texto_sobreposto": "PALESTRANTE CONFIRMADO / ANDRÉ MALUF / COMO NEGÓCIOS DE QUALQUER TAMANHO ESTÃO USANDO IA PARA CRESCER / 2º FÓRUM DE IA DA ACIRV",
+  "natureza": "arte",
+  "folha": "folha_02",
+  "idx": 13
+ },
+ "3981725490246818424": {
+  "descricao": "Card de palestrante confirmado do 2º Fórum de IA da ACIRV, com retrato, tema da palestra e mini-bio sobre experiência em dados e inteligência artificial.",
+  "texto_sobreposto": "PALESTRANTE CONFIRMADO / RAUHE ABDULHAMID / A IA NÃO VAI SALVAR SUA EMPRESA: A VERDADE INCONVENIENTE / especialista em dados e inteligência artificial / 2º FÓRUM DE IA DA ACIRV",
+  "natureza": "arte",
+  "folha": "folha_02",
+  "idx": 14
+ },
+ "3981725498685648702": {
+  "descricao": "Card de palestrante confirmado do 2º Fórum de IA da ACIRV, com retrato do professor e o tema sobre o impacto da IA nos negócios.",
+  "texto_sobreposto": "PALESTRANTE CONFIRMADO / PROF. DR. ALSONES BALESTRIN / A REVOLUÇÃO DA INTELIGÊNCIA ARTIFICIAL: COMO SERÃO OS NEGÓCIOS DA SUA EMPRESA DAQUI PRA FRENTE? / 2º FÓRUM DE IA DA ACIRV",
+  "natureza": "arte",
+  "folha": "folha_02",
+  "idx": 15
+ },
+ "3981725590918455379": {
+  "descricao": "Card de inscrições abertas do 2º Fórum de IA da ACIRV, com data, local e orientação de inscrição pela plataforma Sympla.",
+  "texto_sobreposto": "INSCRIÇÕES ABERTAS / 2º FÓRUM DE IA DA ACIRV / Garanta sua participação no evento que vai discutir inteligência artificial, dados e decisões empresariais / Inscrições pelo Sympla. Link na bio. / 11 de setembro / LOCAL: SUDO EXPO / REALIZAÇÃO: ACIRV FIAP / APOIO: UniRV",
+  "natureza": "arte",
+  "folha": "folha_02",
+  "idx": 16
+ },
+ "3981741183813982106": {
+  "descricao": "Print de publicação do Instagram com fotos de pessoas em evento (uma delas usando camiseta com estampa SUDO EXPO) e legenda sobre a troca de comando do Comando Regional do Corpo de Bombeiros.",
+  "texto_sobreposto": "@acirvoficial, @codervriorverde e @ifgoanorioverde presentes na troca de comando do 2 comando regional do Corpo de Bombeiros ao amigo Cel. Hamilton. Sucesso nesta nova missão.... / Rio Verde, Goiás, Brazil",
+  "natureza": "foto",
+  "folha": "folha_02",
+  "idx": 17
+ },
+ "3981741887832790310": {
+  "descricao": "Vídeo em formato vertical com pessoa filmada em ambiente de evento, sobreposto por card de identificação da SudoExpo 2026 e indicador de reprodução. O quadro corta a lateral da terceira linha do painel de fundo (le-se ...LTISSETORIAL), confirmada como MULTISSETORIAL por ampliacao; a peca e a mesma das demais folhas.",
+  "texto_sobreposto": "SUDO EXPO 2026 / VOCÊ ESTÁ NA MAIOR FEIRA MULTISSETORIAL DO BRASIL",
+  "natureza": "video",
+  "folha": "folha_02",
+  "idx": 18
+ },
+ "3981744203234678905": {
+  "descricao": "Tile sem imagem: apenas um fundo cinza claro uniforme, sem conteúdo visível (story sem mídia carregada).",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_03",
+  "idx": 19
+ },
+ "3981744393719749962": {
+  "descricao": "Story em vídeo de uma mulher de cabelo preso, com jaqueta preta esportiva, filmando-se em ambiente interno com piso vermelho (provavelmente área de evento).",
+  "texto_sobreposto": "@wenyyalecrim",
+  "natureza": "video",
+  "folha": "folha_03",
+  "idx": 20
+ },
+ "3981744785492905454": {
+  "descricao": "Story em vídeo com peça gráfica da SudoExpo sobreposta a uma foto de grupo de cerca de sete pessoas vestidas de preto em fundo vermelho, divulgando inscrições para expositor.",
+  "texto_sobreposto": "Patrocinador: Comber / Patrocinador: Comaco / FERIADÃO E ESTAMOS COMO? NÓS PREPARATIVOS PARA SUDOEXPO! / INSCRIÇÕES ABERTAS PARA EXPOSITOR / VOCÊ ESTÁ NA 2ª MAIOR FE.. / MULTISSETORIAL DO B..",
+  "natureza": "video",
+  "folha": "folha_03",
+  "idx": 21
+ },
+ "3981808601164467847": {
+  "descricao": "Story em vídeo de um homem de barba, de camiseta preta com a estampa 'RIO VERDE Digital', gravando-se em um ambiente envidraçado de escritório; há indicador de duração no canto.",
+  "texto_sobreposto": "@prefiroverde / 0:44",
+  "natureza": "video",
+  "folha": "folha_03",
+  "idx": 22
+ },
+ "3981920373007621944": {
+  "descricao": "Arte de divulgação do encontro 'Conecta – mesa de networking' da SudoExpo, com fundo roxo/imagem de salão, faixa de inscrições, data, valores e logos de realização.",
+  "texto_sobreposto": "INSCRIÇÕES AQUI / conecta mesa de networking / VOCÊ ESTÁ A UMA CONVERSA DO SEU PRÓXIMO GRANDE NEGÓCIO / Conecte-se com quem pode transformar o futuro da sua empresa. / RESERVE ESSE DIA / 11 DE SETEMBRO DE 2026 / (07H30 ÀS 12H | ARENA SUDOEXPO) / Inscrições: Expositor SUDOEXPO: R$ 50 / Associado ACIRV: R$ 90 / Não associado: R$ 150 / Realização: ACIRV / @acirvoficial, samaratosta1, rcandia,...",
+  "natureza": "arte",
+  "folha": "folha_03",
+  "idx": 23
+ },
+ "3981940482304434486": {
+  "descricao": "Story em vídeo com colagem de fotos do pavilhão da feira em montagem (estruturas, tapete vermelho, trabalhadores), publicado pelo perfil oficial da SudoExpo.",
+  "texto_sobreposto": "@sudoexpo.oficial / Quase tudo pronto...",
+  "natureza": "video",
+  "folha": "folha_03",
+  "idx": 24
+ },
+ "3982575531127218543": {
+  "descricao": "Story em vídeo: selfie de um homem barbudo com crachá da ACIRV no peito, em ambiente de pavilhão com estruturas metálicas e estande verde ao fundo.",
+  "texto_sobreposto": "@sudoexpooficial / @acirvoficial / @facieg_goias",
+  "natureza": "video",
+  "folha": "folha_03",
+  "idx": 25
+ },
+ "3982575643928849609": {
+  "descricao": "Story em vídeo de visita técnica: pessoas caminhando sobre tapete vermelho em pavilhão, com faixa de título sobreposta.",
+  "texto_sobreposto": "Visita Técnica / Conecta Sudoexpo / texto ilegível",
+  "natureza": "video",
+  "folha": "folha_03",
+  "idx": 26
+ },
+ "3982575761293839278": {
+  "descricao": "Story em vídeo que republica o story de outra conta, com card branco de abertura da feira e adesivo sobre a foto do interior do pavilhão (estande e tapete vermelho).",
+  "texto_sobreposto": "A maior feira multissetorial do Brasil começa hoje! / @sudoexpo.oficial | @acirvoficial / leidicorteze / Gente está lindo tudo aqui!",
+  "natureza": "video",
+  "folha": "folha_03",
+  "idx": 27
+ },
+ "3982575825131191297": {
+  "descricao": "Quatro mulheres sorrindo lado a lado em frente a uma parede roxa com o letreiro SUDO EXPO 2026 e a palavra CONECTA; uma delas usa crachá da SudoExpo. Provável registro do time que trabalhou no evento.",
+  "texto_sobreposto": "Time CONECTA 💙 / Que orgulho estar com vocês nesse projeto lindo / @rcadria @samaratosta1 @laradutra @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_04",
+  "idx": 28
+ },
+ "3982575933092548487": {
+  "descricao": "Mulher de blusa rosa caminha ao lado de um tapume/outdoor com arte da SudoExpo 2026 (SUDO EXPO, 09 A 12.SET) nas cores amarelo e vermelho, em cena externa com árvores.",
+  "texto_sobreposto": "iof_assessoria / 0:07 / SUDO EXPO 2026 / A MAIOR FEIRA MULTISSETORIAL DO BRASIL / 09 A 12.SET / @acirvoficial @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_04",
+  "idx": 29
+ },
+ "3982576094497750933": {
+  "descricao": "Homem de terno escuro e camisa azul fala para a câmera em ambiente de estande/pavilhão, com painel azul da SudoExpo ao fundo e dois logotipos no rodapé do story.",
+  "texto_sobreposto": "tubarao.digital / 1:01",
+  "natureza": "video",
+  "folha": "folha_04",
+  "idx": 30
+ },
+ "3982576208482194643": {
+  "descricao": "Frame de um card gráfico (colagem) da disputa musical Barzinho & Violão, com grade com dezenas de retratos dos participantes e a faixa 'Hoje começa a disputa | Semifinal 1'.",
+  "texto_sobreposto": "Hoje começa a disputa | Semifinal 1 / BARZINHO & VIOLÃO / Me apresento sexta feira / Bora?",
+  "natureza": "video",
+  "folha": "folha_04",
+  "idx": 31
+ },
+ "3982576352480996298": {
+  "descricao": "Recepção de escritório com balcão de madeira e o logotipo 'Aibes ADVOGADOS ASSOCIADOS' gravado na parede revestida de madeira; ambiente vazio, sem pessoas.",
+  "texto_sobreposto": "Aibes ADVOGADOS ASSOCIADOS",
+  "natureza": "video",
+  "folha": "folha_04",
+  "idx": 32
+ },
+ "3982576475290247461": {
+  "descricao": "Entrevista em palco/estande da SudoExpo: homem de camiseta roxa com a estampa SUDO EXPO 2026 segura microfone ao lado de uma repórter de blusa escura, sobre tapete vermelho, com a logo da rádio Líder 98,3 no rodapé.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_04",
+  "idx": 33
+ },
+ "3982576570979101428": {
+  "descricao": "Entrevista de rua: mulher de camisa branca e calça jeans fala ao microfone de uma repórter, em frente a estande com painel luminoso, sobre tapete vermelho; legenda e logo da rádio no rodapé.",
+  "texto_sobreposto": "THAÍS A SUDESTE AGORA / Líder 98,3",
+  "natureza": "video",
+  "folha": "folha_04",
+  "idx": 34
+ },
+ "3982576767809386418": {
+  "descricao": "Selfie de uma mulher de blusa rosa-choque com a mão no peito, dentro de um ambiente com quadros coloridos de arte ao fundo; no rodapé há um selo branco com logotipos de parceiros.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_04",
+  "idx": 35
+ },
+ "3982576903604148861": {
+  "descricao": "Selfie de um homem de camiseta preta com crachá da SudoExpo pendurado no pescoço; atrás dele há um letreiro escuro com letras grandes cortadas pela moldura do story.",
+  "texto_sobreposto": "texto ilegível (letreiro de fundo parcialmente cortado)",
+  "natureza": "video",
+  "folha": "folha_04",
+  "idx": 36
+ },
+ "3982581485579309333": {
+  "descricao": "Frame de card gráfico vertical com grafismo colorido (adesivos neon de mão dada e casinha) convidando para visitar o stand da Casa Nobre na SudoExpo, ilustrado com mockup 3D do estande em madeira e preto.",
+  "texto_sobreposto": "VISITE NOSSO STAND NA SUDO EXPO 2026 / DE 09 A 12 DE SETEMBRO / SIGA-NOS NO INSTAGRAM / CASA NOBRE / NEGÓCIOS IMOBILIÁRIOS / O CAMINHO PARA O MELHOR NEGÓCIO. / LANÇAMENTOS / VENDA | ALUGUEL / FACILITAMOS A COMPRA, VENDA OU ALUGUEL DO SEU IMÓVEL. / SEBRAE",
+  "natureza": "video",
+  "folha": "folha_05",
+  "idx": 37
+ },
+ "3982581891168518718": {
+  "descricao": "Mulher loura de camisa azul-marinho com crachá do evento fala e sorri para a câmera em frente a um painel colorido da SudoExpo com letras grandes e logotipos de marcas parceiras.",
+  "texto_sobreposto": "texto ilegível",
+  "natureza": "video",
+  "folha": "folha_05",
+  "idx": 38
+ },
+ "3982582008474816863": {
+  "descricao": "Estande de dois níveis com mezanino e arquibancada de madeira onde um público assiste; a fachada exibe o letreiro SEBRAE e, no primeiro plano, há sofás, banquetas e mesa de centro sobre tapete vermelho.",
+  "texto_sobreposto": "Chegamos / Sudoexpo 2026 / +16",
+  "natureza": "video",
+  "folha": "folha_05",
+  "idx": 39
+ },
+ "3982647342267420895": {
+  "descricao": "Tile sem imagem: apenas fundo preto uniforme, sem conteúdo visível (story sem mídia carregada).",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_05",
+  "idx": 40
+ },
+ "3982647584371017441": {
+  "descricao": "Balcão de atendimento do estande ACIRV, com várias pessoas da equipe atrás de totens com telas e placas escritas NEGÓCIOS; ambiente coberto por folhagens e iluminação amarela.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_05",
+  "idx": 41
+ },
+ "3982712363534869107": {
+  "descricao": "Tile sem imagem: apenas fundo preto uniforme, sem conteúdo visível (story sem mídia carregada).",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_05",
+  "idx": 42
+ },
+ "3982719784684743561": {
+  "descricao": "Três mulheres conversam sentadas em poltronas brancas diante de uma parede verde de folhagem, em área de convivência do evento; duas vestem a camisa azul-marinho da equipe.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_05",
+  "idx": 43
+ },
+ "3982719680232479742": {
+  "descricao": "Foto posada de dois integrantes da equipe (homem e mulher, camisa azul-marinho com crachá) sorrindo para a câmera; a mulher segura um microfone com adesivo do evento, sob o teto iluminado do pavilhão.",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_05",
+  "idx": 44
+ },
+ "3982719853890719566": {
+  "descricao": "Mulher de cabelo cacheado e camisa azul-marinho com crachá SUDO EXPO responde a uma entrevista conduzida por microfone, em ambiente de estande com teto de luzes.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_05",
+  "idx": 45
+ },
+ "3982719683109764455": {
+  "descricao": "Fotografia em preto e branco de quatro mulheres conversando sentadas em poltronas brancas, uma delas segurando um equipamento com monitor (câmera/computador), em ambiente de evento com parede de folhagem.",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_06",
+  "idx": 46
+ },
+ "3982720032811369820": {
+  "descricao": "Grupo de pessoas de crachá dentro de um estande com paredes verdes; um homem de terno azul fala com o grupo em tom de visita ou apresentação.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_06",
+  "idx": 47
+ },
+ "3982719688134559946": {
+  "descricao": "Close de uma instalação cenográfica: recorte com formato de mapa em material bege apoiado sobre grama artificial, sob letras metálicas e um laço/anel vermelho suspenso; sem pessoas.",
+  "texto_sobreposto": "xão",
+  "natureza": "foto",
+  "folha": "folha_06",
+  "idx": 48
+ },
+ "3982719985357006841": {
+  "descricao": "Cena no estande ACIRV: colaborador de camisa social clara conversa animado com um visitante de costas, diante da parede verde de folhagem e totens do estande.",
+  "texto_sobreposto": "Estande Acirv",
+  "natureza": "video",
+  "folha": "folha_06",
+  "idx": 49
+ },
+ "3982719926628371094": {
+  "descricao": "Plano fechado de um recorte em tom bege com formato de estado/mapa sobre fundo verde de grama artificial, em composição gráfica da campanha de conexões.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_06",
+  "idx": 50
+ },
+ "3983354894777140803": {
+  "descricao": "Print de vídeo institucional: céu nublado com um cabo cortando o quadro e, embaixo, a fachada escura do pavilhão com o letreiro SUDO EXPO 2026 e a faixa 'MAIOR FEIRA MULTISSETORIAL DO BRASIL'; há indicador de tempo de reprodução.",
+  "texto_sobreposto": "Milhares / de pessoas. / Centenas de empresas. / E todo mundo procurando alguma coisa. / 17:34 / VOCÊ ESTÁ NA MAIOR FEIRA MULTISSETORIAL DO BRASIL",
+  "natureza": "arte",
+  "folha": "folha_06",
+  "idx": 51
+ },
+ "3983362825937527404": {
+  "descricao": "Tile sem imagem: apenas fundo preto uniforme, sem conteúdo visível (story sem mídia carregada).",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_06",
+  "idx": 52
+ },
+ "3983369236654340025": {
+  "descricao": "Quadro de vídeo com peça gráfica em preto e branco dividida em três faixas, com o símbolo e a marca de um sistema (Un) e a silhueta do mapa de Goiás em negativo, tratando de fornecedores e clientes.",
+  "texto_sobreposto": "Un / Fornecedor / UMA SOLUÇÃO. / Cliente Un",
+  "natureza": "video",
+  "folha": "folha_06",
+  "idx": 53
+ },
+ "3983372518143780896": {
+  "descricao": "Colagem/montagem da campanha 'Match de Conexão': fotos em preto e branco de pessoas sentadas em poltronas mexendo no celular, intercaladas por letras 3D sobre grama artificial e um anel vermelho.",
+  "texto_sobreposto": "Match de Conexão / E você? Com quem busca se conectar?",
+  "natureza": "arte",
+  "folha": "folha_06",
+  "idx": 54
+ },
+ "3983399622960765337": {
+  "descricao": "Corredor de estande com pessoas circulando; em primeiro plano uma mulher de blusa rosa atende no balcão de madeira enquanto visitantes conversam diante da parede verde com o logo do estande.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_07",
+  "idx": 55
+ },
+ "3983416722332863606": {
+  "descricao": "Story com sticker interativo do Instagram sobre uma foto escura de duas pessoas próximas: caixa de enquete/comentário sobre a imagem.",
+  "texto_sobreposto": "Com quem você busca conectar?? Qual sua dor?? / Digite algo...",
+  "natureza": "video",
+  "folha": "folha_07",
+  "idx": 56
+ },
+ "3983453409527604796": {
+  "descricao": "Colagem em preto e branco: primeiro plano de um aperto de mãos entre duas pessoas (uma com tatuagem no braço) e, ao fundo, sofás brancos e painéis de estande; um card branco com tipografia é sobreposto à foto.",
+  "texto_sobreposto": "às vezes / Buscar pessoas que não conheço e que buscam crescer junto a um match de parcerias.",
+  "natureza": "arte",
+  "folha": "folha_07",
+  "idx": 57
+ },
+ "3983764319312564574": {
+  "descricao": "Estande com painel luminoso 'SUDO EXPO SEJAM B...' e néon roxo; atendente de camiseta preta no balcão atende uma visitante de camiseta verde, com outras pessoas ao fundo.",
+  "texto_sobreposto": "SUDO EXPO / SEJAM B...",
+  "natureza": "video",
+  "folha": "folha_07",
+  "idx": 58
+ },
+ "3983778829138157667": {
+  "descricao": "Fachada/vitrine de loja com letreiro de néon azul sobre estrutura metálica e fachada branca iluminada, vista de baixo.",
+  "texto_sobreposto": "A casa do empresário / @encantallemoveis",
+  "natureza": "video",
+  "folha": "folha_07",
+  "idx": 59
+ },
+ "3983780743661938922": {
+  "descricao": "Colaboradora de uniforme verde e óculos atrás do balcão de atendimento, manuseando tablet/caixa registradora, com estandes ao fundo no pavilhão.",
+  "texto_sobreposto": "A SudoExpo é / encontro",
+  "natureza": "foto",
+  "folha": "folha_07",
+  "idx": 60
+ },
+ "3983783649123437484": {
+  "descricao": "Colagem de duas fotos: em cima, duas mulheres da equipe (camisa social preta, crachá) em frente à fachada azul do estande ACIRV; embaixo, close de um cumprimento de mãos com crachás, sobre um card branco com tipografia.",
+  "texto_sobreposto": "É movimento. / É gente que acredita no crescimento de Rio Verde. / @prefriorverde",
+  "natureza": "arte",
+  "folha": "folha_07",
+  "idx": 61
+ },
+ "3983784646595987633": {
+  "descricao": "Colagem vertical de três fotos de grupos de pessoas com crachá do evento posando em frente ao estande da Prefeitura de Rio Verde (faixa verde com o brasão municipal).",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_07",
+  "idx": 62
+ },
+ "3983793778543613020": {
+  "descricao": "Vídeo com um personagem/avatar 3D animado (óculos, fone de ouvido e camisa azul) em primeiro plano, com o pavilhão da SudoExpo, estandes e visitantes ao fundo.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_07",
+  "idx": 63
+ },
+ "3983794470209512807": {
+  "descricao": "Auditório lotado durante uma palestra, com uma mulher de blusa cinza em primeiro plano; sobre a cena há uma arte lilás de aviso com selo de verificação.",
+  "texto_sobreposto": "Casa cheia para receber / ANDREAVERMONT / Em instantes",
+  "natureza": "video",
+  "folha": "folha_08",
+  "idx": 64
+ },
+ "3983809165507325928": {
+  "descricao": "Colaboradora de uniforme verde-claro e coque atrás de um balcão de atendimento (tablet/caixa), com visitantes circulando e banner do evento ao fundo no pavilhão.",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_08",
+  "idx": 65
+ },
+ "3983810667252557936": {
+  "descricao": "Público de costas circulando sob a fachada azul do estande ACIRV e o letreiro de néon 'A casa do empresário', com o teto estruturado do pavilhão iluminado; card de texto sobreposto à foto.",
+  "texto_sobreposto": "E para entender tudo o que a ACIRV representa hoje, precisamos voltar um pouco no tempo. / A casa do empresário / ACIRV",
+  "natureza": "foto",
+  "folha": "folha_08",
+  "idx": 66
+ },
+ "3983819795492528062": {
+  "descricao": "Tile sem imagem: apenas fundo preto uniforme, sem conteúdo visível (story sem mídia carregada).",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_08",
+  "idx": 67
+ },
+ "3983821664298430161": {
+  "descricao": "Montagem com fotos do pavilhão: o letreiro SUDO EXPO 2026 em letras 3D sobre faixa de patrocinadores e apoiadores e, embaixo, o letreiro de néon 'A casa do empresário' na fachada azul da ACIRV.",
+  "texto_sobreposto": "SUDO EXPO 2026 / Patrocínio: Comber / Comigo / TV Sucesso / Sicoob Empresarial / Apoio: UniRV - Universidade de Rio Verde / A casa do empresário",
+  "natureza": "foto",
+  "folha": "folha_08",
+  "idx": 68
+ },
+ "3983822053269626464": {
+  "descricao": "Vista ampla do mezanino/escadaria do pavilhão com muitas pessoas sentadas em mesas com notebooks e celulares, usando o espaço de trabalho do evento.",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_08",
+  "idx": 69
+ },
+ "3983829894160198175": {
+  "descricao": "Close de um homem de camiseta escura e crachá do evento falando e gesticulando, com visitantes desfocados ao fundo no corredor do pavilhão.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_08",
+  "idx": 70
+ },
+ "3983830128772928683": {
+  "descricao": "Selfie de um homem de camiseta preta e crachá do evento sorrindo, tendo ao fundo a estrutura azul de um estande com letras grandes.",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_08",
+  "idx": 71
+ },
+ "3983831394764778969": {
+  "descricao": "Mulher segurando um leque promocional impresso do evento em frente ao peito, em ambiente do pavilhão; legenda sobreposta em badge branco cortada pela borda.",
+  "texto_sobreposto": "para quem empreende. / A maior / multissetorial / SETEMBRO (QUINTA-FEIRA) / LOCAL",
+  "natureza": "foto",
+  "folha": "folha_08",
+  "idx": 72
+ },
+ "3983832425623993630": {
+  "descricao": "Foto escura de uma pilha de papéis/pastas institucionais amontoados (várias vias de documento empilhadas, com baixa iluminação); na lateral esquerda há texto vertical na própria papelaria. Rótulo 073 | 2026-09-11 | tipo 1.",
+  "texto_sobreposto": "Mas afinal, o que a ACIRV pode fazer 👀 / pelo seu negócio?",
+  "natureza": "foto",
+  "folha": "folha_09",
+  "idx": 73
+ },
+ "3983841396359481502": {
+  "descricao": "Vista externa da estrutura/tenda de entrada da SudoExpo 2026, com letreiro grande 'SUDO EXPO 2026' na fachada e faixa 'VOCÊ ESTÁ NA SUDO EXPO — 2ª MAIOR FEIRA MULTISSETORIAL DO BRASIL'; faixa superior de logos de parceiros (legíveis: ACIRV, Sebrae, UniRV; demais ilegíveis). Rótulo 074 | 2026-09-11 | tipo 2 (vídeo).",
+  "texto_sobreposto": "Ficou curioso para saber mais? 👀 / Acompanhe nossos Stories! À noite vamos trazer muitas informações para vocês.",
+  "natureza": "video",
+  "folha": "folha_09",
+  "idx": 74
+ },
+ "3983887325376961916": {
+  "descricao": "Mão segurando microfone com cubo azul 'SUDO EXPO' dentro do pavilhão da feira, ao fundo painéis azuis iluminados em losango, mesas e público desfocado. Rótulo 075 | 2026-09-11 | tipo 1.",
+  "texto_sobreposto": "@sudoexpo.oficial @acirvoficial",
+  "natureza": "foto",
+  "folha": "folha_09",
+  "idx": 75
+ },
+ "3983887660599055356": {
+  "descricao": "Dois homens de camisa social branca, de crachá SUDO EXPO no peito, caminhando lado a lado por corredor de feira com tapete azul, ao fundo estandes e luzes. Rótulo 076 | 2026-09-11 | tipo 2 (vídeo, 0:20).",
+  "texto_sobreposto": "@anasilva.azevedo e @douglasnunesagrotributario 0:20 / @ampestributaria | @successonocampo | @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_09",
+  "idx": 76
+ },
+ "3983894730316559065": {
+  "descricao": "Homem de boné e camisa escura, com crachá SUDO EXPO, caminhando em direção à câmera sobre tapete vermelho dentro do pavilhão; ao fundo estande com equipamentos e estrutura metálica do teto. Rótulo 077 | 2026-09-11 | tipo 2 (vídeo).",
+  "texto_sobreposto": "Sudexpo / Boa Noite / DEPUTADO ESTADUAL Lissauer Vieira 22.333",
+  "natureza": "video",
+  "folha": "folha_09",
+  "idx": 77
+ },
+ "3983895416555031424": {
+  "descricao": "Tile totalmente preto, sem imagem visível (story não carregado/quadro preto); aparece apenas a linha de crédito no topo com o nome de usuário e a duração. Rótulo 078 | 2026-09-11 | tipo 2 (vídeo, 0:23).",
+  "texto_sobreposto": "plantaevidarv 0:23",
+  "natureza": "video",
+  "folha": "folha_09",
+  "idx": 78
+ },
+ "3983896081310251168": {
+  "descricao": "Mulher de camiseta polo verde com crachá SUDO EXPO caminhando pela área do evento (tapete vermelho), ao fundo painel azul iluminado e visitantes passando. Rótulo 079 | 2026-09-11 | tipo 2 (vídeo).",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_09",
+  "idx": 79
+ },
+ "3983896268946647292": {
+  "descricao": "Parede clara de estande com logo dourado em formato de diamante e o letreiro 'MARIANA DUARTE SEMIJOIAS'; à frente, balcão com taças de cristal, bandeja com pétalas, terço de contas e um vaso de planta. Rótulo 080 | 2026-09-11 | tipo 2 (vídeo).",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_09",
+  "idx": 80
+ },
+ "3983897737266857629": {
+  "descricao": "Foto de um grupo de mulheres sentadas em arquibancada/cadeiras do auditório do evento, com crachás SUDO EXPO VISITANTE, sorrindo enquanto aguardam o início da palestra; ao fundo divisórias de vidro do pavilhão e outros participantes. Rótulo 081 | 2026-09-11 | tipo 1.",
+  "texto_sobreposto": "Aguardando palestra / @andreavermont / @acirvoficial / @sudoexpo.oficial / @paulasimoescoach / @suericarenga / @raqueltrevizano",
+  "natureza": "foto",
+  "folha": "folha_09",
+  "idx": 81
+ },
+ "3983897882445064733": {
+  "descricao": "Plateia de auditório vista de costas, assistindo a um palestrante no palco com painéis de LED roxos iluminados, durante a SudoExpo 2026.",
+  "texto_sobreposto": "Parabéns patrocinadores, expositores, organizadores... / Parabéns Rio Verde!!! / 2a. Maior feira Multisetorial do Brasil",
+  "natureza": "video",
+  "folha": "folha_10",
+  "idx": 82
+ },
+ "3983898081364125049": {
+  "descricao": "Mulher de camisa preta e óculos, com crachá SudoExpo e copo na mão, posando de pé diante de parede de folhagem com letreiro neon 'SUDO EXPO' e poltrona branca ao lado.",
+  "texto_sobreposto": "@sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_10",
+  "idx": 83
+ },
+ "3983898268819280120": {
+  "descricao": "Duas mulheres caminhando no tapete vermelho em frente à fachada iluminada da SudoExpo, à noite, com letreiros 'SUDO EXPO 2026'.",
+  "texto_sobreposto": "Conhecendo um dos maiores eventos de empreendedorismo, inovação e negócios da região @sudoexpo.oficial @acirvoficial / 📍 Rio Verde, Goiás, Brazil / @patriciaesteta @clinicabilive",
+  "natureza": "foto",
+  "folha": "folha_10",
+  "idx": 84
+ },
+ "3983898349970778424": {
+  "descricao": "Grupo de cinco pessoas com crachás, de pé no tapete vermelho em frente ao estande verde com as marcas 'Global Energia' e 'Simplifica Energia', no pavilhão da SudoExpo.",
+  "texto_sobreposto": "Vem economizar na conta de energia / @LUDFORENERGIA / @SIMPLIFICA.ENERGIA",
+  "natureza": "foto",
+  "folha": "folha_10",
+  "idx": 85
+ },
+ "3983898383382498405": {
+  "descricao": "Quatro homens de crachá, abraçados e sorrindo, posando de pé sobre o tapete vermelho em frente ao estande verde do evento.",
+  "texto_sobreposto": "@ludforenergia / @grupocereal / @buritirioverde",
+  "natureza": "foto",
+  "folha": "folha_10",
+  "idx": 86
+ },
+ "3983898606197405992": {
+  "descricao": "Selfie em close de uma mulher de cabelo castanho ao ar livre, sob luz de sol, sem cenário de evento visível.",
+  "texto_sobreposto": "@allinelobb / @niradi.store",
+  "natureza": "video",
+  "folha": "folha_10",
+  "idx": 87
+ },
+ "3983898743971881227": {
+  "descricao": "Vista ampla do salão de networking da SudoExpo, com mesas redondas ocupadas, grade de luzes no teto do pavilhão e palco com painéis em losango 'SUDO EXPO' e 'conecta mesa de networking'.",
+  "texto_sobreposto": "Dia de conexões e rodadas de negócios! 🤝🚀 / @sudoexpo.oficial @acirvoficial / @somosmamply marcando presença ✅",
+  "natureza": "video",
+  "folha": "folha_10",
+  "idx": 88
+ },
+ "3983899400321742887": {
+  "descricao": "Homem de camisa cinza e óculos, com crachá SudoExpo, posando de pé em frente ao painel azul 'conecta mesa de networking' com iluminação de palco.",
+  "texto_sobreposto": "Vivendo a experiência do Conecta Acirv! Networking de alto nível e muita inovação por aqui. 💡⚡",
+  "natureza": "video",
+  "folha": "folha_10",
+  "idx": 89
+ },
+ "3983899474941783083": {
+  "descricao": "Close de cartões de visita de imobiliária apoiados sobre fundo escuro, sobre a arte 'conecta mesa de networking' com o logo da ACIRV.",
+  "texto_sobreposto": "Walékssalaia Teles / CRECI-F 28663 / (64) 9 9306-2159 / vendenas1@futurar.com.br / (64) 3602-7000 / Av. Pres. Vargas, 628, Jd. Maracanã - Rio Verde-GO - CEP: 75901-080 / www.futurar.com.br",
+  "natureza": "foto",
+  "folha": "folha_10",
+  "idx": 90
+ },
+ "3983899516767430615": {
+  "descricao": "Close de uma mesa de frutas decorada: laranjeira carregada, cesta com maracujá, morango, uva, mamão, kiwi, banana e laranjas, vasilhas de vidro e taça de drink, com placas 'MALBEC Food Truck' ao fundo.",
+  "texto_sobreposto": "@sudoexpo.oficial",
+  "natureza": "foto",
+  "folha": "folha_11",
+  "idx": 91
+ },
+ "3983899585265373022": {
+  "descricao": "Três pessoas (dois homens de camisa preta e uma mulher de blusa preta) posam de pé atrás do balcão de um estande com o letreiro dourado 'La Belle Essence'.",
+  "texto_sobreposto": "@sudoexpo.oficial / La Belle Essence / Marcando presença na SudoExpo. / Maior feira multissetorial do Sudoeste Goiano!",
+  "natureza": "video",
+  "folha": "folha_11",
+  "idx": 92
+ },
+ "3983899663777696775": {
+  "descricao": "Selfie em close de um homem de camisa azul e gravata sorrindo, com o salão de networking lotado ao fundo (mesas e público sentado).",
+  "texto_sobreposto": "Dia de rodada de networking na Sudoexpo. / @dg.implantes / @acirvoficial",
+  "natureza": "foto",
+  "folha": "folha_11",
+  "idx": 93
+ },
+ "3983899892053531362": {
+  "descricao": "Natureza-morta sobre fundo azul: caderno escuro com a marca 'conecta mesa de networking' e logo ACIRV, sobre ele dois crachás de expositor da SudoExpo 2026.",
+  "texto_sobreposto": "WORK IN PROGRESS / conecta mesa de networking / SUDO EXPO 2026 / EXPOSITOR / ANDRÉ ROBERTO SILVA / CRESCER CONSULTORIA EMPRESARIAL E EM AGRONEGÓCIO / crescer / CRÉDITO EMPRESARIAL CRÉDITO RURAL / CRÉDITO IMOBILIÁRIO CONSÓRCIOS / INSS DE OBRAS",
+  "natureza": "video",
+  "folha": "folha_11",
+  "idx": 94
+ },
+ "3983900004704170585": {
+  "descricao": "Mulher de óculos e blusa vinho, com crachá SudoExpo, posa de pé na área do palco, diante dos painéis azuis 'SUDO EXPO 2026' e 'conecta mesa de networking'.",
+  "texto_sobreposto": "Apitou começou! 🚀 / Conecta Acirv",
+  "natureza": "video",
+  "folha": "folha_11",
+  "idx": 95
+ },
+ "3983900095754132559": {
+  "descricao": "Colagem de três registros de mulheres com crachás do evento: grupo posando diante do painel azul do evento, dupla em pé no corredor e selfie em trio na plateia de um auditório.",
+  "texto_sobreposto": "Sobre um dia de matar saudade, prestigiar amiga e fazer conexões. / @macalita_castro / @lorramecbueno / @camaragenteeegestao / @acirvoficial / @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_11",
+  "idx": 96
+ },
+ "3983918060335432845": {
+  "descricao": "Mulher de macacão preto, microfone na mão, posa no salão de eventos entre as mesas de convidados, com o palco iluminado ao fundo (painéis do Conecta e parceiros).",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_11",
+  "idx": 97
+ },
+ "3983947064602120982": {
+  "descricao": "Close de um homem de camisa preta em pé no pavilhão, com crachá 'SUDO EXPO VISITANTE', segurando um fone de ouvido enquanto conversa; salão desfocado ao fundo.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_11",
+  "idx": 98
+ },
+ "3983947160198671736": {
+  "descricao": "Vista ampla do pavilhão com mesas de convidados ocupadas e o palco iluminado com painéis do evento e de parceiros; sobreposto, um selo com ícone de alvo e flecha.",
+  "texto_sobreposto": "Mais um evento entregue com sucesso! / Conecta @sudoexpo.oficial / Parabéns @rcradria @leidicorteze @samaratostal e toda a equipe @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_11",
+  "idx": 99
+ },
+ "3983947208117854127": {
+  "descricao": "Selfie em close de três mulheres de camisa branca, crachás coloridos do evento pendurados no pescoço, sorrindo juntas em área interna do pavilhão.",
+  "texto_sobreposto": "Coordenação Conecta @acirvoficial | @sudoexpo.oficial",
+  "natureza": "foto",
+  "folha": "folha_12",
+  "idx": 100
+ },
+ "3983947270978639232": {
+  "descricao": "Vista de dentro do pavilhão: público circulando entre estandes e mesas, várias pessoas de costas, luz natural pelo teto de lona branca.",
+  "texto_sobreposto": "@sudoexpo.oficial, @acirvoficial / SudoExpo / Fazendo Conexão",
+  "natureza": "video",
+  "folha": "folha_12",
+  "idx": 101
+ },
+ "3983947329858269756": {
+  "descricao": "Close de itens de papelaria/brinde sobre capa preta com a marca 'conecta mesa de networking' e logo ACIRV: caderno, carteira e caneta azul.",
+  "texto_sobreposto": "conecta mesa de networking / ACIRV / Gratidão! 🙏🤲 / @sudoexpo.oficial @acirvoficial / @rcadria",
+  "natureza": "video",
+  "folha": "folha_12",
+  "idx": 102
+ },
+ "3983947461848134997": {
+  "descricao": "Três pessoas (duas mulheres e um homem de blazer) posando sorridentes em frente ao backdrop azul 'conecta mesa de networking', segurando placas verdes com QR codes da marca NIRADI.",
+  "texto_sobreposto": "@leidicorteze / @eduardoloboadv / @cowhoydoterno / @acirvoficial / @sudoexpo.oficial",
+  "natureza": "foto",
+  "folha": "folha_12",
+  "idx": 103
+ },
+ "3983947514520142305": {
+  "descricao": "Casal posando em frente ao mesmo backdrop azul 'conecta mesa de networking', segurando a placa verde com QR codes da marca NIRADI e fazendo sinal de positivo.",
+  "texto_sobreposto": "@acirvoficial / @sudoexpo.oficial / @eduardoloboadv / @cowhoydoterno",
+  "natureza": "foto",
+  "folha": "folha_12",
+  "idx": 104
+ },
+ "3983947626328438399": {
+  "descricao": "Mulher de camisa azul-marinho com crachás da SudoExpo e 'Boas Vindas Rio Verde' posa no pavilhão ao lado de mesas azuis, com o palco iluminado ao fundo.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_12",
+  "idx": 105
+ },
+ "3983947709912566527": {
+  "descricao": "Close de mesa de buffet do evento: cesta de madeira escura com pães de queijo, vasilha de cobre, travessa com torradas e morangos e prato de doces entre folhagens.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_12",
+  "idx": 106
+ },
+ "3983947788555729213": {
+  "descricao": "Pessoas sentadas às mesas do pavilhão vistas de costas (um homem de camisa bege e uma mulher de braço tatuado em primeiro plano), com a estrutura de palco e telão ao fundo.",
+  "texto_sobreposto": "Hora de fazer Networking",
+  "natureza": "video",
+  "folha": "folha_12",
+  "idx": 107
+ },
+ "3983947884664006798": {
+  "descricao": "Pórtico de entrada iluminado da SudoExpo à noite, com tapete vermelho, luzes de festão e painéis com as marcas do evento e parceiros.",
+  "texto_sobreposto": "SUDO EXPO 2026 / Chegamos na @sudoexpo.oficial 😃",
+  "natureza": "video",
+  "folha": "folha_12",
+  "idx": 108
+ },
+ "3983947933955466633": {
+  "descricao": "Interior do pavilhão com mesas de convidados e público sentado ao lado de cortinas pretas e painéis azuis em losango, na manhã do evento de networking.",
+  "texto_sobreposto": "Manhã de conecta networking! / @acirvoficial / @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_13",
+  "idx": 109
+ },
+ "3983948087445197547": {
+  "descricao": "Grupo de sete pessoas da equipe posando lado a lado no palco, em frente ao backdrop azul 'conecta mesa de networking' com estrutura de iluminação no alto.",
+  "texto_sobreposto": "@dg.implantes / @acirvoficial / @sudoexpo.oficial",
+  "natureza": "foto",
+  "folha": "folha_13",
+  "idx": 110
+ },
+ "3983948171814444100": {
+  "descricao": "Mulher de blusa preta e óculos, com crachá do evento, posando em pé na entrada de um prédio de fachada vermelha e vidros, com letreiro 'FUTURA IMÓVEIS'.",
+  "texto_sobreposto": "E nessa tarde",
+  "natureza": "video",
+  "folha": "folha_13",
+  "idx": 111
+ },
+ "3983948414790476888": {
+  "descricao": "Mulher de vestido preto e cachecol sentada em uma cadeira dentro de um círculo de luz neon, sobre tapete vermelho, em ambiente externo à noite com folhagens.",
+  "texto_sobreposto": "gioesteticaavancadarv and morganammacedo / 0:54 / GIO — Estética Avançada",
+  "natureza": "video",
+  "folha": "folha_13",
+  "idx": 112
+ },
+ "3983948468007852767": {
+  "descricao": "Mesa de atendimento do evento com planta, cartaz e materiais sobre toalha azul, com uma mulher sentada; ao fundo, o palco com painéis 'SUDO EXPO' e 'conecta mesa de networking' e uma pessoa falando.",
+  "texto_sobreposto": "Hoje começamos cedinho fazendo muitas conexões com empresários de Rio Verde / @acirvoficial / @acirvmulher / @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_13",
+  "idx": 113
+ },
+ "3983948541168280742": {
+  "descricao": "Palco do evento com painel azul 'conecta mesa de networking', QR code gigante e painéis 'SUDO EXPO 2026', com participantes e equipe em pé no palco.",
+  "texto_sobreposto": "Que manhã maravilhosa! Parabéns @sudoexpo.oficial @acirvoficial Por ser tão conectado com os empresários de Rio Verde",
+  "natureza": "foto",
+  "folha": "folha_13",
+  "idx": 114
+ },
+ "3983948611218132807": {
+  "descricao": "Mulher de blusa branca e calça ampla falando ao microfone no palco, diante do painel azul 'conecta mesa de networking'.",
+  "texto_sobreposto": "@rcadria / Vc é BRILHANTE! / @acirvoficial @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_13",
+  "idx": 115
+ },
+ "3984128124903254843": {
+  "descricao": "Grupo de cinco pessoas com crachás do evento posando de frente para a câmera em frente ao acesso do estande com letreiro 'ACIRV' e tapete vermelho, dentro do pavilhão.",
+  "texto_sobreposto": "Já estamos por aqui para o nosso penúltimo dia de SUDOEXPO 2026.",
+  "natureza": "video",
+  "folha": "folha_13",
+  "idx": 116
+ },
+ "3984138512457818446": {
+  "descricao": "Story com fundo preto e apenas tipografia centralizada, sem imagem de cena.",
+  "texto_sobreposto": "Nosso penúltimo dia de feira começou! ✨",
+  "natureza": "video",
+  "folha": "folha_13",
+  "idx": 117
+ },
+ "3984139849400647225": {
+  "descricao": "Exterior ao amanhecer/entardecer, com público chegando a pé pela calçada ao lado de grades e um carro estacionado; três homens de camisa social e crachás caminham em direção ao evento.",
+  "texto_sobreposto": "E o movimento já começou por aqui... 👀",
+  "natureza": "video",
+  "folha": "folha_14",
+  "idx": 118
+ },
+ "3984142557755059262": {
+  "descricao": "Colagem de três fotos do credenciamento: jovens de camisa roxa operando totens/tablets de autoatendimento e telas de check-in, crachás e câmera 360 na recepção.",
+  "texto_sobreposto": "Gente chegando. Expectativas diferentes. Muitas possibilidades.",
+  "natureza": "arte",
+  "folha": "folha_14",
+  "idx": 119
+ },
+ "3984147222777319036": {
+  "descricao": "Close de conversa entre duas pessoas com crachá do evento em frente a estandes iluminados de lojas (letreiros 'Quimelli' e 'HB Multimarcas' ao fundo).",
+  "texto_sobreposto": "👀 / Agora / Vamos dar uma olhadinha no nosso estande",
+  "natureza": "foto",
+  "folha": "folha_14",
+  "idx": 120
+ },
+ "3984148272175609784": {
+  "descricao": "Colagem de três fotos de pessoas sentadas em sofás e áreas de descanso do evento, mexendo no celular; uma delas usa boné 'Field'.",
+  "texto_sobreposto": "MATCH / A ACIRV ajuda essas conexões a acontecerem.",
+  "natureza": "arte",
+  "folha": "folha_14",
+  "idx": 121
+ },
+ "3984149370177067142": {
+  "descricao": "Story com fundo preto e apenas tipografia sobreposta, sem imagem de cena.",
+  "texto_sobreposto": "@encantallemoveis ✨ / E entre uma conexão e outra, vale olhar para os detalhes dessa experiência.",
+  "natureza": "video",
+  "folha": "folha_14",
+  "idx": 122
+ },
+ "3984150872627994437": {
+  "descricao": "Pessoas conversando no tapete vermelho em frente ao backdrop grande do evento ('VOCÊ ESTÁ NA ... FEIRA ...ORIAL DO BRASIL'), com uma mulher de camisa verde do Sebrae e um homem de camisa xadrez com crachá.",
+  "texto_sobreposto": "E é justamente nesses encontros que novas conexões começam.",
+  "natureza": "video",
+  "folha": "folha_14",
+  "idx": 123
+ },
+ "3984156501996319292": {
+  "descricao": "Story com fundo preto e apenas tipografia sobreposta, sem imagem de cena.",
+  "texto_sobreposto": "E por aqui 20:10 / , o movimento não para.",
+  "natureza": "video",
+  "folha": "folha_14",
+  "idx": 124
+ },
+ "3984156627081580250": {
+  "descricao": "Foto em preto e branco de um lounge de descanso do evento: várias pessoas sentadas mexendo no celular e uma mulher de camiseta preta com crachá em pé segurando um folder; mesa com revistas e cartões.",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_14",
+  "idx": 125
+ },
+ "3984157554405901801": {
+  "descricao": "Mulher de jaqueta jeans sorrindo em um sofá, de frente para uma parede de folhagem verde, com uma mão em primeiro plano segurando o crachá/lanyard.",
+  "texto_sobreposto": "De um lado, / empresas procurando soluções ✨",
+  "natureza": "video",
+  "folha": "folha_14",
+  "idx": 126
+ },
+ "3984158235420790654": {
+  "descricao": "Close de um mapa de conexões feito com barbante verde e pinos azuis fixados em placa de cortiça, ao lado de uma parede de folhagem verde no estande do evento.",
+  "texto_sobreposto": "Do outro, fornecedores com soluções para oferecer.",
+  "natureza": "foto",
+  "folha": "folha_15",
+  "idx": 127
+ },
+ "3984160510777849543": {
+  "descricao": "Close das mãos de uma mulher (com crachá e óculos) manipulando barbante verde, tesoura, pinos azuis e embalagens sobre a mesa, com parede de folhagem verde ao fundo.",
+  "texto_sobreposto": "conectando os Matches / e juntando novas conexões no nosso mapa",
+  "natureza": "video",
+  "folha": "folha_15",
+  "idx": 128
+ },
+ "3984161214448164550": {
+  "descricao": "Corredor do pavilhão da feira com estandes iluminados e visitantes em pé; em primeiro plano, mulher de camisa branca com crachá e calça bege, de boca aberta em expressão de surpresa.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_15",
+  "idx": 129
+ },
+ "3984284602433898092": {
+  "descricao": "Colagem de várias fotos tiradas no estande da ACIRV: selfie de grupo de mulheres com crachás sob o letreiro 'ACIRV', conversas entre participantes e visitantes circulando pelo pavilhão.",
+  "texto_sobreposto": "",
+  "natureza": "arte",
+  "folha": "folha_15",
+  "idx": 130
+ },
+ "3984284846215248310": {
+  "descricao": "Colagem de fotos da mesma composição: duas mulheres de camisa azul-escura com crachá ACIRV e uma de vestido claro posando em frente à parede de folhagem verde, mais uma vista ampla da área do estande.",
+  "texto_sobreposto": "",
+  "natureza": "arte",
+  "folha": "folha_15",
+  "idx": 131
+ },
+ "3984294238401427262": {
+  "descricao": "Vista do pavilhão com público circulando, pessoa carregando uma criança no colo, balões vermelhos e azuis e estandes ao fundo.",
+  "texto_sobreposto": "Dica ✨ / @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_15",
+  "idx": 132
+ },
+ "3984468671559899644": {
+  "descricao": "No estande da ACIRV (letreiro grande 'ACIRV' iluminado), uma mulher de vestido floral ajusta o crachá com cordão 'SUDEXPO' de outra mulher de camisa polo escura com logo ACIRV; dois homens ao fundo.",
+  "texto_sobreposto": "Dica P2 ✨ / @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_15",
+  "idx": 133
+ },
+ "3984468883489940177": {
+  "descricao": "Pessoas em pé diante de um painel de folhagem verde com uma escultura do mapa de Goiás em branco e a inscrição 'Mapa da Conexão'; uma mulher de camisa escura interage com o painel.",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_15",
+  "idx": 134
+ },
+ "3984470524150448316": {
+  "descricao": "Story com fundo preto e apenas tipografia sobreposta, sem imagem de cena.",
+  "texto_sobreposto": "Match ✨ / De conexão / @vivianneolive @kevynneusou",
+  "natureza": "video",
+  "folha": "folha_15",
+  "idx": 135
+ },
+ "3984471136543992371": {
+  "descricao": "Mulher de vestido claro com crachá 'SUDO EXPO' no peito, em pé junto ao painel de folhagem verde com a silhueta de mapa, olhando para cima; outra pessoa aparece parcialmente no canto superior.",
+  "texto_sobreposto": "@vivianneolive @kevynneusou",
+  "natureza": "video",
+  "folha": "folha_16",
+  "idx": 136
+ },
+ "3984699972703504768": {
+  "descricao": "Grupo de quatro mulheres com crachás posando e sorrindo dentro do pavilhão, sob a estrutura de treliça do teto.",
+  "texto_sobreposto": "Mulheres sensacionais que move o empreendedorismo em Rio Verde / (ícones de perfis marcados: +4)",
+  "natureza": "video",
+  "folha": "folha_16",
+  "idx": 137
+ },
+ "3984700294893341220": {
+  "descricao": "Fileira de cerca de treze pessoas com crachás e camisas verdes/azuis posando de pé sobre o tapete vermelho em frente ao estande verde 'DIA IMPERIAL', no pavilhão do evento.",
+  "texto_sobreposto": "@acirvoficial / 📍 Sudoexpo",
+  "natureza": "foto",
+  "folha": "folha_16",
+  "idx": 138
+ },
+ "3984700482353427220": {
+  "descricao": "Close do painel/backdrop do evento com o texto 'AQUI É REALIZADA A 2ª MAIOR FEIRA MULTISSETORIAL DO BRASIL' e marcas de patrocinadores no pé da lona.",
+  "texto_sobreposto": "Premiação CODEBV / AQUI É REALIZADA A 2ª MAIOR FEIRA MULTISSETORIAL DO BRASIL",
+  "natureza": "video",
+  "folha": "folha_16",
+  "idx": 139
+ },
+ "3984700689744963259": {
+  "descricao": "Entrada do pavilhão da SudoExpo vista de fora, com pórtico de treliça, painéis 'SUDO EXPO 2026' (realização ACIRV, patrocinadores e apoiadores) e tapete vermelho no chão.",
+  "texto_sobreposto": "Premiação CODEBV",
+  "natureza": "video",
+  "folha": "folha_16",
+  "idx": 140
+ },
+ "3984700756820289786": {
+  "descricao": "Grupo de cerca de onze pessoas com crachás posando e sorrindo sobre o tapete vermelho em frente ao estande do 'bradesco' no pavilhão.",
+  "texto_sobreposto": "(ícones de perfis marcados: +2)",
+  "natureza": "foto",
+  "folha": "folha_16",
+  "idx": 141
+ },
+ "3984700986038993518": {
+  "descricao": "Mulher de óculos e vestido branco de manga assimétrica, com crachá 'SUDO EXPO 2026', gesticulando enquanto fala em ambiente com letreiros neon rosa.",
+  "texto_sobreposto": "gioesteticaavancadarv and morganammacedo 0:21",
+  "natureza": "video",
+  "folha": "folha_16",
+  "idx": 142
+ },
+ "3984701089034288433": {
+  "descricao": "Arte-colagem emoldurada por grade de quadrados coloridos (laranja, verde, azul e amarelo) com três fotos do evento: público de braços levantados sob raios de luz coloridos, grupo de visitantes com crachás e um casal agachado sorrindo; rodapé com logomarcas (Rio Verde Agora, 150 anos, Prefeitura de Rio Verde, RioVerdeGo, Câmara Municipal).",
+  "texto_sobreposto": "@sudoexpo.oficial / ❤️ Amei",
+  "natureza": "arte",
+  "folha": "folha_16",
+  "idx": 143
+ },
+ "3984701242117996696": {
+  "descricao": "Colagem de três imagens: capa de crachá 'SUDO EXPO 2026 - VISITANTE - GE COELHO EMPRESÁRIO' com mão segurando celular, criança sentada em anel/círculo iluminado e criança brincando em tapete de montar; ao lado, foto noturna de avenida arborizada com carros.",
+  "texto_sobreposto": "Hoje foi dia de prestigiar a @sudoexpo.oficial",
+  "natureza": "arte",
+  "folha": "folha_16",
+  "idx": 144
+ },
+ "3984701601884694169": {
+  "descricao": "Foto de três pessoas (duas mulheres e um homem) em pé diante de parede de folhagem verde, todos com crachá de evento no pescoço, segurando materiais de papelaria azul e rosa sobre mesa de madeira. Ambiente claro, de feira.",
+  "texto_sobreposto": "@wenydalacerdm / @acirv.mulher / @conexaomulheresdombras / Grandes conexões na casa do Empreendedor!",
+  "natureza": "foto",
+  "folha": "folha_17",
+  "idx": 145
+ },
+ "3984702405064276798": {
+  "descricao": "Quadro de vídeo com homem de camisa branca e crachá em pé diante do estande da TKR/Petrobras, painel azul e amarelo ao fundo com tela mostrando caminhão em estrada. Textos laterais do estande em corpo pequeno, parcialmente legíveis.",
+  "texto_sobreposto": "TKR / Petronio / SIGA A PETROBRAS / ABASTECIMENTO DE COMBUSTIVEIS E LUBRIFICANTES (trecho do painel lateral, corpo pequeno)",
+  "natureza": "video",
+  "folha": "folha_17",
+  "idx": 146
+ },
+ "3984702695284989619": {
+  "descricao": "Quadro de vídeo predominantemente preto com card gráfico branco e azul sobreposto no centro-direita convocando o público para o Match de conexão, e figurinha do Instagram abaixo.",
+  "texto_sobreposto": "Match + / de conexão / Empreendedores 19h30",
+  "natureza": "video",
+  "folha": "folha_17",
+  "idx": 147
+ },
+ "3984702788104880181": {
+  "descricao": "Quadro de vídeo com mulher de vestido azul-claro e crachá apoiada junto a parede de folhagem verde, olhando para cima; braço de outra pessoa aparece à esquerda. Frase em branco na base, com a última palavra cortada pela moldura do story.",
+  "texto_sobreposto": "QUEM NÃO SE ARRISCA (ultima palavra cortada pela moldura)",
+  "natureza": "video",
+  "folha": "folha_17",
+  "idx": 148
+ },
+ "3984702938604913287": {
+  "descricao": "Quadro de vídeo noturno com homem de óculos e camiseta preta em pé ao ar livre, luzes de varal ao fundo e silhueta de veículo à direita. Etiquetas de perfil na base, cortadas pela moldura.",
+  "texto_sobreposto": "(etiquetas de perfil na base, parcialmente cortadas: @...oficial / @...)",
+  "natureza": "video",
+  "folha": "folha_17",
+  "idx": 149
+ },
+ "3984703421763699282": {
+  "descricao": "Foto de dois homens em pé sobre tapete vermelho, de crachá, ao lado do estande da Sicoob Empresarial (painel verde-limão com letreiro luminoso). Feira em movimento ao fundo.",
+  "texto_sobreposto": "SICOOB EMPRESARIAL",
+  "natureza": "foto",
+  "folha": "folha_17",
+  "idx": 150
+ },
+ "3984703495130567401": {
+  "descricao": "Foto de dois homens em ambiente interno, um de chapéu de palha e camiseta marrom apontando para o outro, de chapéu de cowboy e terno bege. Caixa de texto branca sobreposta com elogio bem-humorado.",
+  "texto_sobreposto": "O cara é tão, mas tão engraçado e gente boa com a gente que merece toda admiração! / @acirvoficial / @barzinhoviola",
+  "natureza": "foto",
+  "folha": "folha_17",
+  "idx": 151
+ },
+ "3984703823342998552": {
+  "descricao": "Quadro de vídeo de palco iluminado com cantor ao microfone diante de placas SUDO EXPO vermelhas, plateia sentada em primeiro plano e feixes de luz. Duas caixas de texto branco sobrepostas.",
+  "texto_sobreposto": "Olha o nível do Festival Barzinho e Violão!!! / Isso é Sudoexpo 2026!!! / @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_17",
+  "idx": 152
+ },
+ "3984704502652480744": {
+  "descricao": "Quadro de vídeo com fundo preto e peça tipográfica branca e amarela anunciando aquecimento para o evento, com figurinha de emoji rindo na base.",
+  "texto_sobreposto": "NÓS JÁ ESTAMOS / estamos a todo vapor!",
+  "natureza": "video",
+  "folha": "folha_17",
+  "idx": 153
+ },
+ "3984704963329706493": {
+  "descricao": "Quadro de vídeo em autorregistro: mulher de blazer branco e crachá fala à câmera em auditório lotado, com plateia sentada atrás e telão com gráficos verde e azul ao fundo. Contador de duração visível no canto.",
+  "texto_sobreposto": "@registaeodoroimagem / 0:58",
+  "natureza": "video",
+  "folha": "folha_18",
+  "idx": 154
+ },
+ "3984705352762443439": {
+  "descricao": "Quadro de vídeo em montagem com três blocos: estande com letreiro do evento, foto de grupo numeroso de pessoas com crachás diante de placa SUDOEXPO, e card escuro sobre a mesa com a marca do evento de networking da ACIRV.",
+  "texto_sobreposto": "conecta / SUDOEXPO / Parte do nosso time de conteudos do @... esta presente / ACIRV conecta / Desenvolvimento e Networking",
+  "natureza": "video",
+  "folha": "folha_18",
+  "idx": 155
+ },
+ "3984709517446352308": {
+  "descricao": "Foto de quatro pessoas (três homens e uma mulher) em pé no estande verde da Ludfor, sorrindo para a câmera, com sacolas verdes da marca em mãos. Letreiro luminoso Ludfor visível ao fundo.",
+  "texto_sobreposto": "Ludfor / Recebemos Jandira Vanin, da TV Sucesso / No Campo, em nosso stand",
+  "natureza": "foto",
+  "folha": "folha_18",
+  "idx": 156
+ },
+ "3984718605764812473": {
+  "descricao": "Quadro de vídeo do salão da feira em dia de evento, com estandes de luz e tapete vermelho; etiqueta quadrada verde com a contagem do dia no canto superior esquerdo e estande AGRO360 à esquerda.",
+  "texto_sobreposto": "3º DIA DE asudoexpo.oficial / AGRO360",
+  "natureza": "video",
+  "folha": "folha_18",
+  "idx": 157
+ },
+ "3984720048076943543": {
+  "descricao": "Quadro de vídeo com copas de árvores verdes contra céu azul, cobertas por caixa de texto branca com depoimento sobre a palestra no Fórum de IA da ACIRV.",
+  "texto_sobreposto": "Dia incrível! / Palestrei no Fórum de IA da ACIRV em Rio Verde/GO (um dos maiores polos de Agroindústria do país)",
+  "natureza": "video",
+  "folha": "folha_18",
+  "idx": 158
+ },
+ "3984721144375727982": {
+  "descricao": "Quadro de vídeo com a fachada do evento com painel azul-escuro e logo SUDO EXPO 2026 em letras grandes, cercado por marcas parceiras nas faixas superior e inferior. Bloco superior repete as marcas de patrocínio e apoio.",
+  "texto_sobreposto": "SUDO EXPO 2026 / Apoio: Uni RV / rio verde / Comigo / Comber / Sicoob Empresarial / TV Sucesso / ...LTISSETORIAL DO BRASIL (trecho cortado na lateral)",
+  "natureza": "video",
+  "folha": "folha_18",
+  "idx": 159
+ },
+ "3984721329134768026": {
+  "descricao": "Quadro de vídeo com duas crianças posando ao lado de mascote de abóbora caracterizado, com figurino verde estampado de marcas de entrega e bebidas, em corredor de feira iluminado. Etiqueta de perfil na base.",
+  "texto_sobreposto": "@acirvoficial / @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_18",
+  "idx": 160
+ },
+ "3984721787664471860": {
+  "descricao": "Quadro de vídeo do corredor central da feira com público caminhando sobre tapete vermelho entre estandes, placas suspensas e ativações; etiqueta SUDOEXPO no topo e figurinha na base.",
+  "texto_sobreposto": "SUDOEXPO / 2026 / É porque estamos com todo vapor!!",
+  "natureza": "video",
+  "folha": "folha_18",
+  "idx": 161
+ },
+ "3984721909114751311": {
+  "descricao": "Quadro de vídeo com homem de camisa lilás e crachá em pé diante do estande da ViaOnline (painel branco com letreiro azul), segurando o celular. Etiqueta branca sobreposta sobre o peito.",
+  "texto_sobreposto": "VIAONLINE / viaonlineconsultas / Hoje",
+  "natureza": "video",
+  "folha": "folha_18",
+  "idx": 162
+ },
+ "3984722292814243341": {
+  "descricao": "Foto de palco com painel gráfico ALMA DE BRASILEIRO ao fundo e palestrante em pé ao lado de mesa de centro; cabeças da plateia aparecem em primeiro plano.",
+  "texto_sobreposto": "ALMA DE BRASILEIRO / A gente trabalha e se diverte / @paulicabonnes / asudoexpo.oficial @acirvoficial",
+  "natureza": "foto",
+  "folha": "folha_19",
+  "idx": 163
+ },
+ "3984723361384156622": {
+  "descricao": "Quadro de vídeo com cinco pessoas de traje social (três mulheres e dois homens) posando em tapete vermelho diante de painel verde do Sebrae Goiás com QR code. Ambiente de estande de feira.",
+  "texto_sobreposto": "@sebraegoias / SEBRAE GOIÁS / www.sebrae.com.br/goias / @acirvoficial / @sudoexpo.oficial / (terceira etiqueta de perfil cortada)",
+  "natureza": "video",
+  "folha": "folha_19",
+  "idx": 164
+ },
+ "3984723552459825177": {
+  "descricao": "Quadro de vídeo com as letras gigantes brancas SUDOEXPO em praça de tapete vermelho, com o público circulando ao redor e a estrutura metálica do pavilhão acima. Caixa verde de notícia sobreposta com brasão.",
+  "texto_sobreposto": "SUDOEXPO / NOTÍCIAS / ESTANDE DA CÂMARA MOVIMENTA O 3º DIA DA SUDOEXPO COM REUNIÕES E NOITE DE AUTÓGRAFOS / www.rioverde.go.leg.br / CÂMARA DE RIO VERDE",
+  "natureza": "video",
+  "folha": "folha_19",
+  "idx": 165
+ },
+ "3984723685427722912": {
+  "descricao": "Peça em colagem com quatro blocos: crachá de visitante do evento, foto de mulher em pé junto às letras SUDOEXPO, ilustração de dois personagens e outro enquadramento das letras. Elogio sobreposto em caixa branca.",
+  "texto_sobreposto": "SUDOEXPO / VISITANTE / NEUZELI / COMERCIO / Sudoexpo superando todas as expectativas. Parabéns @acirvoficial",
+  "natureza": "arte",
+  "folha": "folha_19",
+  "idx": 166
+ },
+ "3984723782039305491": {
+  "descricao": "Quadro de vídeo com dois homens de camiseta roxa do evento e crachá em pé diante de telão que exibe foto de público; um deles gesticula para a câmera. Rodapé com crédito de fotógrafo.",
+  "texto_sobreposto": "Fotógrafo: @edneyarakaki / @sudoexpo.oficial @acirvoficial / @gregodemoraes",
+  "natureza": "video",
+  "folha": "folha_19",
+  "idx": 167
+ },
+ "3984724031382262076": {
+  "descricao": "Quadro de vídeo com grupo de cerca de sete pessoas em pé no tapete vermelho do pavilhão, algumas de boné e óculos escuros, ao lado do estande Alf Assistência. Etiquetas de perfil na base.",
+  "texto_sobreposto": "Alf Assistência / @acirvoficial / @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_19",
+  "idx": 168
+ },
+ "3984724089926334038": {
+  "descricao": "Quadro de vídeo de mulher de cabelo cacheado e roupa preta em pé diante da parede com letreiro SUDO EXPO, sobre piso de madeira com poltronas de vime. Contador de duração visível no canto.",
+  "texto_sobreposto": "SUDO EXPO / Assessoria / 0:07 / @sudoexpo.oficial / @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_19",
+  "idx": 169
+ },
+ "3984724694887669941": {
+  "descricao": "Foto de três pessoas (um homem de camisa cinza e duas mulheres) posando em ambiente rústico com colunas brancas e folhagem, todas de crachá. Etiquetas de perfil sobrepostas no topo.",
+  "texto_sobreposto": "@sarahdoatica @suelacoagricola / @acirvoficial @sudoexpo.oficial",
+  "natureza": "foto",
+  "folha": "folha_19",
+  "idx": 170
+ },
+ "3984726576997601002": {
+  "descricao": "Quadro de vídeo com homem de polo escura e calça bege em pé diante de painel vermelho-laranja com a palavra DINHEIRO em letras grandes, em sala de piso de madeira. Caixa de texto sobreposta na base.",
+  "texto_sobreposto": "DINHEIRO / (texto de apoio em corpo pequeno, parcialmente legivel) / E vamos para o último dia dessa feira gigante! / Sudoexpo 2026",
+  "natureza": "video",
+  "folha": "folha_19",
+  "idx": 171
+ },
+ "3984726730542911846": {
+  "descricao": "Foto de vitrine de joias sobre pedestais claros: colares de ouro e prata, pingentes e brincos com pedras verdes em embalagens da marca. Caixa de enquete sobreposta com pergunta e duas opções.",
+  "texto_sobreposto": "Você já passou pelo nosso estande na Sudoexpo? / Sim, já fui / Ainda vou passar! / NANNY JOIAS",
+  "natureza": "foto",
+  "folha": "folha_20",
+  "idx": 172
+ },
+ "3984726855004473441": {
+  "descricao": "Quadro de vídeo que mostra, dentro do quadro, a tela de outro vídeo: ambiente interno claro com mesa, cadeiras e estante branca (estande-casa). Contador de duração e etiqueta de perfil visíveis.",
+  "texto_sobreposto": "Agora quero saber de você: o que achou dessa ideia? / Comenta aqui / mesquitarianos / 0:50",
+  "natureza": "video",
+  "folha": "folha_20",
+  "idx": 173
+ },
+ "3984728327532323762": {
+  "descricao": "Quadro de vídeo com homem mais velho, de óculos e camisa preta, sentado à mesa diante de painel gráfico do SUDO EXPO 2026 em azul e colorido, mãos cruzadas. Contador de duração no canto.",
+  "texto_sobreposto": "grupo.cereal / SUDO EXPO / 2026 / 1:10",
+  "natureza": "video",
+  "folha": "folha_20",
+  "idx": 174
+ },
+ "3984814816102501846": {
+  "descricao": "Quadro de vídeo do equipamento de elevação parado diante da fachada do evento, com painel lateral e banner institucional da feira; céu aberto e estrutura do pavilhão ao fundo.",
+  "texto_sobreposto": "Ótimo dia de feira por aqui. / VOCÊ ESTÁ NA 2ª MAIOR FEIRA MULTISSETORIAL DO BRASIL / SUDO EXPO 2026",
+  "natureza": "video",
+  "folha": "folha_20",
+  "idx": 175
+ },
+ "3984816730357690859": {
+  "descricao": "Quadro de vídeo com duas mulheres em corredor de feira: uma de vestido floral falando à câmera e outra de camisa azul-marinho com crachá, sorrindo. Estandes iluminados ao fundo.",
+  "texto_sobreposto": "Hoje também é dia de ouvir quem está fazendo parte dessa experiência. / @liviaoprofessional",
+  "natureza": "video",
+  "folha": "folha_20",
+  "idx": 176
+ },
+ "3984825309747749679": {
+  "descricao": "Quadro de vídeo com homem de camisa azul e óculos gesticulando em frente ao painel de patrocinadores e apoiadores do evento, com o letreiro da feira ao fundo. Leve arrasto de movimento no braço.",
+  "texto_sobreposto": "Apoio: Uni RV / rio verde / Comigo / Comber / SUDO EXPO 2026 / A MAIOR FEIRA MULTISSETORIAL DO BRASIL / Trocas que fazem a feira acontecer. / @virginiateixeira",
+  "natureza": "video",
+  "folha": "folha_20",
+  "idx": 177
+ },
+ "3984826012184685586": {
+  "descricao": "Foto de parede verde de musgo com mapa tridimensional rosa de Rio Verde em relevo, cercado por letreiro luminoso de coração vermelho e letras recortadas. Caixa de texto e etiqueta sobrepostas.",
+  "texto_sobreposto": "E o nosso mapa continua (final da frase cortado) / onexão / @...",
+  "natureza": "foto",
+  "folha": "folha_20",
+  "idx": 178
+ },
+ "3984826808573893256": {
+  "descricao": "Foto do corredor do pavilhão com estrutura iluminada em arco e pórtico azul, público caminhando e circulando entre as ativações. Caixa de texto sobreposta no alto.",
+  "texto_sobreposto": "Por aqui, seguimos conectando pessoas, ideias e oportunidades.",
+  "natureza": "foto",
+  "folha": "folha_20",
+  "idx": 179
+ },
+ "3984828373879792760": {
+  "descricao": "Quadro de vídeo com duas mulheres sentadas conversando: uma de camisa azul da ACIRV com crachá e outra de vestido floral. Fundo escuro com painel gráfico do evento.",
+  "texto_sobreposto": "Diretora da acirv / @vivianneolive",
+  "natureza": "video",
+  "folha": "folha_20",
+  "idx": 180
+ },
+ "3984829751725454168": {
+  "descricao": "Quadro de vídeo de entrevista em cenário azul com painel gráfico do evento: mulher de camisa azul-marinho da ACIRV e crachá, sentada, conversa com outra pessoa de vestido floral. Iluminação azul.",
+  "texto_sobreposto": "caminhos que fortalecem a ACIRV / @vivianneolive",
+  "natureza": "video",
+  "folha": "folha_21",
+  "idx": 181
+ },
+ "3984831033823511746": {
+  "descricao": "Peça em colagem com vários enquadramentos do mesmo dia de feira: ambiente com telão, grupos conversando em corredor e público circulando entre estandes. Caixa de texto sobreposta.",
+  "texto_sobreposto": "@acirvoficial / Último dia, mas a movimentação continua intensa por aqui",
+  "natureza": "arte",
+  "folha": "folha_21",
+  "idx": 182
+ },
+ "3984839692259458196": {
+  "descricao": "Quadro de vídeo em área de estandes com iluminação azul: mulher de vestido floral fala à câmera enquanto um homem permanece sentado à mesa atrás, diante de tela com a marca do evento.",
+  "texto_sobreposto": "Seguimos descobrindo o que cada estande tem de especial. / @sostsenatopias / SUDO EXPO 2026",
+  "natureza": "video",
+  "folha": "folha_21",
+  "idx": 183
+ },
+ "3984848247918181496": {
+  "descricao": "Quadro de vídeo com equipamento agrícola escuro de grande porte parado sob a estrutura metálica do pavilhão, em primeiro plano. Ambiente de feira, luz difusa.",
+  "texto_sobreposto": "Já imaginou sentir na prática o impacto de um equipamento? / @amtrioverde156",
+  "natureza": "video",
+  "folha": "folha_21",
+  "idx": 184
+ },
+ "3984851020948757154": {
+  "descricao": "Quadro de vídeo do corredor do pavilhão com cão-robô caminhando sobre o tapete vermelho, cercado por público em pé e estandes iluminados ao fundo.",
+  "texto_sobreposto": "Tecnologia que parece coisa do futuro e já está aqui na Sudoexpo 2026! / @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_21",
+  "idx": 185
+ },
+ "3984871913766841930": {
+  "descricao": "Quadro de vídeo com duas pessoas em pé no estande da ACIRV: mulher de vestido floral com crachá e homem de terno e crachá, diante dos painéis azuis do espaço \"A casa do empresário\".",
+  "texto_sobreposto": "A casa do empresário / ACIRV / Agora / Uma visão de quem está à frente da ACIRV",
+  "natureza": "video",
+  "folha": "folha_21",
+  "idx": 186
+ },
+ "3984873734371601539": {
+  "descricao": "Quadro de vídeo do mesmo estande da ACIRV: mulher de vestido floral, de microfone em punho, entrevista o homem de terno e crachá diante dos painéis \"A casa do empresário\".",
+  "texto_sobreposto": "A casa do empresário / ACIRV / Acompanha de perto cada história construída por aqui",
+  "natureza": "video",
+  "folha": "folha_21",
+  "idx": 187
+ },
+ "3984876221333799103": {
+  "descricao": "Quadro de vídeo da entrevista no estande da ACIRV, com a entrevistadora de vestido floral e o entrevistado de terno em plano médio, painéis azuis ao fundo e marca do evento na base.",
+  "texto_sobreposto": "A casa do empresário / ACIRV",
+  "natureza": "video",
+  "folha": "folha_21",
+  "idx": 188
+ },
+ "3984878217503752873": {
+  "descricao": "Quadro de vídeo do encerramento da entrevista no estande da ACIRV: os dois interlocutores em plano médio, com caixa de texto sobreposta na base direita.",
+  "texto_sobreposto": "A casa do empresário / ACIRV / Já tem data marcada para a próxima edição??",
+  "natureza": "video",
+  "folha": "folha_21",
+  "idx": 189
+ },
+ "3984878745356862298": {
+  "descricao": "Quadro de vídeo com mulher de camiseta vermelha, chapéu de palha e calça branca em área de convivência da feira, público sentado ao fundo. Caixa de texto sobreposta no alto.",
+  "texto_sobreposto": "Ouvindo quem viveu a feira de perto / @...",
+  "natureza": "video",
+  "folha": "folha_22",
+  "idx": 190
+ },
+ "3984880365104823206": {
+  "descricao": "Quadro de vídeo com mulher de blusa preta e crachá em corredor de estandes, olhando para o lado. Ao fundo, equipe e bancada de exposição com a logomarca da marca expositora.",
+  "texto_sobreposto": "NENA 3D / @nena_3d teve um excelente resultado em vendas durante a feira.",
+  "natureza": "video",
+  "folha": "folha_22",
+  "idx": 191
+ },
+ "3984881820674353974": {
+  "descricao": "Foto de grupo com adultos e crianças (dois meninos de óculos à frente) posando no estande da ACIRV com painéis de evento; faixa inferior com a marca.",
+  "texto_sobreposto": "ACIRV / Por aqui, o movimento continua e as conexões também.",
+  "natureza": "foto",
+  "folha": "folha_22",
+  "idx": 192
+ },
+ "3984885925368643052": {
+  "descricao": "Quadro de vídeo com duas mulheres em pé diante do painel Projeto Conecta da ACIRV: uma de camisa azul-marinho com crachá e outra de vestido floral gesticulando. Estandes ao fundo.",
+  "texto_sobreposto": "ACIRV / Projeto Conecta / Quem está por trás do Projeto Conecta também tem muito a contar. / @rcadria",
+  "natureza": "video",
+  "folha": "folha_22",
+  "idx": 193
+ },
+ "3984887041925962170": {
+  "descricao": "Quadro de vídeo com mulher de camisa azul-marinho e crachá falando, enquanto uma mão toca seu ombro; corredor de estandes com painéis verdes ao fundo. Duas caixas de texto e etiqueta de perfil.",
+  "texto_sobreposto": "ACIRV / Projeto Conecta / E quando o propósito é conectar. / @rcadria / cada encontro pode abrir caminho para uma nova oportunidade",
+  "natureza": "video",
+  "folha": "folha_22",
+  "idx": 194
+ },
+ "3984888253878463803": {
+  "descricao": "Quadro de vídeo do mesmo diálogo no estande da ACIRV, com a interlocutora de vestido floral em primeiro plano à direita. Caixa de texto sobreposta na base.",
+  "texto_sobreposto": "ACIRV / Projeto Conecta / Como participar ???",
+  "natureza": "video",
+  "folha": "folha_22",
+  "idx": 195
+ },
+ "3984889245932021354": {
+  "descricao": "Quadro de vídeo do pavilhão à noite com iluminação laranja, estruturas de estande e público circulando; veículo exposto à esquerda e caixa de texto no alto.",
+  "texto_sobreposto": "Muita experiência por aqui! / @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_22",
+  "idx": 196
+ },
+ "3984894765619319316": {
+  "descricao": "Quadro de vídeo com mulher de vestido floral falando ao microfone diante da parede verde Match de Conexão, com o mapa de Rio Verde em relevo; homem de camisa escura e crachá ao lado.",
+  "texto_sobreposto": "(...)em cada história! / Match de Conexão / Match com muitas conexões por aqui... / (linha inferior menor, parcialmente legível)",
+  "natureza": "video",
+  "folha": "folha_22",
+  "idx": 197
+ },
+ "3984910505905339237": {
+  "descricao": "Colagem vertical de três fotos de convidados em estande: duas mulheres de crachá sorrindo, um homem de terno olhando para cima com outras pessoas e três homens de terno posando. Sem texto sobreposto.",
+  "texto_sobreposto": "",
+  "natureza": "arte",
+  "folha": "folha_22",
+  "idx": 198
+ },
+ "3984910695798163935": {
+  "descricao": "Colagem de três fotos da equipe da ACIRV em pé no estande: grupo de mulheres de camisa amarela e homens de terno e camisa social, crachás e sorrisos. Sem texto sobreposto.",
+  "texto_sobreposto": "",
+  "natureza": "arte",
+  "folha": "folha_23",
+  "idx": 199
+ },
+ "3984910975776378927": {
+  "descricao": "Foto de duas mulheres em pé e sorrindo na área do estande: uma de blusa escura com crachá e outra de camisa amarela da equipe, ambas de braços cruzados. Sem texto sobreposto.",
+  "texto_sobreposto": "",
+  "natureza": "foto",
+  "folha": "folha_23",
+  "idx": 200
+ },
+ "3984911072312487789": {
+  "descricao": "Foto de grupo com cinco pessoas posando diante do estande da ACIRV: três homens (dois de camisa escura e um de camisa marrom) e duas mulheres, uma delas de camisa amarela da equipe. Faixa com a marca do evento na base.",
+  "texto_sobreposto": "ACIRV",
+  "natureza": "foto",
+  "folha": "folha_23",
+  "idx": 201
+ },
+ "3984931429498587814": {
+  "descricao": "Quadro de vídeo noturno do pavilhão visto de fora, com a fachada iluminada e carros no estacionamento em primeiro plano escuro. Caixa de texto e etiqueta de perfil sobrepostas.",
+  "texto_sobreposto": "Seguimos no nosso último dia de feira / @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_23",
+  "idx": 202
+ },
+ "3984946697796947618": {
+  "descricao": "Quadro de vídeo em área de mesas de madeira do pavilhão: mulher de camisa amarela da equipe com crachá conversa com interlocutora de vestido floral, cuja mão aparece em primeiro plano. Caixa de texto sobreposta.",
+  "texto_sobreposto": "Foi muito gratificante viver tudo isso",
+  "natureza": "video",
+  "folha": "folha_23",
+  "idx": 203
+ },
+ "3984947999448834637": {
+  "descricao": "Quadro de vídeo com mulher de camisa amarela da equipe e óculos escuros, em pé, ao lado da interlocutora de vestido floral; estandes iluminados e tela com imagem de lavoura ao fundo.",
+  "texto_sobreposto": "Encerramos essa feira com o coração cheio de gratidão por tudo que vivemos / @acirvoficial @sudoexpo.oficial",
+  "natureza": "video",
+  "folha": "folha_23",
+  "idx": 204
+ },
+ "3984952539766169936": {
+  "descricao": "Peça gráfica em fundo preto com numeração de ano em destaque, frase de encerramento e tarja menor com contagem regressiva para a próxima edição.",
+  "texto_sobreposto": ":2028 / A feira termina por aqui / feira de conexões continua",
+  "natureza": "video",
+  "folha": "folha_23",
+  "idx": 205
+ },
+ "3985498892195114004": {
+  "descricao": "Quadro de vídeo ao ar livre com homem de camisa social escura em pé, de mãos à frente, diante de trator vermelho e pilhas de discos de implemento agrícola. Contador de duração e etiquetas no alto.",
+  "texto_sobreposto": "querencia_maquinas / 0:28",
+  "natureza": "video",
+  "folha": "folha_23",
+  "idx": 206
+ },
+ "3985498924625472198": {
+  "descricao": "Quadro de vídeo ao ar livre com mulher de blazer laranja e camisa verde segurando microfone laranja, diante de parede de ripas de madeira e equipamento agrícola ao fundo. Contador de duração e etiquetas no alto.",
+  "texto_sobreposto": "querencia_maquinas and candidomercantil / 0:57",
+  "natureza": "video",
+  "folha": "folha_23",
+  "idx": 207
+ },
+ "3985499081400194433": {
+  "descricao": "Foto de grupo com nove pessoas em pé sobre tapete vermelho diante do estande da ACIRV, sob arco iluminado: homens de camisa social e polo e uma mulher de camisa azul-marinho. Caixa de texto sobreposta na base.",
+  "texto_sobreposto": "Visitando nosso estande / @acirvoficial!",
+  "natureza": "foto",
+  "folha": "folha_24",
+  "idx": 208
+ },
+ "3985499215609504313": {
+  "descricao": "Quadro de vídeo em fundo preto, sem imagem visível: apenas texto branco centralizado sobre o reconhecimento institucional do papel da universidade no desenvolvimento de soluções tecnológicas.",
+  "texto_sobreposto": "Presidenta da @acirvoficial , José Carlos Cintra, reconhecendo o papel da UniRV no desenvolvimento de soluções tecnológicas",
+  "natureza": "video",
+  "folha": "folha_24",
+  "idx": 209
+ },
+ "3985499815151736740": {
+  "descricao": "Foto de mulher de camisa polo preta e brincos grandes sorrindo em área de estande com painel azul, código QR e balões decorativos. Textos sobrepostos no alto e na base.",
+  "texto_sobreposto": "Venha testar seu inglês e ganhar prêmios! / @newleaderry / @acirvoficial",
+  "natureza": "foto",
+  "folha": "folha_24",
+  "idx": 210
+ },
+ "3985499914749641367": {
+  "descricao": "Quadro de vídeo com três homens em pé sobre tapete vermelho diante do estande da Sicredi, segurando celular; faixa de texto no alto e legenda na base com a marca do patrocinador.",
+  "texto_sobreposto": "Ainda sobre a Sudoexpo 2026 / Belíssima feira, Parabéns! / sicredi",
+  "natureza": "video",
+  "folha": "folha_24",
+  "idx": 211
+ },
+ "3985499984324748012": {
+  "descricao": "Quadro de vídeo de ativação esportiva: painel verde com escudo e título de equipe, e duas pessoas de camisa verde de futebol caminhando pelo corredor do pavilhão.",
+  "texto_sobreposto": "RESENHAS FC NA / @sudoexpo.oficial | @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_24",
+  "idx": 212
+ },
+ "3985500226109615803": {
+  "descricao": "Quadro de vídeo de gravação de podcast: celular acoplado a estabilizador sobre tripé em primeiro plano, com painel azul de programa de capacitação e QR code ao fundo. Marca do podcast estampada na base.",
+  "texto_sobreposto": "Faça parte do maior programa de capacitação / INOVA Rio Verde / PodCast / BPQ financeiro / O braço direito do empreendedor na gestão do negócio.",
+  "natureza": "video",
+  "folha": "folha_24",
+  "idx": 213
+ },
+ "3985500365100454686": {
+  "descricao": "Quadro de vídeo com três mulheres de camisa azul-marinho da equipe e crachás posando no pavilhão, sob estrutura metálica iluminada; textos sobrepostos com marcas e etiquetas de perfil.",
+  "texto_sobreposto": "@silvanadecena @rcadria / Minhas melhores do Brasil. / As fazedoras / @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_24",
+  "idx": 214
+ },
+ "3985500514568858586": {
+  "descricao": "Foto de mão segurando placa-premiação em formato de capacete com a marca do evento impressa, diante da estrutura de LED do pavilhão; demais troféus desfocados ao fundo.",
+  "texto_sobreposto": "SUDO EXPO 2026",
+  "natureza": "foto",
+  "folha": "folha_24",
+  "idx": 215
+ },
+ "3985500623243115873": {
+  "descricao": "Quadro de vídeo de cerimônia em ambiente escuro com iluminação azul e roxa: homem de terno e mulher de vestido claro em pé entre convidados, com painel de LED ao fundo. Caixa de texto sobreposta na base com a homenagem.",
+  "texto_sobreposto": "Campão Supermercados recebeu homenagens do reconhecimento na SUDOEXPO 2026 por ser uma das empresas parceiras da ACIRV há mais de 30 anos. / @campopasupermercados / @sudoexpo.oficial / @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_24",
+  "idx": 216
+ },
+ "3985500788020724297": {
+  "descricao": "Peça gráfica de agradecimento do expositor: fundo preto com elementos neon, dois homens fotografados lado a lado na base, foguete e formas coloridas no topo, e a assinatura caligráfica do agradecimento.",
+  "texto_sobreposto": "CASA NOBRE / MUITO OBRIGADO A TODOS PARCEIROS E CLIENTES QUE VISITARAM NOSSO ESTANDE NA / SUDO EXPO / 2026 / Obrigado!",
+  "natureza": "arte",
+  "folha": "folha_25",
+  "idx": 217
+ },
+ "3985500849710530250": {
+  "descricao": "Print de publicação repostada dentro do story: grupo de cinco pessoas no palco recebendo placa de premiação, com cabeçalho de perfil do autor original no alto e legendas na base.",
+  "texto_sobreposto": "__chinato95 / 2º LUGAR / Gratidão a Deus, minha esposa e família... / Parabéns a todos os envolvidos. / @sudoexpo.oficial @acirvoficial",
+  "natureza": "print",
+  "folha": "folha_25",
+  "idx": 218
+ },
+ "3985500917129603606": {
+  "descricao": "Quadro de vídeo de premiação em palco com painel colorido de letras gigantes ao fundo e grupo de pessoas de crachá; uma placa de segundo lugar é erguida no centro. Caixa de texto sobreposta.",
+  "texto_sobreposto": "Para nós do @grupoypbrj, é uma honra contribuir com a organização dessa grandiosa e belíssima feira! / @sudoexpo.oficial / Obrigado pela homenagem @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_25",
+  "idx": 219
+ },
+ "3985501090463381178": {
+  "descricao": "Quadro de vídeo de show no pavilhão: palco iluminado com telões exibindo o nome do cantor e a marca do evento, plateia em primeiro plano; etiqueta de texto no alto.",
+  "texto_sobreposto": "Festival Barzinho e Violão da Sudoexpo 2026 / WEDER BEIRO / SUDO EXPO",
+  "natureza": "video",
+  "folha": "folha_25",
+  "idx": 220
+ },
+ "3985501181244892367": {
+  "descricao": "Quadro de vídeo em autorregistro: homem de camiseta branca e corrente no peito, dentro do pavilhão, com estrutura metálica e telão ao fundo. Caixa de texto sobreposta na base.",
+  "texto_sobreposto": "Grande final do Festival barzinho e violão. Sudoexpo com casa cheia!",
+  "natureza": "video",
+  "folha": "folha_25",
+  "idx": 221
+ },
+ "3985501255693869901": {
+  "descricao": "Foto de dois homens de terno (azul-claro e preto) em pé sobre tapete vermelho diante de estande com telão exibindo logotipo de instituição financeira; etiquetas de perfil sobrepostas na base.",
+  "texto_sobreposto": "@acirvoficial / @sudoexpo.oficial",
+  "natureza": "foto",
+  "folha": "folha_25",
+  "idx": 222
+ },
+ "3985501333162570541": {
+  "descricao": "Quadro de vídeo com homem de terno azul-claro em pé ao lado de parede revestida de flores amarelas, com painéis institucionais ao fundo e piso de concreto. Texto sobreposto na base.",
+  "texto_sobreposto": "Mesa Diretora / SudoExpo 2026",
+  "natureza": "video",
+  "folha": "folha_25",
+  "idx": 223
+ },
+ "3985501924819482012": {
+  "descricao": "Quadro de vídeo com dois homens de camisa roxa da equipe do evento gesticulando no corredor do pavilhão, diante de painel institucional; etiqueta de perfil e crédito de fotografia sobrepostos.",
+  "texto_sobreposto": "@gregodemoraes / Fotógrafo: @edneyarakaki / @sudoexpo.oficial @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_25",
+  "idx": 224
+ },
+ "3985502021808572636": {
+  "descricao": "Quadro de vídeo em close de mesa de festival: homem de camisa verde conversando enquanto outra pessoa come ao lado; caixa de texto sobreposta no canto inferior esquerdo.",
+  "texto_sobreposto": "Festival Barzinho & Violão / Essa final vai ficar marcada na história da SudoExpo",
+  "natureza": "video",
+  "folha": "folha_25",
+  "idx": 225
+ },
+ "3985502079127918328": {
+  "descricao": "Quadro de vídeo do palco do festival: estrutura iluminada em azul e rosa, telão com a marca do festival e pessoas se apresentando com celulares erguidos; etiquetas de texto no alto, uma delas marcando o pódio.",
+  "texto_sobreposto": "Pódio / Festival Barzinho & Violão / Festival Barzinho & Violão",
+  "natureza": "video",
+  "folha": "folha_26",
+  "idx": 226
+ },
+ "3985502206131610503": {
+  "descricao": "Foto de menina de cerca de 9 anos, de colete dourado e blusa branca, cantando ao microfone de perfil sob luz de palco, com teclado de piano visível à esquerda e fundo escuro. Caixa de texto sobreposta no alto.",
+  "texto_sobreposto": "Esse é o registro perfeito de uma menina, que com apenas 9 anos, não via a hora de subir ao palco e cantar!",
+  "natureza": "foto",
+  "folha": "folha_26",
+  "idx": 227
+ },
+ "3985503167012993973": {
+  "descricao": "Quadro de vídeo com colagem vertical de três fotos de grupos de pessoas em pé sobre tapete vermelho no pavilhão, a maioria de camisa branca com logotipos; painel institucional ao fundo.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_26",
+  "idx": 228
+ },
+ "3985503349591014365": {
+  "descricao": "Quadro de vídeo com mulher de vestido longo rosé em pé sobre tapete vermelho ao lado das letras gigantes em 3D do evento, com marca d'água de joalheria no piso; cabeçalho de publicação compartilhada e contador de tempo no alto.",
+  "texto_sobreposto": "mduartesemjoias e marianaduarte / MARIANA DUMITTE",
+  "natureza": "video",
+  "folha": "folha_26",
+  "idx": 229
+ },
+ "3985503423159128875": {
+  "descricao": "Quadro de vídeo com homem de blazer bege, chapéu de palha e crachá de expositor em pé diante de parede branca com logotipo da marca, planta em vaso e piso claro ao fundo.",
+  "texto_sobreposto": "MARIANA DUMITTE",
+  "natureza": "video",
+  "folha": "folha_26",
+  "idx": 230
+ },
+ "3985503492935533941": {
+  "descricao": "Quadro de vídeo predominantemente escuro, com objeto desfocado na borda direita e sem imagem reconhecível; apenas caixa de texto branca sobreposta no alto.",
+  "texto_sobreposto": "Foi lindo! Parabéns @acirvoficial pela organização!",
+  "natureza": "video",
+  "folha": "folha_26",
+  "idx": 231
+ },
+ "3985503662888764965": {
+  "descricao": "Quadro de vídeo com colagem de fotos em grade irregular: mulher de vestido de poá em ativação de estande, público circulando, close de mãos com produtos de maquiagem e um trio em autorregistro. Caixa de texto sobreposta na base.",
+  "texto_sobreposto": "Prestigiando o último dia de feira.",
+  "natureza": "video",
+  "folha": "folha_26",
+  "idx": 232
+ },
+ "3985503734426780262": {
+  "descricao": "Quadro de vídeo de dinâmica de grupo: pessoas em círculo com braços erguidos e mãos unidas, comandadas por uma apresentadora de camisa verde em pé à frente, em área de estande com painéis institucionais.",
+  "texto_sobreposto": "Eu disse ANIMADOS / @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_26",
+  "idx": 233
+ },
+ "3985503943571700443": {
+  "descricao": "Foto de mulher de vestido bege posando sentada dentro de instalação circular de LED multicolorida no estande de instituição financeira, com painel de check-in e público ao fundo em pé.",
+  "texto_sobreposto": "Sicoob / CHECK-IN / @acirvoficial",
+  "natureza": "foto",
+  "folha": "folha_26",
+  "idx": 234
+ },
+ "3985504014673552146": {
+  "descricao": "Foto de três pessoas (duas mulheres e uma menina) sorrindo dentro de estande de joalheria, com vitrines e espelhos ao fundo; a menina segura bolsa verde e um dos colares aparece em destaque. Caixa de texto sobreposta na base.",
+  "texto_sobreposto": "@caroline_jaoa_temporada / A maior loja de joias, cristais e a energia alta! Eu e Liz simplesmente amamosssss! 😍",
+  "natureza": "foto",
+  "folha": "folha_27",
+  "idx": 235
+ },
+ "3985504099784241347": {
+  "descricao": "Quadro de vídeo com mulher de vestido creme de costas pintando tela branca em ativação de pintura, diante de painel colorido com formas geométricas e assinaturas institucionais; criança observa ao lado, em piso de madeira.",
+  "texto_sobreposto": "RIO VERDE / RioVerdeBQ / Instituto Mais / PINTE E CONCORRA",
+  "natureza": "video",
+  "folha": "folha_27",
+  "idx": 236
+ },
+ "3985504229170250198": {
+  "descricao": "Foto de cinco pessoas em pé sobre tapete vermelho diante do estande de banco, uma delas com camisa de time; faixa do patrocinador e estrutura metálica do pavilhão ao fundo.",
+  "texto_sobreposto": "bradesco",
+  "natureza": "foto",
+  "folha": "folha_27",
+  "idx": 237
+ },
+ "3985504345419477150": {
+  "descricao": "Quadro de vídeo de show: homem no palco sob refletor entre fumaça, com telão exibindo o nome do evento, e plateia em contraluz com celulares erguidos. Etiquetas de perfil sobrepostas na base.",
+  "texto_sobreposto": "@hanyedaiane / @acirvoficial / SUDO EXPO",
+  "natureza": "video",
+  "folha": "folha_27",
+  "idx": 238
+ },
+ "3985504498159238460": {
+  "descricao": "Quadro de vídeo quase todo preto, com faixa vertical desfocada ao centro (borda de tela de celular) e marca d'água de aplicativo de edição no canto superior direito.",
+  "texto_sobreposto": "CopCut",
+  "natureza": "video",
+  "folha": "folha_27",
+  "idx": 239
+ },
+ "3985504592514270455": {
+  "descricao": "Quadro de vídeo de premiação no palco: três homens segurando troféus diante de telão com letras gigantes do evento. Caixa de texto sobreposta na base com marcas e perfis.",
+  "texto_sobreposto": "Empresas com mais de 30 anos de Parceria com a @acirvoficial / @planaltocaseih / SUDO EXPO",
+  "natureza": "video",
+  "folha": "folha_27",
+  "idx": 240
+ },
+ "3985504783825061485": {
+  "descricao": "Foto de material impresso de divulgação sobre superfície escura: cartilha azul com ondas gráficas, brindes verdes e cartão de visitas de empresa de energia solar, com dados de contato e perfis sociais.",
+  "texto_sobreposto": "SOLUÇÕES COMPLETAS em energia / Todos Cordeiro / LOCAÇÃO DE GERADORES / @luthoenergy",
+  "natureza": "foto",
+  "folha": "folha_27",
+  "idx": 241
+ },
+ "3985504842704492888": {
+  "descricao": "Quadro de vídeo em autorregistro: mulher de blusa azul-escura e colar dourado sorrindo diante de estande azul com mascote sol, código QR e painel com texto espelhado.",
+  "texto_sobreposto": "(painel com texto espelhado) SEU NEGÓCIO / AMIGO DO DIA",
+  "natureza": "video",
+  "folha": "folha_27",
+  "idx": 242
+ },
+ "3985504897616346951": {
+  "descricao": "Quadro de vídeo com menino de boné preto segurando bola de futebol em ativação de rua do pavilhão, ao lado de escultura inflável vermelha de cachorro e painéis coloridos; tapete vermelho no piso.",
+  "texto_sobreposto": "",
+  "natureza": "video",
+  "folha": "folha_27",
+  "idx": 243
+ },
+ "3985505034510059091": {
+  "descricao": "Quadro de vídeo em autorregistro duplo: duas mulheres com crachás de evento em primeiro plano sorrindo para a câmera, com logotipo institucional iluminado ao fundo e contador de tempo no canto.",
+  "texto_sobreposto": "@camilafloraseca_futuroinovarei and @karolay_futuroinovarei / SEBRAE",
+  "natureza": "video",
+  "folha": "folha_28",
+  "idx": 244
+ },
+ "3985505086242582893": {
+  "descricao": "Colagem de fotos do estande: grupo de quatro visitantes diante dos painéis institucionais, corredor do pavilhão com letreiro do evento, plaquinha com nome próprio e flores brancas, caixa de encomendas com etiqueta de presente e vista de grupo de visitantes; selo de marca de maquiagem.",
+  "texto_sobreposto": "SUDO EXPO / LUCAS / PRESENTE / Nana Beauty / (texto vertical ilegivel)",
+  "natureza": "foto",
+  "folha": "folha_28",
+  "idx": 245
+ },
+ "3985505193616749237": {
+  "descricao": "Quadro de vídeo com três jovens em pé diante de painel institucional com marcas de apoio: mulher de camiseta preta, homem de camisa rosa com crachás e homem de camisa de futebol amarela. Caixas de texto e miniatura de pessoa sobrepostas.",
+  "texto_sobreposto": "Missão no debate dos governadores de Goiás! / @teammentoroficial / @judasbrasil / Renan Márcio / 1419",
+  "natureza": "video",
+  "folha": "folha_28",
+  "idx": 246
+ },
+ "3986170357693336172": {
+  "descricao": "Peça vertical de pesquisa de satisfação: card escuro com a marca do evento, título, código QR central e faixa de chamada com mascote sorridente em laranja.",
+  "texto_sobreposto": "SUDO EXPO 2026 / PESQUISA DE SATISFAÇÃO / AVALIE A SUDOEXPO / Sua opinião é muito importante para nós.",
+  "natureza": "video",
+  "folha": "folha_28",
+  "idx": 247
+ },
+ "3986221827658697792": {
+  "descricao": "Foto de dois homens de camisa social e crachá posando lado a lado diante dos painéis azuis do espaço da associação, em área interna do pavilhão com público ao fundo.",
+  "texto_sobreposto": "A casa do empresário / ACIRV / @dirinovende",
+  "natureza": "foto",
+  "folha": "folha_28",
+  "idx": 248
+ },
+ "3986711506040392427": {
+  "descricao": "Quadro de vídeo com homem de camisa branca e crachá caminhando na calçada em frente a edifício universitário, sob céu azul e palmeira; caixa azul de texto sobreposta à esquerda.",
+  "texto_sobreposto": "ACIRV e Unirv / A convite da UniRV, presidente José Carlos Cintra e diretor Gustavo Lacerda participam de Workshop de IA / PRÓ-REITORIA PESQUISA E PÓS-GRADUAÇÃO",
+  "natureza": "video",
+  "folha": "folha_28",
+  "idx": 249
+ },
+ "3986742506711864111": {
+  "descricao": "Foto de dois homens de camisa branca posando lado a lado em sala clara de paredes brancas, um deles com crachá de evento; caixa azul de texto sobreposta na base.",
+  "texto_sobreposto": "Workshop de IA com Alsones Balestrin",
+  "natureza": "foto",
+  "folha": "folha_28",
+  "idx": 250
+ },
+ "3986742853614418675": {
+  "descricao": "Foto de quatro homens em pé na entrada de um edifício, três de camisa social e um com uniforme da polícia militar; placa vermelha de extintor na parede ao fundo.",
+  "texto_sobreposto": "Acirv em Brasília",
+  "natureza": "foto",
+  "folha": "folha_28",
+  "idx": 251
+ },
+ "3988187908438789758": {
+  "descricao": "Quadro de vídeo com homem de polo azul-marinho sentado à mesa em sala de reunião com porta e armário de madeira; aparelhos celulares sobre a mesa e braço de pessoa gravando o encontro. Caixa azul de texto sobreposta.",
+  "texto_sobreposto": "@Agora na ACIRV / Diálogo entre associação comercial e representantes do banco do brasil",
+  "natureza": "video",
+  "folha": "folha_28",
+  "idx": 252
+ },
+ "3989089993682379797": {
+  "descricao": "Quadro de vídeo de reunião de trabalho: cerca de oito pessoas sentadas ao redor de mesa de sala clara, com notebooks e celulares; parede de vidro ao fundo. Duas caixas azuis de texto sobrepostas à esquerda.",
+  "texto_sobreposto": "ACIRV e CODERV / A associação comercial foi representada pelo diretor @marquim_eletromar em um reunião de trabalho do @codervrioverde",
+  "natureza": "video",
+  "folha": "folha_29",
+  "idx": 253
+ },
+ "3989108129886427526": {
+  "descricao": "Quadro de vídeo de encontro em escritório: homem de polo escura conversa com mulher de costas para a câmera, outro homem anota em notebook à mesa; armário de madeira e vidro ao fundo, com pessoas visíveis através do vidro.",
+  "texto_sobreposto": "ACIRV e MC Consult / Márcia da @mcconsultoria.vistoria compartilha oportunidades e conexões com os diretores da ACIRV",
+  "natureza": "video",
+  "folha": "folha_29",
+  "idx": 254
+ },
+ "3989122677099994950": {
+  "descricao": "Quadro de vídeo em contraluz: vista de baixo para cima da fachada azul do edifício da associação, com as letras institucionais aplicadas na parede e reflexo de sol. Cabeçalho de publicação compartilhada no alto e caixa verde de texto na base.",
+  "texto_sobreposto": "@lucianoguimaraesbr / Estamos agora ACIRV desejando um crescimento público e privado, firmamos assim resultados nos negócios. Honrando com ciência e firmeza as pautas da nossa região (trecho ilegivel)",
+  "natureza": "video",
+  "folha": "folha_29",
+  "idx": 255
+ },
+ "3989122809631629502": {
+  "descricao": "Quadro de vídeo com homem de cabelos e barba brancos, de camisa branca, segurando pasta laranja em frente à fachada azul do edifício; cabeçalho de publicação compartilhada no alto e caixa verde na base.",
+  "texto_sobreposto": "@lucianoguimaraesbr / Estamos representando o @coderv",
+  "natureza": "video",
+  "folha": "folha_29",
+  "idx": 256
+ },
+ "3989144187076365644": {
+  "descricao": "Peça gráfica em fundo azul com a marca da associação: cartão branco de avaliação com estrelas amarelas, mão segurando celular com etiquetas flutuantes, contorno de casa em amarelo e seta indicando dedo. Assinatura de perfil na base.",
+  "texto_sobreposto": "AVALIE O ESTANDE / Avalie o estande da Acirv / @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_29",
+  "idx": 257
+ },
+ "3991386034805793761": {
+  "descricao": "Quadro de vídeo de reunião: pessoas sentadas à mesa com notebooks e copos, tela de TV na parede exibindo planilha; sala de paredes claras. Duas caixas de texto sobrepostas.",
+  "texto_sobreposto": "Agora na ACIRV / Organização da Sudoexpo se reune para levantar análise sobre os prós e contras da Sudoexpo 2026",
+  "natureza": "video",
+  "folha": "folha_29",
+  "idx": 258
+ },
+ "3992534121372126841": {
+  "descricao": "Foto em primeira pessoa: mão segurando copo com sobremesa gelada e coberturas sobre a mesa, em ambiente interno desfocado. Cabeçalho de publicação compartilhada e etiquetas de perfis sobrepostas.",
+  "texto_sobreposto": "@janainemarquez / @acirvoficial / @acirvempresarial / Hoje teve a aula laboral foi especial! 💛",
+  "natureza": "foto",
+  "folha": "folha_29",
+  "idx": 259
+ },
+ "3992568823491351545": {
+  "descricao": "Quadro de vídeo predominantemente preto com peça gráfica centralizada: título em fonte manuscrita com coração amarelo e marca d'água de aplicativo de edição; etiqueta verde na base.",
+  "texto_sobreposto": "Ginástica Laboral / Salomé Amado / CopCut",
+  "natureza": "video",
+  "folha": "folha_29",
+  "idx": 260
+ },
+ "3996199247656902474": {
+  "descricao": "Peça gráfica de divulgação de oficina: cartão branco com faixa INSCRIÇÕES AQUI e foto de sala de aula com público, cartão azul com data, horário e local, descrição da oficina sobre Inteligência Artificial para processos e logotipos das instituições realizadoras.",
+  "texto_sobreposto": "INSCRIÇÕES AQUI / 29/09 às 19h ACIRV / Oficina GRATUITA / Inicia.IA Processos / Aprenda recursos da Inteligência Artificial para otimizar sua organização e melhorar seus processos. / ACIRV / SEBRAE",
+  "natureza": "arte",
+  "folha": "folha_29",
+  "idx": 261
+ },
+ "3996936251810855432": {
+  "descricao": "Quadro de vídeo de reunião de trabalho: quatro pessoas ao redor de mesa com frutas e café, duas delas com camisetas institucionais; janela com cortina ao fundo. Duas caixas de texto sobrepostas.",
+  "texto_sobreposto": "Agora na ACIRV / Reunião das ACIRVETES com o presidente para realizar uma retrospectiva do SudoExpo e levantar considerações",
+  "natureza": "video",
+  "folha": "folha_30",
+  "idx": 262
+ },
+ "3996938282608992307": {
+  "descricao": "Quadro de vídeo com homem de camisa social azul-clara falando, sentado em ambiente de café; copo com marca sobre a mesa em primeiro plano. Duas caixas de texto sobrepostas.",
+  "texto_sobreposto": "Café com o Presidente / Reunião do presidente José Carlos Cintra com associados novos e antigos para aprofundar relações",
+  "natureza": "video",
+  "folha": "folha_30",
+  "idx": 263
+ },
+ "3996938522392437807": {
+  "descricao": "Peça gráfica azul de divulgação de workshop: card com selo SAVE THE DATE, título do curso de criação de site com IA, mockup de construtor de páginas, fotos de referência e faixa inferior com data, horário e instrutor.",
+  "texto_sobreposto": "SAVE THE DATE / WORKSHOP / CRIE SEU SITE COM IA / 08 de outubro • 19h às 22h / Curso prático com Raphael Vilelaço / @acirvoficial",
+  "natureza": "arte",
+  "folha": "folha_30",
+  "idx": 264
+ },
+ "3996938636930542959": {
+  "descricao": "Peça gráfica de divulgação de oficina gratuita: cartão branco com foto de sala de aula e público, cartão azul com data, horário e local, texto sobre o que será aprendido e logotipos das instituições realizadoras.",
+  "texto_sobreposto": "29/09 às 19h ACIRV / Oficina GRATUITA / Inicia.IA Processos / O que você vai aprender? / Aplicar recursos da Inteligência Artificial para otimizar sua organização e melhorar seus processos. / ACIRV / SEBRAE / @acirvoficial",
+  "natureza": "arte",
+  "folha": "folha_30",
+  "idx": 265
+ },
+ "3997222614065863005": {
+  "descricao": "Quadro de vídeo da oficina: público sentado às mesas com notebooks, apresentador em pé ao lado de tela de projeção com slides coloridos sobre processos; sala de paredes claras. Duas caixas de texto sobrepostas.",
+  "texto_sobreposto": "Agora na ACIRV / Oficina gestão de processos com inteligência artificial reune líderes e empresários para aprenderem juntos a aplicar a IA no dia a dia",
+  "natureza": "video",
+  "folha": "folha_30",
+  "idx": 266
+ },
+ "3997256937551332427": {
+  "descricao": "Foto de grupo com cerca de trinta pessoas posando em pé e agachadas diante da parede institucional com o logotipo da associação, em galeria ampla de piso claro. Duas caixas de texto sobrepostas.",
+  "texto_sobreposto": "Oficina Inicia.IA / Obrigado associados e visitantes por terem participado dessa oficina",
+  "natureza": "foto",
+  "folha": "folha_30",
+  "idx": 267
+ },
+ "3997272941371165609": {
+  "descricao": "Republicação de story: a mesma foto de grupo da oficina com as caixas de agradecimento, agora inserida sobre fundo desfocado, com cabeçalho de publicação compartilhada no alto.",
+  "texto_sobreposto": "@maxamorim1 / Oficina Inicia.IA / Obrigado associados e visitantes por terem participado dessa oficina / @acirvoficial",
+  "natureza": "print",
+  "folha": "folha_30",
+  "idx": 268
+ },
+ "3997273082190645647": {
+  "descricao": "Republicação de story: foto de grupo da oficina com caixas de texto sobreposta sobre fundo desfocado, com cabeçalho de publicação compartilhada no alto.",
+  "texto_sobreposto": "@blauh_nathan / Oficina Inicia.IA / Obrigado associados e visitantes por terem participado dessa oficina / @acirvoficial",
+  "natureza": "print",
+  "folha": "folha_30",
+  "idx": 269
+ },
+ "3997273082861943994": {
+  "descricao": "Republicação de story: foto de grupo de empresários diante da parede institucional, com faixa translúcida de texto na base e cabeçalho de publicação compartilhada no alto.",
+  "texto_sobreposto": "@nossosbairronossacidadederioverde / \"Café com a Presidente\" aproxima empresários de Rio Verde / @acirvoficial",
+  "natureza": "print",
+  "folha": "folha_30",
+  "idx": 270
+ },
+ "3997273196281572444": {
+  "descricao": "Quadro de vídeo: republicação de story (cabeçalho de publicação compartilhada no alto) mostrando a sala da oficina com público sentado às mesas, apresentador em pé diante de tela de projeção com slides coloridos; imagem inserida sobre fundo desfocado.",
+  "texto_sobreposto": "@soudambarbossa / @acirvoficial",
+  "natureza": "video",
+  "folha": "folha_31",
+  "idx": 271
+ },
+ "3997743379722063371": {
+  "descricao": "Quadro de vídeo: quatro pessoas (três mulheres e um homem) em pé diante da parede institucional com o logotipo da associação, reunidas em círculo de mãos ao centro; caixa preta com lista de perfis sobreposta no canto inferior.",
+  "texto_sobreposto": "fernandafidelis / acirvonoticias / juliocoelhoprado / renataleitedenadai / marciorofrigo / lucasangeloo / jessicadalo / marymarcelino / acirvoficial",
+  "natureza": "video",
+  "folha": "folha_31",
+  "idx": 272
+ },
+ "3998674771175034729": {
+  "descricao": "Peça gráfica azul de divulgação de curso: faixa superior CRIE SEU SITE COM IA, chamada QUEM VAI CONDUZIR, nome do instrutor em destaque com duas fotos do palestrante segurando microfone, minibiografia e faixa inferior com data, horário e assinaturas de perfil.",
+  "texto_sobreposto": "CRIE SEU SITE COM IA / QUEM VAI CONDUZIR / RAPHAEL VALONGO / Empresário, publicitário, consultor e palestrante / Uma trajetória ligada a inovação, visão e negócios / 08 de outubro • 19h às 22h / Curso prático com Raphael Valongo / @acirvoficial e raphael.valongo",
+  "natureza": "arte",
+  "folha": "folha_31",
+  "idx": 273
+ }
+}

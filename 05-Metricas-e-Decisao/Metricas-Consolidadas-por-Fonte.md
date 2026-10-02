@@ -36,14 +36,14 @@ subtipo: consolidacao
 | `content_interactions.json` | interações, 10/01–09/04/2026 | curado |
 | `profiles_reached.json` | alcance/funil, 10/01–09/04/2026 | curado |
 | `past_instagram_insights/posts.json` | 200 publicações, 22/04/2025–10/04/2026 | normalizado |
-| `instagram_acirvoficial_insights_agosto_2026.xlsx` | 52 publicações, agosto | fonte preservada |
-| `instagram_acirvoficial_insights_agosto_2026_MASTER(1).xlsx` | 52 publicações, agosto | **fonte preferida por publicação** |
+| `instagram_acirvoficial_insights_agosto_2026.xlsx` | 52 linhas (48 de agosto + 4 de 31/07) | fonte preservada |
+| `instagram_acirvoficial_insights_agosto_2026_MASTER(1).xlsx` | 52 linhas (48 de agosto + 4 de 31/07) | **fonte preferida de métricas**; contagem de agosto = 62 (grid) |
 | `instagram_acirvoficial_insights_setembro_2026.xlsx` | 86 publicações, 01–14/09 | curado como parcial |
 
 ## Bases derivadas de Instagram
 
 - `85-Bases-e-Consultas/Instagram-Publicacoes-Export-Meta-2025-2026.csv` — 200 linhas;
-- `85-Bases-e-Consultas/Instagram-Publicacoes-2026-08-09.csv` — 138 linhas, agosto + setembro parcial;
+- `85-Bases-e-Consultas/Instagram-Publicacoes-2026-08-09.csv` — 138 linhas (48 de agosto + 4 de julho + 86 de setembro parcial); **a base de agosto está incompleta**: o feed tinha 62;
 - `85-Bases-e-Consultas/Instagram-Publicacoes-2026-09.csv` — 116 linhas, setembro completo; ver [[Base-Instagram-Setembro-2026]] e [[LEIA-ME-Instagram-Insights]];
 - [[Perfil-da-Audiencia-Instagram]];
 - [[Diagnostico-Longitudinal-Instagram-2025-2026]];

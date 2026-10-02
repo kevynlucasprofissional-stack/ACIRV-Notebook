@@ -89,7 +89,7 @@ Parceiros por visualizações somadas: `sarahdaotica` 115.839, `sudoexpo.oficial
 ## Qualidade da base
 
 - 115 de 116 linhas com `status_validacao = completo_2026-09_insights_dom`.
-- 1 linha com `colab_metricas_principais_indisponiveis_no_painel` (`media_id 3982692900246340349`, reel com `keniasleite` em 09/09): o painel da ACIRV não expõe visualizações, visualizadores nem interações para essa publicação. Os rótulos estão em `metricas_ausentes` e o número bruto da API pública ficou em `notas` — não é o mesmo metro do painel e não deve ser somado.
+- 1 linha com `colab_metricas_principais_indisponiveis_no_painel` (`media_id 3982692900246340349`, reel com `keniasleite` em 09/09): o painel da ACIRV não expõe visualizações, visualizadores nem interações para essa publicação. Os rótulos estão em `metricas_ausentes` e o número bruto da API pública ficou em `notas` — não é o mesmo metro do painel e não deve ser somado. **Prova da reverificação (02/10/2026):** `Hermes/instagram-insights/captura/setembro-2026/_verificacao_keniasleite_2026-10-02.json` — o painel entrega curtidas (210), comentários (28), salvamentos (2) e compartilhamentos (2) e devolve `--` para visualizações, visualizadores, interações, alcance e visitas ao perfil. É limitação do painel para reel colaborativo, não lacuna de coleta.
 - Ausências recorrentes no rodapé do painel: `atividade_do_perfil` (56 linhas) e `novos_seguidores` (54). Ausência registrada, nunca convertida em zero.
 - Sem duplicidade de `media_id` e sem linha sem curtidas.
 

@@ -39,7 +39,7 @@ subtipo: analise
 
 A fonte registra:
 
-- **52 conteúdos**;
+- **52 conteúdos** analisados neste diagnóstico (o feed de agosto tinha **62 publicações** — o MASTER não cobre 14 delas; ver `Hermes/instagram-insights/auditorias/AUDITORIA-2026-08.md`);
 - **42 orgânicos**;
 - **10 promovidos**.
 

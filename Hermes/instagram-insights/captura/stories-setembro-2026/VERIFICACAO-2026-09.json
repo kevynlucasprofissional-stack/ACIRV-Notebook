@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02T19:57:54+00:00",
+ "gerado_em": "2026-10-02T20:11:05+00:00",
  "periodo": "2026-09",
  "dir": "C:\\Users\\Kevyn Lucas\\AppData\\Local\\hermes\\cache\\scratch\\stories\\run-2026-09",
  "offset_segundos": -10800,
@@ -235,6 +235,18 @@
    "ok": true,
    "detalhe": "buckets vizinhos: anterior=[] seguinte=['2026-10-01'] | midias fora do periodo capturadas de proposito: 1 | midias com data local fora do periodo: nenhuma",
    "fatal": false
+  },
+  {
+   "check": "FORMATO_DAS_METRICAS",
+   "ok": true,
+   "detalhe": "distribuicao: lista=121, umapi=152",
+   "fatal": false
+  },
+  {
+   "check": "METRICAS_DO_PERIODO",
+   "ok": true,
+   "detalhe": "272/272 ids do periodo com metrica real",
+   "fatal": true
   }
  ],
  "faltantes": []

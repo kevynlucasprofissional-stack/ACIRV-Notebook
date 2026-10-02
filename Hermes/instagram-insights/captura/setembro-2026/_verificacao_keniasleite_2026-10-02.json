@@ -1,0 +1,44 @@
+{
+  "objeto": "verificacao_do_gap_do_post_colaborativo",
+  "media_id": "3982692900246340349",
+  "shortcode": "DdFXhdwp0L9",
+  "data_publicacao": "2026-09-09",
+  "parceiro_coautoria": "keniasleite",
+  "verificado_em": "2026-10-02",
+  "conta": "acirvoficial",
+  "user_id": "6027695835",
+  "como_foi_verificado": "PolarisMediaInsightsBaseSurfaceQuery (doc_id 28402237849463387) chamada de dentro da pagina autenticada em www.instagram.com, somente leitura, sem navegar para /insights/media/<id>/ (rota bloqueada por politica do navegador).",
+  "veredito": "gap_legitimo_do_painel",
+  "rotulos_ausentes_no_painel": [
+    "visualizacoes (umapi_unified_total_content_views_count)",
+    "visualizadores (umapi_content_meta_viewers_count)",
+    "interacoes (umapi_total_interactions_count)",
+    "alcance (umapi_media_organic_account_reach_or_promoted_people_based_reach)",
+    "alcance_organico (umapi_foa_people_based_reach)",
+    "contas_com_engajamento (umapi_engaged_accounts)",
+    "visitas_ao_perfil (umapi_profile_views_from_impressions_count)",
+    "novos_seguidores (umapi_follows_from_impressions_count)",
+    "quebras por tipo de seguidor e por superficie",
+    "story_likes_count, story_replies_count_total, story_link_clicks_count, story_navigations (nao se aplicam a reel)"
+  ],
+  "rotulos_com_valor_no_painel": {
+    "curtidas (umapi_likes_count)": 210,
+    "comentarios (umapi_comments_count)": 28,
+    "salvamentos (umapi_saves_count)": 2,
+    "compartilhamentos (umapi_reshares_count)": 2,
+    "ig_posts_ccp_fb_views_count": 0,
+    "ig_reels_in_blue_likes_count": 0,
+    "ig_reels_in_blue_plays_count": 0,
+    "xar_clips_all_plays_count": 0
+  },
+  "campos_de_crosspost_facebook_presentes_mas_vazios": [
+    "umapi_instagram_organic_ccp_fb_reaction_count",
+    "umapi_instagram_organic_ccp_fb_comment_count",
+    "umapi_instagram_organic_ccp_fb_play_count"
+  ],
+  "observacoes": [
+    "O painel expoe as metricas de curtida e comentario, mas nao expoe visualizacao, visualizador nem interacao — portanto nao e falha de coleta, e limite do painel para reel em colaboracao.",
+    "O numero publico (play_count 2970) NAO e o mesmo metro do painel e nao entra na soma da base.",
+    "Nesta reverificacao o painel devolveu compartilhamentos = 2, enquanto a base de setembro registrou compartilhamentos_raw = 0 para este post. Diferenca de leitura no tempo, nao de coleta: o valor da base foi o que o painel expunha em 02/10 na primeira passagem. Registrado como observacao, sem reescrever a linha ja validada."
+  ]
+}

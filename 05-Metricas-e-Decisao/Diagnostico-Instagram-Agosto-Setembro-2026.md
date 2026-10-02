@@ -35,7 +35,7 @@ subtipo: analise_periodo
 # Diagnostico-Instagram-Agosto-Setembro-2026
 
 > [!summary] Síntese
-> A reconciliação separa **totais mensais da conta** de **métricas por publicação**. Agosto possui um MASTER auditado e completo para 52 posts. Setembro contém 86 posts apenas entre **01 e 14/09/2026**, com mudança de schema do Instagram; por isso é uma fotografia parcial, não um mês fechado.
+> A reconciliação separa **totais mensais da conta** de **métricas por publicação**. Agosto tem **62 publicações no feed** do `@acirvoficial` (contagem pelo conjunto da varredura do grid, 02/10/2026); o MASTER cobre 52 linhas, sendo **48 de agosto e 4 de 31/07 com data publicada errada** — ver `Hermes/instagram-insights/auditorias/AUDITORIA-2026-08.md`. Setembro contém 86 posts apenas entre **01 e 14/09/2026**, com mudança de schema do Instagram; por isso é uma fotografia parcial, não um mês fechado.
 
 ## Agosto — escolha da fonte
 
@@ -44,14 +44,14 @@ Foram encontrados:
 1. `instagram_acirvoficial_insights_agosto_2026.xlsx` — blob `c32a87ca22e0a640b6ac2ec83bb2c136bb632332`;
 2. `instagram_acirvoficial_insights_agosto_2026_MASTER(1).xlsx` — blob `ccc1d627be0468abb41c650b18974161b6f741b1`.
 
-A camada canônica passa a usar o **MASTER como fonte preferida por publicação**, porque ele contém os mesmos 52 itens/1.089 métricas brutas e adiciona uma aba de auditoria. A auditoria registra:
+A camada canônica passa a usar o **MASTER como fonte preferida por publicação**, porque ele contém 52 itens/1.089 métricas brutas (48 de agosto + 4 de 31/07) e adiciona uma aba de auditoria. Ele segue sendo a fonte preferida de **métricas** dos 48 posts que cobre; a **contagem** de agosto vem do grid (62). A auditoria registra:
 
 - 167 itens enumerados no grid;
 - 52 itens da lista mestre encontrados;
 - 0 itens da lista mestre fora do grid;
 - fronteira validada de 01/08 a 30/08;
 - falsos positivos de setembro reclassificados pela data do elemento `<time datetime>`;
-- conclusão explícita de que o **MASTER de 52 posts está completo para agosto/2026**.
+- a conclusão do próprio arquivo de que o MASTER estaria "completo para agosto/2026" é **falsa e foi retratada em 02/10/2026**: o feed de agosto tem **62 publicações**; o MASTER cobre **48** (faltam 14 — oito de autoria própria publicados em lote em 24 e 28/08 e seis entradas de colaboração) e rotula como agosto quatro posts de **31/07**. Laudo e testes: `Hermes/instagram-insights/auditorias/AUDITORIA-2026-08.md` e `ferramentas/publicacoes_feed.py`.
 
 O arquivo original continua preservado como fonte e não é apagado.
 
@@ -59,7 +59,7 @@ O arquivo original continua preservado como fonte e não é apagado.
 
 No MASTER:
 
-- 52 posts;
+- 52 posts (48 de agosto + 4 de 31/07);
 - 42 orgânicos;
 - 10 promovidos;
 - 22 colaborativos;
@@ -92,7 +92,7 @@ O MASTER por publicação soma **1.912.836 visualizações** e **4.629 interaç�
 Isso não é tratado como erro aritmético. São fontes com grãos diferentes:
 
 - relatório mensal: visão agregada da conta/período;
-- MASTER: soma de 52 publicações inventariadas;
+- MASTER: soma de 52 publicações inventariadas (48 de agosto + 4 de julho);
 - Stories e outras superfícies podem entrar na visão mensal sem existir na mesma forma na tabela de posts.
 
 **Regra:** não substituir o total mensal pela soma das publicações e não somar os dois.
@@ -165,16 +165,16 @@ Portanto, setembro não deve receber um “alcance” inventado para manter cont
 
 ## Base derivada
 
-`85-Bases-e-Consultas/Instagram-Publicacoes-2026-08-09.csv` contém 138 linhas:
+`85-Bases-e-Consultas/Instagram-Publicacoes-2026-08-09.csv` contém 138 linhas (**a base de agosto está incompleta e com 4 datas erradas** — ver `Hermes/instagram-insights/auditorias/AUDITORIA-2026-08.md`):
 
-- 52 de agosto;
+- 48 de agosto + 4 de 31/07 mal-rotulados (o feed de agosto tem 62; faltam 14 nesta base);
 - 86 de 01–14/09.
 
 Ela inclui origem e status de validação por período. Agosto é marcado `master_validado_completo_agosto`; setembro, `parcial_setembro_com_quebra_de_schema`.
 
 ## Decisões de curação
 
-- MASTER é a referência de agosto por publicação;
+- MASTER é a referência de **métricas** de agosto por publicação (48 posts); a **contagem** de agosto é o conjunto do grid (62);
 - relatório mensal continua referência para totais mensais da conta;
 - setembro permanece parcial até haver fechamento de 01–30/09;
 - não fabricar alcance em setembro;

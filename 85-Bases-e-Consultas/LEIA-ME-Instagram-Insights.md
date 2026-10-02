@@ -7,7 +7,7 @@ subtipo: guia_tecnico
 status: revisado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.5'
 idioma: pt-BR
 data_criacao: '2026-10-02'
 ultima_revisao: '2026-10-02'
@@ -40,6 +40,8 @@ confidencialidade: interno
 
 Contrato de nome: `Instagram-Publicacoes-<AAAA-MM>.csv` — um arquivo por mês fechado, uma linha por publicação.
 
+Contrato de nome dos stories: `Instagram-Stories-<AAAA-MM>.csv` — um arquivo por mês fechado, uma linha por story publicado. Story expirado não volta do painel: esta base é a única cópia durável dele.
+
 Espalhamento anterior a esta nota: os mesmos números viviam dentro de `Instagram-Publicacoes-2026-08-09.csv` misturados (52 linhas de agosto + 86 de setembro parcial) e em JSONL de trabalho na camada original. A unificação separou o que era agosto do que era setembro.
 
 ## Contrato da base
@@ -70,10 +72,38 @@ Separador `;`, codificação UTF-8 sem BOM, quebra de linha CRLF, 34 colunas, or
 
 A variante `_raw` marca coluna que preserva o valor como veio da fonte, sem arredondamento ou conversão.
 
+### Contrato da base de stories
+
+Separador `;`, UTF-8 sem BOM, CRLF, **30 colunas**, ordenação por `data_story` e `hora_story` decrescentes. Uma linha por story; o grão é o story, não o dia.
+
+| Coluna | Semântica |
+|---|---|
+| `periodo_fonte` | mês coberto, `AAAA-MM` |
+| `data_story`, `hora_story` | publicação do story em BRT (UTC-3) |
+| `media_id` | identificador do story |
+| `tipo_midia` | `imagem` ou `video` |
+| `visualizacoes`, `visualizadores`, `alcance` | alcance do story |
+| `views_seguidores`, `views_nao_seguidores` | abertura de `visualizacoes` por vínculo |
+| `interacoes` | interações totais do story |
+| `contas_com_engajamento` | contas únicas que engajaram |
+| `curtidas_story`, `respostas`, `compartilhamentos`, `salvamentos` | engajamento próprio de story |
+| `cliques_link` | toques na figurinha de link |
+| `visitas_perfil`, `novos_seguidores` | tráfego gerado pelo story |
+| `navegacoes`, `navegacoes_quebra` | navegação total e a quebra crua por tipo de ação |
+| `descricao_visao`, `texto_sobreposto`, `natureza` | leitura por visão da capa (não é métrica do painel) |
+| `metricas_ausentes` | rótulos sem valor no painel, separados por `;` |
+| `formato_metricas` | `lista` ou `umapi` — de qual superfície o registro veio |
+| `notas` | observações de coleta (não é métrica) |
+| `source_path`, `source_blob_sha` | rastreabilidade até a captura crua |
+| `status_validacao` | estado de validação da linha |
+
+`descricao_visao`, `texto_sobreposto` e `natureza` não vêm do painel: são leitura assistida da capa e ficam marcadas como interpretação. `natureza` ∈ `foto`, `arte`, `video`, `print`. A distinção imagem × `video` é **conferida contra o tipo de mídia da captura** (`idx` -> `tipo`), não contra a tarja da folha de contato: em 273 células a tarja errou 7 vezes, e a coluna precisa concordar com o dado, não com a leitura.
+
 ## Bases existentes
 
 - `Instagram-Publicacoes-2026-09.csv` — **116 linhas**, setembro/2026 completo. Ver [[Base-Instagram-Setembro-2026]].
-- `Instagram-Publicacoes-2026-08-09.csv` — 138 linhas, agosto (52) + setembro parcial (86). O bloco de setembro está **superado** pela base de setembro completa; ver [[Qualidade-dos-Dados-de-Marketing]].
+- `Instagram-Stories-2026-09.csv` — **272 linhas**, stories de setembro/2026 (19 dias com story). Ver [[Stories-Instagram-Setembro-2026]].
+- `Instagram-Publicacoes-2026-08-09.csv` — 138 linhas = **48 de agosto + 4 de julho mal-rotulados + 86 de setembro parcial**. O bloco de setembro está **superado** pela base de setembro completa; o bloco de **agosto está incompleto e com 4 datas erradas** — o feed de agosto tem **62** publicações (faltam 14: oito próprias de 24 e 28/08 e seis de colaboração). Laudo: `Hermes/instagram-insights/auditorias/AUDITORIA-2026-08.md`; ver [[Qualidade-dos-Dados-de-Marketing]].
 - `Instagram-Publicacoes-Export-Meta-2025-2026.csv` — 200 linhas do export histórico da Meta. Ver [[Diagnostico-Longitudinal-Instagram-2025-2026]].
 
 ## Regras
@@ -83,7 +113,10 @@ A variante `_raw` marca coluna que preserva o valor como veio da fonte, sem arre
 3. Base mensal fechada é imutável; correção entra como nova versão com `status_validacao` explícito.
 4. Toda linha aponta para a captura crua em `source_path`.
 5. Script e captura crua ficam na camada 3 (`Hermes/instagram-insights/`), nunca em `000-Arquivos-originais/`.
-6. A base canônica é a **camada 1** da medição (post a post). Os totais do **painel da conta** (camada 2) ficam em captura própria e **nunca** entram nas colunas da base, nem são usados para ajustar o número de um post.
+6-bis. A **contagem** de publicações de um período é o conjunto de shortcodes da varredura do grid, nunca o total de um export ou de uma planilha: rode o portão (`Hermes/instagram-insights/ferramentas/publicacoes_feed.py auditar --periodo <AAAA-MM>` + `test_publicacoes_feed.py`) antes de publicar número. Export oficial é fonte **secundária de métricas** — pode estar incompleto e pode ter data publicada errada.
+7. A base canônica é a **camada 1** da medição (post a post). Os totais do **painel da conta** (camada 2) ficam em captura própria e **nunca** entram nas colunas da base, nem são usados para ajustar o número de um post.
+
+8. O **card mensal do app** e a nossa base contam conjuntos **diferentes**: o card conta o que a ACIRV publicou (setembro/2026: **13 reels + 55 posts + 272 stories**) e a base conta o que passou pelo feed (**116 = 60 da conta + 56 de parceiros**). Comparar um com o outro só faz sentido depois de separar por autoria (`vinculo` + `parceiro_coautores`). Ver [[Prints-do-App-Mobile-Setembro-2026]].
 
 ## As duas camadas (post a post × painel da conta)
 
@@ -102,12 +135,15 @@ Onde as camadas conversam: **interações** (painel 17.779 × base 18.414, −3,
 
 Lista ranqueada do painel (mesma origem, útil para conferência de magnitudes): `/accounts/insights/content/?media_type=all&metric=views&sort_by=highest&timeframe=30&view_type=card` — valores vêm abreviados (`99 mil`, `5,1 mil`) e `--` quando o painel não expõe o número.
 
+Uma **terceira câmera** existe: o painel profissional do **celular** (prints). Ele mostra rótulos iguais com **escopos diferentes** — o card e a tela de views por tipo são do mês, a de interações por tipo é de 30 dias — e o card conta **só o conteúdo da conta**. Conciliação completa em [[Prints-do-App-Mobile-Setembro-2026]].
+
 ## Relações justificadas
 
 - [[Fonte - Instagram Insights]] — define a origem.
 - [[Base-Instagram-Setembro-2026]] — nota de métrica do mês fechado.
 - [[Metricas-Consolidadas-por-Fonte]] — consolida as bases por fonte.
 - [[Qualidade-dos-Dados-de-Marketing]] — registra inconsistências, inclusive a supersessão.
+- [[Prints-do-App-Mobile-Setembro-2026]] — concilia os prints do app do celular com a base: autoria (116 × 55), validação 1:1 e resíduos.
 
 ## Fontes e rastreabilidade
 

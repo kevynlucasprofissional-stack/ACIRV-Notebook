@@ -1,42 +1,28 @@
 **Dados Instagram:**
 
-| Métrica               |    Agosto | Setembro | Diferença em % |
-| --------------------- | --------: | -------- | -------------: |
-| Feed                  |        52 |          |    **+26,83%** |
-| Stories               |        92 |          |    **−15,60%** |
-| Reels                 |         4 |          |    **−55,56%** |
-| Vídeos produzidos     |         9 |          |   **+350,00%** |
-| Visualizações         | 3.340.052 |          |   **+127,86%** |
-| Interações            |     6.103 |          |    **−38,24%** |
-| Seguidores            |       473 |          |    **+29,23%** |
-| Inserções na Imprensa |         7 |          |    **−46,15%** |
-| Matérias para o site  |         6 |          |      **0,00%** |
-| Reuniões              |        10 |          |    **+25,00%** |
-| Eventos               |        12 |          |   **+200,00%** |
-| Eventos ACIRV         |         3 |          |    **−40,00%** |
+|Métrica|Agosto|Setembro|Variação|
+|---|--:|--:|--:|
+|**Feed**|52|**116**|**+123,08%**|
+|**Stories**|92|**272**|**+195,65%**|
+|**Reels**|4|**13**|**+225,00%**|
+|Vídeos produzidos|9|—|—|
+|**Visualizações**|3.340.052|**1.409.945**|**−57,79%**|
+|**Interações**|6.103|**15.580**|**+155,28%**|
+|**Seguidores**|473|**1.017**|**+115,01%**|
+|Inserções na Imprensa|7|—|—|
+|Matérias para o site|6|—|—|
+|Reuniões|10|—|—|
+|Eventos|12|—|—|
+|Eventos ACIRV|3|—|—|
 
 ## Reuniões
 
-03/08 - Reunião com bombeiros
-03/08 - Reunião organização Sudoexpo
-06/08 - Reunião com Abrasel
-07/08 - Reunião com Mag Seguros
-12/08 - Reunião com Paola Regazonni
-17/08 - Reunião organização Sudoexpo
-18/08 - Reunião ACIRV Mulher
-24/08 - Reunião organização Sudoexpo
-31/08 - Reunião da organização Sudoexpo (na feira)
-31/08 - Reunião da organização Sudoexpo (Na ACIRV)
+
 
 ## Inserções Imprensa
 
-4 Minuto ACIRV
-07/08 - Equipe Conecta na Rio Verde FM
-07/08 - Equipe Conecta no Rádio 96 FM
-13/08 - Raphael Valongo na Morada FM falando Sudoexpo
+
 
 ## Eventos ACIRV
 
-13/08 - Curso para expositores
-25/08 - Visita da Jacqueline Zaiden
-27/08 - Café entre amigos
+

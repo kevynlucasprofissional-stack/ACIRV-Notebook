@@ -1,6 +1,6 @@
 # Verificação de completude — 2026-09
 
-**✅ COMPLETO** — gerado em 2026-10-02T19:57:54+00:00 (UTC)
+**✅ COMPLETO** — gerado em 2026-10-02T20:11:05+00:00 (UTC)
 
 - Dias com stories no mês: **19**
 - Esperado (day_shells `media_count`): **272**
@@ -39,6 +39,8 @@
 - `INSIGHTS_COM_CONTEUDO` — ok: 0 registros sem metrica
 - `MEDIA_ID_COERENTE` — ok: 0 divergencias
 - `BORDA_DE_MES` — ok: buckets vizinhos: anterior=[] seguinte=['2026-10-01'] | midias fora do periodo capturadas de proposito: 1 | midias com data local fora do periodo: nenhuma
+- `FORMATO_DAS_METRICAS` — ok: distribuicao: lista=121, umapi=152
+- `METRICAS_DO_PERIODO` — ok: 272/272 ids do periodo com metrica real
 
 ## Procedência (sha256)
 

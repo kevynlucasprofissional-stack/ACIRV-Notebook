@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "7abb42b51bcaa551",
+            "id": "dd1183130566269f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,20 +131,6 @@
               },
               "icon": "lucide-file",
               "title": "Relatório de setembro"
-            }
-          },
-          {
-            "id": "dd1183130566269f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mais alguns prompts voltados a engenharia de software"
             }
           }
         ],
@@ -312,33 +298,35 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7abb42b51bcaa551",
+  "active": "dd1183130566269f",
   "lastOpenFiles": [
+    "Hermes/instagram-insights/captura/agosto-2026-faltantes/insights_3973678233844534215.txt",
+    "Hermes/instagram-insights/captura/agosto-2026-faltantes/_worklist.json",
+    "Hermes/instagram-insights/captura/agosto-2026-faltantes",
+    "05-Metricas-e-Decisao/Prints-do-App-Mobile-Setembro-2026.md",
+    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+    "000-Arquivos-originais/Relatório de Agosto.md",
+    "000-Arquivos-originais/Dados de setembro segundo prints do painel profissional do Instagram mobile, ou seja, prints vindas do app do celular.md",
+    "000-Arquivos-originais/220926 Alterações no catálogo.md",
+    "000-Arquivos-originais/Relatório de setembro.md",
+    "Hermes/instagram-insights/captura/stories-setembro-2026/_unificar_stories_setembro.py",
     "Hermes/instagram-insights/captura/stories-setembro-2026/VERIFICACAO-2026-09.json",
     "Hermes/instagram-insights/captura/stories-setembro-2026/VERIFICACAO-2026-09.md",
     "Hermes/instagram-insights/captura/stories-setembro-2026/insights_2026-09.json",
     "Hermes/instagram-insights/captura/stories-setembro-2026/midias_2026-09.json",
     "Hermes/instagram-insights/captura/stories-setembro-2026/day_shells_2026-09.json",
     "Hermes/instagram-insights/captura/stories-setembro-2026",
-    "000-Arquivos-originais/Relatório de Agosto.md",
-    "000-Arquivos-originais/Relatório de setembro.md",
-    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
     "000-Arquivos-originais/stories_grade_ACIRV.json",
     "Hermes/instagram-insights/captura/setembro-2026/_painel_conta_2026-10-02_30.json",
     "05-Metricas-e-Decisao/Diagnostico-Instagram-Agosto-Setembro-2026.md",
-    "85-Bases-e-Consultas/Instagram-Publicacoes-2026-09.xlsx",
     "05-Metricas-e-Decisao/Base-Instagram-Setembro-2026.md",
-    "Hermes/instagram-insights/captura/setembro-2026/_qa_setembro.py",
     "85-Bases-e-Consultas/LEIA-ME-Instagram-Insights.md",
     "97-Fontes-Brutas/01-Indices/Fonte - Instagram Insights.md",
     "Hermes/instagram-insights/README.md",
-    "Hermes/instagram-insights/captura/setembro-2026/_setembro_2026_116.jsonl",
-    "Hermes/instagram-insights/captura/agosto-2026/_backup_schemaA/DcUSK-YAmSq.json",
     "000-Arquivos-originais/Logos 3D.md",
     "000-Arquivos-originais/0926 Melhorias Hermes.md",
     "000-Arquivos-originais/Pesquisas ACIRV e outros.md",
     "000-Arquivos-originais/210926 Reunião com equipe de Marketing.md",
-    "000-Arquivos-originais/220926 Alterações no catálogo.md",
     "000-Arquivos-originais/Pesquisa gamificada/Projeto de criar uma pesquisa gamificada para a ACIRV.md",
     "000-Arquivos-originais/Dados associados 2026.md",
     "000-Arquivos-originais/Pesquisa gamificada/Nuvem de palavras Open Source.md",
@@ -349,8 +337,6 @@
     "000-Arquivos-originais/#PESQUISA - Um estudo sobre a questão das pesquisas dentro da ACIRV.md",
     "000-Arquivos-originais/PESQUISA - Um estudo sobre a questão das pesquisas dentro da ACIRV.md",
     "000-Arquivos-originais/Um estudo sobre a questão das pesquisas dentro da ACIRV.md",
-    "000-Arquivos-originais/ChatGPT-Localizar briefings iniciais-20260923-1503.md",
-    "000-Arquivos-originais/A ACIRV do futuro.md",
     "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/raquelcardosoborges_1701542767907086/photos/2091270038060388.jpg",
     "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/8917750451646207.png",
     "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/8126765880759650.png",
