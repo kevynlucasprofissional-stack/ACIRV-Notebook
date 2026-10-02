@@ -10,7 +10,9 @@
       "no_periodo": 62,
       "fora_da_referencia": [],
       "faltando_no_periodo": [],
-      "rotulo_errado": []
+      "rotulo_errado": [],
+      "dia_errado": [],
+      "sem_legenda": []
     },
     "base_set": {
       "desc": "base canonica de setembro",
@@ -82,11 +84,109 @@
         "DcrgQC6gknC",
         "Dcrgb9wP9LW"
       ],
-      "rotulo_errado": []
+      "rotulo_errado": [],
+      "dia_errado": [],
+      "sem_legenda": []
+    },
+    "base_ago26": {
+      "desc": "base canonica de agosto (62, completa)",
+      "classe": "base",
+      "total": 62,
+      "no_periodo": 62,
+      "fora_da_referencia": [],
+      "faltando_no_periodo": [],
+      "rotulo_errado": [],
+      "dia_errado": [],
+      "sem_legenda": []
+    },
+    "legendas_set": {
+      "desc": "base de legendas de setembro (texto de cada post)",
+      "classe": "legenda",
+      "total": 116,
+      "no_periodo": 0,
+      "fora_da_referencia": [],
+      "faltando_no_periodo": [
+        "Db-4DVIjkeD",
+        "Db-7_-OOxRu",
+        "Db-7sWxjt1W",
+        "Db-8Ogujpnd",
+        "Db5hQOLAmGU",
+        "Db5x5YFDhuk",
+        "Db6JsbUAFMa",
+        "Db6VNKkG0MC",
+        "Db83BGyK7QT",
+        "Db83W6xKhbg",
+        "Db8MNHGm5-k",
+        "Db9HcT8mxoP",
+        "Db_kkgSmw3s",
+        "Db_sK_am5Pd",
+        "DbodANdm0Xy",
+        "DbqfO-Ou0Qu",
+        "DbtOoFrjpJv",
+        "DbviPQ7jvsB",
+        "DcCKmiUmxNg",
+        "DcCPbyLGzGd",
+        "DcJ6tS4g0UF",
+        "DcJiRyDAzCg",
+        "DcL1LKyDuDC",
+        "DcL6lpcjuj9",
+        "DcMIq5HDsYI",
+        "DcMk8Krm62J",
+        "DcOO0TDmyOI",
+        "DcO_l7tAO80",
+        "DcUEyDAgrbq",
+        "DcUJGqJG3tO",
+        "DcUSK-YAmSq",
+        "DcbD8kGAZY3",
+        "DcbECTUAleR",
+        "DcbEHlnA9uZ",
+        "DcbEPp2gwNj",
+        "DcbJmepx1nq",
+        "DcbmO6GPfhb",
+        "DccD4y_m_vZ",
+        "DccDC3EG62U",
+        "DcdwpbfPsgs",
+        "Dcg2HcQm08f",
+        "Dcg571dmzBL",
+        "DchIji9m9Ac",
+        "DchK9ycv_Tu",
+        "Dchm6kFDjxS",
+        "DcjUaHrjhxv",
+        "Dcjs2R4G_fX",
+        "Dcl1hMpDirN",
+        "DclREC4m2H4",
+        "DclSk4fG8C1",
+        "DclTCCwm8ff",
+        "DclV0zcAUvH",
+        "DclVRnSg4Sm",
+        "DclVejgguEv",
+        "DclVoHkAc3R",
+        "DcliQzRDjNM",
+        "DcmHJv_G-0A",
+        "DcmMX4pvjg7",
+        "DcmSbnuG9E-",
+        "DcmUAaAG3Pi",
+        "DcrgQC6gknC",
+        "Dcrgb9wP9LW"
+      ],
+      "rotulo_errado": [],
+      "dia_errado": [],
+      "sem_legenda": []
+    },
+    "legendas_ago": {
+      "desc": "base de legendas de agosto (62, completa)",
+      "classe": "legenda",
+      "total": 62,
+      "no_periodo": 62,
+      "fora_da_referencia": [],
+      "faltando_no_periodo": [],
+      "rotulo_errado": [],
+      "dia_errado": [],
+      "sem_legenda": []
     },
     "base_08_09": {
-      "desc": "base antiga (agosto + setembro parcial)",
-      "classe": "base",
+      "desc": "base antiga (agosto incompleto + setembro parcial) — superada por base_ago26 e base_set",
+      "classe": "legado",
       "total": 138,
       "no_periodo": 48,
       "fora_da_referencia": [],
@@ -111,7 +211,11 @@
         "DbdvooJOi2n",
         "DbdvwQLu4_o",
         "DbdwBOBOVJt"
-      ]
+      ],
+      "dia_errado": [
+        "Db-7_-OOxRu"
+      ],
+      "sem_legenda": []
     },
     "captura_set": {
       "desc": "captura post-a-post de setembro",
@@ -183,7 +287,9 @@
         "DcrgQC6gknC",
         "Dcrgb9wP9LW"
       ],
-      "rotulo_errado": []
+      "rotulo_errado": [],
+      "dia_errado": [],
+      "sem_legenda": []
     },
     "brutos_ago": {
       "desc": "brutos post-a-post de agosto",
@@ -212,7 +318,11 @@
         "DbdvooJOi2n",
         "DbdvwQLu4_o",
         "DbdwBOBOVJt"
-      ]
+      ],
+      "dia_errado": [
+        "Db-7_-OOxRu"
+      ],
+      "sem_legenda": []
     },
     "export_set": {
       "desc": "export oficial de setembro (so 01-14/09)",
@@ -284,7 +394,9 @@
         "DcrgQC6gknC",
         "Dcrgb9wP9LW"
       ],
-      "rotulo_errado": []
+      "rotulo_errado": [],
+      "dia_errado": [],
+      "sem_legenda": []
     },
     "export_ago": {
       "desc": "export oficial de agosto (MASTER)",
@@ -313,7 +425,11 @@
         "DbdvooJOi2n",
         "DbdvwQLu4_o",
         "DbdwBOBOVJt"
-      ]
+      ],
+      "dia_errado": [
+        "Db-7_-OOxRu"
+      ],
+      "sem_legenda": []
     },
     "grid_v1": {
       "desc": "varredura anterior (parcial)",
@@ -352,7 +468,9 @@
         "DcUEyDAgrbq",
         "DcUJGqJG3tO"
       ],
-      "rotulo_errado": []
+      "rotulo_errado": [],
+      "dia_errado": [],
+      "sem_legenda": []
     },
     "grid_v2": {
       "desc": "varredura anterior (parcial)",
@@ -391,22 +509,26 @@
         "DcUEyDAgrbq",
         "DcUJGqJG3tO"
       ],
-      "rotulo_errado": []
+      "rotulo_errado": [],
+      "dia_errado": [],
+      "sem_legenda": []
     }
   },
-  "divergencias": [
-    "base_08_09 tem 4 data(s) publicada(s) errada(s) para o periodo (a data do shortcode manda): Dbd6DYGA0y3,DbdvooJOi2n,DbdvwQLu4_o,DbdwBOBOVJt",
-    "base_08_09 cobre 48 de 62 posts do periodo (faltam 14)"
-  ],
+  "divergencias": [],
   "avisos": [
+    "base_08_09 tem 4 data(s) publicada(s) errada(s) para o periodo (a data do shortcode manda): Dbd6DYGA0y3,DbdvooJOi2n,DbdvwQLu4_o,DbdwBOBOVJt",
+    "base_08_09 tem 1 data(s) com mes certo e dia errado (o dia do shortcode manda): Db-7_-OOxRu",
     "brutos_ago tem 4 data(s) publicada(s) errada(s) para o periodo (a data do shortcode manda): Dbd6DYGA0y3,DbdvooJOi2n,DbdvwQLu4_o,DbdwBOBOVJt",
-    "export_ago tem 4 data(s) publicada(s) errada(s) para o periodo (a data do shortcode manda): Dbd6DYGA0y3,DbdvooJOi2n,DbdvwQLu4_o,DbdwBOBOVJt"
+    "brutos_ago tem 1 data(s) com mes certo e dia errado (o dia do shortcode manda): Db-7_-OOxRu",
+    "export_ago tem 4 data(s) publicada(s) errada(s) para o periodo (a data do shortcode manda): Dbd6DYGA0y3,DbdvooJOi2n,DbdvwQLu4_o,DbdwBOBOVJt",
+    "export_ago tem 1 data(s) com mes certo e dia errado (o dia do shortcode manda): Db-7_-OOxRu"
   ],
   "informacoes": [
+    "base_08_09 cobre 48 de 62 posts do periodo (faltam 14)",
     "brutos_ago cobre 48 de 62 posts do periodo (faltam 14)",
     "export_ago cobre 48 de 62 posts do periodo (faltam 14)",
     "grid_v1 cobre 33 de 62 posts do periodo (faltam 29)",
     "grid_v2 cobre 33 de 62 posts do periodo (faltam 29)"
   ],
-  "veredito": "REPROVADO"
+  "veredito": "COMPLETO"
 }

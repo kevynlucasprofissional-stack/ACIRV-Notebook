@@ -6,10 +6,10 @@ tipo: canal
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.3'
+versao_conteudo: '1.4'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-09-22'
+ultima_revisao: '2026-10-02'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -27,6 +27,9 @@ notas_relacionadas:
 - '[[Diagnostico-Instagram-Agosto-Setembro-2026]]'
 - '[[Diagnostico-Longitudinal-Instagram-2025-2026]]'
 - '[[Perfil-da-Audiencia-Instagram]]'
+- '[[Base-Instagram-Agosto-2026]]'
+- '[[Base-Instagram-Setembro-2026]]'
+- '[[Metodo-Folhas-de-Contato-e-Leitura-em-Lote]]'
 confidencialidade: interno
 subtipo: canal
 ---
@@ -61,11 +64,11 @@ A leitura do canal usa quatro níveis complementares:
 
 ## Agosto e setembro de 2026
 
-O MASTER de agosto foi validado como completo para **52 posts** e passa a ser a referência preferida no grão por publicação. Ele não substitui o total mensal da conta: sua soma de 1.912.836 visualizações difere dos 3.340.052 do relatório mensal porque as fontes têm escopo e superfícies diferentes.
+O grão por publicação de agosto está consolidado em **62 posts** (`85-Bases-e-Consultas/Instagram-Publicacoes-2026-08.csv`) — a contagem anterior de **52 estava incompleta**. A varredura do grid encontrou **14 publicações que o MASTER não tinha** (8 próprias publicadas em 24 e 28/08 e 6 em colaboração), e a data de **5** delas vinha rotulada errada na fonte (4 eram de 31/07 e uma dizia 26/08 em vez de 13/08). Somam **2.154.226 visualizações** e **6.034 interações**. A base por publicação não substitui o total mensal da conta: as fontes têm escopo e superfícies diferentes.
 
-O arquivo de setembro cobre somente **01–14/09/2026**, com 86 posts, e registra uma quebra de schema: o painel não expõe “Alcance/Contas alcançadas” da mesma forma. O período 09–12/09 concentrou 273.549 das 445.217 visualizações do arquivo parcial, mas isso é associação temporal e não prova efeito causal da SudoExpo.
+Setembro fecha em **116 publicações** no mês inteiro, não 86: o arquivo da Meta cobre apenas **01–14/09** e entra como **subconjunto comprovado** do conjunto capturado. São **497.290 visualizações**, **18.414 interações**, **14.797 curtidas**, **1.534 comentários**, **1.969 compartilhamentos** e **255 salvamentos**; **60** são da conta e **56** de parceiros. A legenda das 116 está em `85-Bases-e-Consultas/Instagram-Legendas-2026-09.csv` — é o que permite cruzar desempenho com *assunto*, e não só com formato.
 
-Ver [[Diagnostico-Instagram-Agosto-Setembro-2026]].
+Ver [[Diagnostico-Instagram-Agosto-Setembro-2026]], [[Base-Instagram-Agosto-2026]] e [[Base-Instagram-Setembro-2026]].
 
 ## Audiência
 

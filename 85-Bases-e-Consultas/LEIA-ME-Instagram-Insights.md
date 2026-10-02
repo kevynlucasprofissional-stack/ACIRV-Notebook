@@ -7,7 +7,7 @@ subtipo: guia_tecnico
 status: revisado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.5'
+versao_conteudo: '1.8'
 idioma: pt-BR
 data_criacao: '2026-10-02'
 ultima_revisao: '2026-10-02'
@@ -21,6 +21,7 @@ tags:
 fontes_documentais:
 - '97-Fontes-Brutas/01-Indices/Fonte - Instagram Insights.md'
 - '85-Bases-e-Consultas/Instagram-Publicacoes-2026-09.csv'
+- '85-Bases-e-Consultas/Instagram-Legendas-2026-09.csv'
 notas_relacionadas:
 - '[[Fonte - Instagram Insights]]'
 - '[[Base-Instagram-Setembro-2026]]'
@@ -41,6 +42,8 @@ confidencialidade: interno
 Contrato de nome: `Instagram-Publicacoes-<AAAA-MM>.csv` — um arquivo por mês fechado, uma linha por publicação.
 
 Contrato de nome dos stories: `Instagram-Stories-<AAAA-MM>.csv` — um arquivo por mês fechado, uma linha por story publicado. Story expirado não volta do painel: esta base é a única cópia durável dele.
+
+Contrato de nome das legendas: `Instagram-Legendas-<AAAA-MM>.csv` — um arquivo por mês fechado, uma linha por publicação, com o **texto da legenda** íntegro. A legenda é o que permite dizer *do que trata* o post sem reabrir o painel; é campo obrigatório desde 02/10/2026.
 
 Espalhamento anterior a esta nota: os mesmos números viviam dentro de `Instagram-Publicacoes-2026-08-09.csv` misturados (52 linhas de agosto + 86 de setembro parcial) e em JSONL de trabalho na camada original. A unificação separou o que era agosto do que era setembro.
 
@@ -71,6 +74,27 @@ Separador `;`, codificação UTF-8 sem BOM, quebra de linha CRLF, 34 colunas, or
 | `status_validacao` | estado de validação da linha |
 
 A variante `_raw` marca coluna que preserva o valor como veio da fonte, sem arredondamento ou conversão.
+
+### Contrato da base de legendas
+
+Separador `;`, UTF-8 sem BOM, CRLF, **16 colunas**, ordenação idêntica à da base de publicações do mesmo mês. Uma linha por publicação — **o mesmo conjunto** de `media_id` da base de publicações (diferença simétrica zero, conferida pelo portão).
+
+| Coluna | Semântica |
+|---|---|
+| `periodo_fonte`, `data_publicacao`, `hora_publicacao` | herdados da base de publicações (já validados pelo shortcode) |
+| `shortcode`, `media_id` | chave de junção com a base de publicações |
+| `tipo_midia`, `vinculo`, `promovido` | herdados |
+| `legenda` | texto íntegro, como publicado (quebras de linha preservadas) |
+| `legenda_chars` | tamanho do texto |
+| `legenda_hashtags`, `legenda_mencoes` | extraídas do texto, separadas por `\|` |
+| `legenda_tem_link` | `sim` ou `nao` |
+| `coletado_em` | instante da coleta da legenda |
+| `fonte` | rota de origem (`/api/v1/media/<media_id>/info/`) |
+| `status_validacao` | estado de validação da linha |
+
+Limpeza aplicada ao texto antes de gravar: `strip` no todo e `rstrip` por linha (o painel renderiza com espaço colapsado; a API devolve o texto cru com espaço à solta) — mesmo nível de limpeza nos dois meses, para as bases serem comparáveis.
+
+A legenda **não duplica** coluna de métrica: o endpoint que a fornece devolve contadores que não conferem com o painel e por isso não são gravados aqui. Quem quiser o número usa a base de publicações.
 
 ### Contrato da base de stories
 
@@ -103,7 +127,10 @@ Separador `;`, UTF-8 sem BOM, CRLF, **30 colunas**, ordenação por `data_story`
 
 - `Instagram-Publicacoes-2026-09.csv` — **116 linhas**, setembro/2026 completo. Ver [[Base-Instagram-Setembro-2026]].
 - `Instagram-Stories-2026-09.csv` — **272 linhas**, stories de setembro/2026 (19 dias com story). Ver [[Stories-Instagram-Setembro-2026]].
-- `Instagram-Publicacoes-2026-08-09.csv` — 138 linhas = **48 de agosto + 4 de julho mal-rotulados + 86 de setembro parcial**. O bloco de setembro está **superado** pela base de setembro completa; o bloco de **agosto está incompleto e com 4 datas erradas** — o feed de agosto tem **62** publicações (faltam 14: oito próprias de 24 e 28/08 e seis de colaboração). Laudo: `Hermes/instagram-insights/auditorias/AUDITORIA-2026-08.md`; ver [[Qualidade-dos-Dados-de-Marketing]].
+- `Instagram-Publicacoes-2026-08.csv` — **62 linhas**, agosto/2026 completo: 48 do export MASTER (com as datas conferidas pelo shortcode) + 14 capturadas post a post no painel profissional. Ver [[Base-Instagram-Agosto-2026]].
+- `Instagram-Legendas-2026-09.csv` — **116 linhas**, a legenda de cada publicação de setembro. Ver [[Base-Instagram-Setembro-2026]].
+- `Instagram-Legendas-2026-08.csv` — **62 linhas**, a legenda de cada publicação de agosto (61 com texto; `DcCPbyLGzGd` não tem legenda por natureza). Conferência: `Hermes/instagram-insights/auditorias/CONFERENCIA-API-LEGENDA-2026-08.md`. Ver [[Base-Instagram-Agosto-2026]].
+- `Instagram-Publicacoes-2026-08-09.csv` — **arquivo antigo, mantido como registro**: 138 linhas = 48 de agosto reais + 4 de julho mal-rotulados + 86 de setembro parcial. O split está feito — agosto virou `Instagram-Publicacoes-2026-08.csv` (62) e o bloco de setembro já tinha canônica (`Instagram-Publicacoes-2026-09.csv`, 116, que contém as 86). Os 4 de 31/07 saíram em `Hermes/instagram-insights/auditorias/julho-2026-31-do-export-master.csv`. Laudo: `Hermes/instagram-insights/auditorias/AUDITORIA-2026-08.md`; ver [[Qualidade-dos-Dados-de-Marketing]].
 - `Instagram-Publicacoes-Export-Meta-2025-2026.csv` — 200 linhas do export histórico da Meta. Ver [[Diagnostico-Longitudinal-Instagram-2025-2026]].
 
 ## Regras
@@ -117,6 +144,10 @@ Separador `;`, UTF-8 sem BOM, CRLF, **30 colunas**, ordenação por `data_story`
 7. A base canônica é a **camada 1** da medição (post a post). Os totais do **painel da conta** (camada 2) ficam em captura própria e **nunca** entram nas colunas da base, nem são usados para ajustar o número de um post.
 
 8. O **card mensal do app** e a nossa base contam conjuntos **diferentes**: o card conta o que a ACIRV publicou (setembro/2026: **13 reels + 55 posts + 272 stories**) e a base conta o que passou pelo feed (**116 = 60 da conta + 56 de parceiros**). Comparar um com o outro só faz sentido depois de separar por autoria (`vinculo` + `parceiro_coautores`). Ver [[Prints-do-App-Mobile-Setembro-2026]].
+
+9. O **dia** da data publicada também vale pelo shortcode, nunca pelo rótulo da fonte: o portão confere **mês e dia** (`dia_errado`). Em agosto o rótulo errava o dia de `Db-7_-OOxRu` (dizia 26/08; o shortcode diz 13/08) — mesmo mês, então o check de mês não pegava.
+
+10. A **legenda** de toda publicação é campo obrigatório **de todo mês, por padrão** (regra de 02/10/2026): a base de legendas é `Instagram-Legendas-<AAAA-MM>.csv`, alimentada pelas legendas capturadas em `Hermes/instagram-insights/captura/`. O portão **reprova** quando falta legenda em alguma publicação do período ou quando a base de legendas não cobre o conjunto inteiro; cada mês é declarado em `registro_fontes()` com `exige={...}`. Post sem legenda **por natureza** (texto vazio no post, e o bruto do painel concordando) não é falha de captura e mora em `SEM_LEGENDA_POR_NATUREZA`, em `publicacoes_feed.py` — hoje só `DcCPbyLGzGd`. Para um mês novo não passar sem legenda, existe a trava `test_32`: *não existe base canônica de publicações sem base canônica de legendas*. Ou seja, o padrão não depende de ninguém lembrar. A legenda vem de `GET /api/v1/media/<media_id>/info/` (header `x-ig-app-id`) — e **só** a legenda: os mesmos `like_count`/`comment_count` divergem do painel (7 posts de colaboração devolvem o stub `3`), então métrica continua vindo do painel de insights.
 
 ## As duas camadas (post a post × painel da conta)
 

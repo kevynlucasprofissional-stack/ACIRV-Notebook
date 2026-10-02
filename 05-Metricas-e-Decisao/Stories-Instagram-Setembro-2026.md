@@ -32,6 +32,7 @@ notas_relacionadas:
 - '[[LEIA-ME-Instagram-Insights]]'
 - '[[Base-Instagram-Setembro-2026]]'
 - '[[Diagnostico-Instagram-Agosto-Setembro-2026]]'
+- '[[Metodo-Folhas-de-Contato-e-Leitura-em-Lote]]'
 confidencialidade: interno
 ---
 
