@@ -7,7 +7,7 @@ subtipo: guia_tecnico
 status: revisado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-10-02'
 ultima_revisao: '2026-10-02'
@@ -83,6 +83,24 @@ A variante `_raw` marca coluna que preserva o valor como veio da fonte, sem arre
 3. Base mensal fechada é imutável; correção entra como nova versão com `status_validacao` explícito.
 4. Toda linha aponta para a captura crua em `source_path`.
 5. Script e captura crua ficam na camada 3 (`Hermes/instagram-insights/`), nunca em `000-Arquivos-originais/`.
+6. A base canônica é a **camada 1** da medição (post a post). Os totais do **painel da conta** (camada 2) ficam em captura própria e **nunca** entram nas colunas da base, nem são usados para ajustar o número de um post.
+
+## As duas camadas (post a post × painel da conta)
+
+A página **Insights** da conta mede outra coisa, e o número dela não é a soma dos posts:
+
+| | Camada 1 — base canônica | Camada 2 — painel da conta |
+|---|---|---|
+| Fonte | `https://www.instagram.com/insights/media/<media_id>/` | `https://www.instagram.com/accounts/insights/?timeframe=30` |
+| Unidade | a publicação | a conta, na janela móvel |
+| Escopo | feed + reels do grid | Posts, Reels, **Stories**, Vídeos, split Instagram/Facebook |
+| Contagem | visualizações acumuladas pelo post até a coleta | visualizações **ocorridas** na janela, em todo conteúdo |
+
+Leitura verificada em 02/10/2026 (`timeframe=30`, janela ~03/09 a 02/10): painel **1.315.639** visualizações contra **497.290** somadas dos 116 posts de setembro. As causas, em ordem de peso: (1) janela móvel de 30 dias × período calendário; (2) Stories, Vídeos e Facebook fora do escopo dos posts; (3) o painel conta visualização por data em que ocorreu — conteúdo de meses anteriores conta, e uma coleta feita no meio do mês (a run 01–14/09 foi lida em 14/09) não tem as visualizações posteriores; (4) únicos por conteúdo não se somam.
+
+Onde as camadas conversam: **interações** (painel 17.779 × base 18.414, −3,5%), porque 92% delas vêm de feed+reels; e as **magnitudes por conteúdo** da lista ranqueada. Visualizações nunca fecham — e não devem ser forçadas a fechar.
+
+Lista ranqueada do painel (mesma origem, útil para conferência de magnitudes): `/accounts/insights/content/?media_type=all&metric=views&sort_by=highest&timeframe=30&view_type=card` — valores vêm abreviados (`99 mil`, `5,1 mil`) e `--` quando o painel não expõe o número.
 
 ## Relações justificadas
 

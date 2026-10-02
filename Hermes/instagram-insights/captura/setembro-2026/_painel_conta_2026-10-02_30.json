@@ -1,0 +1,79 @@
+{
+  "conta": "acirvoficial",
+  "coletado_em": "2026-10-02T15:32:00-03:00",
+  "fonte_url": "https://www.instagram.com/accounts/insights/?timeframe=30",
+  "timeframe_dias": 30,
+  "janela_estimada": ["2026-09-03", "2026-10-02"],
+  "nota_metodo": "Leitura do painel renderizado (innerText). A pagina so oferece janelas fixas (7/14/30/90 dias), entao a janela e sempre movel e nunca coincide com o periodo calendario de um mes. Valores abreviados na lista de destaque sao preservados como texto.",
+  "totais": {
+    "visualizacoes": 1315639,
+    "visualizacoes_instagram": 1313856,
+    "visualizacoes_facebook": 1783,
+    "visualizadores": 260569,
+    "interacoes": 17779,
+    "interacoes_seguidores_pct": 61.7,
+    "interacoes_nao_seguidores_pct": 38.3,
+    "contas_com_engajamento": 6588,
+    "atividade_do_perfil": 9090,
+    "visitas_ao_perfil": 8218,
+    "toques_em_links_externos": 872,
+    "total_seguidores": 11098
+  },
+  "visualizacoes_por_tipo_pct": {
+    "reels": 35.5,
+    "posts": 33.3,
+    "stories": 31.2,
+    "videos": 0.0
+  },
+  "interacoes_por_tipo_pct": {
+    "posts": 58.4,
+    "reels": 33.4,
+    "stories": 8.2
+  },
+  "horarios_mais_ativos_seguidores": {
+    "seg": 1476, "ter": 4348, "qua": 5093, "qui": 5025,
+    "sex": 5123, "sab": 5407, "dom": 3123, "outros": 543
+  },
+  "conteudo_destaque_visualizacoes": [
+    {"pos": 1, "valor_texto": "--", "tipo_icone": "reels"},
+    {"pos": 2, "valor_texto": "99 mil", "tipo_icone": "promover"},
+    {"pos": 3, "valor_texto": "49,9 mil", "tipo_icone": "reels"},
+    {"pos": 4, "valor_texto": "18,8 mil", "tipo_icone": "sem_icone"},
+    {"pos": 5, "valor_texto": "14,2 mil", "tipo_icone": "carrossel"},
+    {"pos": 6, "valor_texto": "13,7 mil", "tipo_icone": "reels"},
+    {"pos": 7, "valor_texto": "12,8 mil", "tipo_icone": "sem_icone"},
+    {"pos": 8, "valor_texto": "10,8 mil", "tipo_icone": "sem_icone"},
+    {"pos": 9, "valor_texto": "9,7 mil", "tipo_icone": "sem_icone"},
+    {"pos": 10, "valor_texto": "8,4 mil", "tipo_icone": "carrossel"},
+    {"pos": 11, "valor_texto": "7,5 mil", "tipo_icone": "sem_icone"},
+    {"pos": 12, "valor_texto": "--", "tipo_icone": "carrossel"},
+    {"pos": 13, "valor_texto": "6,3 mil", "tipo_icone": "sem_icone"},
+    {"pos": 14, "valor_texto": "6,2 mil", "tipo_icone": "carrossel"},
+    {"pos": 15, "valor_texto": "5,9 mil", "tipo_icone": "sem_icone"},
+    {"pos": 16, "valor_texto": "5,7 mil", "tipo_icone": "carrossel"},
+    {"pos": 17, "valor_texto": "5,6 mil", "tipo_icone": "sem_icone"},
+    {"pos": 18, "valor_texto": "--", "tipo_icone": "sem_icone"},
+    {"pos": 19, "valor_texto": "5,2 mil", "tipo_icone": "sem_icone"},
+    {"pos": 20, "valor_texto": "5,1 mil", "tipo_icone": "carrossel"}
+  ],
+  "conteudo_destaque_url": "https://www.instagram.com/accounts/insights/content/?media_type=all&metric=views&sort_by=highest&timeframe=30&view_type=card",
+  "conferencia_camada1_setembro_2026": {
+    "base": "85-Bases-e-Consultas/Instagram-Publicacoes-2026-09.csv",
+    "posts": 116,
+    "periodo": "2026-09-01..2026-09-30",
+    "visualizacoes": 497290,
+    "interacoes": 18414,
+    "visualizadores_soma_por_post": 226371,
+    "reels_visualizacoes": 275519,
+    "feed_visualizacoes": 221771,
+    "coletado_em_runs": {"2026-09-14": 445217, "2026-10-02": 52073},
+    "razao_painel_sobre_base_visualizacoes": 2.646,
+    "razao_painel_sobre_base_interacoes": 0.966
+  },
+  "limitacoes_observadas": [
+    "A lista de destaque abrevia (unidade 'mil') e mostra '--' quando o painel nao expoe o valor.",
+    "As quebras por tipo de conteudo vem apenas em percentual; o absoluto so sai por regra de tres (erro de ate 0,05 p.p. do total).",
+    "O split Instagram/Facebook e legitimo aqui (ao contrario do painel de post, onde o bloco final de Facebook deve ser truncado).",
+    "A pagina renderiza vazia no primeiro carregamento: reler apos ~3 s."
+  ]
+}

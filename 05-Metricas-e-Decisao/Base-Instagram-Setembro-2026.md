@@ -8,7 +8,7 @@ subtipo: base_derivada
 status: revisado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-10-02'
 ultima_revisao: '2026-10-02'
@@ -21,6 +21,7 @@ tags:
 - dominio/canais
 fontes_documentais:
 - '85-Bases-e-Consultas/Instagram-Publicacoes-2026-09.csv'
+- 'Hermes/instagram-insights/captura/setembro-2026/_painel_conta_2026-10-02_30.json'
 - '97-Fontes-Brutas/01-Indices/Fonte - Instagram Insights.md'
 - 'Hermes/instagram-insights/captura/setembro-2026/_setembro_2026_116.jsonl'
 notas_relacionadas:
@@ -92,6 +93,23 @@ Parceiros por visualizações somadas: `sarahdaotica` 115.839, `sudoexpo.oficial
 - Ausências recorrentes no rodapé do painel: `atividade_do_perfil` (56 linhas) e `novos_seguidores` (54). Ausência registrada, nunca convertida em zero.
 - Sem duplicidade de `media_id` e sem linha sem curtidas.
 
+## Conferência com o painel da conta (camada 2)
+
+Esta base é a **camada 1** (post a post). O painel **Insights** da conta mede outra coisa e não fecha com a soma dos posts — leitura de 02/10/2026 com `timeframe=30` (janela móvel ~03/09 a 02/10):
+
+| Métrica | Painel (30 dias) | Esta base (01–30/09) | Leitura |
+|---|---:|---:|---|
+| Visualizações | 1.315.639 | 497.290 | não comparável |
+| Visualizadores | 260.569 | 226.371 (soma por post) | não comparável |
+| Interações | 17.779 | 18.414 | **≈ igual (−3,5%)** |
+| Contas com engajamento | 6.588 | 15.762 (soma por post) | não comparável |
+
+Por que as visualizações divergem (2,6×), em ordem de peso: (1) o painel é janela móvel de 30 dias, não período calendário; (2) o escopo inclui **Stories** (31,2% das visualizações do painel), Vídeos e o split Instagram/Facebook (1.783); (3) o painel conta visualização pela **data em que ela ocorreu** — conteúdo de meses anteriores conta, e a run 01–14/09 foi lida em 14/09, antes das visualizações posteriores; (4) visualizadores e contas com engajamento são únicos por conteúdo no painel, enquanto aqui estão somados.
+
+Onde as camadas conversam: **interações** (92% vêm de feed + reels) e as **magnitudes por conteúdo** da lista ranqueada do painel (`99 mil`, `49,9 mil`, `18,8 mil`, `14,2 mil`… contra 115.839 / 53.845 / 16.473 / 14.153 desta base) — mesma ordem, valores próximos, nunca idênticos.
+
+Foto da camada 2: `Hermes/instagram-insights/captura/setembro-2026/_painel_conta_2026-10-02_30.json`.
+
 ## Superação
 
 O bloco de setembro (86 linhas, `periodo_fonte = 2026-09-01_a_2026-09-14`) que existe dentro de `Instagram-Publicacoes-2026-08-09.csv` fica **superado** por esta base: cobria só 01–14/09 e omitia o post de 09/09 da `keniasleite`. Para análise de setembro, usar `Instagram-Publicacoes-2026-09.csv`.
@@ -111,6 +129,7 @@ O bloco de setembro (86 linhas, `periodo_fonte = 2026-09-01_a_2026-09-14`) que e
 - Captura crua por post: `Hermes/instagram-insights/captura/setembro-2026/_raw*.jsonl` (apontada em `source_path` de cada linha).
 - Inventário do grid: `Hermes/instagram-insights/captura/setembro-2026/_grid_inventario2.json` (204 itens, 116 de setembro).
 - Índice de fonte: [[Fonte - Instagram Insights]].
+- Painel da conta (camada 2): `Hermes/instagram-insights/captura/setembro-2026/_painel_conta_2026-10-02_30.json`.
 
 ## Limitações e revisão
 

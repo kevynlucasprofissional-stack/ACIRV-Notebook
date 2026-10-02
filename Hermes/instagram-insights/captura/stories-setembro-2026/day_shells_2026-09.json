@@ -1,0 +1,131 @@
+{
+ "gerado_em": "2026-10-02T19:45:55.670Z",
+ "endpoint": "POST /api/v1/archive/reel/day_shells/  (via app)",
+ "total_dias_no_arquivo": 1567,
+ "mais_antigo": "2018-01-16T00:01:40.000Z",
+ "mais_recente": "2026-10-01T00:01:40.000Z",
+ "obs": "timestamp = inicio do dia do arquivo (00:01:40Z); id ja vem com o prefixo archiveDay:",
+ "buckets": [
+  {
+   "dia_utc": "2026-10-01",
+   "id": "archiveDay:17984639166096358",
+   "media_count": 1,
+   "latest_reel_media": 1790899203
+  },
+  {
+   "dia_utc": "2026-09-30",
+   "id": "archiveDay:18103460729197986",
+   "media_count": 1,
+   "latest_reel_media": 1790788173
+  },
+  {
+   "dia_utc": "2026-09-29",
+   "id": "archiveDay:17899116081602854",
+   "media_count": 10,
+   "latest_reel_media": 1790732124
+  },
+  {
+   "dia_utc": "2026-09-28",
+   "id": "archiveDay:17897210226399037",
+   "media_count": 1,
+   "latest_reel_media": 1790604097
+  },
+  {
+   "dia_utc": "2026-09-23",
+   "id": "archiveDay:18081326732352416",
+   "media_count": 2,
+   "latest_reel_media": 1790171320
+  },
+  {
+   "dia_utc": "2026-09-21",
+   "id": "archiveDay:18232780573322270",
+   "media_count": 1,
+   "latest_reel_media": 1790030351
+  },
+  {
+   "dia_utc": "2026-09-18",
+   "id": "archiveDay:18461008336189276",
+   "media_count": 5,
+   "latest_reel_media": 1789763070
+  },
+  {
+   "dia_utc": "2026-09-17",
+   "id": "archiveDay:18333799285262401",
+   "media_count": 1,
+   "latest_reel_media": 1789649184
+  },
+  {
+   "dia_utc": "2026-09-15",
+   "id": "archiveDay:17922614367204491",
+   "media_count": 3,
+   "latest_reel_media": 1789476807
+  },
+  {
+   "dia_utc": "2026-09-14",
+   "id": "archiveDay:18158218243445217",
+   "media_count": 2,
+   "latest_reel_media": 1789414696
+  },
+  {
+   "dia_utc": "2026-09-13",
+   "id": "archiveDay:17964163080187398",
+   "media_count": 41,
+   "latest_reel_media": 1789329267
+  },
+  {
+   "dia_utc": "2026-09-12",
+   "id": "archiveDay:17911430514494912",
+   "media_count": 76,
+   "latest_reel_media": 1789263390
+  },
+  {
+   "dia_utc": "2026-09-11",
+   "id": "archiveDay:18123831635486148",
+   "media_count": 72,
+   "latest_reel_media": 1789169053
+  },
+  {
+   "dia_utc": "2026-09-10",
+   "id": "archiveDay:18354199363247822",
+   "media_count": 7,
+   "latest_reel_media": 1789084706
+  },
+  {
+   "dia_utc": "2026-09-09",
+   "id": "archiveDay:18176161105429679",
+   "media_count": 26,
+   "latest_reel_media": 1788997466
+  },
+  {
+   "dia_utc": "2026-09-08",
+   "id": "archiveDay:18105937202235092",
+   "media_count": 15,
+   "latest_reel_media": 1788904328
+  },
+  {
+   "dia_utc": "2026-09-07",
+   "id": "archiveDay:18185391229364988",
+   "media_count": 1,
+   "latest_reel_media": 1788787007
+  },
+  {
+   "dia_utc": "2026-09-05",
+   "id": "archiveDay:18128627494662319",
+   "media_count": 2,
+   "latest_reel_media": 1788618508
+  },
+  {
+   "dia_utc": "2026-09-03",
+   "id": "archiveDay:17975383124918359",
+   "media_count": 3,
+   "latest_reel_media": 1788458884
+  },
+  {
+   "dia_utc": "2026-09-01",
+   "id": "archiveDay:2159257767957412",
+   "media_count": 3,
+   "latest_reel_media": 1788290135
+  }
+ ],
+ "soma_media_count": 273
+}

@@ -1,0 +1,241 @@
+{
+ "gerado_em": "2026-10-02T19:57:54+00:00",
+ "periodo": "2026-09",
+ "dir": "C:\\Users\\Kevyn Lucas\\AppData\\Local\\hermes\\cache\\scratch\\stories\\run-2026-09",
+ "offset_segundos": -10800,
+ "veredito": "COMPLETO",
+ "fontes": {
+  "day_shells": {
+   "arquivo": "day_shells_2026-09.json",
+   "sha256": "02b28dab43b364b92b173cc3156292ad3d80a45414afe8899f0ed1f56e27d2e2",
+   "bytes": 3055
+  },
+  "midias": {
+   "arquivo": "midias_2026-09.json",
+   "sha256": "f6da0204b37bdbea6e120fe58150f5cd4a3eff2c3fbba593d6e79c6e03f7e2db",
+   "bytes": 435785
+  },
+  "insights": {
+   "arquivo": "insights_2026-09.json",
+   "sha256": "a8a8efc64c655065561a314e777a4c9d2217bc6d899fd1a9f50bc37b69be0578",
+   "bytes": 646660
+  }
+ },
+ "totais": {
+  "dias_no_periodo": 19,
+  "esperado_day_shells": 272,
+  "midias_inventario": 272,
+  "midias_fora_do_periodo": 1,
+  "insights_capturados": 273,
+  "insights_do_periodo": 272,
+  "insights_faltantes": 0,
+  "midias_data_local_no_periodo": 272
+ },
+ "por_dia": [
+  {
+   "dia": "2026-09-01",
+   "esperado": 3,
+   "midias": 3,
+   "insights": 3,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-03",
+   "esperado": 3,
+   "midias": 3,
+   "insights": 3,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-05",
+   "esperado": 2,
+   "midias": 2,
+   "insights": 2,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-07",
+   "esperado": 1,
+   "midias": 1,
+   "insights": 1,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-08",
+   "esperado": 15,
+   "midias": 15,
+   "insights": 15,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-09",
+   "esperado": 26,
+   "midias": 26,
+   "insights": 26,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-10",
+   "esperado": 7,
+   "midias": 7,
+   "insights": 7,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-11",
+   "esperado": 72,
+   "midias": 72,
+   "insights": 72,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-12",
+   "esperado": 76,
+   "midias": 76,
+   "insights": 76,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-13",
+   "esperado": 41,
+   "midias": 41,
+   "insights": 41,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-14",
+   "esperado": 2,
+   "midias": 2,
+   "insights": 2,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-15",
+   "esperado": 3,
+   "midias": 3,
+   "insights": 3,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-17",
+   "esperado": 1,
+   "midias": 1,
+   "insights": 1,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-18",
+   "esperado": 5,
+   "midias": 5,
+   "insights": 5,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-21",
+   "esperado": 1,
+   "midias": 1,
+   "insights": 1,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-23",
+   "esperado": 2,
+   "midias": 2,
+   "insights": 2,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-28",
+   "esperado": 1,
+   "midias": 1,
+   "insights": 1,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-29",
+   "esperado": 10,
+   "midias": 10,
+   "insights": 10,
+   "ok": true
+  },
+  {
+   "dia": "2026-09-30",
+   "esperado": 1,
+   "midias": 1,
+   "insights": 1,
+   "ok": true
+  }
+ ],
+ "por_dia_local": {
+  "2026-09-01": 3,
+  "2026-09-03": 3,
+  "2026-09-05": 2,
+  "2026-09-07": 1,
+  "2026-09-08": 15,
+  "2026-09-09": 26,
+  "2026-09-10": 7,
+  "2026-09-11": 72,
+  "2026-09-12": 76,
+  "2026-09-13": 41,
+  "2026-09-14": 2,
+  "2026-09-15": 3,
+  "2026-09-17": 1,
+  "2026-09-18": 5,
+  "2026-09-21": 1,
+  "2026-09-23": 2,
+  "2026-09-28": 1,
+  "2026-09-29": 10,
+  "2026-09-30": 1
+ },
+ "checks": [
+  {
+   "check": "ESPERATIVA_POR_DIA",
+   "ok": true,
+   "detalhe": "todo dia do mes com media_count == midias extraidas",
+   "fatal": true
+  },
+  {
+   "check": "SEM_BURACO",
+   "ok": true,
+   "detalhe": "esperado 272, inventario tem 272",
+   "fatal": true
+  },
+  {
+   "check": "SEM_DUPLICATA",
+   "ok": true,
+   "detalhe": "272 entradas, 272 ids unicos",
+   "fatal": true
+  },
+  {
+   "check": "MIDIA_UTILIZAVEL",
+   "ok": true,
+   "detalhe": "0 sem pk/taken_at/url",
+   "fatal": true
+  },
+  {
+   "check": "INSIGHTS_EXATOS",
+   "ok": true,
+   "detalhe": "faltam 0, sobram 0",
+   "fatal": true
+  },
+  {
+   "check": "INSIGHTS_COM_CONTEUDO",
+   "ok": true,
+   "detalhe": "0 registros sem metrica",
+   "fatal": true
+  },
+  {
+   "check": "MEDIA_ID_COERENTE",
+   "ok": true,
+   "detalhe": "0 divergencias",
+   "fatal": true
+  },
+  {
+   "check": "BORDA_DE_MES",
+   "ok": true,
+   "detalhe": "buckets vizinhos: anterior=[] seguinte=['2026-10-01'] | midias fora do periodo capturadas de proposito: 1 | midias com data local fora do periodo: nenhuma",
+   "fatal": false
+  }
+ ],
+ "faltantes": []
+}
