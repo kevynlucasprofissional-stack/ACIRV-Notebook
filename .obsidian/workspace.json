@@ -132,6 +132,20 @@
               "icon": "lucide-file",
               "title": "Relatório de setembro"
             }
+          },
+          {
+            "id": "ed27eb7105a53678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mais alguns prompts voltados a engenharia de software"
+            }
           }
         ],
         "currentTab": 8
@@ -300,24 +314,35 @@
   },
   "active": "dd1183130566269f",
   "lastOpenFiles": [
+    "000-Arquivos-originais/DADOS ACIRV/RELATÓRIO ACIRV - SETEMBRO_2026.pptx",
+    "000-Arquivos-originais/DADOS ACIRV/Não confirmado 812084.crdownload",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/simonemaniratauil_1786482812746414/audio/1161958979463669.mp4",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/rodrigotonet_1221880342540000/photos/3725092644452804",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/rioverdeagora_1927555661972461/videos/1138590474958134.mp4",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/redeconquistasupermercados_602177011180725/audio/807749644914171.mp4",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/redeconquistasupermercados_602177011180725/audio/785441177269448.mp4",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/redeconquistasupermercados_602177011180725/audio/2859451387599228.mp4",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/raquelcardosoborges_1701542767907086/photos/2091270038060388.jpg",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/pedropaullofuturaimoveis_491492568912118/videos/2212675425847599.mp4",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/patinhasonlinerioverdego_876503642954031/photos/687505883979944.jpg",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/lucasbarrosoleosessenciais_1847646209963407/photos/1585875729229739.jpg",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/lojakaranda_1959838948744132/photos/2197155757768322.png",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/gustavolacerda_311060573968974/photos/2024645344813430.jpg",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/gustavolacerda_311060573968974/photos/1434602498348967.jpg",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/gabrielabullsports_1860345908693437/photos/1452424486307889.webp",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/2165970127235592.jpg",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/1485631675862091.jpg",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/1416398066119656.jpg",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/edneyarakaki_865056114361451/audio/785915303892671.mp4",
+    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/andersonlima_1745098390218190/audio/1973182823451810.mp4",
+    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+    "000-Arquivos-originais/Relatório de setembro.md",
+    "000-Arquivos-originais/Relatório de Agosto.md",
     "Hermes/instagram-insights/auditorias/CONFERENCIA-API-LEGENDA-2026-08.md",
-    "85-Bases-e-Consultas/Instagram-Legendas-2026-08.xlsx",
-    "85-Bases-e-Consultas/Instagram-Legendas-2026-08.csv",
-    "Hermes/instagram-insights/captura/agosto-2026-legendas/_legendas_2026-08.json",
-    "Hermes/instagram-insights/captura/agosto-2026-legendas",
     "02-Operacao-e-Processos/Metodo-Folhas-de-Contato-e-Leitura-em-Lote.md",
     "Hermes/instagram-insights/auditorias/CONFERENCIA-API-LEGENDA-2026-09.md",
-    "85-Bases-e-Consultas/Instagram-Legendas-2026-09.xlsx",
-    "85-Bases-e-Consultas/Instagram-Legendas-2026-09.csv",
-    "Hermes/instagram-insights/captura/setembro-2026/_legendas_2026-09.json",
-    "000-Arquivos-originais/Relatório de Agosto.md",
     "05-Metricas-e-Decisao/Base-Instagram-Agosto-2026.md",
-    "85-Bases-e-Consultas/Instagram-Publicacoes-2026-08.xlsx",
-    "000-Arquivos-originais/Relatório de setembro.md",
-    "Hermes/instagram-insights/auditorias/julho-2026-31-do-export-master.csv",
-    "85-Bases-e-Consultas/Instagram-Publicacoes-2026-08.csv",
     "05-Metricas-e-Decisao/Prints-do-App-Mobile-Setembro-2026.md",
-    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
     "000-Arquivos-originais/Dados de setembro segundo prints do painel profissional do Instagram mobile, ou seja, prints vindas do app do celular.md",
     "000-Arquivos-originais/220926 Alterações no catálogo.md",
     "Hermes/instagram-insights/captura/stories-setembro-2026/VERIFICACAO-2026-09.md",
@@ -335,17 +360,6 @@
     "000-Arquivos-originais/Pesquisa gamificada/Nuvem de palavras Open Source.md",
     "ChatGPT/Ingestao-Agendada.md",
     "000-Arquivos-originais/Sem título.canvas",
-    "08-Agenda-e-Execucao/Reconciliacao-Backlog-SCRUM.md",
-    "01-Estrategia-e-Marca/Design-System-ACIRV.md",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/raquelcardosoborges_1701542767907086/photos/2091270038060388.jpg",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/8917750451646207.png",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/8126765880759650.png",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/7896491403752078.png",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/28909078858691589.png",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/posts/media/your_posts/27364909699766555.png",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/message_requests/leandrovieira_1670796460981717/photos/1870657637031962.jpg",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/patinhasonlinerioverdego_876503642954031/photos/687505883979944.jpg",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/lucasbarrosoleosessenciais_1847646209963407/photos/1585875729229739.jpg",
-    "000-Arquivos-originais/DADOS ACIRV - HD EXTERNO/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/lojakaranda_1959838948744132/photos/2197155757768322.png"
+    "08-Agenda-e-Execucao/Reconciliacao-Backlog-SCRUM.md"
   ]
 }

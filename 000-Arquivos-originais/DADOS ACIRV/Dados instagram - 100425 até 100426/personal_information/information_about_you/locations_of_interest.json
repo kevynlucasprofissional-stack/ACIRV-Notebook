@@ -1,0 +1,50 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Localiza\u00c3\u00a7\u00c3\u00b5es de interesse",
+      "vec": [
+        {
+          "value": "Montividiu, Goi\u00c3\u00a1s"
+        },
+        {
+          "value": "Santa Helena de Goi\u00c3\u00a1s, Goi\u00c3\u00a1s"
+        },
+        {
+          "value": "Goi\u00c3\u00a2nia, Goi\u00c3\u00a1s"
+        },
+        {
+          "value": "Mauril\u00c3\u00a2ndia, Goi\u00c3\u00a1s"
+        },
+        {
+          "value": "S\u00c3\u00a3o Paulo, S\u00c3\u00a3o Paulo (state)"
+        },
+        {
+          "value": "Bras\u00c3\u00adlia, Federal District"
+        },
+        {
+          "value": "Rio Verde, Goi\u00c3\u00a1s"
+        },
+        {
+          "value": "Goi\u00c3\u00a1s"
+        },
+        {
+          "value": "S\u00c3\u00a3o Paulo (state)"
+        },
+        {
+          "value": "Mato Grosso"
+        },
+        {
+          "value": "Federal District"
+        }
+      ]
+    },
+    {
+      "label": "Explica\u00c3\u00a7\u00c3\u00a3o de uso",
+      "value": "As localiza\u00c3\u00a7\u00c3\u00b5es de interesse s\u00c3\u00a3o usadas \u00e2\u0080\u008b\u00e2\u0080\u008bpara personalizar sua experi\u00c3\u00aancia no Instagram e mostrar an\u00c3\u00bancios mais relevantes para voc\u00c3\u00aa. Saiba mais sobre como o Instagram usa a localiza\u00c3\u00a7\u00c3\u00a3o na Central de Privacidade."
+    }
+  ],
+  "fbid": "17841406235053461"
+}

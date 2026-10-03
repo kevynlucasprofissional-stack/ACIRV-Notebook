@@ -1,0 +1,42 @@
+{
+  "account_history_registration_info": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Nome de usu\u00c3\u00a1rio": {
+          "href": "",
+          "value": "Acirv",
+          "timestamp": 0
+        },
+        "Endere\u00c3\u00a7o de IP": {
+          "href": "",
+          "value": "177.158.12.64",
+          "timestamp": 0
+        },
+        "Hora": {
+          "href": "",
+          "value": "",
+          "timestamp": 1505162325
+        },
+        "Email": {
+          "href": "",
+          "value": "comunicacao@acirv.com.br",
+          "timestamp": 0
+        },
+        "Telefone": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Dispositivo": {
+          "href": "",
+          "value": "j1minive3g",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

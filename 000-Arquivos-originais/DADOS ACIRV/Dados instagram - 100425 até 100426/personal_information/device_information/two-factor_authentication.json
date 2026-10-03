@@ -1,0 +1,14 @@
+{
+  "devices_two_factor_authentication": [
+    {
+      "string_map_data": {
+        "Apelido": {
+          "value": "Dispositivo original"
+        },
+        "Identifica\u00c3\u00a7\u00c3\u00a3o do dispositivo": {
+          "value": "android-068426eecdb97be7"
+        }
+      }
+    }
+  ]
+}
