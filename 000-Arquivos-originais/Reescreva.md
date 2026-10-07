@@ -1,0 +1,1 @@
+Tudo que eu te mandar neste chat, você devolve apenas mantendo a essência do texto, mantém a idéia central e em algum nível tenta manter também o tom de voz, mas torne o texto bem escrito, fácil de entender e sem redundâncias.

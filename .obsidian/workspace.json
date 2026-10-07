@@ -146,9 +146,65 @@
               "icon": "lucide-file",
               "title": "Mais alguns prompts voltados a engenharia de software"
             }
+          },
+          {
+            "id": "720d1076fd3ac51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/NOVA PESQUISA IA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NOVA PESQUISA IA"
+            }
+          },
+          {
+            "id": "763ed337d495e262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/05.10.26 - Notas reunião de apresentação de métricas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.10.26 - Notas reunião de apresentação de métricas"
+            }
+          },
+          {
+            "id": "b417469c9b00e4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/Reescreva.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reescreva"
+            }
+          },
+          {
+            "id": "030ef1b528ab0fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-Arquivos-originais/PESQUISA GERAL DA ACIRV V2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PESQUISA GERAL DA ACIRV V2"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -285,7 +341,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Arquivos-originais/Relatório de setembro.md",
+                "file": "000-Arquivos-originais/PESQUISA GERAL DA ACIRV V2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -312,8 +368,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "dd1183130566269f",
+  "active": "030ef1b528ab0fe4",
   "lastOpenFiles": [
+    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
+    "000-Arquivos-originais/PESQUISA GERAL DA ACIRV V2.md",
+    "000-Arquivos-originais/Pasted image 20261007111239.png",
+    "000-Arquivos-originais/Reescreva.md",
+    "000-Arquivos-originais/05.10.26 - Notas reunião de apresentação de métricas.md",
+    "000-Arquivos-originais/NOVA PESQUISA IA.md",
+    "000-Arquivos-originais/Relatório de setembro.md",
     "000-Arquivos-originais/Audio/Sobre a reunião de segunda.m4a",
     "000-Arquivos-originais/Audio/Relatório SudoExpo pt1.md",
     "000-Arquivos-originais/Audio/Relatório SudoExpo pt1.m4a",
@@ -330,7 +393,6 @@
     "000-Arquivos-originais/Nova pasta",
     "000-Arquivos-originais/DADOS ACIRV/RELATÓRIO ACIRV - SETEMBRO_2026.pptx",
     "000-Arquivos-originais/DADOS ACIRV/Não confirmado 812084.crdownload",
-    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/simonemaniratauil_1786482812746414/audio/1161958979463669.mp4",
     "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/raquelcardosoborges_1701542767907086/photos/2091270038060388.jpg",
     "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/patinhasonlinerioverdego_876503642954031/photos/687505883979944.jpg",
     "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/lucasbarrosoleosessenciais_1847646209963407/photos/1585875729229739.jpg",
@@ -340,9 +402,6 @@
     "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/gabrielabullsports_1860345908693437/photos/1452424486307889.webp",
     "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/2165970127235592.jpg",
     "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/1485631675862091.jpg",
-    "000-Arquivos-originais/DADOS ACIRV/Dados instagram - 100425 até 100426/your_instagram_activity/messages/inbox/ferraregestaofinanceira_1757219492339413/photos/1416398066119656.jpg",
-    "000-Arquivos-originais/Mais alguns prompts voltados a engenharia de software.md",
-    "000-Arquivos-originais/Relatório de setembro.md",
     "000-Arquivos-originais/Relatório de Agosto.md",
     "Hermes/instagram-insights/auditorias/CONFERENCIA-API-LEGENDA-2026-08.md",
     "02-Operacao-e-Processos/Metodo-Folhas-de-Contato-e-Leitura-em-Lote.md",
@@ -356,10 +415,6 @@
     "05-Metricas-e-Decisao/Base-Instagram-Setembro-2026.md",
     "85-Bases-e-Consultas/LEIA-ME-Instagram-Insights.md",
     "97-Fontes-Brutas/01-Indices/Fonte - Instagram Insights.md",
-    "Hermes/instagram-insights/README.md",
-    "000-Arquivos-originais/Logos 3D.md",
-    "000-Arquivos-originais/0926 Melhorias Hermes.md",
-    "000-Arquivos-originais/Pesquisas ACIRV e outros.md",
     "000-Arquivos-originais/Sem título.canvas"
   ]
 }
