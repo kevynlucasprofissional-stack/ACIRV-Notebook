@@ -10,10 +10,10 @@ subtipo: manual
 status: ativo
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.0'
+versao_conteudo: '1.1'
 idioma: pt-BR
 data_criacao: '2026-10-07'
-ultima_revisao: '2026-10-07'
+ultima_revisao: '2026-10-08'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -112,7 +112,7 @@ Módulos temáticos opcionais ou finais
 Fim
 ```
 
-O formulário pode ter dezenas de seções internas. Isso não significa que o respondente verá dezenas de seções.
+O formulário pode ter dezenas de seções internas. Isso não significa que o respondente verá dezenas de seções. A contagem de itens cadastrados não equivale à quantidade de perguntas respondidas.
 
 O objetivo é que:
 
@@ -144,7 +144,7 @@ Opções:
 3. já usei, mas parei;
 4. nunca usei.
 
-Cada resposta deve levar a uma pergunta diferente:
+Cada resposta **pode** levar a uma pergunta diferente quando o conteúdo da etapa seguinte realmente muda:
 
 - **uso frequente** → “Em qual tipo de atividade você mais usa?”
 - **uso ocasional** → “O que mais impede você de usar mais?”
@@ -180,7 +180,7 @@ Essas variáveis geralmente servem para **segmentar a análise**, não para muda
 
 ## 4. Regra de até quatro opções
 
-Como padrão operacional da ACIRV, perguntas de escolha devem buscar **no máximo quatro alternativas principais**.
+Como padrão operacional da ACIRV, perguntas de escolha devem buscar **no máximo quatro alternativas no total**, inclusive “Outra” ou “Não se aplica” quando necessárias. Não é obrigatório preencher as quatro vagas.
 
 A regra não é estética. Ela reduz:
 
@@ -905,6 +905,189 @@ O padrão desejado para a ACIRV é:
 
 ---
 
+## 28. Aprendizado de outubro de 2026 — pesquisa adaptativa sobre IA
+
+Esta seção registra a experiência concreta de planejar, construir, revisar e testar estruturalmente a pesquisa **“Como você usa Inteligência Artificial hoje?”**. Complementa as regras gerais deste manual sem substituir as lições anteriores sobre imagem espontânea, relacionamento institucional, priming e perfil do respondente.
+
+### Instrumentos comparados
+
+Foram consultados os formulários “Como você usa Inteligência Artificial — e o que ainda gostaria de conseguir fazer com ela?”, “IA na prática: queremos entender como você usa e o que precisa”, “Queremos entender melhor sua relação com a ACIRV” e a referência “Avaliação rápida — Aula de IA, ChatGPT, GitHub e Trello”.
+
+A pesquisa geral de IA tinha 31 perguntas e listas que, em alguns itens, ultrapassavam 20 alternativas. A amplitude temática era valiosa, mas “atividades que realiza”, “problemas que quer resolver”, “temas de interesse”, “o que deseja aprender” e “iniciativas desejadas” frequentemente aproximavam-se do mesmo construto. A nova arquitetura reorganizou essas dimensões no encadeamento:
+
+**estágio de uso → finalidade principal → ferramenta/contexto → atividade concreta → barreira (ou ausência dela) → próximo passo desejado → encerramento.**
+
+### O que os dados realmente sustentam
+
+Na consulta à pesquisa geral de IA, estavam disponíveis **16 respostas**. Nas perguntas multirresposta, observaram-se 13 marcações para pesquisar informações, 12 para escrever/revisar textos, 11 para criar imagens, 10 para analisar dados e 9 para criar conteúdo para redes sociais. Entre interesses, vendas/prospecção, gestão empresarial e automação de tarefas receberam 10 marcações cada; agentes de IA, 9.
+
+Esses valores são **marcações de uma amostra pequena e possivelmente selecionada**, e não prevalências populacionais. As mesmas pessoas podem marcar vários itens; não se devem somar as categorias como se fossem indivíduos distintos. Os dados foram úteis **como revisão do instrumento**, especialmente para revelar a subcobertura de vendas, atendimento, gestão e operação na primeira taxonomia. Não permitem inferir as preferências de todos os empresários de Rio Verde.
+
+Respostas abertas reforçaram a necessidade de contemplar atendimento automatizado, mensagens, relatórios, planilhas, prospecção, organização de processos, agentes e criação de sistemas. Trata-se de evidência qualitativa de **possibilidades a cobrir**, não de prova de sua distribuição no público.
+
+---
+
+## 29. Taxonomia: primeiro a finalidade, depois o formato e a ferramenta
+
+### Problema da primeira versão
+
+A categorização inicial separava: (1) texto/pesquisa/documentos; (2) imagens/design/vídeo; (3) dados/análise/decisão; (4) automação/sites/programação.
+
+Essa divisão misturava **formato de saída**, **atividade**, **finalidade de negócio** e **meio técnico**. Criar vídeo para captar clientes poderia caber em imagem/vídeo ou marketing; automatizar atendimento caberia em atendimento ou automação. O resultado é uma escolha ambígua.
+
+### Taxonomia adotada por finalidade predominante
+
+| Trilha | Pergunta que responde | Desdobramentos concretos |
+| --- | --- | --- |
+| **Criação e comunicação** | O que a IA me ajuda a produzir para comunicar? | textos/documentos/apresentações; imagens/design; vídeos; redes sociais/marketing |
+| **Pesquisa e análise** | O que a IA me ajuda a compreender ou decidir? | pesquisa/comparação; planilhas/números; aprendizado/conhecimento; cenários/decisão |
+| **Vendas e operação** | Em que atividade comercial ou rotina a IA me ajuda? | atendimento; vendas/prospecção/leads; gestão/metas; organização operacional |
+| **Automação e construção** | Que processo ou solução eu automatizo ou construo? | tarefas repetitivas; agentes/integrações; sites/sistemas; programação |
+
+Essa taxonomia é **distinta por objetivo principal**, não mutuamente exclusiva na vida real. Uma tarefa pode envolver várias finalidades. O enunciado precisa pedir **o uso principal ou mais frequente**, e não sugerir que o respondente usa IA apenas em uma área. Para medir todos os usos, não basta a resposta única utilizada como roteador; planejar levantamento complementar multirresposta quando a decisão exigir essa informação.
+
+### Testes de fronteira obrigatórios
+
+Antes de aprovar a taxonomia, simular exemplos difíceis: vídeo de marketing, atendimento automatizado, textos comerciais, relatório de vendas baseado em planilhas, estudo com chatbot, agente que cria sites. Verificar se é possível escolher o **objetivo predominante** sem perder o sentido da atividade. Se essa distinção for central à decisão, coletar também o uso secundário ou dados qualitativos.
+
+### Por que não classificar primeiro pela ferramenta?
+
+ChatGPT, Gemini, Claude ou Copilot podem servir para inúmeras finalidades. O nome da ferramenta não revela, sozinho, o que a pessoa faz, seu resultado ou sua necessidade. A sequência é **finalidade → ferramenta/contexto → atividade**. Não perguntar ferramentas como se fossem aplicações.
+
+---
+
+## 30. Quatro alternativas: limite útil, mas não dogma cego
+
+### Nova interpretação operacional
+
+“Até quatro” significa **quatro alternativas totais exibidas**, não quatro alternativas substantivas mais “Outra”. Nem toda pergunta precisa ter quatro opções. Uma questão com três respostas corretas e distintas é melhor do que inventar uma quarta apenas para preencher espaço.
+
+O limite não garante boa taxonomia. Perguntas com quatro opções podem permanecer inválidas quando misturam níveis de abstração, ocultam casos legítimos, obrigam falsa escolha ou usam rótulos extensos demais.
+
+### Duas falhas descobertas
+
+1. **Mistura entre marcas e famílias:** alternativas como “ChatGPT”, “Gemini”, “Claude” e “Canva ou outra ferramenta visual” são úteis para triagem, mas não constituem uma medição homogênea de participação de mercado. Da mesma forma, “Copilot ou IA integrada a planilhas/BI” combina produto com classe. Não interpretar tais grupos como ranking de fornecedores.
+2. **Ausência de saída honesta:** ao selecionar exatamente quatro ferramentas, a pesquisa pode deixar sem resposta quem usa Perplexity, Grok, um modelo local ou outras soluções. Obrigar o usuário a marcar uma ferramenta que não utiliza introduz viés. Para mensurar ferramentas especificamente, preferir **três categorias prioritárias + “Outra (qual?)”**, ou uma pergunta em duas etapas (classe → ferramenta) com campo opcional de especificação. Quando necessário, “Não sei” ou “Não se aplica” também consomem uma das quatro vagas.
+
+A escolha das marcas precisa ser periodicamente revisada. O que funciona em uma amostra de outubro de 2026 não deve ser perpetuado como lista definitiva de ferramentas mais utilizadas.
+
+### Teste editorial de cada conjunto de opções
+
+- Todas medem o **mesmo eixo** (finalidade, frequência, motivo, ferramenta ou formato)?
+- Há sinônimos, subcategorias sobrepostas ou uma alternativa vaga que absorve as demais?
+- Qual caso importante ficou de fora? Um respondente real consegue escolher sem mentir?
+- São comparáveis as unidades que se pretende contar depois?
+- A quarta alternativa melhora a precisão ou está ali apenas para atingir quatro?
+- Se alguém escolher qualquer uma delas, a próxima pergunta precisa realmente mudar?
+
+---
+
+## 31. Personalização por valor informacional, não por multiplicação de páginas
+
+O novo desenho separa dois grandes perfis:
+
+**Trilha A — não usa ou usa muito pouco:** pergunta a barreira inicial; em seguida, o aprofundamento é diferente para quem não sabe começar, não vê aplicação, não dispõe de tempo ou não tem interesse. Uma recusa de continuidade deve oferecer saída direta, sem impor contato.
+
+**Trilha B — já usa:** pergunta qual das quatro finalidades domina seu uso; a pessoa vê apenas a seção relacionada, indicando ferramenta/contexto e atividade concreta. Depois escolhe o maior obstáculo e recebe um aprofundamento adequado: transformar experimentos em processo, escolher/conectar ferramentas, avançar com pouco tempo ou desenvolver usos mais sofisticados.
+
+**Convergência:** todas as trilhas pertinentes reencontram um bloco final com **uma pergunta aberta opcional** sobre tarefa/problema concreto, interesse em iniciativas da ACIRV e, apenas para “Sim” ou “Talvez”, um **campo de contato opcional**.
+
+### Regra derivada da implementação
+
+As quatro alternativas de uma pergunta **não precisam** levar a quatro seções diferentes. Se “ChatGPT” e “Gemini” exigem a mesma próxima pergunta sobre o tipo de atividade, **convergir para a mesma seção** é correto. Repetir páginas idênticas é uma falsa personalização, aumenta risco de inconsistência e dificulta manutenção.
+
+Criar trilhas distintas apenas quando a resposta altera significado, opções plausíveis, linguagem, elegibilidade ou decisão posterior.
+
+### Não forçar o respondente a declarar uma dificuldade
+
+A versão inicial da pergunta sobre obstáculos não oferecia uma resposta válida para alguém sem barreira relevante. A revisão criou **“Não tenho uma dificuldade relevante; quero avançar para usos mais sofisticados”**, com aprofundamento em agentes, integrações, sistemas e uso de IA para dados/gestão/decisão.
+
+É um princípio geral: questionários não devem **pressupor a existência do problema que procuram medir**. Dar saída neutra evita respostas inventadas para continuar.
+
+### Quantidade de itens versus carga real
+
+O Google Forms revisado continha **45 itens internos**, incluindo títulos de seção; isso não significa 45 perguntas respondidas. Os percursos previstos variavam, conforme o perfil e a decisão de contato, de cerca de **3 a 9 respostas**. Essa faixa é **contagem do caminho desenhado**, não tempo real medido de preenchimento. Somente piloto com pessoas permite afirmar duração, facilidade e taxa de conclusão.
+
+---
+
+## 32. Engenharia do branching no Google Forms
+
+### Ordem recomendada de implementação
+
+1. Definir, fora do Forms, o grafo com **seção inicial, decisão, destinos, convergência, contato e envio**.
+2. Criar as seções de destino e registrar seus **IDs reais**.
+3. Inserir cada pergunta na seção correspondente e configurar navegação por resposta nos tipos compatíveis, sobretudo múltipla escolha e lista suspensa. Não presumir branching individual por opção de checkbox.
+4. Apontar os saltos para os IDs das seções, **não seus títulos**.
+5. Preservar os IDs de perguntas/itens quando editar conteúdo existente e verificar índices se houver inserções ou movimentos.
+6. Conferir os caminhos de **saída imediata**, **convergência comum** e **contato facultativo**.
+7. Reler o formulário depois de cada operação importante. Uma chamada composta pode falhar **após criar o formulário vazio**; existência do arquivo não comprova que ele contenha as perguntas.
+8. Fazer teste funcional no link de resposta, inclusive em dispositivo móvel. Validar a lógica pelo percurso que o respondente vê, não apenas pela estrutura da API.
+
+### Duas camadas de Quality Gate
+
+**Validação estática:** número de opções (máximo quatro), todos os destinos existentes, perguntas obrigatórias apropriadas, fim alcançável, seções sem IDs quebrados e contato não obrigatório.
+
+**Validação comportamental:** testar cada alternativa de cada pergunta roteadora, verificar saltos na navegação, ausência de passagem acidental para a seção vizinha, inexistência de laços e envio bem-sucedido. **Ter todos os IDs de destino válidos não prova que os caminhos funcionem**: saltos semanticamente errados e avanços automáticos ainda podem ocorrer.
+
+### Matriz mínima de perfis simulados
+
+| Perfil | O que precisa acontecer |
+| --- | --- |
+| Não usa IA e não sabe começar | Pergunta de ajuda inicial; não deve ver ferramentas de quem já usa |
+| Não usa IA e não quer receber conteúdo | Encerrar sem obrigar contato ou problema aberto |
+| Criação/comunicação | Ferramenta e atividade de criação; não cair em vendas ou dados |
+| Pesquisa/análise | Ferramenta e atividade de análise/aprendizado |
+| Vendas/operação | Atendimento, prospecção, gestão ou rotina |
+| Automação/construção | Agentes, integração, aplicativos, processos ou código |
+| Usuário experiente sem barreira | Resposta “sem dificuldade” → interesse avançado |
+| Responde “Sim/Talvez” para receber notícias | Exibir contato opcional |
+| Responde “Não” para receber notícias | Ir diretamente ao envio |
+
+Cobrir cada alternativa de ramificação, não somente um exemplo por categoria. Se houver mudança de ramo ao voltar para uma questão anterior, verificar também esse comportamento.
+
+---
+
+## 33. Como analisar e melhorar uma pesquisa adaptativa
+
+### Dados ausentes por desenho
+
+Quem nunca usa IA não responde à pergunta de ferramentas; quem seleciona vendas/operação não vê perguntas de criação. A ausência de dado nesses casos significa **não elegível / não exibido**, nunca automaticamente “Não” ou “Não sei”.
+
+Denominadores precisam ser explícitos:
+
+- estágio de uso: todos os respondentes elegíveis;
+- finalidade: pessoas que alcançaram a trilha de usuários;
+- ferramenta e atividade: somente pessoas da finalidade correspondente;
+- obstáculo: pessoas da trilha de usuários que chegaram à pergunta;
+- interesse de contato: somente pessoas que visualizaram o bloco;
+- respostas abertas: contabilizar preenchimento e conteúdo útil separadamente.
+
+Quando um formulário é alterado durante a coleta, registrar **versão do questionário, data da mudança, alterações de texto/opções e compatibilidade analítica**. Não combinar silenciosamente respostas de taxonomias diferentes.
+
+### Leitura de dados antigos e piloto
+
+As 16 respostas da pesquisa geral ajudaram a identificar **lacunas de cobertura**. Não validaram representatividade, preferência do público como um todo, duração do formulário novo nem desempenho de todas as rotas. Na nova pesquisa, pilotar com pessoas de níveis e profissões diferentes e observar:
+
+- pessoas que não encontram nenhuma alternativa adequada;
+- motivos de “Outra” quando houver essa opção;
+- esforço para diferenciar categorias;
+- abandono, duração real e respostas mínimas;
+- erros de navegação ou seção;
+- coerência do denominador em cada indicador;
+- recorrência de casos concretos relevantes.
+
+### Privacidade e propósito
+
+O campo de contato deve permanecer facultativo e coerente com a finalidade comunicada. Interesse genérico em acompanhar iniciativas não autoriza qualquer uso futuro dos dados pessoais. Antes de utilizar contatos, observar o aviso de privacidade, base legal e regras aplicáveis de comunicação/descadastro. No **ACIRV Notebook público**, promover **métodos e agregados**, não respostas individuais ou contatos identificáveis.
+
+### Roteiro reutilizável
+
+**Decisão a informar → fontes e pesquisas anteriores → construtos únicos → taxonomia de até quatro opções honestas → grafo de ramificações e convergência → implementação → verificação estática + funcional → piloto e análise por base elegível → ajuste/versionamento → decisão.**
+
+O critério final não é “a pesquisa tem muitas ramificações”, mas: **cada pessoa recebe poucas perguntas pertinentes e a ACIRV consegue transformar as respostas em uma decisão defensável**.
+
+---
+
 ## Relações justificadas
 
 - [[Diagnostico-e-Governanca-de-Adocao-de-IA]] — exemplo de instrumento diagnóstico que exige cuidado para não confundir perguntas com evidência de maturidade real.
@@ -912,6 +1095,10 @@ O padrão desejado para a ACIRV é:
 - [[Matriz-de-Metricas-por-Objetivo]] — conecta medição a objetivos e decisões, princípio também aplicado à construção de pesquisas.
 
 ## Histórico
+
+### 2026-10-08 — v1.1
+
+Acrescentado estudo de caso da pesquisa adaptativa de IA: taxonomia por finalidade, diferença entre ferramenta e atividade, limite total de quatro opções, risco de alternativas sem saída adequada, branching com convergência, percurso para usuários sem barreiras, validação técnica e funcional, denominadores condicionais, proteção de dados e versionamento. As 16 respostas da pesquisa anterior foram usadas apenas como insumo exploratório para revisão do instrumento.
 
 ### 2026-10-07 — v1.0
 
