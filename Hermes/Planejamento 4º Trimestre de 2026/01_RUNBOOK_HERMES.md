@@ -120,16 +120,19 @@ Armadilhas conhecidas:
 - não usar o composer para substituir descrição;
 - mutação direta por API encontrou bloqueio CSRF em sessão anterior; preferir UI autenticada enquanto persistir.
 
-## Datas
+## Datas — gate de capacidade a partir de 09/10/2026
 
-Vencimento nativo desejado = `DATA DE ENTREGA PARA SAMARA` do briefing.
+A data `DATA DE ENTREGA PARA SAMARA` do briefing registra o **encaminhamento da demanda**, não comprova o prazo acordado para a **conclusão da arte**. O procedimento antigo equiparava esse valor ao vencimento nativo, o que gerou risco de prazos inadequados.
 
-O campo personalizado `Data de publicação` é diferente do vencimento nativo.
+**Não gravar novos vencimentos nativos a partir do campo de handoff até haver validação explícita da carga real com Samara**. Distinguir:
+1. envio do briefing;
+2. vencimento acordado para a arte;
+3. revisão/aprovação;
+4. publicação.
 
-Se não for possível gravar o due com segurança:
-- não alterar outro campo por engano;
-- registrar a pendência;
-- seguir para a sincronização da descrição.
+O campo personalizado `Data de publicação` é diferente do vencimento nativo. Não alterar ou limpar vencimentos existentes cegamente: reconciliar histórico e andamento antes, inclusive demandas de outros clientes como CasaFértil. A sincronização de descrições canônicas pode continuar independentemente da alteração de prazos, quando o card correto estiver confirmado.
+
+A ordem, colisões e datas candidatas estão documentadas em `03-integracoes/REPROGRAMACAO_PRIORIDADES_SAMARA_2026-10-09.md`. Aquelas datas **não são compromissos** e não devem ser aplicadas no Trello sem conferir capacidade da designer e demais clientes. Se não for possível gravar o prazo correto com segurança, registrar a pendência; não usar campo alternativo por aproximação.
 
 ## Duplicidade conhecida
 
