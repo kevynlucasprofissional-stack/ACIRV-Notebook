@@ -6,10 +6,10 @@ tipo: canal
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-10-09'
 grau_confianca: medio_alto
 camadas_evidencia:
 - fato_documentado
@@ -43,6 +43,8 @@ Público, problema, promessa, fonte, número de cards, CTA e data.
 ## Revisão
 
 Conferir coerência entre capa e conteúdo, repetição, densidade, dados, ortografia, marcas e legibilidade móvel.
+
+Aplicar [[Manual-Operacional-de-Tom-de-Voz|V6]] e [[Guia-de-Humanizacao-Editorial-ACIRV]]: capa informativa, conteúdo por card, dados verificados e ritmo natural. A legenda não deve repetir integralmente a arte; cerca de 450 caracteres é alvo flexível para publicação autoexplicativa, não teto. CTA, fonte e acessibilidade podem justificar repetição.
 
 ## Entrega
 

@@ -6,10 +6,10 @@ tipo: processo
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.1'
+versao_conteudo: '1.2'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-06-18'
+ultima_revisao: '2026-10-09'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -48,6 +48,8 @@ Título informativo; linha fina; lead; contexto; atuação da ACIRV; fala autori
 ## Revisão
 
 Checagem factual pela área responsável, revisão de tom/clareza, aprovação institucional e registro da versão enviada. A lista de imprensa deve respeitar privacidade e opt-out.
+
+Aplicar [[Manual-Operacional-de-Tom-de-Voz|V6]] e [[Guia-de-Humanizacao-Editorial-ACIRV]] ao texto, preservando lead jornalístico, atribuição, serviço, citação autorizada, data de referência e ressalvas metodológicas. Não aplicar limite de 450 caracteres a releases. Humanização não substitui apuração.
 
 ## Métrica
 

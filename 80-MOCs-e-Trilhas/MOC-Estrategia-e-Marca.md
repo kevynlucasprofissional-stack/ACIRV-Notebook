@@ -6,10 +6,10 @@ tipo: moc
 status: auditado
 profundidade: avancada
 versao_schema: '1.0'
-versao_conteudo: '1.3'
+versao_conteudo: '1.4'
 idioma: pt-BR
 data_criacao: '2026-06-17'
-ultima_revisao: '2026-09-23'
+ultima_revisao: '2026-10-09'
 grau_confianca: alto
 camadas_evidencia:
 - fato_documentado
@@ -45,6 +45,12 @@ subtipo: moc
 - [[Design-System-ACIRV]] — **fonte canônica única** para identidade visual, ACIRV-MOOD, tokens, tipografia, backgrounds, fotografia, componentes, acessibilidade, repertório e critérios de aprovação.
 - `Hermes/Planejamento 4º Trimestre de 2026/04-moodboard/MOODBOARD.md` — projeção operacional `ACIRV-MOOD-v1`, mantida para automação e semanticamente subordinada ao documento canônico.
 - `000-Arquivos-originais/DESIGN SYSTEM.md` — fonte primária imutável e registro histórico; não é editada pela camada de curadoria.
+
+### Voz canônica V6
+
+- [[Manual-Operacional-de-Tom-de-Voz]] é a **fonte canônica única de tom de voz (V6)**.
+- [[Guia-de-Humanizacao-Editorial-ACIRV]] detalha os 25 sinais do Humanizer PT-BR, como complemento subordinado.
+- [[Fonte - Manual de Tom de Voz]] documenta V4.5/V5, licenciamento e decisão de versão em 09/10/2026.
 
 ## Governança
 
