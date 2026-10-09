@@ -98,11 +98,11 @@ Para cada card do lote piloto:
 
 A descrição já contém publicação e entrega.
 
-Vencimento nativo planejado = data de entrega para Samara.
+**Gate operacional (09/10/2026):** `DATA DE ENTREGA PARA SAMARA` no briefing é o marco de **encaminhamento** da demanda; não constitui por si só um compromisso de **conclusão da arte**. Suspender o preenchimento/alteração automática do vencimento nativo a partir desse campo até o prazo efetivo ser negociado com Samara, considerando toda a carga ACIRV + CasaFértil e outros clientes.
 
-O campo personalizado `Data de publicação` não é o vencimento nativo.
+Manter separados: data de envio do briefing, vencimento acordado da arte, revisão/aprovação e data de publicação. O campo personalizado `Data de publicação` não é o vencimento nativo. Preservar vencimentos existentes até reconciliação individual; não apagar nem substituir em lote às cegas.
 
-Se o vencimento não puder ser atualizado com segurança, registrar a pendência; não usar outro campo por aproximação.
+A triagem, fila de prioridades e datas **apenas candidatas** estão em `03-integracoes/REPROGRAMACAO_PRIORIDADES_SAMARA_2026-10-09.md`. Não aplicar essas datas como `due` sem confirmação de capacidade, estado ao vivo e aprovação operacional. Se o vencimento não puder ser ajustado com segurança, registrar a pendência e continuar somente a sincronização editorial liberada.
 
 ## Duplicidade conhecida
 
